@@ -29,6 +29,12 @@ def fetch_feed(source_name, url, timeout=10):
         return entries, "ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)"
     if r.status_code == 403 and "just a moment" in r.text.lower():
         return entries, "BOT-CHALLENGED (site's own Cloudflare/bot-check, not a sandbox issue — needs a different fetch strategy)"
+    if r.status_code == 429:
+        return entries, "RATE-LIMITED (HTTP 429 — outlet is throttling; back off or reduce run frequency for this source)"
+    if r.status_code == 202 and not r.content.strip():
+        return entries, "SOFT-THROTTLED (HTTP 202, empty body — looks like a bot-holding-pattern response, not real content)"
+    if r.status_code == 403:
+        return entries, "BOT-BLOCKED (site's own 403, not the sandbox — confirmed real in production logs too, not an artifact of this environment)"
     if r.status_code == 404:
         return entries, f"FAILED (404 — feed URL is wrong/moved)"
     if r.status_code != 200:
