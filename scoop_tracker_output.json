@@ -63,6 +63,22 @@
     "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
   },
   {
+    "link": "https://www.sueddeutsche.de/wirtschaft/volkswagen-wolfsburg-beschaeftigte-stellenabbau-kampf-blume-aufsichtsrat-li.3513083",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Volkswagen: \u201eOliver Blume hat jetzt ein Problem\u201c",
+    "byline_count": 5,
+    "author_names": [
+      "Thomas Fromm",
+      "Alexander Hagel\u00fcken",
+      "Christina Kunkel",
+      "Stephan Radomsky",
+      "Paulina W\u00fcrminghausen"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
     "link": "https://www.cbsnews.com/news/trump-arch-construction-20-hours-a-day-2-3-years/",
     "source": "CBS News",
     "title": "Trump arch construction could take 20 hours a day for 2-3 years, documents say",
@@ -924,6 +940,48 @@
       "exclusivity"
     ],
     "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
+  },
+  {
+    "link": "https://www.cbc.ca/news/investigates/stubhub-marketplace-mass-scalper-sec-filings-9.7265230?cmp=rss",
+    "source": "CBC News",
+    "title": "StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
+    "byline_count": 3,
+    "author_names": [
+      "Dave Seglins",
+      "Kathleen Coughlin",
+      "Ariel Tozman"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theinformation.com/briefings/minimax-ceo-vows-forgo-salary-achieving-agi",
+    "source": "The Information",
+    "title": "MiniMax CEO Vows to Forgo Salary Until Achieving AGI",
+    "byline_count": 1,
+    "author_names": [
+      "Juro Osawa"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/boeing-737-plane-disappeared-pakistan-2026-7",
+    "source": "Business Insider",
+    "title": "Rescue teams are still looking for the 5 people on the cargo plane that crashed near Pakistan",
+    "byline_count": 3,
+    "author_names": [
+      "Aditi Bharade",
+      "Pete Syme",
+      "Taylor Rains"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
   },
   {
     "link": "https://www.latimes.com/california/story/2026-07-09/frustration-fury-at-boyle-heights-town-hall-lineage-warehouse-fire",
@@ -1799,6 +1857,107 @@
       "exclusivity"
     ],
     "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
+  },
+  {
+    "link": "https://www.sueddeutsche.de/panorama/vergewaltiger-telegram-chat-prozess-chinesen-berlin-li.3508844",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Prozess in Berlin: Ein anderer vergewaltigt \u2013 und \u201eJim\u201c applaudiert",
+    "byline_count": 2,
+    "author_names": [
+      "Benedikt Warmbrunn",
+      "Lea Sahay"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.sueddeutsche.de/gesundheit/krankmeldung-arbeit-gesundheit-massnahmen-experten-li.3512004",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Arbeitswelt: Wie senkt man den Krankenstand?",
+    "byline_count": 2,
+    "author_names": [
+      "Christina Berndt",
+      "Valentina Reese"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.statnews.com/2026/07/10/primary-care-data-pcps-health-care-crisis-investment/?utm_campaign=rss",
+    "source": "STAT",
+    "title": "Opinion: The primary care crisis paradox",
+    "byline_count": 2,
+    "author_names": [
+      "Christopher P. Childers",
+      "Thomas C. Tsai"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/07/09/meet-sk-hynix-the-trillion-dollar-chipmaker-debuting-on-us-markets-.html",
+    "source": "CNBC",
+    "title": "Meet SK Hynix, the trillion-dollar South Korean chipmaker debuting on U.S. markets",
+    "byline_count": 2,
+    "author_names": [
+      "Kif Leswing",
+      "Katie Tarasov"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cvg4y289ppjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "'People don't realise how at risk they are': A day with an ambulance service in a heatwave",
+    "byline_count": 2,
+    "author_names": [
+      "Chloe Hayward",
+      "Hugh Pym"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Ann Widdecombe: Brexit-backing, animal-loving Strictly star",
+    "byline_count": 2,
+    "author_names": [
+      "Jennifer McKiernan",
+      "Kate Whannel"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.semafor.com/article/07/10/2026/top-democrats-slam-trump-over-crypto-ahead-of-vote",
+    "source": "Semafor",
+    "title": "Top Democrats slam Trump over crypto ahead of vote",
+    "byline_count": 2,
+    "author_names": [
+      "Nicholas Wu",
+      "Eleanor Mueller"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.axios.com/2026/07/10/maga-charlie-kirk-court-hearing",
+    "source": "Axios",
+    "title": "MAGA figures flock to Charlie Kirk murder hearing",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
   },
   {
     "link": "https://www.sueddeutsche.de/gesundheit/krankmeldung-arbeit-massnahmen-experten-li.3512004",
@@ -3517,6 +3676,116 @@
     "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
   },
   {
+    "link": "https://www.scmp.com/business/banking-finance/article/3360137/why-payward-building-its-asian-stablecoin-gateway-hong-kong?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Why Payward chose Hong Kong to be its Asian stablecoin gateway",
+    "byline_count": 1,
+    "author_names": [
+      "Zoe SL Chan"
+    ],
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://documentedny.com/2026/07/10/child-support-nyc-application/",
+    "source": "Documented",
+    "title": "How to Apply for Child Support in NYC",
+    "byline_count": 1,
+    "author_names": [
+      "Anastasia Tomkin"
+    ],
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://documentedny.com/2026/07/10/immigration-detention-inspections/",
+    "source": "Documented",
+    "title": "Immigration News Today: Immigration Detention Facilities Go Without Inspection",
+    "byline_count": 1,
+    "author_names": [
+      "Clarissa Le\u00f3n"
+    ],
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/white-house-trump-accounts-125-million-invested-five-days-2026-7",
+    "source": "Business Insider",
+    "title": "The White House said Americans have invested $125 million in Trump Accounts in the first 5 days",
+    "byline_count": 1,
+    "author_names": [
+      "Aditi Bharade"
+    ],
+    "total_score": 1,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/delta-air-lines-new-basic-business-class-2026-7",
+    "source": "Business Insider",
+    "title": "Delta is introducing 'basic' business class. Here's how it works \u2014 and how it could mean you can finally afford a seat.",
+    "byline_count": 1,
+    "author_names": [
+      "Taylor Rains"
+    ],
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.propublica.org/article/vitamin-k-cdc-rfk-jr-lawmakers-letter",
+    "source": "ProPublica",
+    "title": "Lawmakers Call for CDC to Track Vitamin K Shot Refusals, Cite ProPublica Report",
+    "byline_count": 1,
+    "author_names": [
+      "Duaa Eldeib"
+    ],
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
+    "source": "The Guardian US",
+    "title": "\u2018AI accountability agenda\u2019: US senator unveils package of bills to curb tech\u2019s harms",
+    "byline_count": 1,
+    "author_names": [
+      "Sanya Mansoor"
+    ],
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.axios.com/2026/07/10/ai-class-divide-fable-sol-mythos",
+    "source": "Axios",
+    "title": "Haves, have-nots and know-nots: Inside AI's new class divide",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
     "link": "https://www.seattletimes.com/nation-world/ap-exclusive-inside-israels-push-to-clear-sea-munitions-part-of-global-push-to-protect-waters/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_all",
     "source": "Seattle Times",
     "title": "AP Exclusive: Inside Israel\u2019s push to clear sea munitions, part of global push to protect waters",
@@ -4949,6 +5218,2246 @@
       "exclusivity"
     ],
     "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
+  },
+  {
+    "link": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-klopp-red-bull-dfb-bundestrainer-li.3492650",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Fu\u00dfball-WM 2026: DFB-Spitze ist auf dem Weg nach New York, um mit Klopp zu sprechen",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-10/nrl-live-wests-tigers-warriors-jarome-luai/106903582",
+    "source": "ABC Australia",
+    "title": "Live: 'They look scared': Under-fire Tigers make shocking start against Warriors",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.latimes.com/entertainment-arts/music/story/2026-07-10/every-rolling-stones-album-ranked",
+    "source": "Los Angeles Times",
+    "title": "Every Rolling Stones album ranked, from worst to best",
+    "byline_count": 1,
+    "author_names": [
+      "Marc Ballon"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.sueddeutsche.de/medien/joachim-gauck-markus-lanz-demokratie-afd-krise-li.3512691",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Fernsehen: Eine allerletzte Runde im Krisen-Beschreiben",
+    "byline_count": 1,
+    "author_names": [
+      "S\u00fcddeutsche Zeitung"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.sueddeutsche.de/sport/klopp-red-bull-botschafter-dfb-nationaltrainer-kommentar-li.3513549",
+    "source": "Sueddeutsche Zeitung",
+    "title": "J\u00fcrgen Klopp: Bundestrainer werden und Red-Bull-Botschafter bleiben? Eine ganz schlechte Idee",
+    "byline_count": 1,
+    "author_names": [
+      "Claudio Catuogno"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-10/afl-rd-18-live-magpies-kangaroos/106892258",
+    "source": "ABC Australia",
+    "title": "Live: Magpies star put on ice with ankle injury in crucial Kangaroos clash",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
+    "source": "Los Angeles Times",
+    "title": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
+    "byline_count": 1,
+    "author_names": [
+      "Lila Seidman"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.sueddeutsche.de/sport/wm-2026-frankreich-marokko-deschamps-mbappe-offensive-li.3512939",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Einzug ins WM-Halbfinale: Diese Franzosen r\u00e4umen Gegner im Vorbeigehen aus dem Weg",
+    "byline_count": 1,
+    "author_names": [
+      "Boris Herrmann"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.latimes.com/food/story/2026-07-08/five-fancy-hot-dogs-for-when-you-want-gourmet-glizzy",
+    "source": "Los Angeles Times",
+    "title": "Five fancy hot dogs for when you want a gourmet glizzy",
+    "byline_count": 1,
+    "author_names": [
+      "Stephanie Breijo"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.latimes.com/california/story/2026-07-10/nail-salon-owner-charged-scheme-bilked-vietnamese-immigrants",
+    "source": "Los Angeles Times",
+    "title": "Nail salon owner charged with scheme that bilked fellow Vietnamese immigrants",
+    "byline_count": 1,
+    "author_names": [
+      "Matthew Ormseth"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-union-bundestag-gesundheitsreform-li.3495864",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Bundespolitik: Bundestag stimmt f\u00fcr Gesundheitsreform",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-selenskij-patriot-usa-waffenlieferung-li.3512468",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Krieg in der Ukraine: Selenskij: USA liefern in den kommenden Tagen \u201ePatriot\u201c-Raketen",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.sueddeutsche.de/politik/gesetz-gkv-beitraege-auswirkungen-li.3513392",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Gesetzliche Krankenversicherung: Was das Sparpaket f\u00fcr Patienten, \u00c4rzte und Kliniken bedeutet",
+    "byline_count": 1,
+    "author_names": [
+      "Rainer Stadler"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.latimes.com/science/story/2026-07-10/trump-administration-seeks-to-limit-federal-funding-that-doesnt-advance-presidential-policies",
+    "source": "Los Angeles Times",
+    "title": "Trump administration seeks to limit federal funding that doesn't 'advance' presidential policies",
+    "byline_count": 1,
+    "author_names": [
+      "Corinne Purtill"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.latimes.com/opinion/story/2026-07-10/nolan-wells-death-investigation-civil-rights-attorney",
+    "source": "Los Angeles Times",
+    "title": "Granderson: When a young Black man dies mysteriously in the South, assume nothing",
+    "byline_count": 1,
+    "author_names": [
+      "LZ Granderson"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.latimes.com/travel/story/2026-07-10/fan-fashion-hilary-duff-tour-los-angeles",
+    "source": "Los Angeles Times",
+    "title": "Disney Channel maximalism to pop-star glam: What fans wore to Hilary Duff's L.A. show",
+    "byline_count": 1,
+    "author_names": [
+      "Kailyn Brown"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.sueddeutsche.de/sport/wm-2026-fussball-wm-maskottchen-zayu-maple-clutch-li.3512938",
+    "source": "Sueddeutsche Zeitung",
+    "title": "WM-Maskottchen: Gro\u00dftiere, die das \u00dcberformat dieses Turniers verk\u00f6rpern",
+    "byline_count": 1,
+    "author_names": [
+      "Holger Gertz"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-10/jana-armstrong-cctv-footage-released/106903092",
+    "source": "ABC Australia",
+    "title": "Family of missing Toowoomba woman fears the worst",
+    "byline_count": 1,
+    "author_names": [
+      "Cindy Wockner"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.latimes.com/lifestyle/story/2026-07-10/sunday-funday-deidre-hall-days-of-our-lives-things-to-do-los-angeles",
+    "source": "Los Angeles Times",
+    "title": "How to have the best Sunday in L.A., according to Deidre Hall",
+    "byline_count": 1,
+    "author_names": [
+      "Lisa Boone"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-10/adelaide-crows-defender-josh-worrell-pedestrian-crash/106903910",
+    "source": "ABC Australia",
+    "title": "Adelaide Crows player in collision involving pedestrian",
+    "byline_count": 1,
+    "author_names": [
+      "Katie Spain"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.latimes.com/entertainment-arts/movies/story/2026-07-10/evil-dead-burn-review-sebastien-vanicek-sam-raimi-souheila-yacoub-hunter-doohan-maude-davey",
+    "source": "Los Angeles Times",
+    "title": "Home is where the hell is, with slick but diminishing returns, in 'Evil Dead Burn'",
+    "byline_count": 1,
+    "author_names": [
+      "Joshua Rothkopf"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.latimes.com/lifestyle/story/2026-07-10/la-two-rare-corpse-flowers-to-bloom-at-huntington",
+    "source": "Los Angeles Times",
+    "title": "Twice the stink! Two rare corpse flowers at the Huntington are set to bloom",
+    "byline_count": 1,
+    "author_names": [
+      "Emily Tarinelli"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-10/sa-truck-crash-concrete-north-south-motorway/106903496",
+    "source": "ABC Australia",
+    "title": "Pedestrians 'lucky to be alive' after truck loses load on highway",
+    "byline_count": 1,
+    "author_names": [
+      "Katie Spain"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-10/china-first-retrieval-of-orbital-class-rocket/106903708",
+    "source": "ABC Australia",
+    "title": "China achieves first-ever controlled rocket recovery",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-10/three-weeks-of-evidence-ends-at-uow-icac-inquiry/106902862",
+    "source": "ABC Australia",
+    "title": "Corruption watchdog's university probe ends in tears",
+    "byline_count": 1,
+    "author_names": [
+      "Kelly Fuller"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.ft.com/content/7a6d7e59-a040-41cf-a8b5-2aafcaa1731b",
+    "source": "Financial Times",
+    "title": "Apollo trumps Castlelake with \u00a35.7bn deal to buy easyJet",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.ft.com/content/065e5550-1691-4698-8d62-b4735dfec6ca",
+    "source": "Financial Times",
+    "title": "At least 12 people die in Spanish wildfire as heatwave grips Europe",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.ft.com/content/d16e92f7-268a-4d46-9525-483318c9ba4b",
+    "source": "Financial Times",
+    "title": "EasyJet: orange upstart that changed flying prepares to go private",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.ft.com/content/e5afb1d5-d9e9-4b55-951f-6285e01ab716",
+    "source": "Financial Times",
+    "title": "EU warns Meta over Facebook and Instagram\u2019s addictive feeds",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbc.ca/news/climate/what-on-earth-floating-solar-9.7264020?cmp=rss",
+    "source": "CBC News",
+    "title": "Canadians design bubbly floating solar for icy lakes",
+    "byline_count": 1,
+    "author_names": [
+      "CBC"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/spain-wildfire-deaths-9.7265365?cmp=rss",
+    "source": "CBC News",
+    "title": "One of Spain's deadliest wildfires has killed at least 11",
+    "byline_count": 1,
+    "author_names": [
+      "CBC"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/london/british-man-guilty-in-death-of-owen-sound-ont-restaurateur-sharif-rahman-to-be-sentenced-today-9.7264526?cmp=rss",
+    "source": "CBC News",
+    "title": "British man guilty in death of Owen Sound, Ont., restaurateur Sharif Rahman to be sentenced today",
+    "byline_count": 1,
+    "author_names": [
+      "Travis Dolynny"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbc.ca/news/politics/senate-missed-votes-9.7264884?cmp=rss",
+    "source": "CBC News",
+    "title": "Dozens of senators routinely miss key votes in the Red Chamber",
+    "byline_count": 1,
+    "author_names": [
+      "John Paul Tasker"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/cra-tax-refund-mistakes-delays-9.7264970?cmp=rss",
+    "source": "CBC News",
+    "title": "After he returned mistaken $24K tax refund, his CRA account was locked, actual tax refunds delayed",
+    "byline_count": 1,
+    "author_names": [
+      "Philippe de Montigny"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbc.ca/sports/kawhi-leonard-los-angeles-clippers-investigation-stakes-9.7265225?cmp=rss",
+    "source": "CBC News",
+    "title": "What's at stake in the NBA's investigation of Kawhi Leonard's Clippers contract",
+    "byline_count": 1,
+    "author_names": [
+      "Kevin Maimann"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.marketwatch.com/story/as-ai-spending-concerns-grow-heres-the-bet-to-make-ahead-of-critical-stress-test-says-veteran-jefferies-strategist-4503ba4f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "As AI spending concerns grow, here\u2019s the bet to make ahead of critical stress test, says veteran Jefferies strategist",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbc.ca/radio/frontburner/mark-carneys-saudi-arabia-reboot-9.7264718?cmp=rss",
+    "source": "CBC News",
+    "title": "Mark Carney\u2019s Saudi Arabia reboot",
+    "byline_count": 1,
+    "author_names": [
+      "CBC"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/gun-related-intimate-partner-violence-statistics-canada-9.7264967?cmp=rss",
+    "source": "CBC News",
+    "title": "Rates of gun-related intimate partner violence rising: StatsCan",
+    "byline_count": 1,
+    "author_names": [
+      "Tara Carman"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/economy/china-economy/article/3360095/beijings-evolving-carbon-road-map-balances-climate-targets-and-energy-security?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Beijing\u2019s evolving carbon road map balances climate targets and energy security",
+    "byline_count": 1,
+    "author_names": [
+      "Frank Chen"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.newscientist.com/article/2531817-2026-eclipse-5-citizen-science-projects-you-can-contribute-to/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "source": "New Scientist",
+    "title": "2026 eclipse: 5 citizen science projects you can contribute to",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/opinion/world-opinion/article/3360025/how-ai-changing-nature-war-and-conflict?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "How AI is changing the nature of war and conflict",
+    "byline_count": 1,
+    "author_names": [
+      "David Dodwell"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/news/china/diplomacy/article/3360100/china-boosts-north-korea-partnership-rare-praise-during-high-profile-visit?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "China boosts North Korea partnership with rare praise during high-profile visit",
+    "byline_count": 1,
+    "author_names": [
+      "Fan Chen"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.newscientist.com/article/2532687-the-sneaky-maths-trick-for-solving-problems-without-answering-them/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "source": "New Scientist",
+    "title": "The sneaky maths trick for solving problems without answering them",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.newscientist.com/article/mg27136031-200-the-5-must-watch-science-shows-of-2026-so-far/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "source": "New Scientist",
+    "title": "The 5 must-watch science shows of 2026 so far",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/news/world/europe/article/3360109/11-dead-19-missing-spain-wildfire-roars-through-village?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "11 dead, 19 missing as Spain wildfire roars through village",
+    "byline_count": 1,
+    "author_names": [
+      "Agence France-Presse"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/week-asia/politics/article/3360097/us-opens-door-turkeys-return-f-35-stealth-jet-programme-israels-not-happy?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "US opens door for Turkey\u2019s return to F-35 stealth jet programme \u2013 but Israel\u2019s not happy",
+    "byline_count": 1,
+    "author_names": [
+      "Tom Hussain"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3360103/2-women-arrested-hong-kong-border-after-dog-endangered-birds-found-bags?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "2 women arrested at Hong Kong border after dog, endangered birds found in bags",
+    "byline_count": 1,
+    "author_names": [
+      "Kristen Cheung"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3360106/hong-kong-extend-injury-protection-gig-delivery-workers?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hong Kong to extend injury protection to gig delivery workers",
+    "byline_count": 1,
+    "author_names": [
+      "Ng Kang-chung"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/week-asia/politics/article/3360119/johor-election-where-winning-isnt-enough-malaysias-barisan-nasional?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Johor election: where winning isn\u2019t enough for Malaysia\u2019s Barisan Nasional",
+    "byline_count": 1,
+    "author_names": [
+      "Iman Muttaqin Yusof"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/news/china/science/article/3359883/10-scientists-and-experts-who-have-left-us-and-uk-china-so-far-2026?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "10 scientists and experts who have left the US and UK for China so far in 2026",
+    "byline_count": 1,
+    "author_names": [
+      "SCMP"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/news/world/europe/article/3360129/greek-anti-terror-police-arrest-three-after-car-blast-kills-1?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Greek anti-terror police arrest 3 after car blast kills 1",
+    "byline_count": 1,
+    "author_names": [
+      "Agence France-Presse"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/news/china/military/article/3360124/2-chinese-military-naval-pilots-killed-during-pla-frontline-training-exercises?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "2 Chinese military naval pilots killed during PLA frontline training exercises",
+    "byline_count": 1,
+    "author_names": [
+      "Albee Zhang"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3360134/hong-kong-political-parties-urge-access-fertility-services-single-women?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hong Kong political parties urge access to fertility services for single women",
+    "byline_count": 1,
+    "author_names": [
+      "Matthew Cheng"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/week-asia/politics/article/3360123/why-india-turning-retired-jets-sustain-its-depleted-air-force?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Why India is turning to retired jets to sustain its depleted air force",
+    "byline_count": 1,
+    "author_names": [
+      "Junaid Kathju"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/news/world/europe/article/3360141/man-nearly-sucked-out-detached-window-ryanair-flight?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Man nearly sucked out of \u2018detached\u2019 window on Ryanair flight",
+    "byline_count": 1,
+    "author_names": [
+      "Agence France-Presse"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.scmp.com/news/people-culture/trending-china/article/3360111/chinese-eatery-boss-praised-nationwide-forgiving-employee-behind-devastating-fire?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Chinese eatery boss praised nationwide for forgiving employee behind devastating fire",
+    "byline_count": 1,
+    "author_names": [
+      "Zoey Zhang"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/news/2026/7/10/wildfires-in-southern-spain-kill-at-least-12?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Wildfires in southern Spain kill at least 12",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/news/2026/7/10/bayeux-tapestry-smuggled-into-britain-for-first-visit-in-1000-years?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Bayeux Tapestry smuggled into Britain for first visit in 1,000 years",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/?utm_campaign=rss",
+    "source": "STAT",
+    "title": "New York boys club has a time-tested recipe to protect members\u2019 mental health",
+    "byline_count": 1,
+    "author_names": [
+      "Annalisa Merelli"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Degree but no job: The battle against unemployment in Gaza",
+    "byline_count": 1,
+    "author_names": [
+      "Eman Abu Zayed"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbsnews.com/news/venezuela-earthquakes-devastation-agony-hope-la-guaira/",
+    "source": "CBS News",
+    "title": "Devastation, agony and hope: What we saw in Venezuela after the earthquakes",
+    "byline_count": 1,
+    "author_names": [
+      "Camilo  Montoya-Galvez"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/7/10/unstoppable-force-mbappes-france-crush-moroccos-world-cup-dreams?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "\u2018Unstoppable force\u2019: Mbappe\u2019s France crush Morocco\u2019s World Cup dreams",
+    "byline_count": 1,
+    "author_names": [
+      "Hafsa Adil"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbsnews.com/news/illinois-assault-weapons-ban-upheld-federal-appeals-court/",
+    "source": "CBS News",
+    "title": "Illinois assault weapons ban upheld by federal appeals court",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://grist.org/energy/the-nations-biggest-public-utility-just-doubled-down-on-coal-gas-and-nuclear/",
+    "source": "Grist",
+    "title": "The nation\u2019s biggest public utility just doubled down on coal, gas, and nuclear",
+    "byline_count": 1,
+    "author_names": [
+      "Katie Myers"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "The US is building a new pressure architecture against Iran",
+    "byline_count": 1,
+    "author_names": [
+      "Farhad Pashavand"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbsnews.com/news/easyjet-takeover-offer-apollo-bidding-war-castlerock/",
+    "source": "CBS News",
+    "title": "EasyJet accepts takeover offer from Apollo, over Castlerock's bid",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/features/2026/7/10/bomb-attacks-rattle-damascus-but-for-most-syrians-life-goes-on?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Bomb attacks rattle Damascus but for most Syrians, life goes on",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/7/10/england-vs-norway-all-to-know-ahead-of-fifa-world-cup-quarterfinal?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "England vs Norway: All to know ahead of FIFA World Cup quarterfinal",
+    "byline_count": 1,
+    "author_names": [
+      "Alexander Hoad"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://grist.org/extreme-heat/workers-are-risking-dangerous-heat-to-keep-the-world-cup-running/",
+    "source": "Grist",
+    "title": "Workers are risking dangerous heat to keep the World Cup running",
+    "byline_count": 1,
+    "author_names": [
+      "Emily Jones"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/news/2026/7/10/trump-grants-kyiv-patriots-licences-whats-next-in-the-russia-ukraine-war?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Trump grants Kyiv Patriots licences: What\u2019s next in the Russia-Ukraine war?",
+    "byline_count": 1,
+    "author_names": [
+      "Mansur Mirovalev"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cbsnews.com/news/ex-epoch-times-cfo-pleads-guilty-in-67m-money-laundering-scheme/",
+    "source": "CBS News",
+    "title": "Ex-Epoch Times CFO pleads guilty in $67M money laundering scheme",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Administration without sovereignty will not free Palestine",
+    "byline_count": 1,
+    "author_names": [
+      "Ahmed Najar"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://insideclimatenews.org/news/10072026/nc-plastic-recycling-plant-shutters-after-mishandling-hazardous-waste/",
+    "source": "Inside Climate News",
+    "title": "A Chemical Plant Mishandled Hazardous Waste for Years, Then Quietly Shuttered",
+    "byline_count": 1,
+    "author_names": [
+      "Derek Harrison"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/video/2026/7/10/video-world-cup-2026-highlights?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Watch World Cup: France ends Morocco\u2019s run, cruises into semifinals",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://insideclimatenews.org/news/10072026/arizona-raises-uranium-mine-contaminant-limits/",
+    "source": "Inside Climate News",
+    "title": "Arizona Regulators Are Raising Contaminant Limits for a Uranium Mine With an Arsenic Problem",
+    "byline_count": 1,
+    "author_names": [
+      "Derek Harrison"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/bodies-found-in-cars-as-deadly-spain-wildfire-kills-at-least-12?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Bodies found in cars as deadly Spain wildfire kills at least 12",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
+    "source": "STAT",
+    "title": "STAT+: How a Boston doctor built a following as a \u2018loud and unafraid\u2019 voice in the Trump era",
+    "byline_count": 1,
+    "author_names": [
+      "Anna Kuchment \u2014 Boston Globe"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/opinions/2026/7/10/eu-states-do-not-need-consensus-to-hold-israel-accountable?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "EU states do not need \u2018consensus\u2019 to hold Israel accountable",
+    "byline_count": 1,
+    "author_names": [
+      "Tamam Abusalama"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://insideclimatenews.org/news/10072026/trump-florida-coal-plant-order-legal-challenge/",
+    "source": "Inside Climate News",
+    "title": "Grassroots Justice Group Challenges Trump Administration Order to Keep Florida Coal Plant Running",
+    "byline_count": 1,
+    "author_names": [
+      "Derek Harrison"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://fortune.com/2026/07/10/2026-us-vcs-deployed-record-shattering-412-7-billion-almost-none-trickling-down/",
+    "source": "Fortune",
+    "title": "In 2026 so far, U.S. VCs have deployed a record-shattering $412.7 billion. Almost none of it is trickling down.",
+    "byline_count": 1,
+    "author_names": [
+      "Allie Garfinkle"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://fortune.com/2026/07/03/75-billion-valuation-london-america-ipo-francesca-carlesi/",
+    "source": "Fortune",
+    "title": "A $75 billion valuation, 75 million global customers and on its way to America\u2014Revolut is London\u2019s disruptor extraordinaire",
+    "byline_count": 1,
+    "author_names": [
+      "Kamal Ahmed"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://fortune.com/2026/07/10/wall-street-president-trump-options-iran-strait-of-hormuz/",
+    "source": "Fortune",
+    "title": "Strait jacket: Wall Street is worried President Trump has no good options for ending the war with Iran",
+    "byline_count": 1,
+    "author_names": [
+      "Jim Edwards"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://abcnews.com/video/134636407/",
+    "source": "ABC News",
+    "title": "WATCH:  Woman perched on Brooklyn Bridge beam rescued by elite NYPD team",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.thecipherbrief.com/the-continued-myth-of-russias-imminent-collapse-lessons-from-prigozhins-mutiny-three-years-on",
+    "source": "The Cipher Brief",
+    "title": "The Continued Myth of Russia\u2019s Imminent Collapse: Lessons from Prigozhin\u2019s Mutiny Three Years On",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://abcnews.com/video/134635822/",
+    "source": "ABC News",
+    "title": "WATCH:  California man fights off charging bear near Lake Tahoe",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/uk-police-confront-morocco-fans-over-unrest-after-world-cup-loss?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "UK police confront Morocco fans over unrest after World Cup loss",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://fortune.com/2026/07/10/summer-reading-list-busines-books/",
+    "source": "Fortune",
+    "title": "40% of Americans didn\u2019t read a book last year. These 3 are worth the exception",
+    "byline_count": 1,
+    "author_names": [
+      "Diane Brady"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/news/2026/7/10/fall-in-funding-cuts-aid-to-1-million-women-un?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Fall in funding cuts aid to 1 million women: UN",
+    "byline_count": 1,
+    "author_names": [
+      "Shola Lawal"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/7/10/conor-mcgregor-vs-max-holloway-2-at-ufc-329-all-you-need-to-know?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Conor McGregor vs Max Holloway 2 at UFC 329: All you need to know",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://fortune.com/article/price-of-oil-07-10-2026/",
+    "source": "Fortune",
+    "title": "Current price of oil as of July 10, 2026",
+    "byline_count": 1,
+    "author_names": [
+      "Joseph Hostetler"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/opinions/2026/7/10/india-is-becoming-a-shaping-power?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "India is becoming a shaping power",
+    "byline_count": 1,
+    "author_names": [
+      "Amitabh Mattoo"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/opinions/2026/7/10/how-an-egypt-argentina-world-cup-game-became-a-referendum-on-palestine?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "How an Egypt-Argentina World Cup game became a referendum on Palestine",
+    "byline_count": 1,
+    "author_names": [
+      "Mohamad Elmasry"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://abcnews.com/video/134636301/",
+    "source": "ABC News",
+    "title": "WATCH:  Democrats search for Maine Senate candidate after Graham Platner suspends campaign",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://fortune.com/2026/07/10/us-treasury-borrowed-155-billion-every-month-fiscal-year-24-billion-a-week-interest-debt/",
+    "source": "Fortune",
+    "title": "U.S. Treasury has borrowed $155 billion every month of this fiscal year\u2014and is now paying $24 billion a week in interest on its debts",
+    "byline_count": 1,
+    "author_names": [
+      "Eleanor Pringle"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/how-hamas-governed-gaza?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "How Hamas Governed Gaza",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+    "source": "MIT Technology Review",
+    "title": "Sperm donors need limits, says a European fertility group",
+    "byline_count": 1,
+    "author_names": [
+      "Jessica Hamzelou"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/best-pool-accessories/",
+    "source": "Wired",
+    "title": "The Best Pool Accessories to Upgrade Your Summer (2026)",
+    "byline_count": 1,
+    "author_names": [
+      "Kat Merck"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Mexico boss' explicit heckle a bit of fun - Gordon",
+    "byline_count": 1,
+    "author_names": [
+      "Mandeep Sanghera"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/07/10/iea-world-oil-demand-declines-iran-war.html",
+    "source": "CNBC",
+    "title": "World oil demand set for first annual decline since 2020, IEA says",
+    "byline_count": 1,
+    "author_names": [
+      "Joseph Wilkins"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/07/10/volkswagen-vw-autos-job-cuts-germany.html",
+    "source": "CNBC",
+    "title": "Volkswagen to slash model lineup and shrink capacity \u2014 but no word on job cuts",
+    "byline_count": 1,
+    "author_names": [
+      "Sam Meredith"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theinformation.com/briefings/sk-hynix-raises-26-5-billion-record-nasdaq-debut",
+    "source": "The Information",
+    "title": "SK Hynix Raises $26.5 Billion in Record Nasdaq Debut",
+    "byline_count": 1,
+    "author_names": [
+      "Henry Siu"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/07/10/ukraine-russia-crimea-fuel-oil.html",
+    "source": "CNBC",
+    "title": "Ukraine escalates attacks on tankers near Crimea as Russian fuel shortages bite",
+    "byline_count": 1,
+    "author_names": [
+      "Sam Meredith"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cvg5yg4lng4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "England advised to avoid alcohol around matches after off-field incidents",
+    "byline_count": 1,
+    "author_names": [
+      "Stephan Shemilt"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
+    "source": "CNBC",
+    "title": "Meta found to breach EU laws with 'addictive' Instagram, Facebook designs",
+    "byline_count": 1,
+    "author_names": [
+      "Sawdah Bhaimiya"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/07/10/abivax-stock-takeover-us-launch-obefazimod-ulcerative-colitis.html",
+    "source": "CNBC",
+    "title": "Abivax $920 million cash haul lets it prepare for solo U.S. launch instead of relying on a buyer, CEO tells CNBC",
+    "byline_count": 1,
+    "author_names": [
+      "Elsa Ohlen"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
+    "source": "CNBC",
+    "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says",
+    "byline_count": 1,
+    "author_names": [
+      "Leslie Josephs"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cvgeyx1e4kno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Labour under Burnham will be faster and bolder, says minister",
+    "byline_count": 1,
+    "author_names": [
+      "Jennifer McKiernan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bbc.co.uk/sounds/play/p0nx5fgs?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Andy Burnham (Almost) Wins",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
+    "source": "NPR",
+    "title": "Shelling at night, gunfire by day in Israel's expanding zone of control in Gaza",
+    "byline_count": 1,
+    "author_names": [
+      "Anas Baba"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c621jgepljvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "How cows are helping one of Britain's rarest butterflies",
+    "byline_count": 1,
+    "author_names": [
+      "Tomos Morgan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/spain-s-cuerpo-sees-window-of-opportunity-for-joint-eu-debt",
+    "source": "Bloomberg",
+    "title": "Spain\u2019s Cuerpo Sees \u2018Window of Opportunity\u2019 for Joint EU Debt",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/india-pulls-diljit-dosanjh-s-film-satluj-sparking-political-row",
+    "source": "Bloomberg",
+    "title": "India Pulls Punjabi Superstar\u2019s Film, Sparking Political Row",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/features/2026-07-10/israel-palestine-conflict-shatters-unlikely-friendship-that-bridged-borders",
+    "source": "Bloomberg",
+    "title": "The Shattering of the Middle East\u2019s Most Inspiring Friendship",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/how-will-andy-burnham-deal-with-donald-trump-video",
+    "source": "Bloomberg",
+    "title": "How Will Andy Burnham Deal With Donald Trump?",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/uk-minister-defends-us-pharma-deal-following-calls-to-scrap-it",
+    "source": "Bloomberg",
+    "title": "UK Minister Defends US Pharma Deal Following Calls to Scrap It",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/bryan-johnson-kernel-brain-scanner-test-2026-7",
+    "source": "Business Insider",
+    "title": "I tried on Bryan Johnson's brain helmet \u2014 it's a futuristic Apple Watch for your noggin",
+    "byline_count": 1,
+    "author_names": [
+      "Hilary Brueck"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/german-lawmakers-approve-health-bill-raising-drugmaker-rebates",
+    "source": "Bloomberg",
+    "title": "German Lawmakers Approve Health Bill Raising Drugmaker Rebates",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/job-postings-ai-demand-hiring-opportunities-2026-7",
+    "source": "Business Insider",
+    "title": "One chart shows why even non-tech job seekers should get comfortable with AI",
+    "byline_count": 1,
+    "author_names": [
+      "Madison Hoff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/turkey-seeks-russian-ok-for-s-400-exit-to-unlock-f-35-purchase",
+    "source": "Bloomberg",
+    "title": "Turkey Seeks to Offload Russian Weapon to Secure F-35 Access",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/debt-fragmentation-is-costing-eu-dearly-cuerpo-says-video",
+    "source": "Bloomberg",
+    "title": "Debt Fragmentation Is Costing EU 'Dearly,' Spain's Cuerpo Says",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/indonesia-police-military-tensions-in-focus-after-jakarta-raids",
+    "source": "Bloomberg",
+    "title": "Indonesia Police-Military Tensions in Focus After Jakarta Raids",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/peru-s-fujimori-looks-to-both-china-and-trump-s-us",
+    "source": "Bloomberg",
+    "title": "Peru Tests the Limits of Trump\u2019s Anti-China Stance",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/indonesian-president-prabowo-hosts-ex-thai-leader-thaksin-to-discuss-danantara",
+    "source": "Bloomberg",
+    "title": "Indonesia\u2019s Prabowo Hosts Ex-Thai PM Thaksin for Danantara Talks",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/venus-williams-fitness-app-vibe-coded-feature-locks-tiktok-weward-2026-7",
+    "source": "Business Insider",
+    "title": "This fitness startup vibecoded an app to make you walk before you can scroll",
+    "byline_count": 1,
+    "author_names": [
+      "Katherine Li"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.npr.org/2026/07/10/g-s1-132915/congress-agriculture-h2a-visa-program",
+    "source": "NPR",
+    "title": "One U.S. visa program is growing rapidly. No one is happy with it.",
+    "byline_count": 1,
+    "author_names": [
+      "Ximena Bustillo"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/international-student-google-software-engineer-ai-tech-coding-job-market-2026-7",
+    "source": "Business Insider",
+    "title": "I moved to the US from Pakistan for college. Here's how I landed a job at Google \u2014 and why AI doesn't worry me.",
+    "byline_count": 1,
+    "author_names": [
+      "Jacob Zinkula"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/sun-valley-fashion-sunglasses-shades-alex-karp-karlie-kloss-2026-7",
+    "source": "Business Insider",
+    "title": "The sunglasses of Sun Valley: See the shades CEOs wore to the 'summer camp for billionaires'",
+    "byline_count": 1,
+    "author_names": [
+      "Lakshmi Varanasi"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/nvidia-internship-rahul-gudise-gale-ai-2026-7",
+    "source": "Business Insider",
+    "title": "I landed an Nvidia data center internship after sending out 200 applications. I learned Big Tech wasn't for me.",
+    "byline_count": 1,
+    "author_names": [
+      "Geoff Weiss"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+    "source": "Wired",
+    "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+    "byline_count": 1,
+    "author_names": [
+      "Miles Klee"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/kalshi-love-island-usa-betting-ads-tiktok-2026-7",
+    "source": "Business Insider",
+    "title": "Kalshi is running a lot of 'Love Island' ads on TikTok",
+    "byline_count": 1,
+    "author_names": [
+      "Katie Notopoulos"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election",
+    "source": "NPR",
+    "title": "Count Binface: The intergalactic warrior who could upend Britain's strangest election",
+    "byline_count": 1,
+    "author_names": [
+      "Fatima Al-Kassab"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
+    "source": "NPR",
+    "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
+    "byline_count": 1,
+    "author_names": [
+      "Sequoia Carrillo"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c2dyw9lp02wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Prince Harry plays pickleball at Invictus Games event, but no Meghan",
+    "byline_count": 1,
+    "author_names": [
+      "Sean Coughlan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/crayola-slate-truck-ev-color-wraps-2026-7",
+    "source": "Business Insider",
+    "title": "Slate's EV truck is built to be customized. Crayola is helping fill in between the lines.",
+    "byline_count": 1,
+    "author_names": [
+      "Ben Shimkus"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5876512/trump-communist-messaging-economy-democrats",
+    "source": "NPR",
+    "title": "Trump leans on 'communist' messaging as economic angst drives Democrats",
+    "byline_count": 1,
+    "author_names": [
+      "Franco Ordo\u00f1ez"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.wired.com/story/sunshine-and-saharan-dust-make-miamis-world-cup-quarter-final-a-dangerous-game-for-england-norway/",
+    "source": "Wired",
+    "title": "Sunshine and Saharan Dust Make Miami\u2019s World Cup Quarter-Final a Dangerous Game for England Norway",
+    "byline_count": 1,
+    "author_names": [
+      "Isabella Ward"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/open-ai-new-device-screen-addiction-jony-ive-2026-7",
+    "source": "Business Insider",
+    "title": "OpenAI wants to free us from our screens. Who's going to tell them?",
+    "byline_count": 1,
+    "author_names": [
+      "Peter Kafka"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5886113/waymo-police-privacy-driverless-autonomous-vehicles",
+    "source": "NPR",
+    "title": "Waymo called the cops on teen riders, raising privacy concerns",
+    "byline_count": 1,
+    "author_names": [
+      "Scott Neuman"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5888160/one-of-spains-deadliest-wildfires-has-killed-at-least-11-people",
+    "source": "NPR",
+    "title": "One of Spain's deadliest wildfires has killed at least 11 people",
+    "byline_count": 1,
+    "author_names": [
+      "The Associated Press"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.npr.org/2026/07/10/nx-s1-5883698/morning-news-brief",
+    "source": "NPR",
+    "title": "Morning news brief",
+    "byline_count": 1,
+    "author_names": [
+      "Steve Inskeep"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/man-39-common-colon-cancer-symptom-blood-poop-toilet-2026-7",
+    "source": "Business Insider",
+    "title": "A 39-year-old man saw blood in his poop. He had colon cancer.",
+    "byline_count": 1,
+    "author_names": [
+      "Kim Schewitz"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/leadership-qualities-chipotle-coo-promotions-team-dinner-2026-7",
+    "source": "Business Insider",
+    "title": "Chipotle's COO uses team dinners to spot potential leaders. These are the 4 qualities he looks for.",
+    "byline_count": 1,
+    "author_names": [
+      "Ana Altchek"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/single-mother-success-jamilah-lemieux-book-excerpt-2026-7",
+    "source": "Business Insider",
+    "title": "I knew being a single mother was going to be a challenge. The kindness of others, including my boss, made it manageable.",
+    "byline_count": 1,
+    "author_names": [
+      "Jamilah Lemieux"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.businessinsider.com/retire-by-30-side-hustle-income-fire-financial-indepedence-2026-7",
+    "source": "Business Insider",
+    "title": "A financially independent millennial breaks down 4 ways to bring in cash, and shares the easiest type of hustle to start with",
+    "byline_count": 1,
+    "author_names": [
+      "Kathleen Elkins"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://thehill.com/homenews/senate/5961901-democrats-senate-control-threatened/",
+    "source": "The Hill",
+    "title": "Democrats fear chances of winning Senate may be slipping away",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jul/10/from-hobbitmaxxing-to-catholicmaxxing-how-well-do-you-know-your-maxxes",
+    "source": "The Guardian US",
+    "title": "From hobbitmaxxing to Catholicmaxxing: how well do you know your maxxes?",
+    "byline_count": 1,
+    "author_names": [
+      "Tim Dowling"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs",
+    "source": "The Guardian US",
+    "title": "Exit strategies: how and why 25% of World Cup coaches have left their jobs",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/lifeandstyle/picture/2026/jul/10/most-fearsome-monster-christopher-nolan-odyssey-elon-musk-stephen-collins-cartoon",
+    "source": "The Guardian US",
+    "title": "The most fearsome monster in Christopher Nolan\u2019s Odyssey? Elon Musk: the Stephen Collins cartoon",
+    "byline_count": 1,
+    "author_names": [
+      "Stephen Collins"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/jul/08/texas-ice-shooting-victim-son",
+    "source": "The Guardian US",
+    "title": "\u2018He did not deserve to die\u2019: family of man fatally shot by ICE agent speaks out",
+    "byline_count": 1,
+    "author_names": [
+      "Jos\u00e9 Olivares"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/music/2026/jul/10/baby-rose-yearnalism-review-gloriously-cinematic-soul-from-the-edge-of-emotional-collapse",
+    "source": "The Guardian US",
+    "title": "Baby Rose: Yearnalism review \u2013 gloriously cinematic soul from the edge of emotional collapse",
+    "byline_count": 1,
+    "author_names": [
+      "Michael Cragg"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/10/bronx-documentary-center-latin-american-foto-festival-gallery",
+    "source": "The Guardian US",
+    "title": "Indigenous rebels, migrant bravery and joyful dance: New York\u2019s Latin American Foto Festival \u2013 in pictures",
+    "byline_count": 1,
+    "author_names": [
+      "Briana Ellis-Gibbs"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/fashion/2026/jul/10/fendi-rome-maria-grazia-chiuri-haute-couture-art",
+    "source": "The Guardian US",
+    "title": "Homecoming parade channels art and power of Rome for Fendi",
+    "byline_count": 1,
+    "author_names": [
+      "Jess Cartner-Morley"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/sport/live/2026/jul/10/tour-de-france-2026-stage-seven-updates-hagetmau-to-bordeaux-cycling-live",
+    "source": "The Guardian US",
+    "title": "Tour de France 2026: stage seven updates on road to Bordeaux after Pogacar demolition \u2013 live",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/fashion/2026/jul/10/harry-styles-concert-fans-wearing-ties",
+    "source": "The Guardian US",
+    "title": "\u2018It says you are a Harry Styles fan\u2019: how ties became a secret language for concert-goers",
+    "byline_count": 1,
+    "author_names": [
+      "Chloe Mac Donnell"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/film/2026/jul/10/kit-connor-joe-locke-interview-heartstoppers-forever-queer-teen-drama-netflix",
+    "source": "The Guardian US",
+    "title": "\u2018It would be weird not to show the sex\u2019: Kit Connor and Joe Locke on Heartstopper\u2019s queer teen curtain call",
+    "byline_count": 1,
+    "author_names": [
+      "Michael Cragg"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/football/2026/jul/10/world-cup-major-league-baseball-fans-michael-harris-braves",
+    "source": "The Guardian US",
+    "title": "\u2018What\u2019s more American than baseball?\u2019: World Cup brings fans, chants and verve to the national pastime",
+    "byline_count": 1,
+    "author_names": [
+      "Ella Brockway"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/commentisfree/2026/jul/10/graham-platner-drops-out-defense",
+    "source": "The Guardian US",
+    "title": "Why was the pundit class so quick to defend Graham Platner?",
+    "byline_count": 1,
+    "author_names": [
+      "Moira Donegan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/football/2026/jul/10/london-to-lisbon-and-back-every-game-england-rack-up-the-world-cup-miles",
+    "source": "The Guardian US",
+    "title": "London to Lisbon and back every game: England rack up the World Cup miles",
+    "byline_count": 1,
+    "author_names": [
+      "Andrew Beasley"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.vox.com/life/494675/why-neighbor-feuds-escalate",
+    "source": "Vox",
+    "title": "Why neighbor feuds bring out the absolute worst in us",
+    "byline_count": 1,
+    "author_names": [
+      "Julia Sullivan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
+    "source": "The Guardian US",
+    "title": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/music/2026/jul/10/wild-gods-the-glorious-abysmal-review-truly-fascinating-songs-born-of-tweed-beating-and-psychedelic-trips",
+    "source": "The Guardian US",
+    "title": "Wild Gods: The Glorious Abysmal review \u2013 truly fascinating songs born of tweed-beating and psychedelic trips",
+    "byline_count": 1,
+    "author_names": [
+      "Jude Rogers"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/games/video/2026/jul/10/pokemon-go-fans-times-square-celebrate-10-years-game-video",
+    "source": "The Guardian US",
+    "title": "Pok\u00e9mon Go fans gather in Times Square to celebrate 10 years of game \u2013 video",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/commentisfree/2026/jul/10/troy-jackson-maine-senate-candidate-populist",
+    "source": "The Guardian US",
+    "title": "Graham Platner is out. Troy Jackson should replace him | Dustin Guastella",
+    "byline_count": 1,
+    "author_names": [
+      "Dustin Guastella"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/books/2026/jul/10/jenni-fagan-maya-angelou-taught-me-that-i-owed-myself-hope",
+    "source": "The Guardian US",
+    "title": "Jenni Fagan: \u2018Maya Angelou taught me that I owed myself hope\u2019",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.vox.com/politics/494881/ice-immigration-religious-liberty-nun-letty-catholic-episcopal-church-muslim-maga-freedom",
+    "source": "Vox",
+    "title": "ICE arrested a nun on her way to church. Does MAGA care?",
+    "byline_count": 1,
+    "author_names": [
+      "Christian Paz"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/environment/2026/jul/10/little-fat-froggy-fight-survival-desert-rain-frog-iucn-red-list",
+    "source": "The Guardian US",
+    "title": "Shovels for feet and blotting paper skin: the \u2018little fat froggy\u2019 facing a fight for survival",
+    "byline_count": 1,
+    "author_names": [
+      "Rebecca Ratcliffe"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/jul/10/graham-platner-maine-suspension-video",
+    "source": "The Guardian US",
+    "title": "It\u2019s not me, it\u2019s them: Platner goes down snarling with graceless exit video",
+    "byline_count": 1,
+    "author_names": [
+      "David Smith"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/sport/2026/jul/10/tennis-tactics-arthur-fery-alexander-zverev-wimbledon-semi-final",
+    "source": "The Guardian US",
+    "title": "Tall order: the tactics Arthur Fery must employ to shock 6ft 6in Zverev",
+    "byline_count": 1,
+    "author_names": [
+      "Simon Cambers"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+    "source": "The Guardian US",
+    "title": "EU accuses Meta of failing to tackle mental health risks of \u2018addictive design\u2019",
+    "byline_count": 1,
+    "author_names": [
+      "Jennifer Rankin"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.theguardian.com/lifeandstyle/2026/jul/10/my-holiday-from-hell-my-teenage-daughter-was-drunk-and-we-had-a-12-hour-car-journey-to-get-through",
+    "source": "The Guardian US",
+    "title": "My holiday from hell: my teenage daughter was drunk \u2013 and we had a 12-hour car journey to get through",
+    "byline_count": 1,
+    "author_names": [
+      "Joanna Moorhead"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.semafor.com/article/07/09/2026/debatable-ais-impact-on-the-economy",
+    "source": "Semafor",
+    "title": "Debatable: AI\u2019s impact on the economy",
+    "byline_count": 1,
+    "author_names": [
+      "Morgan Chalfant"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.semafor.com/article/07/10/2026/why-edward-jones-thinks-ai-can-defuse-a-demographic-time-bomb",
+    "source": "Semafor",
+    "title": "Why Edward Jones thinks AI can defuse a demographic time bomb",
+    "byline_count": 1,
+    "author_names": [
+      "Andrew Edgecliffe-Johnson"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/magazine/world-cup-diary-norway-nationalism.html",
+    "source": "NYT",
+    "title": "How the World Cup Made Me Norwegian",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/movies/the-invite-clip-olivia-wilde.html",
+    "source": "NYT",
+    "title": "How Olivia Wilde Builds Comic Tension in \u2018The Invite\u2019",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/podcasts/the-headlines/trump-midterms-grocery-store-prices.html",
+    "source": "NYT",
+    "title": "How Trump Is Trying to Tip the Scales for the Midterms, and Why Grocery Stores Are Scrambling",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/arts/design/bayeux-tapestry-british-museum.html",
+    "source": "NYT",
+    "title": "Bayeux Tapestry Arrives in U.K. After Maximum-Security Operation",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/us/politics/women-maine-graham-platner-campaign.html",
+    "source": "NYT",
+    "title": "Why Some Women in Maine Are Mourning the End of Graham Platner\u2019s Campaign",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/opinion/ezra-klein-podcast-bill-mckibben.html",
+    "source": "NYT",
+    "title": "The Very Good and Very Bad News on Climate",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/06/25/movies/the-invite-movie-review-seth-rogen-olivia-wilde.html",
+    "source": "NYT",
+    "title": "\u2018The Invite\u2019 Review: Who\u2019s Afraid of a Last-Minute Dinner Party?",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/09/climate/epa-pollution-trucks.html",
+    "source": "NYT Politics",
+    "title": "E.P.A. Moves to Loosen Limits on Pollution From Trucks",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/09/us/politics/donald-trump-palm-beach-airport.html",
+    "source": "NYT Politics",
+    "title": "Palm Beach Airport in Florida Is Renamed for Trump",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
+    "source": "NYT",
+    "title": "Moscow Still Has Art and Culture. Just Don\u2019t Say \u2018Ukraine.\u2019",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+    "source": "NYT",
+    "title": "Iran\u2019s Supreme Leader Remains Absent, a Void at the Top of the Regime",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/opinion/penn-station-new-york-trump.html",
+    "source": "NYT",
+    "title": "Jerrold Nadler: Penn Station Won\u2019t Fund Itself",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/us/politics/senate-majority-pac-democrat-fundraising.html",
+    "source": "NYT Politics",
+    "title": "Top Senate Democratic PAC Stockpiles Record Sum, as Money Chase Heats Up",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.axios.com/2026/07/10/ai-big-tech-transparency-electricity-water-use",
+    "source": "Axios",
+    "title": "AI boom puts Big Tech's transparency to the test",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html",
+    "source": "NYT",
+    "title": "Fighting Fires With Figures, These Experts Are Trying to Stop Europe from Burning",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/magazine/american-socialism-democratic-party.html",
+    "source": "NYT",
+    "title": "How American Socialism Changed, and Stormed the Democratic Party",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html",
+    "source": "NYT",
+    "title": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/realestate/disaster-mansion-renovation-kingston-ny.html",
+    "source": "NYT",
+    "title": "Nine Years Later, They\u2019re Still Restoring a House Bought at Auction",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/us/politics/trump-fires-election-assistance-commission-members.html",
+    "source": "NYT",
+    "title": "Trump Administration Fires Members of Independent Election Group",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.politico.com/news/2026/07/10/black-leaders-democratic-party-redistricting-00991564",
+    "source": "Politico",
+    "title": "\u2018We're fighting this by ourselves\u2019: Southern Black leaders feel abandoned by Democratic Party",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/10/nyregion/delaney-hall-ice-conditions-unsanitary.html",
+    "source": "NYT",
+    "title": "Contaminated Food, Unwashed Hands: Inside an ICE Detention Facility",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.semafor.com/article/07/10/2026/gay-wyoming-republican-sues-members-of-his-own-party-for-pedophile-slur",
+    "source": "Semafor",
+    "title": "Gay Wyoming Republican sues members of his own party for \u2018pedophile\u2019 slur",
+    "byline_count": 1,
+    "author_names": [
+      "David Weigel"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
+  },
+  {
+    "link": "https://www.semafor.com/article/07/10/2026/us-lacks-scores-of-ambassadors-in-africa",
+    "source": "Semafor",
+    "title": "US lacks scores of ambassadors in Africa",
+    "byline_count": 1,
+    "author_names": [
+      "Adrian Elimian"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-10T10:46:09.285524+00:00"
   },
   {
     "link": "https://www.sueddeutsche.de/medien/joachim-gauck-markus-lanz-demokratie-afd-li.3512691",
@@ -20762,2348 +23271,6 @@
     "title": "I've changed my mind, we might actually be able to win this thing - Shearer",
     "byline_count": 1,
     "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "France into semi-finals after comfortable win over Morocco",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c2ey1p0jnmxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "How can I get air conditioning in my home and how much does it cost?",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/articles/cjdgvrnn5n3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "England defender Jarell Quansah banned for two games after Mexico red card",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/c8j2dwr07p0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "'The whole match was the tie-break' - how Muchova-Gauff semi-final unfolded",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cz75zp9752do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Ghanaian influencer extradited to US over $8m scam targeting elderly Americans",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cn4d5qge1k4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Bar rules out jobs for young people if parents apply for them",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/cricket/videos/cdx78w5lwveo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "England thrash India as Brook shines in Bristol to secure series win",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c0my34g9edpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Justin Baldoni describes painful saga as he breaks silence on Blake Lively dispute",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz9?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "After 250 years, do US citizens still believe in the American Dream?",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Ominous France show potential to be Les Bleus' greatest",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sounds/play/p0nx5f8d?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Newscast",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "BBC News app",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cly75144qmpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Girl, 14, found stabbed in woodland was 'beautiful, kind and caring'",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/c74yk1qp4dko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Karolina Muchova beats Coco Gauff in epic tie-break to reach Wimbledon final",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/clypqj2z1zpo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "'Heartbroken' Catherine Zeta-Jones leads tributes to singer Bonnie Tyler",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cvgdyjeqz8lo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Graham Linehan receives settlement from Met over online post arrest",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Love Island star Cach Mercer joins Strictly line-up",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/ckgl51jjp3jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "What to do if you think someone has heat exhaustion or heatstroke",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cg5pd9z2487o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Bonnie Tyler, the gravel-voiced star who eclipsed everyone's heart",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cly76jlxljlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Here's how to get the most out of your electric fan",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c3dy7rr3kpmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Pontypridd, Birkenhead and Isle of Bute among shortlist for first UK Town of Culture",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Why heatwaves hit women harder",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "It was 'love at first sight' with their adopted baby - then they were told he may have been trafficked",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "To Wimbledon and back - Fery's voyage to Centre Court spotlight",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Guehi a doubt for Norway game with hamstring injury",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "How an app in South Korea will let victims track their stalkers",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cevlw4wnlmxo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Most popular baby names for boys and girls in 2025 revealed",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Norway's Haaland says pressure is all on England",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c5yzd5lykv6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Meghan will not appear at public events during Harry UK trip",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cj9gxwynrlwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Has your area gone football-mad? We've mapped World Cup viewing",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "UK bakes in 35C highs as heatwave to continue next week",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cj3gdj300lyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Restore Britain leader describes Dunblane school shooting as 'one murder'",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Burnham set to be next PM as 322 Labour MPs back him in first nomination tally",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "US and Iran trade attacks as Khamenei is buried",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/clyr4l1p6d4o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "No contact from UK about on-the-run murder suspect, say Zimbabwe police",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5959963-republicans-launch-ad-blitz-maine/",
-    "source": "The Hill",
-    "title": "Republicans prepare $8 million ad campaign against possible Platner replacement",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5960042-patrick-dempsey-not-running-senate/",
-    "source": "The Hill",
-    "title": "Actor Patrick Dempsey pours cold water on possible Senate bid in Maine",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5960051-maine-brewery-owner-senate-bid/",
-    "source": "The Hill",
-    "title": "Maine brewery owner throws hat in ring to replace Platner",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/defense/5960143-top-pentagon-lawyer-exits-early/",
-    "source": "The Hill",
-    "title": "Top lawyer for military joint chiefs stepping down early, citing \u2018personal reasons\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/house/5960024-ice-shooting-texas-lawmakers/",
-    "source": "The Hill",
-    "title": "Lawmakers demand answers after fatal ICE shooting in Texas",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5960169-trump-iran-threat-air-force-one/",
-    "source": "The Hill",
-    "title": "Trump stops to transfer from old to new Air Force One in the UK on the last leg of NATO trip",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5960025-iran-trump-us-attacks-strait-hormuz-mou/",
-    "source": "The Hill",
-    "title": "The Memo: Trump\u2019s tough talk on Iran raises big question \u2014 will the US return to war?",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/senate/5960059-trump-iran-peace-deal-congress/",
-    "source": "The Hill",
-    "title": "Renewed war with Iran threatens to derail congressional agenda",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/business/5960408-millions-eye-drops-recall-contamination/",
-    "source": "The Hill",
-    "title": "Millions of eye drops recalled nationwide due to potential foreign substance",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5960229-trump-questions-platner-allegations/",
-    "source": "The Hill",
-    "title": "Trump on Platner rape allegations: \u2018A lot of people say big falsehoods\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/international/5957461-in-60-years-of-independence-botswana-has-refuted-the-authoritarian-development-myth/",
-    "source": "The Hill",
-    "title": "In 60 years of independence, Botswana has refuted the authoritarian development myth",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/national-security/5958342-putin-losing-ukraine-nukes/",
-    "source": "The Hill",
-    "title": "Losing in Ukraine, is Putin finally down to his nukes?",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/international/5941282-both-sides-signed-the-iran-deal-but-neither-could-deliver/",
-    "source": "The Hill",
-    "title": "Both sides signed the Iran deal, but neither could deliver",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/senate/5960078-credit-prior-learning-act-klobuchar-sheehy/",
-    "source": "The Hill",
-    "title": "Bipartisan Senate duo wants to help students get federal aid for learning outside college",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5960418-donald-trump-supreme-court-birthright-citizenship/",
-    "source": "The Hill",
-    "title": "Trump says he\u2019ll ask Supreme Court to rehear birthright citizenship case",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/international/5957677-pentagon-drops-indo-pacific/",
-    "source": "The Hill",
-    "title": "America is quietly abandoning its Indo-Pacific strategy",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/defense/5960413-us-iran-strikes-intensify-donald-trump-ceasefire-over/",
-    "source": "The Hill",
-    "title": "US, Iran strikes intensify after Trump labels interim deal \u2018over\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/judiciary/supreme-court/5959379-supreme-court-cellphone-privacy/",
-    "source": "The Hill",
-    "title": "Think your cellphone data is protected without a search warrant? Think again.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5960500-john-fetterman-graham-platner-campaign-suspension-maine/",
-    "source": "The Hill",
-    "title": "Fetterman on Platner campaign suspension: \u2018The trash took itself out\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/space/5960158-michael-gold-nasa-ufos-stigma/",
-    "source": "The Hill",
-    "title": "UFO files: NASA helped prolong UAP stigma, ex-official says",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/defense/5960514-iran-us-war-negotiations-esper-midterms/",
-    "source": "The Hill",
-    "title": "Esper: Iranians want to \u2018get what they can\u2019 before midterms",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/national-security/5957574-erdogan-authoritarianism-threat-nato/",
-    "source": "The Hill",
-    "title": "Erdogan\u2019s Turkey must not get the F-35",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/regulation/court-battles/5960628-reflecting-pool-david-hearn-vandalism-charge/",
-    "source": "The Hill",
-    "title": "David Hearn pleads not guilty to Reflecting Pool vandalism charge",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5959432-president-returns-from-turkey/",
-    "source": "The Hill",
-    "title": "Live updates: Trump flies on old Air Force One over security concerns; Maine Democrats seek Platner successor",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5960448-troy-jackson-maine-senate-race-platner-withdrawal/",
-    "source": "The Hill",
-    "title": "Former Maine state senator announces campaign after Platner suspension",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5960525-donald-trump-air-force-one-iran-strike-threat/",
-    "source": "The Hill",
-    "title": "Trump tells reporter she\u2019ll be killed if Iran strikes Air Force One: \u2018If I go, you go\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/international/5959775-greenland-us-control-case/",
-    "source": "The Hill",
-    "title": "Trump is right about Greenland \u2014 too bad his sales pitch is so wrong",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/international/5959268-trump-meloni-diplomatic-blunder/",
-    "source": "The Hill",
-    "title": "Trump is making a big mistake by alienating Giorgia Meloni",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/congress-blog/5959568-house-gop-leadership-struggles/",
-    "source": "The Hill",
-    "title": "House is jarred by a procedural implosion",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/state-watch/5960486-memphis-crime-task-force/",
-    "source": "The Hill",
-    "title": "Second person in 4 days fatally shot by federal task force member in Memphis",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5960710-air-force-one-trump-maggie-haberman/",
-    "source": "The Hill",
-    "title": "Trump Air Force One switch excuse \u2018a little hard to believe\u2019: Haberman",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/sports-gaming/5960640-house-republican-study-committee-wnba-caitlin-clark-probe/",
-    "source": "The Hill",
-    "title": "Republican Study Committee members send letter to WNBA about Caitlin Clark",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5960776-maine-democrats-senate-race/",
-    "source": "The Hill",
-    "title": "Maine hopefuls jump into Senate race after Platner exit",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/sports-gaming/5960752-scotland-tartan-army-world-cup-donations-massachusetts-child/",
-    "source": "The Hill",
-    "title": "Scotland\u2019s Tartan Army soccer fans donate $15K to fund children\u2019s education in Massachusetts",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/finance/5959359-trump-tariffs-economic-impact/",
-    "source": "The Hill",
-    "title": "Trump\u2019s latest tariff proposal has a new rationale, but the same outcome",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/technology/5960627-elon-musk-sec-settlement-twitter/",
-    "source": "The Hill",
-    "title": "Judge approves SEC settlement with Musk despite \u2018significant misgivings\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/senate/5960713-assisted-suicide-monitoring-rules-hospices/",
-    "source": "The Hill",
-    "title": "Lawmakers tell HHS to crack down on discrimination in medically assisted suicide",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/state-watch/5960760-oreilly-mamdani-communist/",
-    "source": "The Hill",
-    "title": "O\u2019Reilly: \u2018I believe that Mamdani is a communist\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/state-watch/5960765-map-where-cases-of-explosive-diarrhea-causing-parasitic-illness-have-been-reported/",
-    "source": "The Hill",
-    "title": "Map: Where cases of \u2018explosive\u2019 diarrhea-causing parasitic illness have been reported",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/5960841-watch-live-scott-bessent-tennessee-bridge-ceremony-donald-trump/",
-    "source": "The Hill",
-    "title": "Watch: Bessent unveils new bridge named after Trump in Tennessee",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/senate/5960704-fetterman-calls-out-sanders-platner/",
-    "source": "The Hill",
-    "title": "Fetterman knocks Sanders for \u2018pushing these communists\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5961073-joe-rogan-trump-iran-war/",
-    "source": "The Hill",
-    "title": "Rogan: Trump \u2018might\u2019ve f\u2011\u2011\u2011ed it up\u2019 with Iran war",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5960767-maine-state-rep-valli-geiger-graham-platner-senate-race/",
-    "source": "The Hill",
-    "title": "Maine state lawmaker says Platner encouraged her to replace him on ballot",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/state-watch/5960633-michigan-cyclospora-outbreak-992-cases/",
-    "source": "The Hill",
-    "title": "Nearly 1,000 diagnosed in Michigan outbreak of diarrhea-causing parasite",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/international/5959813-us-iraq-relationship-reset/",
-    "source": "The Hill",
-    "title": "A new era of partnership with Iraq",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5960956-graham-platner-neera-tanden-maine-senate/",
-    "source": "The Hill",
-    "title": "Platner \u2018betrayed\u2019 the people of Maine: Former Biden aide",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/energy-environment/5961282-epa-truck-pollution-regs/",
-    "source": "The Hill",
-    "title": "EPA proposes to loosen requirements for truck pollution controls",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/sports-gaming/5961153-christian-pulisic-world-cup-usa-belgium-fractured-leg/",
-    "source": "The Hill",
-    "title": "US star Christian Pulisic fractured leg in World Cup loss to Belgium",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5961144-trump-air-force-one-security/",
-    "source": "The Hill",
-    "title": "White House says Trump\u2019s Air Force One switch was a \u2018misdirection\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5960991-axelrod-blasts-platner-campaign/",
-    "source": "The Hill",
-    "title": "Axelrod: Platner followed Trump\u2019s \u2018tawdry playbook\u2019 with exit video",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5960979-texas-senate-talarico-campaign/",
-    "source": "The Hill",
-    "title": "Talarico raises record $30M in second quarter",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/international/5960867-scott-jennings-iran-trump/",
-    "source": "The Hill",
-    "title": "Jennings \u2018not surprised\u2019 Iran deal \u2018ending this way\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/white-house/5959962-federal-grants-political-control/",
-    "source": "The Hill",
-    "title": "Cancel culture for cancer research: Proposed rule politicizes federal grantmaking",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/5959540-ai-sec-regulation-opportunities/",
-    "source": "The Hill",
-    "title": "The SEC can and should use AI to create a fairer market",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/house/5960829-thomas-massie-republicans-obamacare/",
-    "source": "The Hill",
-    "title": "Massie: Might as well call ObamaCare \u2018Trumpcare\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/international/5961010-kudlow-iran-deal-mou/",
-    "source": "The Hill",
-    "title": "Kudlow: US entered Iran MOU too quickly",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/national-security/5961237-mayor-mamdani-abolish-ice/",
-    "source": "The Hill",
-    "title": "Mamdani pushes call to abolish ICE after deadly Houston shooting",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/blogs/in-the-know/5961166-ms-rachel-hijabs-beautiful/",
-    "source": "The Hill",
-    "title": "Ms. Rachel says \u2018hijabs are beautiful\u2019 after Trump posts video of Minnesota kindergarten graduation",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/business/5961058-capitalism-support-decline-survey/",
-    "source": "The Hill",
-    "title": "Support for capitalism falls in new survey",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/healthcare/5960209-prison-food-safety-crisis/",
-    "source": "The Hill",
-    "title": "Taking MAHA behind the wall: Healthy food is the right recipe for prison safety",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/robbys-radar/5961371-platner-maine-senate-suspends/",
-    "source": "The Hill",
-    "title": "Graham Platner drops out; left still victim-blaming",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/technology/5961267-ai-election-threats-2026-midterms/",
-    "source": "The Hill",
-    "title": "Bipartisan lawmakers press agencies on AI election threats",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5961185-ken-griffin-2028-presidential-election-potential-race-marco-rubio-jd-vance/",
-    "source": "The Hill",
-    "title": "Ken Griffin backing Rubio over Vance: Report",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/healthcare/5961357-47m-planned-parenthood-midterms/",
-    "source": "The Hill",
-    "title": "Planned Parenthood targets vulnerable Republicans with $47 million midterm push",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/state-watch/5961321-donald-j-trump-international-airport-florida/",
-    "source": "The Hill",
-    "title": "Palm Beach International becomes Donald J. Trump International Airport: What to know",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/lindseys-lens/5961393-mcconnell-absence-raises-questions/",
-    "source": "The Hill",
-    "title": "Mitch McConnell owes public transparency amid prolonged hospital stay",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/opinion/energy-environment/5960321-boulder-county-climate-lawsuit-review/",
-    "source": "The Hill",
-    "title": "A Supreme Court climate case meets a changing scientific consensus",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5961421-immigration-support-decline-poll/",
-    "source": "The Hill",
-    "title": "Support for immigration slips but still relatively high: Gallup",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/international/5961305-jebbush-warns-iranian-drones-cuba/",
-    "source": "The Hill",
-    "title": "Jeb Bush raises alarm over Iranian drones in Cuba",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/international/5961246-ukraine-strikes-russian-oil-facilities/",
-    "source": "The Hill",
-    "title": "Ukraine targets Russian oil facilities after Zelensky meets with Trump",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/house/5961675-fourth-july-flyover-suspensions/",
-    "source": "The Hill",
-    "title": "SC Republican calls on National Guard to end suspensions of 8 beach-buzzing Apache pilots",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-    "source": "TechCrunch",
-    "title": "Meta\u2019s new AI chips will begin production in September",
-    "byline_count": 1,
-    "author_names": [
-      "Ram Iyer"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-    "source": "TechCrunch",
-    "title": "Google will now disclose which ads are made with AI",
-    "byline_count": 1,
-    "author_names": [
-      "Sarah Perez"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5961987-trump-arch-proposal-approved/",
-    "source": "The Hill",
-    "title": "Trump\u2019s proposed arch gets preliminary site approval",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/energy-environment/5961792-nrc-nepa-nuclear-power/",
-    "source": "The Hill",
-    "title": "Federal government proposes to lessen nuclear reactor environmental reviews",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/regulation/court-battles/5961826-tyler-robinson-court-evidence/",
-    "source": "The Hill",
-    "title": "Note from Charlie Kirk\u2019s accused killer revealed during hearing",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/regulation/court-battles/5961205-brian-cole-pipe-bomb-trial-capitol-attack/",
-    "source": "The Hill",
-    "title": "Trial date set for DC pipe bomb suspect",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/space/5961729-wally-funk-nasa/",
-    "source": "The Hill",
-    "title": "Wally Funk, the oldest woman to travel to space, dies",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-    "source": "TechCrunch",
-    "title": "Nvidia is a victim of the compute marketplace it created",
-    "byline_count": 1,
-    "author_names": [
-      "Russell Brandom"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/senate/5961618-fetterman-mccormick-joint-fundraising-committee/",
-    "source": "The Hill",
-    "title": "Fetterman, McCormick launch rare bipartisan joint fundraising committee",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5961456-bellows-campaign-maine-senate/",
-    "source": "The Hill",
-    "title": "Maine secretary of state announces bid to replace Platner in Senate race",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5961517-white-house-north-portico-repairs/",
-    "source": "The Hill",
-    "title": "Repairs underway at White House North Portico",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/5961422-platner-senate-bid-collapse/",
-    "source": "The Hill",
-    "title": "How Platner\u2019s insurgent Maine Senate bid fell apart",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5961464-platner-maine-senate-withdraw-monday/",
-    "source": "The Hill",
-    "title": "Platner set to formally withdraw from Maine Senate race Monday",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5961658-newsom-urges-democrats-to-turn-the-page-on-platner-in-maine-senate-race/",
-    "source": "The Hill",
-    "title": "Newsom urges Democrats to \u2018turn the page\u2019 on Platner in Maine Senate race",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5961588-potential-platner-replacements-neck-in-neck-with-susan-collins-in-new-maine-senate-poll/",
-    "source": "The Hill",
-    "title": "Potential Platner replacements neck and neck with Collins in new Maine Senate poll",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5961433-hunter-biden-substack-essays-laptop/",
-    "source": "The Hill",
-    "title": "Hunter Biden launches Substack with post on \u2018the laptop\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/state-watch/5961547-poll-jewish-americans-parties/",
-    "source": "The Hill",
-    "title": "Most American Jews say Democrats, Republicans, Trump don\u2019t represent them well: Survey",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/technology/5961769-newspapers-sue-openai-evidence/",
-    "source": "The Hill",
-    "title": "News outlets ask court to sanction OpenAI in copyright case",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-    "source": "TechCrunch",
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "byline_count": 1,
-    "author_names": [
-      "Julie Bort"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/house/5961917-house-republican-introduces-birthright-citizenship-clarification-act-to-codify-trump-executive-order/",
-    "source": "The Hill",
-    "title": "House Republican introduces Birthright Citizenship Clarification Act to codify Trump executive order",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-    "source": "TechCrunch",
-    "title": "Mercor is in talks for a $20B valuation",
-    "byline_count": 1,
-    "author_names": [
-      "Dominic-Madori Davis"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/international/5961787-lorenzo-salgado-araujo-ice-shooting-houston-mexico/",
-    "source": "The Hill",
-    "title": "Mexico wants criminal investigation after man killed by ICE in Houston",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5961824-mitt-romney-political-leaders-age/",
-    "source": "The Hill",
-    "title": "Romney on running in 2028: 80-year-olds \u2018shouldn\u2019t be running the world\u2019",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/policy/healthcare/5961753-rfk-covid-19-vaccine-injury-list/",
-    "source": "The Hill",
-    "title": "RFK Jr. plans COVID-19 vaccine injury list",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://thehill.com/homenews/5961813-talarico-paxton-texas-senate-race/",
-    "source": "The Hill",
-    "title": "Cruz: Talarico has \u2018real chance\u2019 to beat Paxton in Senate race",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-    "source": "TechCrunch",
-    "title": "Instagram users: Here\u2019s how to stop Meta\u2019s AI from using your photos",
-    "byline_count": 1,
-    "author_names": [
-      "Lauren Forristal"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-    "source": "TechCrunch",
-    "title": "How did the government decide OpenAI\u2019s frontier model was safe to release?",
-    "byline_count": 1,
-    "author_names": [
-      "Tim Fernholz"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-    "source": "TechCrunch",
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "byline_count": 1,
-    "author_names": [
-      "Lucas Ropek"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-    "source": "TechCrunch",
-    "title": "Can AI answer the $3 trillion question?",
-    "byline_count": 1,
-    "author_names": [
-      "Tim Fernholz"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-    "source": "TechCrunch",
-    "title": "An AI agent startup just let its agent run its $100M fundraise",
-    "byline_count": 1,
-    "author_names": [
-      "Connie Loizos"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-    "source": "TechCrunch",
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "byline_count": 1,
-    "author_names": [
-      "Lucas Ropek"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/",
-    "source": "TechCrunch",
-    "title": "Slate Auto teams up with Crayola to color its EV truck",
-    "byline_count": 1,
-    "author_names": [
-      "Kirsten Korosec"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
-    "source": "TechCrunch",
-    "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
-    "byline_count": 1,
-    "author_names": [
-      "Amanda Silberling"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-    "source": "TechCrunch",
-    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-    "byline_count": 1,
-    "author_names": [
-      "Rebecca Bellan"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-    "source": "TechCrunch",
-    "title": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
-    "byline_count": 1,
-    "author_names": [
-      "Connie Loizos"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-    "source": "TechCrunch",
-    "title": "Elon Musk praises Mythos/Fable, promises not to \u2018cut off\u2019 Anthropic",
-    "byline_count": 1,
-    "author_names": [
-      "Julie Bort"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
-    "source": "TechCrunch",
-    "title": "Charles Hudson shares the common mistakes he\u2019s seen after investing in 500+ startups",
-    "byline_count": 1,
-    "author_names": [
-      "Maggie Nye"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "source": "TechCrunch",
-    "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
-    "byline_count": 1,
-    "author_names": [
-      "Lucas Ropek"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/09/dont-want-to-invest-in-elon-musk-two-new-etfs-explicitly-exclude-him/",
-    "source": "TechCrunch",
-    "title": "Don\u2019t want to invest in Elon Musk? Two new ETFs explicitly exclude him",
-    "byline_count": 1,
-    "author_names": [
-      "Kirsten Korosec"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/china-faces-major-emissions-dilemma-in-steel-sector",
-    "source": "Semafor",
-    "title": "China faces major emissions dilemma in steel sector",
-    "byline_count": 1,
-    "author_names": [
-      "Prashant Rao"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/ai-spending-is-increasingly-shaping-global-economy",
-    "source": "Semafor",
-    "title": "AI investment increasingly shapes global economy",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Chivers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/china-deepens-overseas-ties-via-rail",
-    "source": "Semafor",
-    "title": "China deepens overseas ties via rail",
-    "byline_count": 1,
-    "author_names": [
-      "J.D. Capelouto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/european-tech-leaders-more-worried-about-us-than-china",
-    "source": "Semafor",
-    "title": "European tech leaders more worried about US than China",
-    "byline_count": 1,
-    "author_names": [
-      "J.D. Capelouto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/few-ukrainians-approve-of-us-leadership-poll-finds",
-    "source": "Semafor",
-    "title": "Few Ukrainians approve of US leadership, poll finds",
-    "byline_count": 1,
-    "author_names": [
-      "Morgan Chalfant"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/abu-dhabi-buys-into-argentina-lng",
-    "source": "Semafor",
-    "title": "Abu Dhabi buys into Argentina LNG",
-    "byline_count": 1,
-    "author_names": [
-      "Dominic Dudley"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/us-investors-lead-30m-funding-for-gulf-ai-startup-1001",
-    "source": "Semafor",
-    "title": "US investors lead $30M funding for Gulf AI startup 1001",
-    "byline_count": 1,
-    "author_names": [
-      "Matthew Martin"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/taiwan-raids-offices-of-us-it-firm-super-micro-over-smuggling-allegations",
-    "source": "Semafor",
-    "title": "Taiwan raids offices of US IT firm Super Micro",
-    "byline_count": 1,
-    "author_names": [
-      "Jeronimo Gonzalez"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/trumps-board-of-peace-charts-path-forward",
-    "source": "Semafor",
-    "title": "Trump\u2019s Board of Peace charts path forward",
-    "byline_count": 1,
-    "author_names": [
-      "Shelby Talcott"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/renewables-had-a-record-year",
-    "source": "Semafor",
-    "title": "Renewables had a record year",
-    "byline_count": 1,
-    "author_names": [
-      "Andy Browne"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/susquehanna-seeks-70m-for-insider-trading",
-    "source": "Semafor",
-    "title": "Susquehanna seeks $70M for insider trading",
-    "byline_count": 1,
-    "author_names": [
-      "Liz Hoffman"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/record-breaking-heatwave-set-to-hit-the-us",
-    "source": "Semafor",
-    "title": "Record-breaking heatwave set to hit the US",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Chivers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/chinas-limited-defense-capacity",
-    "source": "Semafor",
-    "title": "China's doesn't have capability to conquer Taiwan, former US Navy admiral says",
-    "byline_count": 1,
-    "author_names": [
-      "Andy Browne"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/as-hormuz-opens-oil-markets-are-suddenly-oversupplied",
-    "source": "Semafor",
-    "title": "As Hormuz opens, oil markets are awash in supply",
-    "byline_count": 1,
-    "author_names": [
-      "Prashant Rao"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/beijing-revamps-education-for-ai-era",
-    "source": "Semafor",
-    "title": "Beijing revamps education for AI era",
-    "byline_count": 1,
-    "author_names": [
-      "J.D. Capelouto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/chinas-factory-output-for-june-beats-forecasts",
-    "source": "Semafor",
-    "title": "China\u2019s factory output in June beats forecasts",
-    "byline_count": 1,
-    "author_names": [
-      "Prashant Rao"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/29/2026/trump-and-xis-urban-dreams-confront-reality",
-    "source": "Semafor",
-    "title": "Trump and Xi\u2019s urban dreams confront reality",
-    "byline_count": 1,
-    "author_names": [
-      "Andy Browne"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/la-is-running-17-billion-short-for-its-car-free-olympics",
-    "source": "Semafor",
-    "title": "LA is running $1.7 billion short for its \u2018car-free\u2019 Olympics",
-    "byline_count": 1,
-    "author_names": [
-      "Lauren Morganbesser"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/us-and-iran-at-odds-over-plans-for-negotiations-in-doha",
-    "source": "Semafor",
-    "title": "US and Iran disagree over whether to meet in Doha",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Chivers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/honeywell-ditches-conglomerate-model",
-    "source": "Semafor",
-    "title": "Honeywell ditches conglomerate model",
-    "byline_count": 1,
-    "author_names": [
-      "Shelly Banjo"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/chinese-ac-makers-profit-on-europes-heatwaves",
-    "source": "Semafor",
-    "title": "Chinese AC makers profit on Europe's heatwaves",
-    "byline_count": 1,
-    "author_names": [
-      "J.D. Capelouto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/where-is-the-ai-phone-company",
-    "source": "Semafor",
-    "title": "The AI age is missing its phone company",
-    "byline_count": 1,
-    "author_names": [
-      "Liz Hoffman"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/how-climate-affects-us-china-competition",
-    "source": "Semafor",
-    "title": "How climate affects US-China competition",
-    "byline_count": 1,
-    "author_names": [
-      "J.D. Capelouto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/us-stocks-wrap-up-best-quarter-since-2020",
-    "source": "Semafor",
-    "title": "US stocks wrap up best quarter since 2020",
-    "byline_count": 1,
-    "author_names": [
-      "J.D. Capelouto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/kuwaiti-telecom-zain-group-lands-syria-mobile-license",
-    "source": "Semafor",
-    "title": "Kuwaiti telecom Zain Group lands Syria mobile license",
-    "byline_count": 1,
-    "author_names": [
-      "Mohammed Sergie"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/us-advisory-firm-am-looks-to-win-rivals-market-share",
-    "source": "Semafor",
-    "title": "US advisory firm A&M looks to win rivals\u2019 market share in Gulf",
-    "byline_count": 1,
-    "author_names": [
-      "Matthew Martin"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/indonesian-tech-tycoon-sentenced",
-    "source": "Semafor",
-    "title": "Indonesian tech tycoon sentenced",
-    "byline_count": 1,
-    "author_names": [
-      "J.D. Capelouto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/supreme-court-rejects-trumps-birthright-citizenship-executive-order",
-    "source": "Semafor",
-    "title": "Supreme Court rejects Trump\u2019s birthright citizenship executive order",
-    "byline_count": 1,
-    "author_names": [
-      "Lauren Morganbesser"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/eu-china-agree-october-deadline-for-trade-negotiations",
-    "source": "Semafor",
-    "title": "EU, China agree October deadline for trade negotiations",
-    "byline_count": 1,
-    "author_names": [
-      "Andy Browne"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/supreme-court-strikes-down-caps-on-coordinated-campaign-donations",
-    "source": "Semafor",
-    "title": "Supreme Court strikes down caps on coordinated campaign donations",
-    "byline_count": 1,
-    "author_names": [
-      "J.D. Capelouto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/uae-oil-exports-hit-a-high-amid-iran-war",
-    "source": "Semafor",
-    "title": "UAE oil exports hit a high amid Iran war",
-    "byline_count": 1,
-    "author_names": [
-      "Dominic Dudley"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/unlearning-recession-myths",
-    "source": "Semafor",
-    "title": "Unlearning recession myths",
-    "byline_count": 1,
-    "author_names": [
-      "Brendan Ruberry"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/michael-bennet-loses-bid-for-colorado-governor-as-progressives-keep-momentum",
-    "source": "Semafor",
-    "title": "Bennet loses bid for Colorado governor as progressives keep momentum",
-    "byline_count": 1,
-    "author_names": [
-      "David Weigel"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/republicans-back-trumps-usmca-punt",
-    "source": "Semafor",
-    "title": "Republicans back Trump\u2019s USMCA punt",
-    "byline_count": 1,
-    "author_names": [
-      "Eleanor Mueller"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/us-students-face-new-loan-rules",
-    "source": "Semafor",
-    "title": "US students face new loan rules",
-    "byline_count": 1,
-    "author_names": [
-      "Morgan Chalfant"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/us-ends-export-ban-of-anthropics-mythos-and-fable-models",
-    "source": "Semafor",
-    "title": "US ends ban on exports of Anthropic\u2019s advanced AI",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Chivers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/australia-toughens-social-media-ban",
-    "source": "Semafor",
-    "title": "Australia toughens social media ban",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Chivers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/us-urges-patience-as-machado-plots-her-return",
-    "source": "Semafor",
-    "title": "US urges patience as Machado plots her return",
-    "byline_count": 1,
-    "author_names": [
-      "Shelby Talcott"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/us-iran-to-hold-indirect-talks-complicating-efforts-to-end-conflict",
-    "source": "Semafor",
-    "title": "US, Iran to hold indirect talks, complicating efforts to end conflict",
-    "byline_count": 1,
-    "author_names": [
-      "J.D. Capelouto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/south-african-anti-migrant-protesters-vow-weekly-demos",
-    "source": "Semafor",
-    "title": "South African anti-migrant protesters vow weekly demos",
-    "byline_count": 1,
-    "author_names": [
-      "Tiisetso Motsoeneng"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/senegal-lawmakers-move-to-limit-presidential-powers",
-    "source": "Semafor",
-    "title": "Senegal lawmakers move to limit presidential powers",
-    "byline_count": 1,
-    "author_names": [
-      "Jenny Vaughan"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/trump-earned-14-billion-from-cryptocurrencies-in-2025",
-    "source": "Semafor",
-    "title": "Trump earned $1.4 billion from crypto in 2025",
-    "byline_count": 1,
-    "author_names": [
-      "Jeronimo Gonzalez"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/qatar-reviews-workers-rights",
-    "source": "Semafor",
-    "title": "Qatar reviews workers\u2019 rights",
-    "byline_count": 1,
-    "author_names": [
-      "Dominic Dudley"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/a-tale-of-star-crossed-sisters",
-    "source": "Semafor",
-    "title": "A tale of star-crossed sisters",
-    "byline_count": 1,
-    "author_names": [
-      "Paige Bruton"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/warsh-keeps-his-interest-rate-cards-close",
-    "source": "Semafor",
-    "title": "Warsh keeps his interest rate cards close",
-    "byline_count": 1,
-    "author_names": [
-      "Eleanor Mueller"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/nairobi-kigali-sign-three-fuel-import-agreements-to-help-boost-rwandan-energy-security",
-    "source": "Semafor",
-    "title": "Nairobi, Kigali sign fuel import agreements",
-    "byline_count": 1,
-    "author_names": [
-      "Jenny Vaughan"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/02/2026/trumps-financial-disclosure-complicates-crypto-bill-talks",
-    "source": "Semafor",
-    "title": "Trump\u2019s financial disclosure complicates crypto bill talks",
-    "byline_count": 1,
-    "author_names": [
-      "Eleanor Mueller"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/02/2026/republicans-plot-an-investigative-end-run",
-    "source": "Semafor",
-    "title": "Republicans plot to counter Democrat probes",
-    "byline_count": 1,
-    "author_names": [
-      "Nicholas Wu"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/europe-should-build-ai-and-fear-it-too",
-    "source": "Semafor",
-    "title": "Europe should build AI \u2013 and fear it, too",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Chivers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/renewed-oil-flows-give-us-leverage",
-    "source": "Semafor",
-    "title": "Renewed oil flows give US leverage",
-    "byline_count": 1,
-    "author_names": [
-      "J.D. Capelouto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/global-chaos-isnt-spreading-report-says",
-    "source": "Semafor",
-    "title": "Global chaos isn't spreading, report says",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Chivers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/win-for-zyn-nicotine-pouches",
-    "source": "Semafor",
-    "title": "Win for Zyn nicotine pouches",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Chivers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/world-bank-lends-750-million-to-kenya",
-    "source": "Semafor",
-    "title": "World Bank lends $750 million to Kenya",
-    "byline_count": 1,
-    "author_names": [
-      "Alexander Onukwue"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/02/2026/trump-accounts-to-launch-without-rollovers",
-    "source": "Semafor",
-    "title": "Trump Accounts rollovers expected post-launch",
-    "byline_count": 1,
-    "author_names": [
-      "Eleanor Mueller"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/02/2026/openai-considers-giving-us-government-5-stake",
-    "source": "Semafor",
-    "title": "OpenAI considers giving US government 5% stake",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Chivers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/us-expected-not-to-extend-usmca-agreement",
-    "source": "Semafor",
-    "title": "US expected not to extend USMCA agreement",
-    "byline_count": 1,
-    "author_names": [
-      "Jeronimo Gonzalez"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/progressives-grapple-with-old-tweets",
-    "source": "Semafor",
-    "title": "Progressives grapple with old tweets",
-    "byline_count": 1,
-    "author_names": [
-      "David Weigel"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/02/2026/us-asset-manager-to-launch-sharia-compliant-credit-fund",
-    "source": "Semafor",
-    "title": "US asset manager to launch Sharia-compliant credit fund",
-    "byline_count": 1,
-    "author_names": [
-      "Matthew Martin"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/the-decline-of-the-impeachment-voter-and-other-midterm-lessons-so-far",
-    "source": "Semafor",
-    "title": "The decline of the impeachment voter, and other midterm lessons so far",
-    "byline_count": 1,
-    "author_names": [
-      "David Weigel"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/rising-fuel-costs-boost-african-ev-sales",
-    "source": "Semafor",
-    "title": "Rising fuel costs boost African EV sales",
-    "byline_count": 1,
-    "author_names": [
-      "Jenny Vaughan"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/meta-cashes-in-on-its-excesses",
-    "source": "Semafor",
-    "title": "Meta cashes in on its excesses",
-    "byline_count": 1,
-    "author_names": [
-      "Rachyl Jones"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/us-private-employers-added-98000-jobs-in-june",
-    "source": "Semafor",
-    "title": "US private employers added 98,000 jobs in June",
-    "byline_count": 1,
-    "author_names": [
-      "Jake Angelo"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/06/30/2026/el-sayed-unloads-on-media-democratic-criticism",
-    "source": "Semafor",
-    "title": "El-Sayed unloads on media, Democratic criticism",
-    "byline_count": 1,
-    "author_names": [
-      "David Weigel"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/us-considers-ending-ban-on-supersonic-flights",
-    "source": "Semafor",
-    "title": "US considers ending ban on supersonic flights",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Chivers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/south-africas-fragile-protests",
-    "source": "Semafor",
-    "title": "The danger of South Africa\u2019s fragile anti-migrant protests",
-    "byline_count": 1,
-    "author_names": [
-      "Tiisetso Motsoeneng"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/amazons-rising-carbon-footprint-not-a-one-year-story-cso-says",
-    "source": "Semafor",
-    "title": "Amazon\u2019s rising carbon footprint \u2018not a one-year story,\u2019 CSO says",
-    "byline_count": 1,
-    "author_names": [
-      "Tim McDonnell"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
-  },
-  {
-    "link": "https://www.semafor.com/article/07/01/2026/gavin-newsom-treads-the-ai-line",
-    "source": "Semafor",
-    "title": "Gavin Newsom treads the line",
-    "byline_count": 1,
-    "author_names": [
-      "Rachyl Jones"
-    ],
     "total_score": 0,
     "matched_categories": [],
     "first_seen_at": "2026-07-10T01:04:37.039245+00:00"
