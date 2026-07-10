@@ -114,34 +114,46 @@ def run_pipeline(db_path="scoop_tracker.db", report_window_hours=72, per_source_
     db.upsert_articles(conn, scored_new)
     print(f"  -> {len(scored_new)} new articles scored and saved")
 
+    # This is the one authoritative definition of "new" for the report: a URL
+    # that was actually enriched+scored+inserted *in this execution*. Deliberately
+    # not inferred later from first_seen_at proximity to "now" — that would also
+    # light up anything from the last few hours even if it was really caught by
+    # a prior run, which defeats the point (a reader who already saw last run's
+    # report needs "new since I looked," not "new-ish").
+    new_urls = {a["link"] for a in scored_new}
+
     print("\n[5/5] Generating report from accumulated history...")
     write_html(conn, feed_status, path="scoop_report.html",
                window_hours=report_window_hours, per_source_cap=per_source_cap,
-               top_n_per_bucket=top_n_per_bucket)
-    write_json(conn, window_hours=report_window_hours)
+               top_n_per_bucket=top_n_per_bucket, new_urls=new_urls)
+    write_json(conn, window_hours=report_window_hours, new_urls=new_urls)
     print("  -> wrote scoop_tracker_output.json and scoop_report.html")
     conn.close()
 
 def esc(s):
     return html_lib.escape(s or "")
 
-def write_json(conn, path="scoop_tracker_output.json", window_hours=72):
+def write_json(conn, path="scoop_tracker_output.json", window_hours=72, new_urls=frozenset()):
     articles = db.recent_articles(conn, hours=window_hours, limit=2000)
+    for a in articles:
+        a["is_new"] = a["link"] in new_urls
     with open(path, "w") as f:
         json.dump(articles, f, indent=2)
 
-def render_rows(selected):
+def render_rows(selected, new_urls=frozenset()):
     rows = []
     for i, a in enumerate(selected, 1):
         cats = a.get("matched_categories", [])
         cat_tags = "".join(f'<span class="tag tag-{c}">{c.replace("_"," ")}</span>' for c in cats)
         byline_note = f'{a["byline_count"]} bylines' if a["byline_count"] > 1 else "1 byline"
+        is_new = a["link"] in new_urls
+        new_badge = '<span class="badge-new">NEW</span> ' if is_new else ''
         rows.append(f"""
-        <tr>
+        <tr class="{'is-new' if is_new else ''}">
           <td class="rank">{i:02d}</td>
           <td class="score">{a['total_score']}</td>
           <td class="story">
-            <a href="{esc(a['link'])}" target="_blank">{esc(a['title'])}</a>
+            {new_badge}<a href="{esc(a['link'])}" target="_blank">{esc(a['title'])}</a>
             <div class="meta">{esc(a['source'])} &middot; {byline_note}{(' &middot; ' + esc(', '.join(a['author_names'][:3]))) if a.get('author_names') else ''}</div>
             <div class="tags">{cat_tags}</div>
           </td>
@@ -149,7 +161,7 @@ def render_rows(selected):
     return "".join(rows)
 
 def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
-                top_n_per_bucket=20, per_source_cap=8):
+                top_n_per_bucket=20, per_source_cap=8, new_urls=frozenset()):
     now_dt = datetime.now(timezone.utc)
     now = now_dt.strftime("%Y-%m-%d %H:%M UTC")
     all_recent = [a for a in db.recent_articles(conn, hours=window_hours, limit=5000) if a["total_score"] > 0]
@@ -164,11 +176,13 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
     buckets = bucket_by_recency(all_recent, now_dt)
     bucket_sections = []
     total_shown = 0
+    total_new_shown = 0
     for key, _, label in RECENCY_BUCKETS:
         bucket_articles = buckets[key]
         selected = select_for_bucket(bucket_articles, per_source_cap, top_n_per_bucket)
         total_shown += len(selected)
-        rows_html = render_rows(selected)
+        total_new_shown += sum(1 for a in selected if a["link"] in new_urls)
+        rows_html = render_rows(selected, new_urls)
         bucket_sections.append(f"""
   <section class="bucket">
     <h2 class="bucket-title">{esc(label)} <span class="bucket-count">({len(selected)} of {len(bucket_articles)} flagged)</span></h2>
@@ -192,7 +206,7 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
   @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime:wght@400;700&display=swap');
   :root {{
     --bg: #0f0e0d; --panel: #171513; --line: #332e29; --paper: #e8e2d4;
-    --ink: #cfc8b8; --red: #b6432c; --dim: #7a7368;
+    --ink: #cfc8b8; --red: #b6432c; --dim: #7a7368; --gold: #d4a13d;
   }}
   * {{ box-sizing: border-box; }}
   body {{ background: var(--bg); color: var(--paper); font-family: 'Courier Prime', monospace; margin: 0; padding: 24px 16px 60px; }}
@@ -213,6 +227,8 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
   .tags {{ margin-top: 6px; }}
   .tag {{ display: inline-block; font-size: 10px; letter-spacing: 0.5px; text-transform: uppercase; padding: 2px 7px; border-radius: 2px; margin-right: 5px; border: 1px solid var(--line); color: var(--ink); }}
   .tag-exclusivity {{ border-color: var(--red); color: var(--red); }}
+  tr.is-new {{ background: rgba(212, 161, 61, 0.07); }}
+  .badge-new {{ display: inline-block; background: var(--gold); color: #171513; font-family: 'Bebas Neue', sans-serif; font-size: 11px; letter-spacing: 1px; padding: 2px 6px; border-radius: 2px; vertical-align: middle; margin-right: 2px; }}
   .bucket {{ margin-top: 26px; }}
   .bucket-title {{ font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 1px; color: var(--paper); border-bottom: 1px solid var(--line); padding-bottom: 6px; margin: 0 0 4px; }}
   .bucket-count {{ font-family: 'Courier Prime', monospace; font-size: 11px; color: var(--dim); letter-spacing: 0; text-transform: none; }}
@@ -234,6 +250,7 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
       <div><b>{total_in_window}</b> articles in window</div>
       <div><b>{total_flagged}</b> flagged (score &gt; 0)</div>
       <div><b>{total_shown}</b> shown (capped at {per_source_cap}/source per time window)</div>
+      <div><b>{total_new_shown}</b> new this run</div>
     </div>
   </header>
   {''.join(bucket_sections)}
