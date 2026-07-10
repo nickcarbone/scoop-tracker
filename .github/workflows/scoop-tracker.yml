@@ -1,0 +1,53 @@
+name: Scoop Tracker
+
+on:
+  schedule:
+    # Every 4 hours. Deliberately not more frequent than that — this hits the
+    # same ~75 outlets repeatedly, and the enrichment step fetches full article
+    # pages on top of the RSS pull. Caching (skip re-fetch for known URLs) keeps
+    # each run's marginal footprint small, but the schedule itself should stay
+    # conservative rather than relying on caching alone to be polite.
+    - cron: "0 */4 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+concurrency:
+  group: scoop-tracker-run
+  cancel-in-progress: false   # let a running job finish rather than corrupting the db mid-write
+
+permissions:
+  contents: write   # needed to commit the updated db/report back to the repo
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        run: python3 main.py --window-hours 72 --per-source-cap 8
+
+      - name: Copy report for GitHub Pages
+        run: cp scoop_report.html index.html
+        # If you enable Pages on this repo (Settings -> Pages -> Deploy from branch ->
+        # main / root), this makes the report viewable at your repo's Pages URL with
+        # zero extra config. Harmless if Pages isn't enabled — it's just a file.
+
+      - name: Commit results
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Scoop tracker run: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          file_pattern: "scoop_tracker.db scoop_report.html scoop_tracker_output.json index.html"
+          commit_user_name: "scoop-tracker-bot"
+          commit_user_email: "actions@users.noreply.github.com"

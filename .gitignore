@@ -1,0 +1,7 @@
+# SQLite WAL/SHM sidecar files - not the main db, safe to ignore
+scoop_tracker.db-wal
+scoop_tracker.db-shm
+
+__pycache__/
+*.pyc
+.DS_Store

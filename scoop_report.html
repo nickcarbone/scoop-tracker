@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SCOOP TRACKER — Tier 1 Wire</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime:wght@400;700&display=swap');
+  :root {
+    --bg: #0f0e0d; --panel: #171513; --line: #332e29; --paper: #e8e2d4;
+    --ink: #cfc8b8; --red: #b6432c; --dim: #7a7368;
+  }
+  * { box-sizing: border-box; }
+  body { background: var(--bg); color: var(--paper); font-family: 'Courier Prime', monospace; margin: 0; padding: 24px 16px 60px; }
+  .wrap { max-width: 880px; margin: 0 auto; }
+  header { border-bottom: 3px double var(--red); padding-bottom: 14px; margin-bottom: 18px; }
+  h1 { font-family: 'Bebas Neue', sans-serif; font-size: 44px; letter-spacing: 2px; color: var(--paper); margin: 0; line-height: 0.95; }
+  h1 span { color: var(--red); }
+  .subhead { font-size: 12px; color: var(--dim); letter-spacing: 1px; text-transform: uppercase; margin-top: 6px; }
+  .stats { display: flex; gap: 18px; flex-wrap: wrap; font-size: 12px; color: var(--dim); margin-top: 10px; border-top: 1px solid var(--line); padding-top: 10px; }
+  .stats b { color: var(--paper); }
+  table { width: 100%; border-collapse: collapse; }
+  td { padding: 10px 8px; vertical-align: top; border-bottom: 1px solid var(--line); }
+  .rank { font-family: 'Bebas Neue', sans-serif; font-size: 20px; color: var(--dim); width: 34px; }
+  .score { font-family: 'Bebas Neue', sans-serif; font-size: 26px; color: var(--red); width: 44px; }
+  .story a { color: var(--paper); text-decoration: none; font-weight: 700; font-size: 15px; }
+  .story a:hover { color: var(--red); text-decoration: underline; }
+  .meta { color: var(--dim); font-size: 11px; margin-top: 4px; }
+  .tags { margin-top: 6px; }
+  .tag { display: inline-block; font-size: 10px; letter-spacing: 0.5px; text-transform: uppercase; padding: 2px 7px; border-radius: 2px; margin-right: 5px; border: 1px solid var(--line); color: var(--ink); }
+  .tag-exclusivity { border-color: var(--red); color: var(--red); }
+  details { margin-top: 30px; border-top: 1px solid var(--line); padding-top: 14px; }
+  summary { cursor: pointer; color: var(--dim); font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
+  .fail { color: #6b5a52; }
+  .ok { color: #7a9a7e; }
+  footer { margin-top: 30px; color: var(--dim); font-size: 11px; border-top: 1px solid var(--line); padding-top: 12px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>SCOOP <span>TRACKER</span></h1>
+    <div class="subhead">Tier 1 Wire &middot; DB-backed, 72h rolling window &middot; No convergence/citation checks yet</div>
+    <div class="stats">
+      <div>Generated <b>2026-07-10 01:05 UTC</b></div>
+      <div><b>1363</b> articles in window</div>
+      <div><b>265</b> flagged (score &gt; 0)</div>
+      <div><b>60</b> shown (capped at 8/source)</div>
+    </div>
+  </header>
+  <table><tbody>
+        <tr>
+          <td class="rank">01</td>
+          <td class="score">8</td>
+          <td class="story">
+            <a href="https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss" target="_blank">Whistleblower takes on health insurance and FDA commissioner candidates</a>
+            <div class="meta">STAT &middot; 3 bylines &middot; Allison DeAngelis, Elaine Chen, Adam Feuerstein</div>
+            <div class="tags"><span class="tag tag-primary_source">primary source</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">02</td>
+          <td class="score">8</td>
+          <td class="story">
+            <a href="https://www.axios.com/2026/07/08/spacexai-grok-new-model" target="_blank">Scoop: SpaceXAI launches new model, Grok 4.5</a>
+            <div class="meta">Axios &middot; 3 bylines</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span><span class="tag tag-headline_label">headline label</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">03</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.nature.com/articles/s41586-026-10574-9" target="_blank">Towards the construction of a virtual yeast</a>
+            <div class="meta">Nature News &middot; 67 bylines</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">04</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.nature.com/articles/s41586-026-10671-9" target="_blank">Restoring cortical disinhibition improves Huntington’s disease phenotypes</a>
+            <div class="meta">Nature News &middot; 9 bylines</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">05</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.nature.com/articles/s41586-026-10730-1" target="_blank">Identification of cross-stage, cross-species malaria CD8&lt;sup&gt;+&lt;/sup&gt; T cell antigens</a>
+            <div class="meta">Nature News &middot; 40 bylines</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">06</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.nature.com/articles/s41586-026-10695-1" target="_blank">Replication-stress-induced chromatin loops protect fork stability</a>
+            <div class="meta">Nature News &middot; 25 bylines</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">07</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.nature.com/articles/s41586-026-10707-0" target="_blank">Directly probing the carrier transfer length in 2D-material transistors</a>
+            <div class="meta">Nature News &middot; 19 bylines</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">08</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.nature.com/articles/s41586-026-10621-5" target="_blank">Harmonizing standards and resources for the medical genome</a>
+            <div class="meta">Nature News &middot; 28 bylines</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">09</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.nature.com/articles/s41586-026-10711-4" target="_blank">A secreted endosymbiont protein essential for colonizing host cells</a>
+            <div class="meta">Nature News &middot; 8 bylines</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">10</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.nature.com/articles/s41586-026-10723-0" target="_blank">Isomeric multi-hydrogen-bonding enables blue perovskite LEDs</a>
+            <div class="meta">Nature News &middot; 16 bylines</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">11</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.defenseone.com/business/2026/06/lawmaker-warns-administrations-fetishization-silicon-valley-startups/414524/" target="_blank">Lawmaker warns of administration’s ‘fetishization’ of Silicon Valley startups</a>
+            <div class="meta">Defense One &middot; 4 bylines &middot; Alexandra Kelley, Ross Wilkers, Edward Graham</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">12</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-18-23/index.html" target="_blank">Russia is &#x27;going backwards&#x27; in equipment and deploying post WWII-era tanks, according to Western officials</a>
+            <div class="meta">CNN &middot; 9 bylines &middot; Kathleen Magramo, Helen Regan, Jack Guy</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">13</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html" target="_blank">Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced</a>
+            <div class="meta">CNN &middot; 8 bylines &middot; Catherine Thorbecke, Mike Hayes, Maureen Chowdhury</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">14</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8" target="_blank">Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell</a>
+            <div class="meta">CNN &middot; 8 bylines &middot; Catherine Thorbecke, Mike Hayes, Maureen Chowdhury</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">15</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.cnn.com/2023/04/18/politics/schumer-senate-feinstein-vote-cardin/index.html" target="_blank">GOP prepared to block vote to replace Feinstein on Senate Judiciary</a>
+            <div class="meta">CNN &middot; 4 bylines &middot; Ali Zaslav, Nicky Robertson, Ted Barrett</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">16</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.cbsnews.com/news/hundreds-of-instagram-accounts-push-graphic-real-life-violence-to-millions-cbs-news-finds/" target="_blank">Hundreds of Instagram accounts push graphic real-life violence to millions</a>
+            <div class="meta">CBS News &middot; 8 bylines &middot; Chris  Hacker, Taylor  Johnston, Ryan  Beard</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">17</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.cbsnews.com/news/maine-democrats-senate-candidates-replace-graham-platner/" target="_blank">Here&#x27;s who&#x27;s vying to replace Graham Platner as Maine Democratic Senate nominee</a>
+            <div class="meta">CBS News &middot; 4 bylines &middot; Aaron  Navarro, Sophia  Vlahakis, Kaia  Hubbard</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">18</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://abcnews.com/Politics/secret-service-urged-trump-depart-turkey-air-force/story?id=134606227" target="_blank">Secret Service urged Trump to use old Air Force One as a security precaution: Sources</a>
+            <div class="meta">ABC News &middot; 5 bylines &middot; Rachel Scott, Katherine Faulders, Shannon K. Kingston</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">19</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.cbsnews.com/live-updates/iran-us-war-trump-ceasefire-over-strait-of-hormuz-attacks/" target="_blank">Iran and U.S. ramp up tit-for-tat strikes as Khamenei laid to rest</a>
+            <div class="meta">CBS News &middot; 4 bylines &middot; Tucker  Reals, Faris  Tanyos, Mark  Osborne</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">20</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://abcnews.com/Politics/maine-democratic-senate-candidate-graham-platner-suspends-campaign/story?id=134536907" target="_blank">Graham Platner suspends Senate campaign after sexual assault allegation</a>
+            <div class="meta">ABC News &middot; 5 bylines &middot; Jared Kofsky, Hannah Demissie, Oren Oppenheim</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">21</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.axios.com/2026/07/01/harris-mamdani-progressives-2028" target="_blank">Scoop: Harris reaches out to Mamdani, pro-Palestinian activists in run-up to 2028</a>
+            <div class="meta">Axios &middot; 2 bylines</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span><span class="tag tag-headline_label">headline label</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">22</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.axios.com/2026/07/07/republicans-8-million-ad-campaign-platner-replacement" target="_blank">Scoop: Republicans prepare $8 million ad blitz against Platner replacement</a>
+            <div class="meta">Axios &middot; 2 bylines</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span><span class="tag tag-headline_label">headline label</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">23</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.axios.com/2026/07/06/trump-nato-netanyahu-erdogan-israel" target="_blank">Scoop: Netanyahu asks Trump to rein in Erdoğan ahead of NATO summit</a>
+            <div class="meta">Axios &middot; 2 bylines</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span><span class="tag tag-headline_label">headline label</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">24</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.axios.com/2026/07/08/gop-senate-campaign-spending-ohio-iowa" target="_blank">Exclusive: Republicans juice spending to protect Senate &quot;red wall&quot;</a>
+            <div class="meta">Axios &middot; 1 byline</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span><span class="tag tag-headline_label">headline label</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">25</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.axios.com/2026/07/08/openai-gpt-trump-ban-lifted" target="_blank">Scoop: Trump administration lifts restrictions on OpenAI&#x27;s GPT 5.6</a>
+            <div class="meta">Axios &middot; 2 bylines</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span><span class="tag tag-headline_label">headline label</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">26</td>
+          <td class="score">6</td>
+          <td class="story">
+            <a href="https://www.axios.com/2026/07/08/ken-griffin-gop-rubio-vance-2028" target="_blank">Scoop: GOP megadonor Ken Griffin says he&#x27;d back Rubio over Vance in 2028</a>
+            <div class="meta">Axios &middot; 1 byline</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span><span class="tag tag-headline_label">headline label</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">27</td>
+          <td class="score">5</td>
+          <td class="story">
+            <a href="https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html" target="_blank">Judge in Fox News-Dominion defamation trial: &#x27;The parties have resolved their case&#x27;</a>
+            <div class="meta">CNN &middot; 2 bylines &middot; Marshall Cohen, Oliver Darcy</div>
+            <div class="tags"><span class="tag tag-primary_source">primary source</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">28</td>
+          <td class="score">5</td>
+          <td class="story">
+            <a href="https://www.propublica.org/getinvolved/share-401k-fees-retirement-investment" target="_blank">Have a 401(k)? Help ProPublica Investigate What’s Really Happening to Your Money.</a>
+            <div class="meta">ProPublica &middot; 3 bylines</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">29</td>
+          <td class="score">5</td>
+          <td class="story">
+            <a href="https://www.propublica.org/article/public-land-livestock-grazing-ranching-access" target="_blank">The First Major Overhaul of Public Lands Grazing Regulations in a Generation Looks to Cut Out Public Involvement</a>
+            <div class="meta">ProPublica &middot; 3 bylines &middot; Mark Olalde, Jimmy Tobias, Roberto “Bear” Guerra</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">30</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://www.scmp.com/tech/tech-trends/article/3359963/chinese-ai-labs-pursue-custom-chips-lower-costs-heavy-upfront-investment-risk?utm_source=rss_feed" target="_blank">Chinese AI labs pursue custom chips to lower costs but heavy upfront investment a risk</a>
+            <div class="meta">South China Morning Post &middot; 1 byline &middot; Wency Chen</div>
+            <div class="tags"><span class="tag tag-sourcing_depth">sourcing depth</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">31</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://www.scotusblog.com/2026/07/the-supreme-courts-quiet-coup/" target="_blank">The Supreme Court’s quiet coup</a>
+            <div class="meta">SCOTUSblog &middot; 3 bylines &middot; Christopher A. Coons, David Beier, Ray Brescia</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">32</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://grist.org/accountability/why-is-it-so-unusually-expensive-to-replace-lead-pipes-in-chicago/" target="_blank">Why is it so unusually expensive to replace lead pipes in Chicago?</a>
+            <div class="meta">Grist &middot; 3 bylines &middot; Juanpablo Ramirez-Franco, Keerti Gopal, Clayton Aldern</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">33</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://wisconsinwatch.org/2026/07/wisconsin-fun-fact-answers-voter-guide-state-legislative-candidates-2026-election/" target="_blank">We asked all 325 state and legislative candidates their favorite Wisconsin fun fact. See their answers in our voter guide.</a>
+            <div class="meta">Wisconsin Watch &middot; 3 bylines &middot; Brittany Carloni / Wisconsin Watch, Zoey Elwood / Wisconsin Watch, Audrey Lopez-Stane / Wisconsin Watch</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">34</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://www.cnn.com/travel/article/southwest-airlines-flight-delays/index.html" target="_blank">Southwest says flights resumed after delays caused by &#x27;tech issues&#x27;</a>
+            <div class="meta">CNN &middot; 3 bylines &middot; Gregory Wallace, Pete Muntean, Ray Sanchez</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">35</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://www.cnn.com/2023/04/17/europe/wagner-commanders-russia-kill-children-intl-hnk/index.html" target="_blank">Two Russians claiming to be former Wagner commanders admit killing children and civilians in Ukraine</a>
+            <div class="meta">CNN &middot; 2 bylines &middot; Sarah Dean, Josh Pennington</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">36</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html" target="_blank">Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory</a>
+            <div class="meta">CNN &middot; 2 bylines &middot; Eric Levenson, Marshall Cohen</div>
+            <div class="tags"><span class="tag tag-primary_source">primary source</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">37</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://www.nbcnews.com/world/asia/soccer-fans-china-are-rooting-norway-erling-haaland-ha-bao-rcna353445" target="_blank">Why this 6-foot-4 Norwegian soccer sensation has become a hero in China</a>
+            <div class="meta">NBC News &middot; 3 bylines &middot; Dawn Liu, Erin Tan, Janis Mackey Frayer</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">38</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://abcnews.com/US/trump-promoted-discount-gas-stations-fuel-mystery-questions/story?id=134625546" target="_blank">Trump-promoted discount gas stations fuel a mystery and questions</a>
+            <div class="meta">ABC News &middot; 3 bylines &middot; Peter Charalambous, Kerem Inal, Nicholas Kerr</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">39</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610" target="_blank">Iran live updates: US, Iran continue technical talks after strikes, US official says</a>
+            <div class="meta">ABC News &middot; 3 bylines &middot; David Brennan, Nadine El-Bawab, Kevin Shalvey</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">40</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://www.wsj.com/articles/jeju-air-crash-probe-focuses-on-engine-damage-after-bird-strike-3bafc2ff" target="_blank">Jeju Air Crash Probe Focuses On Engine Damage After Bird Strike</a>
+            <div class="meta">Wall Street Journal &middot; 1 byline</div>
+            <div class="tags"><span class="tag tag-sourcing_depth">sourcing depth</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">41</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://www.bloomberg.com/news/articles/2026-07-09/chinese-officials-gauge-us-truce-elections-in-low-key-meetings" target="_blank">China Taps Ex-Officials to Discern Trump’s Aims, US Elections</a>
+            <div class="meta">Bloomberg &middot; 1 byline</div>
+            <div class="tags"><span class="tag tag-sourcing_depth">sourcing depth</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">42</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html" target="_blank">Oil prices fall 2% as mediators try to prevent U.S. and Iran from returning to war</a>
+            <div class="meta">CNBC &middot; 3 bylines &middot; Spencer Kimball, Justina Lee, Sam Meredith</div>
+            <div class="tags"></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">43</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://thehill.com/homenews/administration/5960254-secret-service-advised-trump-to-not-fly-qatari-gifted-air-force-one/" target="_blank">Secret Service advised Trump to not fly Qatari-gifted Air Force One</a>
+            <div class="meta">The Hill &middot; 1 byline</div>
+            <div class="tags"><span class="tag tag-sourcing_depth">sourcing depth</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">44</td>
+          <td class="score">4</td>
+          <td class="story">
+            <a href="https://www.axios.com/local/washington-dc/2026/06/30/trump-july-4-speech-fireworks-show-dc-world-record" target="_blank">Scoop: Trump&#x27;s late July 4 speech throws D.C. fireworks timing into flux</a>
+            <div class="meta">Axios &middot; 1 byline</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span><span class="tag tag-headline_label">headline label</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">45</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/" target="_blank">Lawmakers Demand Answers as CISA Tries to Contain Data Leak</a>
+            <div class="meta">Krebs on Security &middot; 1 byline</div>
+            <div class="tags"><span class="tag tag-primary_source">primary source</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">46</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.justsecurity.org/145569/vetting-foreign-ai-talent-security-without-exclusion/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vetting-foreign-ai-talent-security-without-exclusion" target="_blank">Vetting Foreign AI Talent: Security Without Exclusion</a>
+            <div class="meta">Just Security &middot; 2 bylines &middot; Joe Khawam, Tim Schnabel</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">47</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.justsecurity.org/143447/transitional-justice-after-trump/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=transitional-justice-after-trump" target="_blank">Breaking the Cycle: Transitional Justice in America After Trump</a>
+            <div class="meta">Just Security &middot; 2 bylines &middot; D. Wes Rist, Alka Pradhan</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">48</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.justsecurity.org/145577/venezuela-earthquake-end-us-sanctions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=venezuela-earthquake-end-us-sanctions" target="_blank">To Help Venezuelans After the Quake, End U.S. Sanctions</a>
+            <div class="meta">Just Security &middot; 2 bylines &middot; Francisco R. Rodríguez, George A. Lopez</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">49</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.justsecurity.org/145562/effective-export-controls-semiconductor-equipment/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=effective-export-controls-semiconductor-equipment" target="_blank">It Takes More Than Two to Tango: Creating Effective Export Controls on Semiconductor Manufacturing Equipment</a>
+            <div class="meta">Just Security &middot; 2 bylines &middot; Sylvia Chen, Peter Tozzi</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">50</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.justsecurity.org/146038/middle-powers-international-order/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=middle-powers-international-order" target="_blank">A Path For Middle Powers and a Rules-Based International Order: A Functional Perspective</a>
+            <div class="meta">Just Security &middot; 2 bylines &middot; Kai Ambos, Abdi Scheybani</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">51</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.icij.org/investigations/paradise-papers/trump-intelligence-adviser-previously-helped-father-pursue-millions-from-kremlin-linked-bank-leaked-documents-show/" target="_blank">Trump intelligence adviser previously helped father pursue millions from Kremlin-linked bank, leaked documents show</a>
+            <div class="meta">ICIJ &middot; 1 byline &middot; David Kenner</div>
+            <div class="tags"><span class="tag tag-primary_source">primary source</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">52</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.nbcnews.com/news/us-news/roommate-says-accused-charlie-kirk-assassin-expressed-regret-shooting-rcna353656" target="_blank">Charlie Kirk assassination suspect expressed regret after shooting, roommate says</a>
+            <div class="meta">NBC News &middot; 1 byline &middot; Daniel Arkin</div>
+            <div class="tags"><span class="tag tag-primary_source">primary source</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">53</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.cbsnews.com/news/gautam-adani-alleged-quid-pro-quo-justice-department-charges-dismissed-india-billionaire/" target="_blank">Judge orders Indian billionaire to answer questions on whether was quid pro quo</a>
+            <div class="meta">CBS News &middot; 1 byline &middot; Sarah N. Lynch</div>
+            <div class="tags"><span class="tag tag-primary_source">primary source</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">54</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://thehill.com/regulation/court-battles/5961732-national-guard-shooting-rahmanullah-lakanwal-justice-department/" target="_blank">Accused shooter in National Guard ambush hospitalized after ‘self-inflicted’ health decline</a>
+            <div class="meta">The Hill &middot; 1 byline</div>
+            <div class="tags"><span class="tag tag-primary_source">primary source</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">55</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.propublica.org/article/enid-oklahoma-oil-gas-pollution-water-protections" target="_blank">To Protect Its Drinking Water, This City Has to Appeal to the Oil Regulators That Put It at Risk</a>
+            <div class="meta">ProPublica &middot; 2 bylines &middot; Nick Bowlin, Al Shaw</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">56</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.propublica.org/article/hegseth-trump-war-civilian-casualties-elizabeth-warren-pentagon" target="_blank">Amid Mounting War Casualties, Pete Hegseth “Defunded and Impeded” Efforts to Protect Civilians, Lawmakers Say</a>
+            <div class="meta">ProPublica &middot; 2 bylines &middot; Hannah Allam, Megan Rose</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">57</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.propublica.org/article/unaccompanied-minors-deportations-elder-chavez" target="_blank">These Immigrant Kids Were Once Protected. Under Trump, Their Deportations Have Tripled.</a>
+            <div class="meta">ProPublica &middot; 2 bylines &middot; Mica Rosenberg, Jeff Ernsthausen</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">58</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.propublica.org/article/new-york-shelter-assistance-lawsuit" target="_blank">New York Hasn’t Raised Housing Allowances for Needy Residents in Decades. That’s Unconstitutional, a Lawsuit Says.</a>
+            <div class="meta">ProPublica &middot; 1 byline &middot; Spencer Norris</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span><span class="tag tag-primary_source">primary source</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">59</td>
+          <td class="score">3</td>
+          <td class="story">
+            <a href="https://www.propublica.org/article/puerto-rico-crim-data-breach" target="_blank">A Puerto Rico Government Agency Exposed 1 Million Social Security Numbers</a>
+            <div class="meta">ProPublica &middot; 2 bylines &middot; Luis Valentín, Nick McMillan</div>
+            <div class="tags"><span class="tag tag-exclusivity">exclusivity</span></div>
+          </td>
+        </tr>
+        <tr>
+          <td class="rank">60</td>
+          <td class="score">2</td>
+          <td class="story">
+            <a href="https://www.cbc.ca/news/business/air-travel-complaints-court-ruling-9.7264661?cmp=rss" target="_blank">Court strikes down confidentiality clause for air travel complaints process</a>
+            <div class="meta">CBC News &middot; 2 bylines &middot; Sammy Hudes, Christopher Reynolds</div>
+            <div class="tags"></div>
+          </td>
+        </tr></tbody></table>
+  <details>
+    <summary>Feed status, this run (45/77 working)</summary>
+    <table style="margin-top:10px;"><tr><td>NYT</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>NYT Politics</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Washington Post</td><td class="fail">FAILED (network): HTTPSConnectionPool(host=&#x27;feeds.washingtonpost.com&#x27;, port=443): Read timed out. (read timeout=10)</td></tr><tr><td>Washington Post Politics</td><td class="ok">OK (12 items)</td></tr><tr><td>AP News</td><td class="fail">BOT-CHALLENGED (site&#x27;s own Cloudflare/bot-check, not a sandbox issue — needs a different fetch strategy)</td></tr><tr><td>Politico</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Axios</td><td class="ok">OK (100 items)</td></tr><tr><td>The Atlantic</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Semafor</td><td class="ok">OK (228 items)</td></tr><tr><td>ProPublica</td><td class="ok">OK (20 items)</td></tr><tr><td>The Guardian US</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Vox</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Business Insider</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>TechCrunch</td><td class="ok">OK (20 items)</td></tr><tr><td>The Verge</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Wired</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>NPR</td><td class="fail">FAILED (HTTP 403)</td></tr><tr><td>The Hill</td><td class="ok">OK (100 items)</td></tr><tr><td>BBC News</td><td class="ok">OK (43 items)</td></tr><tr><td>CNBC</td><td class="ok">OK (30 items)</td></tr><tr><td>Reuters US</td><td class="ok">OK (10 items)</td></tr><tr><td>The Information</td><td class="fail">BOT-CHALLENGED (site&#x27;s own Cloudflare/bot-check, not a sandbox issue — needs a different fetch strategy)</td></tr><tr><td>404 Media</td><td class="ok">OK (15 items)</td></tr><tr><td>Bloomberg</td><td class="ok">OK (30 items)</td></tr><tr><td>Wall Street Journal</td><td class="ok">OK (20 items)</td></tr><tr><td>ABC News</td><td class="ok">OK (25 items)</td></tr><tr><td>CBS News</td><td class="ok">OK (30 items)</td></tr><tr><td>NBC News</td><td class="ok">OK (25 items)</td></tr><tr><td>CNN</td><td class="ok">OK (69 items)</td></tr><tr><td>MIT Technology Review</td><td class="ok">OK (10 items)</td></tr><tr><td>Platformer</td><td class="ok">OK (15 items)</td></tr><tr><td>Rest of World</td><td class="ok">OK (12 items)</td></tr><tr><td>Bellingcat</td><td class="ok">OK (10 items)</td></tr><tr><td>ICIJ</td><td class="ok">OK (11 items)</td></tr><tr><td>The Markup</td><td class="ok">OK (20 items)</td></tr><tr><td>Documented</td><td class="ok">OK (10 items)</td></tr><tr><td>Texas Tribune</td><td class="ok">OK (20 items)</td></tr><tr><td>Mississippi Today</td><td class="ok">OK (10 items)</td></tr><tr><td>Wisconsin Watch</td><td class="ok">OK (12 items)</td></tr><tr><td>Defense One</td><td class="ok">OK (25 items)</td></tr><tr><td>Just Security</td><td class="ok">OK (10 items)</td></tr><tr><td>The War Zone</td><td class="ok">OK (42 items)</td></tr><tr><td>The Cipher Brief</td><td class="ok">OK (30 items)</td></tr><tr><td>Fortune</td><td class="ok">OK (10 items)</td></tr><tr><td>Inside Climate News</td><td class="ok">OK (10 items)</td></tr><tr><td>Carbon Brief</td><td class="ok">OK (10 items)</td></tr><tr><td>Grist</td><td class="ok">OK (20 items)</td></tr><tr><td>Nature News</td><td class="ok">OK (75 items)</td></tr><tr><td>Science</td><td class="ok">OK (10 items)</td></tr><tr><td>STAT</td><td class="ok">OK (20 items)</td></tr><tr><td>Courthouse News</td><td class="ok">OK (10 items)</td></tr><tr><td>SCOTUSblog</td><td class="ok">OK (25 items)</td></tr><tr><td>Krebs on Security</td><td class="ok">OK (10 items)</td></tr><tr><td>Recorded Future News</td><td class="ok">OK (5 items)</td></tr><tr><td>Dark Reading</td><td class="ok">OK (50 items)</td></tr><tr><td>Al Jazeera English</td><td class="ok">OK (25 items)</td></tr><tr><td>South China Morning Post</td><td class="ok">OK (50 items)</td></tr><tr><td>CBC News</td><td class="ok">OK (20 items)</td></tr><tr><td>Seattle Times</td><td class="fail">FAILED (HTTP 202)</td></tr><tr><td>Financial Times</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Los Angeles Times</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>USA Today</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Ars Technica</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>New Scientist</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Reveal</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>MarketWatch</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Der Spiegel International</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>El Pais English</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>ABC Australia</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Miami Herald</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Chicago Tribune</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Houston Chronicle</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>San Francisco Chronicle</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Sacramento Bee</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Barron&#x27;s</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Sueddeutsche Zeitung</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr><tr><td>Intelligence Online</td><td class="fail">ENV-BLOCKED (this sandbox blocks this hostname; untested here, likely fine on your own machine)</td></tr></table>
+  </details>
+  <footer>
+    Tier 1 heuristics only. Rolling 72-hour window shown; full history accumulates in scoop_tracker.db
+    for future reporter-authority scoring and publishing-pattern baselines. High score = worth a human's attention,
+    not a verified scoop.
+  </footer>
+</div>
+</body>
+</html>
