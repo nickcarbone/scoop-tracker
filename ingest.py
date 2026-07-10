@@ -12,7 +12,19 @@ import requests
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"}
 
-def fetch_feed(source_name, url, timeout=10):
+import re
+
+def _fix_stray_ampersands(raw_bytes):
+    """The single most common cause of 'not well-formed (invalid token)' in
+    real-world RSS is a bare & in a title/description that was never escaped to
+    &amp; by whatever CMS generated the feed (Arc Publishing, used by several
+    newspaper chains, is a repeat offender here). This is a text problem, not a
+    dead feed, so it's worth a repair pass before giving up on the source."""
+    text = raw_bytes.decode("utf-8", errors="replace")
+    fixed = re.sub(r"&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)", "&amp;", text)
+    return fixed
+
+def fetch_feed(source_name, url, timeout=15):
     """Fetch and parse one RSS feed. Returns list of normalized entries, or empty list on failure.
 
     Fetches raw bytes via requests first (with a browser UA) rather than letting
@@ -43,7 +55,11 @@ def fetch_feed(source_name, url, timeout=10):
     try:
         feed = feedparser.parse(r.content)
         if feed.bozo and not feed.entries:
-            return entries, f"FAILED (parse error): {str(feed.bozo_exception)[:100]}"
+            # First attempt failed outright — try the repair pass before giving up.
+            fixed = _fix_stray_ampersands(r.content)
+            feed = feedparser.parse(fixed)
+            if feed.bozo and not feed.entries:
+                return entries, f"FAILED (parse error, even after ampersand-repair retry): {str(feed.bozo_exception)[:100]}"
         for e in feed.entries:
             entries.append({
                 "source": source_name,
