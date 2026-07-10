@@ -14,6 +14,68 @@ from enrich import enrich_all
 from score import score_all
 import db
 
+# (bucket_key, max_age_hours, display_label) — checked in order, first match wins.
+# Bucketed by the article's own recency, not by when our pipeline first saw it,
+# so a high-scoring but two-day-old story can no longer sit at the top of a
+# report generated an hour ago.
+RECENCY_BUCKETS = [
+    ("last_6h", 6, "Last 6 Hours"),
+    ("6_24h", 24, "6–24 Hours Ago"),
+    ("24_72h", 72, "24–72 Hours Ago"),
+]
+
+def _effective_timestamp(article):
+    """Best available recency signal for an article: the feed's own
+    published/updated time when the outlet supplied one and feedparser could
+    parse it, falling back to first_seen_at (when our pipeline first ingested
+    the URL) when it didn't. The fallback is a real limitation worth naming,
+    not a nicety — some feeds are inconsistent or silent on dates, and
+    first_seen_at can lag true publish time by up to one 4-hour run cycle.
+    Returns None only if both fields are somehow missing/malformed."""
+    for key in ("published_parsed", "first_seen_at"):
+        raw = article.get(key)
+        if not raw:
+            continue
+        try:
+            return datetime.fromisoformat(raw)
+        except (TypeError, ValueError):
+            continue
+    return None
+
+def bucket_by_recency(articles, now):
+    """Split articles into RECENCY_BUCKETS by age. Articles with no usable
+    timestamp at all (both published_parsed and first_seen_at missing/bad)
+    are dropped into the oldest bucket rather than silently discarded —
+    better to surface them somewhere than to lose them."""
+    buckets = {key: [] for key, _, _ in RECENCY_BUCKETS}
+    for a in articles:
+        ts = _effective_timestamp(a)
+        if ts is None:
+            buckets[RECENCY_BUCKETS[-1][0]].append(a)
+            continue
+        age_hours = max((now - ts).total_seconds() / 3600, 0)  # clamp negative (clock skew / future-dated) to 0
+        for key, max_age, _ in RECENCY_BUCKETS:
+            if age_hours <= max_age:
+                buckets[key].append(a)
+                break
+        else:
+            buckets[RECENCY_BUCKETS[-1][0]].append(a)
+    return buckets
+
+def select_for_bucket(articles, per_source_cap, top_n):
+    """Same per-source-cap logic as before, applied fresh within one bucket —
+    articles are already sorted by total_score DESC coming in from the DB query."""
+    selected = []
+    source_counts = {}
+    for a in articles:
+        c = source_counts.get(a["source"], 0)
+        if c < per_source_cap:
+            selected.append(a)
+            source_counts[a["source"]] = c + 1
+        if len(selected) >= top_n:
+            break
+    return selected
+
 def dedupe(articles):
     seen = set()
     out = []
@@ -24,7 +86,7 @@ def dedupe(articles):
             out.append(a)
     return out
 
-def run_pipeline(db_path="scoop_tracker.db", report_window_hours=72, per_source_cap=8):
+def run_pipeline(db_path="scoop_tracker.db", report_window_hours=72, per_source_cap=8, top_n_per_bucket=20):
     print("=" * 60)
     print("SCOOP TRACKER — scheduled run")
     print("=" * 60)
@@ -54,7 +116,8 @@ def run_pipeline(db_path="scoop_tracker.db", report_window_hours=72, per_source_
 
     print("\n[5/5] Generating report from accumulated history...")
     write_html(conn, feed_status, path="scoop_report.html",
-               window_hours=report_window_hours, per_source_cap=per_source_cap)
+               window_hours=report_window_hours, per_source_cap=per_source_cap,
+               top_n_per_bucket=top_n_per_bucket)
     write_json(conn, window_hours=report_window_hours)
     print("  -> wrote scoop_tracker_output.json and scoop_report.html")
     conn.close()
@@ -67,23 +130,7 @@ def write_json(conn, path="scoop_tracker_output.json", window_hours=72):
     with open(path, "w") as f:
         json.dump(articles, f, indent=2)
 
-def write_html(conn, feed_status, path="scoop_report.html", window_hours=72, top_n=60, per_source_cap=8):
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    all_recent = [a for a in db.recent_articles(conn, hours=window_hours, limit=5000) if a["total_score"] > 0]
-    total_flagged = len(all_recent)
-
-    selected = []
-    source_counts = {}
-    for a in all_recent:
-        c = source_counts.get(a["source"], 0)
-        if c < per_source_cap:
-            selected.append(a)
-            source_counts[a["source"]] = c + 1
-        if len(selected) >= top_n:
-            break
-
-    total_in_window = len(db.recent_articles(conn, hours=window_hours, limit=100000))
-
+def render_rows(selected):
     rows = []
     for i, a in enumerate(selected, 1):
         cats = a.get("matched_categories", [])
@@ -99,6 +146,36 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72, top
             <div class="tags">{cat_tags}</div>
           </td>
         </tr>""")
+    return "".join(rows)
+
+def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
+                top_n_per_bucket=20, per_source_cap=8):
+    now_dt = datetime.now(timezone.utc)
+    now = now_dt.strftime("%Y-%m-%d %H:%M UTC")
+    all_recent = [a for a in db.recent_articles(conn, hours=window_hours, limit=5000) if a["total_score"] > 0]
+    total_flagged = len(all_recent)
+
+    # Bucket first, then apply the per-source cap fresh within each bucket —
+    # a prolific source can take up to per_source_cap slots in EACH time
+    # window, not just once across the whole report. That's a deliberate
+    # choice (a source shouldn't be penalized for being active in more than
+    # one window) but it does mean total items shown can exceed what the old
+    # single-list report showed for the same per_source_cap value.
+    buckets = bucket_by_recency(all_recent, now_dt)
+    bucket_sections = []
+    total_shown = 0
+    for key, _, label in RECENCY_BUCKETS:
+        bucket_articles = buckets[key]
+        selected = select_for_bucket(bucket_articles, per_source_cap, top_n_per_bucket)
+        total_shown += len(selected)
+        rows_html = render_rows(selected)
+        bucket_sections.append(f"""
+  <section class="bucket">
+    <h2 class="bucket-title">{esc(label)} <span class="bucket-count">({len(selected)} of {len(bucket_articles)} flagged)</span></h2>
+    <table><tbody>{rows_html if rows_html else '<tr><td class="empty" colspan="3">Nothing flagged in this window.</td></tr>'}</tbody></table>
+  </section>""")
+
+    total_in_window = len(db.recent_articles(conn, hours=window_hours, limit=100000))
 
     feed_rows = "".join(
         f'<tr><td>{esc(s)}</td><td class="{"ok" if status.startswith("OK") else "fail"}">{esc(status)}</td></tr>'
@@ -136,6 +213,10 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72, top
   .tags {{ margin-top: 6px; }}
   .tag {{ display: inline-block; font-size: 10px; letter-spacing: 0.5px; text-transform: uppercase; padding: 2px 7px; border-radius: 2px; margin-right: 5px; border: 1px solid var(--line); color: var(--ink); }}
   .tag-exclusivity {{ border-color: var(--red); color: var(--red); }}
+  .bucket {{ margin-top: 26px; }}
+  .bucket-title {{ font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 1px; color: var(--paper); border-bottom: 1px solid var(--line); padding-bottom: 6px; margin: 0 0 4px; }}
+  .bucket-count {{ font-family: 'Courier Prime', monospace; font-size: 11px; color: var(--dim); letter-spacing: 0; text-transform: none; }}
+  .empty {{ color: var(--dim); font-size: 12px; padding: 12px 8px; border-bottom: none; }}
   details {{ margin-top: 30px; border-top: 1px solid var(--line); padding-top: 14px; }}
   summary {{ cursor: pointer; color: var(--dim); font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }}
   .fail {{ color: #6b5a52; }}
@@ -152,10 +233,10 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72, top
       <div>Generated <b>{now}</b></div>
       <div><b>{total_in_window}</b> articles in window</div>
       <div><b>{total_flagged}</b> flagged (score &gt; 0)</div>
-      <div><b>{len(selected)}</b> shown (capped at {per_source_cap}/source)</div>
+      <div><b>{total_shown}</b> shown (capped at {per_source_cap}/source per time window)</div>
     </div>
   </header>
-  <table><tbody>{''.join(rows)}</tbody></table>
+  {''.join(bucket_sections)}
   <details>
     <summary>Feed status, this run ({sum(1 for _,s in feed_status if s.startswith('OK'))}/{len(feed_status)} working)</summary>
     <table style="margin-top:10px;">{feed_rows}</table>
@@ -176,5 +257,8 @@ if __name__ == "__main__":
     parser.add_argument("--db", default="scoop_tracker.db")
     parser.add_argument("--window-hours", type=int, default=72)
     parser.add_argument("--per-source-cap", type=int, default=8)
+    parser.add_argument("--top-n-per-bucket", type=int, default=20,
+                         help="Max stories shown per recency section (Last 6h / 6-24h / 24-72h), after the per-source cap.")
     args = parser.parse_args()
-    run_pipeline(db_path=args.db, report_window_hours=args.window_hours, per_source_cap=args.per_source_cap)
+    run_pipeline(db_path=args.db, report_window_hours=args.window_hours,
+                 per_source_cap=args.per_source_cap, top_n_per_bucket=args.top_n_per_bucket)

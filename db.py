@@ -18,6 +18,7 @@ CREATE TABLE IF NOT EXISTS articles (
     title TEXT,
     summary TEXT,
     published TEXT,
+    published_parsed TEXT,
     first_seen_at TEXT,
     byline_count INTEGER,
     author_names TEXT,
@@ -47,7 +48,19 @@ def connect(db_path="scoop_tracker.db"):
     conn = sqlite3.connect(db_path)
     conn.execute("PRAGMA journal_mode=WAL")
     conn.executescript(SCHEMA)
+    _migrate(conn)
     return conn
+
+def _migrate(conn):
+    """CREATE TABLE IF NOT EXISTS only helps brand-new databases — the real
+    production db.py already committed to the repo predates published_parsed,
+    so existing installs need an explicit ALTER TABLE. Existing rows get NULL,
+    which recent_articles()/main.py treat as 'no known publish time, fall back
+    to first_seen_at' rather than a query error."""
+    cols = {row[1] for row in conn.execute("PRAGMA table_info(articles)")}
+    if "published_parsed" not in cols:
+        conn.execute("ALTER TABLE articles ADD COLUMN published_parsed TEXT")
+        conn.commit()
 
 def known_urls(conn):
     """Return the set of URLs already persisted — used to skip re-enriching
@@ -77,7 +90,7 @@ def upsert_articles(conn, scored_articles):
         cats = sorted(set(h["category"] for h in a.get("score_hits", [])))
         rows.append((
             a["link"], a["source"], a["title"], a.get("summary", ""),
-            a.get("published", ""), now, a.get("byline_count", 1),
+            a.get("published", ""), a.get("published_parsed"), now, a.get("byline_count", 1),
             json.dumps(a.get("author_names", [])), a.get("date_published", ""),
             a.get("word_count"), int(a.get("found_jsonld", False)),
             a["keyword_score"], a["byline_bonus"], a["total_score"],
@@ -85,10 +98,10 @@ def upsert_articles(conn, scored_articles):
         ))
     conn.executemany(
         """INSERT OR IGNORE INTO articles
-           (url, source, title, summary, published, first_seen_at, byline_count,
+           (url, source, title, summary, published, published_parsed, first_seen_at, byline_count,
             author_names, date_published, word_count, found_jsonld, keyword_score,
             byline_bonus, total_score, matched_categories)
-           VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+           VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
         rows,
     )
     conn.commit()
@@ -115,7 +128,7 @@ def recent_articles(conn, hours=72, limit=1000):
     cutoff = datetime.now(timezone.utc).timestamp() - hours * 3600
     rows = conn.execute(
         "SELECT url, source, title, byline_count, author_names, total_score, "
-        "matched_categories, first_seen_at FROM articles "
+        "matched_categories, first_seen_at, published_parsed FROM articles "
         "ORDER BY total_score DESC LIMIT ?", (limit * 3,)  # overfetch, filter by time below
     ).fetchall()
     out = []
@@ -129,7 +142,7 @@ def recent_articles(conn, hours=72, limit=1000):
                 "link": r[0], "source": r[1], "title": r[2], "byline_count": r[3],
                 "author_names": json.loads(r[4]) if r[4] else [],
                 "total_score": r[5], "matched_categories": json.loads(r[6]) if r[6] else [],
-                "first_seen_at": r[7],
+                "first_seen_at": r[7], "published_parsed": r[8],
             })
     return out[:limit]
 
