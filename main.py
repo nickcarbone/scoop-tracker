@@ -6,6 +6,7 @@ This is what makes a scheduled job's footprint sane instead of growing linearly
 with total historical volume, and it's what accumulates the history Tier 2 needs.
 """
 import json
+import re
 import html as html_lib
 import argparse
 from datetime import datetime, timezone
@@ -41,6 +42,110 @@ def _effective_timestamp(article):
         except (TypeError, ValueError):
             continue
     return None
+
+# --- Story-level deduplication --------------------------------------------
+# Problem: per_source_cap prevents one prolific *source* from crowding out a
+# bucket, but does nothing when N different sources all cover the same
+# underlying event (e.g. a single filed lawsuit picked up by wire services) —
+# each write-up scores independently, so identical non-exclusive coverage can
+# fill 8+ consecutive rows. Clustering groups those together before bucketing/
+# capping, so only one representative shows per distinct story, with the rest
+# listed as "also covered by."
+#
+# Similarity is deliberately loose (paraphrase-tolerant) token-overlap on
+# normalized titles, not embeddings — good enough at rolling-window scale and
+# doesn't pull in an ML dependency for a personal project. "Loose" is a
+# deliberate choice here (per discussion) and carries a real risk: it can
+# merge two distinct-but-related stories that happen to share a lot of
+# vocabulary (e.g. two separate Apple/OpenAI stories in the same week).
+# Worth tightening _STORY_CLUSTER_THRESHOLD if that starts happening in
+# practice — this hasn't been validated against a real false-merge yet.
+_STOPWORDS = {
+    "the", "a", "an", "of", "in", "on", "to", "for", "and", "or", "is", "are",
+    "was", "were", "by", "with", "at", "from", "as", "its", "it", "this",
+    "that", "after", "over", "amid", "says", "say", "said", "into", "new",
+    "up", "out", "than", "will", "be", "has", "have", "had", "not", "but",
+}
+_STORY_CLUSTER_THRESHOLD = 0.35  # loose, per working-style discussion
+
+def _title_tokens(title):
+    cleaned = re.sub(r"[^a-z0-9\s]", " ", title.lower())
+    return {t for t in cleaned.split() if t not in _STOPWORDS and len(t) > 2}
+
+def _jaccard(a, b):
+    if not a or not b:
+        return 0.0
+    return len(a & b) / len(a | b)
+
+def cluster_articles(articles, threshold=_STORY_CLUSTER_THRESHOLD):
+    """Union-find clustering on title token overlap. O(n^2) comparisons —
+    fine at rolling-window scale (low hundreds of articles). Revisit with
+    blocking (e.g. by day, or by shared proper-noun entities) if the window
+    ever grows large enough for the O(n^2) pass to become a real cost —
+    untested at that scale, not a hypothetical problem to pre-solve now."""
+    n = len(articles)
+    tokens = [_title_tokens(a["title"]) for a in articles]
+    parent = list(range(n))
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    def union(x, y):
+        px, py = find(x), find(y)
+        if px != py:
+            parent[px] = py
+
+    for i in range(n):
+        for j in range(i + 1, n):
+            if _jaccard(tokens[i], tokens[j]) >= threshold:
+                union(i, j)
+
+    groups = {}
+    for i in range(n):
+        groups.setdefault(find(i), []).append(articles[i])
+    return list(groups.values())
+
+def _timestamp_sort_key(article):
+    """Earliest-first ordering for representative selection. An article with
+    no usable timestamp sorts last — missing data shouldn't win 'who had it
+    first' by default."""
+    ts = _effective_timestamp(article)
+    return ts if ts is not None else datetime.max.replace(tzinfo=timezone.utc)
+
+def select_representative(cluster):
+    """Per working-style discussion: an outlet with an actual headline label
+    (a real 'Scoop:'/'First on'/'Exclusive:' claim, not just body-text
+    mentioning the same lawsuit everyone has) wins regardless of timestamp —
+    that's an editorial claim, not wire-pickup. Among those (or if none
+    exist), earliest timestamp wins, as the closest available proxy for
+    who actually had it first — acknowledged as only as good as each feed's
+    own published/updated timestamp, which can be a same-hour wire-pickup
+    race rather than a meaningful gap."""
+    labeled = [a for a in cluster if "headline_label" in a.get("matched_categories", [])]
+    pool = labeled if labeled else cluster
+    return min(pool, key=_timestamp_sort_key)
+
+def collapse_to_stories(articles):
+    """Cluster all flagged articles across the *whole* window, not per-bucket
+    — a story can straddle a bucket boundary (e.g. one outlet's write-up
+    timestamped at 5h59m, another at 6h01m), and per-bucket clustering would
+    silently miss that split. Returns one representative per cluster, each
+    carrying _cluster_others/_cluster_size for display, sorted by
+    total_score desc so downstream bucket_by_recency + select_for_bucket
+    behave exactly as they did on the uncollapsed list."""
+    clusters = cluster_articles(articles)
+    reps = []
+    for cluster in clusters:
+        rep = dict(select_representative(cluster))
+        others = [a for a in cluster if a["link"] != rep["link"]]
+        rep["_cluster_others"] = others
+        rep["_cluster_size"] = len(cluster)
+        reps.append(rep)
+    reps.sort(key=lambda a: a["total_score"], reverse=True)
+    return reps
 
 def bucket_by_recency(articles, now):
     """Split articles into RECENCY_BUCKETS by age. Articles with no usable
@@ -146,8 +251,22 @@ def render_rows(selected, new_urls=frozenset()):
         cats = a.get("matched_categories", [])
         cat_tags = "".join(f'<span class="tag tag-{c}">{c.replace("_"," ")}</span>' for c in cats)
         byline_note = f'{a["byline_count"]} bylines' if a["byline_count"] > 1 else "1 byline"
-        is_new = a["link"] in new_urls
+        others = a.get("_cluster_others", [])
+        # "New" if the representative OR any collapsed duplicate was newly
+        # scored this run — a story is new-to-you even if the specific
+        # outlet showing as the representative happened to be seen earlier.
+        is_new = a["link"] in new_urls or any(o["link"] in new_urls for o in others)
         new_badge = '<span class="badge-new">NEW</span> ' if is_new else ''
+
+        also_covered_html = ""
+        if others:
+            other_links = ", ".join(
+                f'<a href="{esc(o["link"])}" target="_blank">{esc(o["source"])}</a>'
+                for o in others[:8]
+            )
+            overflow = f" +{len(others) - 8} more" if len(others) > 8 else ""
+            also_covered_html = f'<div class="also-covered">Also covered by: {other_links}{overflow}</div>'
+
         rows.append(f"""
         <tr class="{'is-new' if is_new else ''}">
           <td class="rank">{i:02d}</td>
@@ -156,6 +275,7 @@ def render_rows(selected, new_urls=frozenset()):
             {new_badge}<a href="{esc(a['link'])}" target="_blank">{esc(a['title'])}</a>
             <div class="meta">{esc(a['source'])} &middot; {byline_note}{(' &middot; ' + esc(', '.join(a['author_names'][:3]))) if a.get('author_names') else ''}</div>
             <div class="tags">{cat_tags}</div>
+            {also_covered_html}
           </td>
         </tr>""")
     return "".join(rows)
@@ -167,13 +287,23 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
     all_recent = [a for a in db.recent_articles(conn, hours=window_hours, limit=5000) if a["total_score"] > 0]
     total_flagged = len(all_recent)
 
+    # Collapse same-story duplicates across sources before bucketing — see
+    # collapse_to_stories() for why this has to happen across the whole
+    # window rather than inside bucket_by_recency. Deliberately NOT applied
+    # to write_json below: the JSON output stays the full, uncollapsed list
+    # since downstream uses (Tier 2 GDELT convergence, retuning) need
+    # per-article granularity, not the report's display-level collapsing.
+    story_representatives = collapse_to_stories(all_recent)
+    total_stories = len(story_representatives)
+    total_collapsed = total_flagged - total_stories
+
     # Bucket first, then apply the per-source cap fresh within each bucket —
     # a prolific source can take up to per_source_cap slots in EACH time
     # window, not just once across the whole report. That's a deliberate
     # choice (a source shouldn't be penalized for being active in more than
     # one window) but it does mean total items shown can exceed what the old
     # single-list report showed for the same per_source_cap value.
-    buckets = bucket_by_recency(all_recent, now_dt)
+    buckets = bucket_by_recency(story_representatives, now_dt)
     bucket_sections = []
     total_shown = 0
     total_new_shown = 0
@@ -227,6 +357,8 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
   .tags {{ margin-top: 6px; }}
   .tag {{ display: inline-block; font-size: 10px; letter-spacing: 0.5px; text-transform: uppercase; padding: 2px 7px; border-radius: 2px; margin-right: 5px; border: 1px solid var(--line); color: var(--ink); }}
   .tag-exclusivity {{ border-color: var(--red); color: var(--red); }}
+  .also-covered {{ color: var(--dim); font-size: 11px; margin-top: 6px; }}
+  .also-covered a {{ color: var(--ink); }}
   tr.is-new {{ background: rgba(212, 161, 61, 0.07); }}
   .badge-new {{ display: inline-block; background: var(--gold); color: #171513; font-family: 'Bebas Neue', sans-serif; font-size: 11px; letter-spacing: 1px; padding: 2px 6px; border-radius: 2px; vertical-align: middle; margin-right: 2px; }}
   .bucket {{ margin-top: 26px; }}
@@ -249,6 +381,7 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
       <div>Generated <b>{now}</b></div>
       <div><b>{total_in_window}</b> articles in window</div>
       <div><b>{total_flagged}</b> flagged (score &gt; 0)</div>
+      <div><b>{total_stories}</b> distinct stories ({total_collapsed} duplicate write-ups collapsed)</div>
       <div><b>{total_shown}</b> shown (capped at {per_source_cap}/source per time window)</div>
       <div><b>{total_new_shown}</b> new this run</div>
     </div>
