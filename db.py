@@ -124,25 +124,31 @@ def _extract_count(status):
 
 def recent_articles(conn, hours=72, limit=1000):
     """Pull articles first seen within the last N hours, for report generation.
-    Keeps the report focused on what's current while the DB retains everything."""
+    Keeps the report focused on what's current while the DB retains everything.
+
+    Now also returns `summary` (added 2026-07-16): story-clustering in main.py
+    was missing genuine duplicates because title-only token overlap falls apart
+    when two outlets frame the same event around different specific facts.
+    Clustering needs the summary text to catch those; title alone wasn't enough."""
     cutoff = datetime.now(timezone.utc).timestamp() - hours * 3600
     rows = conn.execute(
-        "SELECT url, source, title, byline_count, author_names, total_score, "
+        "SELECT url, source, title, summary, byline_count, author_names, total_score, "
         "matched_categories, first_seen_at, published_parsed FROM articles "
         "ORDER BY total_score DESC LIMIT ?", (limit * 3,)  # overfetch, filter by time below
     ).fetchall()
     out = []
     for r in rows:
         try:
-            seen_ts = datetime.fromisoformat(r[7]).timestamp()
+            seen_ts = datetime.fromisoformat(r[8]).timestamp()
         except (ValueError, TypeError):
             continue
         if seen_ts >= cutoff:
             out.append({
-                "link": r[0], "source": r[1], "title": r[2], "byline_count": r[3],
-                "author_names": json.loads(r[4]) if r[4] else [],
-                "total_score": r[5], "matched_categories": json.loads(r[6]) if r[6] else [],
-                "first_seen_at": r[7], "published_parsed": r[8],
+                "link": r[0], "source": r[1], "title": r[2], "summary": r[3],
+                "byline_count": r[4],
+                "author_names": json.loads(r[5]) if r[5] else [],
+                "total_score": r[6], "matched_categories": json.loads(r[7]) if r[7] else [],
+                "first_seen_at": r[8], "published_parsed": r[9],
             })
     return out[:limit]
 

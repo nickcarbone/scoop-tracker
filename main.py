@@ -66,25 +66,67 @@ _STOPWORDS = {
     "that", "after", "over", "amid", "says", "say", "said", "into", "new",
     "up", "out", "than", "will", "be", "has", "have", "had", "not", "but",
 }
-_STORY_CLUSTER_THRESHOLD = 0.35  # loose, per working-style discussion
+_STORY_CLUSTER_THRESHOLD = 0.35  # unchanged number -- see _overlap_coefficient
+                                   # docstring for why the METRIC changed instead.
 
-def _title_tokens(title):
-    cleaned = re.sub(r"[^a-z0-9\s]", " ", title.lower())
+_HTML_TAG_RE = re.compile(r"<[^>]+>")
+
+def _cluster_tokens(article):
+    """Tokens used for story-clustering similarity. Combines title with the RSS
+    summary -- title alone was missing genuine duplicates.
+
+    Diagnosed 2026-07-16 against two real same-story misses in production: NBC
+    vs. The Verge on the same Tesla/NTSB crash report, and Axios vs. ABC on the
+    same White House teleprompter/Kalshi story. In both cases the outlets led
+    with different facts about the identical event (one names the investigating
+    agency, the other the crash mechanism; one names the prediction-market
+    platform "Kalshi," the other describes the same fact as generic "betting"),
+    so title-only token overlap landed well under threshold despite being
+    genuine duplicates.
+
+    Uses `summary`, not the enriched `article_body_snippet`, because summary is
+    populated for every ingested article regardless of enrichment outcome --
+    the body snippet only exists for the ~half of articles where JSON-LD
+    extraction succeeds (see README known-limitations #3), so keying clustering
+    on it would fix some sources' duplicates and not others', inconsistently."""
+    text = _HTML_TAG_RE.sub(" ", f"{article.get('title', '')} {article.get('summary', '')}")
+    cleaned = re.sub(r"[^a-z0-9\s]", " ", text.lower())
     return {t for t in cleaned.split() if t not in _STOPWORDS and len(t) > 2}
 
-def _jaccard(a, b):
+def _overlap_coefficient(a, b):
+    """Shared tokens over the size of the SMALLER set, not the union (i.e. not
+    Jaccard). This was a deliberate correction, not the original plan: adding
+    summary text to plain Jaccard was tested first and made both known misses
+    WORSE (Tesla/NTSB: 0.188 -> 0.123; Kalshi: 0.286 -> 0.260), because a
+    longer, more detailed summary on one side (extra names, dollar figures,
+    agency specifics) inflates the union faster than genuinely shared
+    vocabulary grows the intersection -- Jaccard punishes exactly the kind of
+    one-sided detail real summaries have. Overlap coefficient isn't diluted by
+    that, and empirically: it fixed the Kalshi miss (0.481, clears threshold)
+    with no observed new false-merge risk against a real non-duplicate control
+    pair (two distinct AI-safety-policy stories from different companies,
+    0.211 -- well under threshold).
+
+    The Tesla/NTSB pair was tested against a reconstructed, unverified Verge
+    title/summary (theverge.com blocked direct fetch and didn't surface exact
+    text via search) and scored 0.292 -- still just under threshold. Not
+    shipped as a confirmed fix for that specific pair, only as a strict
+    improvement with no downside shown. Worth re-checking against the real
+    Verge text once available, and worth revisiting the 0.35 threshold itself
+    only once there's real (not reconstructed) data on where the margin
+    against false merges actually sits."""
     if not a or not b:
         return 0.0
-    return len(a & b) / len(a | b)
+    return len(a & b) / min(len(a), len(b))
 
 def cluster_articles(articles, threshold=_STORY_CLUSTER_THRESHOLD):
-    """Union-find clustering on title token overlap. O(n^2) comparisons —
-    fine at rolling-window scale (low hundreds of articles). Revisit with
-    blocking (e.g. by day, or by shared proper-noun entities) if the window
-    ever grows large enough for the O(n^2) pass to become a real cost —
-    untested at that scale, not a hypothetical problem to pre-solve now."""
+    """Union-find clustering on title+summary token overlap coefficient. O(n^2)
+    comparisons — fine at rolling-window scale (low hundreds of articles).
+    Revisit with blocking (e.g. by day, or by shared proper-noun entities) if
+    the window ever grows large enough for the O(n^2) pass to become a real
+    cost — untested at that scale, not a hypothetical problem to pre-solve now."""
     n = len(articles)
-    tokens = [_title_tokens(a["title"]) for a in articles]
+    tokens = [_cluster_tokens(a) for a in articles]
     parent = list(range(n))
 
     def find(x):
@@ -100,7 +142,7 @@ def cluster_articles(articles, threshold=_STORY_CLUSTER_THRESHOLD):
 
     for i in range(n):
         for j in range(i + 1, n):
-            if _jaccard(tokens[i], tokens[j]) >= threshold:
+            if _overlap_coefficient(tokens[i], tokens[j]) >= threshold:
                 union(i, j)
 
     groups = {}
