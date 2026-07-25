@@ -71,10 +71,37 @@ CBC News, Seattle Times.
 
 **Sandbox-blocked here, added anyway (untested in this environment, standard URLs, likely fine on your
 machine):** Financial Times, Los Angeles Times, USA Today, Ars Technica, New Scientist, Reveal, MarketWatch,
-Der Spiegel International, El Pais English, ABC Australia, Miami Herald, Chicago Tribune, Houston Chronicle,
+Der Spiegel International, ABC Australia, Miami Herald, Chicago Tribune, Houston Chronicle,
 San Francisco Chronicle, Sacramento Bee, Barron's, Sueddeutsche Zeitung, Intelligence Online.
 
+### Added this round (Western Europe expansion, 2026-07-25)
+
+**Confirmed working (200, real feed content):** Byline Times, openDemocracy, The Ferret, Lighthouse Reports,
+France24 English, Euronews English, Irish Times. Byline Times, openDemocracy, The Ferret, and especially
+Lighthouse Reports (a pan-European investigative collective) were prioritized specifically for mission fit —
+these are scoop/investigative outlets, not general wire feeds, unlike France24/Euronews/Irish Times which
+broaden coverage but skew more general-news.
+
+**Sandbox-blocked here, added anyway:** Politico Europe, Deutsche Welle English, Le Monde English.
+
+**El Pais English** — moved out of the dead-end list below. The correct current path
+(`elpais.com/rss/elpais/inenglish.xml`) was found; it's sandbox-blocked here (standard hostname block,
+untested-here-likely-fine treatment), not actually dead.
+
+**Correction: Le Monde English reclassification.** Previously grouped in the Discarded table below with
+Süddeutsche Zeitung under "non-English sources provide no value yet." That reasoning was wrong for Le Monde
+specifically — `lemonde.fr/en` is a genuine English-language edition, not a translation-needed feed, so it
+scores normally under the existing English-only heuristics like any other source here. Süddeutsche Zeitung's
+original flagging stands — it has no English edition, so it will keep scoring 0 until translated marker sets
+exist (deliberately sequenced for later, not this round).
+
 ## Discarded ❌ (this round)
+
+| Source | Why |
+|---|---|
+| The Bureau of Investigative Journalism | No discoverable RSS at the site's declared feed-discovery path, `/feed`, or `/wp-json/` as of this test. Strong mission fit if a working feed turns up — worth a manual look at their site rather than more URL-guessing, not a real "no." |
+| Tortoise Media | Same — no RSS `<link>` tag on their homepage at all, guessed paths 404. May have dropped public RSS entirely; worth a manual check. |
+| Finance Uncovered | Same — no discoverable feed. Worth a manual check. |
 
 | Source | Why |
 |---|---|
@@ -90,7 +117,7 @@ San Francisco Chronicle, Sacramento Bee, Barron's, Sueddeutsche Zeitung, Intelli
 | Breaking Defense | 403, outlet's own block (small response body, not the sandbox's). |
 | Lawfare | 403, outlet's own block. |
 | Boston Globe, Atlanta Journal-Constitution, Philadelphia Inquirer | 404 on the paths tried. Also worth being honest about scope here: even if fixed, adding every regional metro daily risks diluting a scoops/exclusives tracker with routine local news that rarely produces cross-topic must-reads. Texas Tribune, Miami Herald, and Seattle Times already give reasonable regional-investigative coverage — recommend not chasing all nine metro dailies down, only adding more if a specific one has a track record you actually want (e.g. Tribune's investigative unit specifically). |
-| Le Monde (English), Süddeutsche Zeitung (German) | **Flagging a real design issue, not just a fetch issue**: even where these are reachable, adding non-English sources right now provides no value — every Tier 1 heuristic (score.py) is an English-language regex. A German or French article will simply never match anything and will sit in the ingested pile scoring zero, cluttering the pipeline without being wrong, exactly. If international coverage matters to you, the heuristics need translated marker sets per language before non-English sources are worth adding — not just a working feed URL. Süddeutsche in particular has no English edition at all, which makes this issue unavoidable rather than a translation-of-convenience question. |
+| Süddeutsche Zeitung (German) | **Flagging a real design issue, not just a fetch issue**: even where this is reachable, adding non-English sources right now provides no value — every Tier 1 heuristic (score.py) is an English-language regex. A German article will simply never match anything and will sit in the ingested pile scoring zero, cluttering the pipeline without being wrong, exactly. Süddeutsche has no English edition at all, which makes this issue unavoidable rather than a translation-of-convenience question. If international coverage matters to you, the heuristics need translated marker sets per language before more non-English sources are worth adding — not just a working feed URL. *(Correction, 2026-07-25: Le Monde English was previously grouped in this row in error — its `/en` edition is genuine English content, not a translation gap. Reclassified to Added above.)* |
 | Law360 | No public RSS found — subscription-gated legal trade press, consistent with its business model (this is the same category as The Information's and AP's bot-blocking, but here it looks like there's genuinely no public feed rather than a scraping obstacle). |
 
 ## Note on duplication

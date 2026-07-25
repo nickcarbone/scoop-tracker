@@ -74,6 +74,17 @@
     {"source": "Sacramento Bee", "url": "https://www.sacbee.com/latest-news/rss/"},
     {"source": "Barron's", "url": "https://www.barrons.com/feed/rssbarrons"},
     {"source": "Sueddeutsche Zeitung", "url": "https://rss.sueddeutsche.de/rss/Topthemen"},
-    {"source": "Intelligence Online", "url": "https://www.intelligenceonline.com/rss"}
+    {"source": "Intelligence Online", "url": "https://www.intelligenceonline.com/rss"},
+    {"source": "Byline Times", "url": "https://bylinetimes.com/feed/"},
+    {"source": "openDemocracy", "url": "https://www.opendemocracy.net/en/feed/"},
+    {"source": "The Ferret", "url": "https://www.theferret.scot/latest/rss/"},
+    {"source": "Lighthouse Reports", "url": "https://www.lighthousereports.com/feed/"},
+    {"source": "France24 English", "url": "https://www.france24.com/en/rss"},
+    {"source": "Euronews English", "url": "https://www.euronews.com/rss?level=theme&name=news"},
+    {"source": "Irish Times", "url": "https://www.irishtimes.com/arc/outboundfeeds/rss/"},
+    {"source": "Politico Europe", "url": "https://www.politico.eu/feed/"},
+    {"source": "Deutsche Welle English", "url": "https://rss.dw.com/xml/rss-en-all"},
+    {"source": "Le Monde English", "url": "https://www.lemonde.fr/en/rss/une.xml"},
+    {"source": "El Pais English", "url": "https://elpais.com/rss/elpais/inenglish.xml"}
   ]
 }
