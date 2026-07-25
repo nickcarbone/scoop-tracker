@@ -1,0 +1,53 @@
+name: Scoop Tracker — Daily Log
+
+on:
+  schedule:
+    # Once/day, 23:50 UTC -- deliberately just before midnight rollover, and
+    # after the day's last 4-hourly pipeline run (scoop-tracker.yml runs at
+    # 00/04/08/12/16/20 UTC), so this captures as much of the day as possible.
+    - cron: "50 23 * * *"
+  workflow_dispatch: {}   # manual trigger from the Actions tab
+
+concurrency:
+  group: scoop-tracker-daily-log
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # needed to commit the daily .docx back to the repo
+
+jobs:
+  build-log:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+          # picks up whatever scoop_tracker.db the last scoop-tracker.yml run
+          # already committed -- this job never re-fetches feeds, it only
+          # reads the accumulated DB, which is what keeps it cheap.
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build daily log
+        run: >
+          python3 daily_log.py
+          --db scoop_tracker.db
+          --window-hours 24
+          --per-source-cap 8
+          --top-n-per-bucket 20
+
+      - name: Commit daily log
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "Daily scoop log: $(date -u +'%Y-%m-%d')"
+          file_pattern: "daily_logs/*.docx"
+          commit_user_name: "scoop-tracker-bot"
+          commit_user_email: "actions@users.noreply.github.com"
