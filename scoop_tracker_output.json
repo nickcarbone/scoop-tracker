@@ -596,7 +596,7 @@
     ],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:36:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
@@ -787,7 +787,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:00:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/influencer-sara-gilson-killed-rcna589211",
@@ -804,7 +804,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:37:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/07/25/trump-trade-stock-market-returns-iran-war-inflation-supply-shock-tariffs/",
@@ -1872,7 +1872,7 @@
     ],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://elpais.com/elpais/2020/01/24/inenglish/1579859902_265972.html#?ref=rss&format=simple&link=link",
@@ -2307,6 +2307,102 @@
     "is_new": false
   },
   {
+    "link": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-all-1573-xml-mrss",
+    "source": "Deutsche Welle English",
+    "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
+    "summary": "The attack at a Berlin Pride event is only the most recent incident on a long list where vehicles were used as weapons. The US, Canada, and China also saw similar attacks in recent years.",
+    "byline_count": 2,
+    "author_names": [
+      "Ben Knight",
+      "Richard Connor"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:05:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/ai-midterm-elections-spending-super-pacs-greg-brockman-anthropic-2026-7",
+    "source": "Business Insider",
+    "title": "The AI industry has already spent $65 million ahead of the midterm elections with no signs of slowing down.",
+    "summary": "The AI industry is showing no signs of slowing down as it seeks to use the midterm elections to shape future regulations.",
+    "byline_count": 2,
+    "author_names": [
+      "Bryan Metzger",
+      "Brent D. Griffiths"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:27:02+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/how-to-talk-about-ai-job-interviews-2026-7",
+    "source": "Business Insider",
+    "title": "How to best talk about AI in job interviews \u2014 even if you're skeptical of it",
+    "summary": "During interviews, you may be asked about your experience using AI tools. Here's what to say.",
+    "byline_count": 2,
+    "author_names": [
+      "Tim Paradis",
+      "Madison Hoff"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:34:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+    "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+    "byline_count": 2,
+    "author_names": [
+      "Hugh Schofield",
+      "Michael Sheils McNamee"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:16:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cx2dgl98lxko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "How rapper Aitch's sister inspired him to climb one of the world's toughest peaks",
+    "summary": "The rapper has been taking on challenges to raise awareness and money for the Down's Syndrome Association.",
+    "byline_count": 2,
+    "author_names": [
+      "Eleanor Doyle",
+      "Naomi Clarke"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:40:27+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/travis-kalanick-lake-austin-commute-jet-ski-ride-2026-6",
+    "source": "Business Insider",
+    "title": "Travis Kalanick says he's the only CEO with a 5-minute jet ski commute",
+    "summary": "Instead of hailing a ride from an app, the former Uber CEO now jet skis across Lake Austin. \"Who else do you know is jet-skiing to work?\" he asked.",
+    "byline_count": 2,
+    "author_names": [
+      "Katherine Li",
+      "Henry Chandonnet"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:00:01+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.abc.net.au/news/2026-07-26/sa-museum-melanesian-collection-put-to-sleep/106958238",
     "source": "ABC Australia",
     "title": "Largest display of Melanesian artefacts in Southern Hemisphere 'put to sleep'",
@@ -2320,7 +2416,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:54:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-07-26/sister-of-missing-fisherman-heartbroken-as-search-ends-vic/106953666",
@@ -2336,7 +2432,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:06:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-07-26/runaway-coal-train-hunter-valley/106959762",
@@ -2352,7 +2448,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:14:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/federal-officials-investigating-video-appears-show-man-kicking-sea-lio-rcna589263",
@@ -2368,7 +2464,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:58:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.dw.com/en/india-news-cockroaches-end-protest-after-education-minister-dharmendra-pradhan-resigns/live-78108089?maca=en-rss-en-all-1573-xml-mrss",
@@ -6988,7 +7084,7 @@
     ],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
@@ -7003,7 +7099,7 @@
     ],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/sports/dodgers/story/2026-07-25/jeff-kent-starting-to-feel-like-hall-of-famer",
@@ -7986,6 +8082,1229 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-07-26/nrl-manly-sea-eagles-fozball-cronulla-sharks/106958596",
+    "source": "ABC Australia",
+    "title": "Fozball and finals on the brink as Cronulla maul Manly",
+    "summary": "Manly's revival under Kieran Foran has screeched to a halt in brutal fashion with Cronulla running riot at Brookvale Oval in a 48-10 belting.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T03:37:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-26/commonwealth-games-day-three-live-blog/106959386",
+    "source": "ABC Australia",
+    "title": "Live: Diamonds face early test, McEvoy hits the water for 50m free final",
+    "summary": "Day three of the Commonwealth Games sees the Diamonds face an early test, taking on 2018 gold medallists England, and Cam McEvoy will hit the water for the 50m freestyle final. Follow live.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:24:52+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.dw.com/en/middle-east-no-fresh-us-strikes-on-iran-for-a-second-day/live-78117732?maca=en-rss-en-all-1573-xml-mrss",
+    "source": "Deutsche Welle English",
+    "title": "Middle East: No fresh US strikes on Iran for a second day",
+    "summary": "Two days have passed without any strikes by the US and Iran. Fighting between Yemen's Houthis and Saudi Arabia has added another layer to the complex Middle East crisis. DW has the latest.",
+    "byline_count": 1,
+    "author_names": [
+      "Dharvi Vaid"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:02:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-26/bees-sent-from-wa-to-varroa-mite-ravaged-sa-almond-pollination/106959770",
+    "source": "ABC Australia",
+    "title": "Millions of WA bees trucked across Nullarbor to save South Australian almonds",
+    "summary": "\"Humming\" road trains deliver millions of WA bees to varroa mite-ravaged South Australia to help pollinate almond trees.",
+    "byline_count": 1,
+    "author_names": [
+      "Brianna Melville"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:20:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-26/wa-government-considering-new-gas-fired-power-plant/106959916",
+    "source": "ABC Australia",
+    "title": "WA government considering new gas-fired power plant as coal phases out",
+    "summary": "The state government has confirmed it is investigating building and running a new gas-fired power plant in the south of Perth as it prepares to switch off coal by 2030.",
+    "byline_count": 1,
+    "author_names": [
+      "Lucy Murray"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:02:25+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.irishtimes.com/media/2026/07/26/aughinish-alumina-investigation-puts-spotlight-on-states-grinding-evasion/",
+    "source": "Irish Times",
+    "title": "Aughinish Alumina investigation puts spotlight on State\u2019s \u2018grinding evasion\u2019",
+    "summary": "EU considering adding alumina to its sanctions list in wake of reporting on exports from Co Limerick plant",
+    "byline_count": 1,
+    "author_names": [
+      "Conor Goodman"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:17:05+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-26/us-iran-war-lull-leads-to-hope-for-return-to-negotiations/106959956",
+    "source": "ABC Australia",
+    "title": "Hopes US and Iran will return to negotiating table after lull in hostilities",
+    "summary": "Iran has passed another night without US air strikes, as Washington pauses a war nearing its fifth month and reports emerge that concerns over dwindling munitions are restraining plans for further escalation.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:55:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.dw.com/en/india-news-home-minister-backs-pradhan-after-resignation/live-78117719?maca=en-rss-en-all-1573-xml-mrss",
+    "source": "Deutsche Welle English",
+    "title": "India news: Home minister backs Pradhan after resignation",
+    "summary": "Hours after India's education minister resigned amid youth protests, India's home minister spoke out in his defense. Meanwhile, Cockroach party's leader thanked 'cockroaches' across India. DW has more.",
+    "byline_count": 1,
+    "author_names": [
+      "Mahima Kapoor"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T06:48:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-23-missing/a-78118211?maca=en-rss-en-all-1573-xml-mrss",
+    "source": "Deutsche Welle English",
+    "title": "Vietnamese vessel sinks in South China Sea, 23 missing",
+    "summary": "A Vietnamese-registered cargo ship carrying 62 crew members sank near Yongshu Reef in the South China Sea, one of the world's most important and contested maritime spaces.",
+    "byline_count": 1,
+    "author_names": [
+      "Emmy Sasipornkarn"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:46:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.irishtimes.com/world/middle-east/2026/07/26/us-pauses-nightly-strikes-on-iran-as-war-moves-to-red-sea/",
+    "source": "Irish Times",
+    "title": "US pauses nightly strikes on Iran as war moves to Red Sea",
+    "summary": "Tehran accuses Ukraine of deadly attack on Iranian vessel in Caspian Sea",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:54:51+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.politico.eu/article/attack-on-berlin-pride-parade-leaves-1-dead-16-injured/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "title": "Attack on Berlin pride parade leaves 1 dead, 16 injured",
+    "summary": "The suspected attacker is considered \"to be part of Berlin's Islamist scene,\" according to police.",
+    "byline_count": 1,
+    "author_names": [
+      "Ferdinand Knapp"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:37:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.irishtimes.com/your-money/2026/07/26/our-fixed-term-mortgage-is-coming-to-an-end-what-are-our-options/",
+    "source": "Irish Times",
+    "title": "Our fixed-term mortgage is coming to an end: what are our options?",
+    "summary": "Valuation on your home\u2019s current value can help you access a lower interest rate",
+    "byline_count": 1,
+    "author_names": [
+      "Dominic Coyle"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-07-26/teens-bail-charged-after-alleged-machete-brawl-in-melbourne-cbd/106960064",
+    "source": "ABC Australia",
+    "title": "Teens charged after alleged machete brawl in Melbourne's CBD",
+    "summary": "Police say two people were injured when a fight broke out between two groups of teenagers and young adults near Flinders Station early Sunday morning.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:22:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.irishtimes.com/ireland/2026/07/26/cocaine-regrettably-normalised-among-professional-classes-drew-harris-says/",
+    "source": "Irish Times",
+    "title": "Cocaine \u2018regrettably normalised\u2019 among professional classes, Drew Harris says",
+    "summary": "Former Garda commissioner tells MacGill Summer School of pessimism in winning the battle against drugs",
+    "byline_count": 1,
+    "author_names": [
+      "Mark Hennessy"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:15:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.irishtimes.com/ireland/2026/07/26/e-scooter-driver-killed-in-road-collision/",
+    "source": "Irish Times",
+    "title": "E-scooter driver one of two overnight road deaths",
+    "summary": "Fatal incidents occurred in Meath and Tipperary in early hours of Sunday morning",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:39:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/muenchen/wolfratshausen/penzberg-moschee-freitagsgebet-schild-schmiererei-li.3521469",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Islamfeindlichkeit: Unbekannte bespr\u00fchen Hinweis auf Freitagsgebet",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/07/25/a40220f0-04db-4471-931f-a6aa8ac14324.jpg?rect=0%2C271%2C1536%2C1152&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Das Schild wurde in Penzberg erst vor einer Woche aufgestellt \u2013 zusammen mit Hinweisen auf die christlichen Gottesdienste. Imam Benjamin Idriz spricht von einem \u201eAngriff auf unser Miteinander\u201c.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Andrea Schlaier"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-25T15:16:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/panorama/csd-berlin-li.3521622",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Kriminalit\u00e4t: Angriff auf Berliner CSD: Was wir wissen \u2013 und was nicht",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/07/26/d901be5e-49ec-4513-a07c-7ec69c1497d6.jpg?rect=195%2C0%2C3111%2C2333&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Hunderttausende feiern den Christopher Street Day in Berlin, als ein Auto in die Menge f\u00e4hrt. Die Polizei fahndet nach dem 21-j\u00e4hrigen Abdul B. Wer ist er? Und was wei\u00df man zum Tatverlauf?</p>",
+    "byline_count": 1,
+    "author_names": [
+      "S\u00fcddeutsche Zeitung"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:07:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "title": "One dead and 16 injured as vehicle drives into Berlin Pride crowd",
+    "summary": "Police seek suspect as city\u2019s mayor condemns \u2018attack on our free and open society\u2019",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:05:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/bayern/erwin-huber-80-geburtstag-csu-niederbayern-wadlbeisser-li.3520254",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Erwin Huber wird 80: Wie aus dem Wadlbei\u00dfer ein Querdenker im besten Sinne wurde",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/02/17/f0447d0f-474e-4df1-acd4-60e2830c3938.jpg?rect=768%2C242%2C3232%2C2425&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Er war Generalsekret\u00e4r, Minister, 40 Jahre lang Abgeordneter \u2013 und scheiterte als Parteichef. Erwin Huber hat die CSU \u00fcber Jahrzehnte gepr\u00e4gt, inzwischen als Mahner von der Seite. Am Sonntag wird er 80 Jahre alt.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Johann Osel"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-25T14:09:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.irishtimes.com/crime-law/courts/2026/07/26/woman-gets-barring-order-against-allegedly-abusive-husband-who-blamed-her-for-miscarriage/",
+    "source": "Irish Times",
+    "title": "Woman gets barring order against allegedly abusive husband who blamed her for miscarriage",
+    "summary": "When asked if garda\u00ed had been made aware of alleged assaults, the applicant indicated they had not",
+    "byline_count": 1,
+    "author_names": [
+      "Mary Carolan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T05:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.irishtimes.com/world/europe/2026/07/26/wildfires-in-france-and-spain-force-more-than-300000-people-to-flee-homes/",
+    "source": "Irish Times",
+    "title": "Wildfires in France and Spain force more than 300,000 people to flee homes",
+    "summary": "Bordeaux mayor says fire is \u2018at the gates of the metropolitan area\u2019 while new blaze erupts in Spanish region of Vall d\u2019Uix\u00f3 near Valencia",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:10:13+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/prince-george-birthday-king-charles-andy-burnham-queen-camilla-osteoporosis-9.7282614?cmp=rss",
+    "source": "CBC News",
+    "title": "Prince George just turned 13. Why it\u2019s a \u2018challenging time\u2019 for the 2nd in line to the throne",
+    "summary": "<img alt=\"A teen sits behind a railing as other people sit nearby.\" height=\"349\" src=\"https://i.cbc.ca/ais/fa443bd7-efb0-4ace-8a3a-73f57fdebe4e,1784910556555/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C112%2C2035%2C1144%29%3BResize%3D%28620%29\" title=\"Tennis - Wimbledon - All England Lawn Tennis and Croquet Club, London, Britain - July 12, 2026 Britain&apos;s Prince George in the Royal Box ahead of the final match between Italy&apos;s Jannik Sinner and Germany&apos;s Alexander Zverev REUTERS/Marko Djurica\" width=\"620\" /><p>Prince George is at a point of major transition in his life, as the eldest child of the Prince and Princess of Wales sets off for boarding school in September and public interest grows in the second in line to the throne.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Janet Davison"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/russia-central-asia/article/3361882/russia-asks-north-korea-send-30000-extra-troops-aid-ukraine-war-zelensky?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Russia asks North Korea to send 30,000 extra troops to aid in Ukraine war: Zelensky",
+    "summary": "Ukraine\u2019s President Volodymyr Zelensky has said that Russia has sought an extra 30,000 troops and missile launchers from North Korea to fight his country.\nPreparations for the extra troops are being made in Russia\u2019s Voronezh region near the frontier with Ukraine, Zelensky said in a social media post late Saturday.\nNorth Korea sent thousands of troops to help Russia fight off a Ukrainian counteroffensive in the Kursk region in 2024. It has also provided arms to help Russia\u2019s invasion since...",
+    "byline_count": 1,
+    "author_names": [
+      "Agence France-Presse"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:11:50+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/business/china-business/article/3361876/lower-profit-margins-set-foil-chinese-carmakers-price-war-plans-despite-falling-sales?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Lower profit margins set to foil Chinese carmakers\u2019 price war plans despite falling sales",
+    "summary": "Narrowing profit margins due to higher raw material costs have dealt yet another major blow to China\u2019s carmakers as they face shrinking market demand amid a rollback of purchase subsidies and tax incentives.\nThe dire scenario could also dash Chinese consumers\u2019 hopes for steep discounts, despite carmakers\u2019 efforts to reduce their inventories, according to dealers and analysts.\n\u201cThe crux point is that most carmakers are facing squeezed margins and are unable to offer further price cuts to attract...",
+    "byline_count": 1,
+    "author_names": [
+      "Daniel Ren"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:00:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.lemonde.fr/en/environment/article/2026/07/26/morocco-facing-repeated-heatwaves-and-fears-water-shortages_6755844_114.html",
+    "source": "Le Monde English",
+    "title": "Morocco faces repeated heatwaves and fears water shortages",
+    "summary": "Over the past three months, the country has endured four heatwaves. The resulting lack of water affects not only the population but also agriculture, industry and tourism.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:00:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.lemonde.fr/en/culture/article/2026/07/26/the-strokes-lose-themselves-in-a-sea-of-auto-tune-on-reality-awaits_6755846_30.html",
+    "source": "Le Monde English",
+    "title": "The Strokes lose themselves in a sea of auto-tune on 'Reality Awaits'",
+    "summary": "On their seventh album, the New York band drowns in synthetic artifice, despite delivering two strong tracks.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:00:05+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/middle-east/article/3361888/iran-claims-progress-oman-talks-after-us-halts-air-strikes?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Iran claims progress in Oman talks after US halts air strikes",
+    "summary": "Iran said on Sunday it had made progress in talks with Oman on management of the Strait of Hormuz, the strategic waterway crucial for oil and gas trade that both countries border.\nThe latest talks come after the United States resumed attacks on Iran in an effort to end Tehran\u2019s control of the strait, following a June memorandum of understanding aimed at ending the war that had briefly eased tensions.\nForeign ministry spokesman Esmaeil Baqaei said several rounds of negotiations were held in...",
+    "byline_count": 1,
+    "author_names": [
+      "Agence France-Presse"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:52:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.lemonde.fr/en/international/article/2026/07/25/what-young-israelis-say-about-their-country-its-army-wars-politics-and-religion_6755835_4.html",
+    "source": "Le Monde English",
+    "title": "What young Israelis say about their country, its army, wars, politics and religion",
+    "summary": "War has become a constant backdrop to the lives of Israelis aged 15 to 30 and, for many, the price they must pay to be safe. Le Monde spoke with young people torn between the certainty that they are in the right place and wanderlust.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-25T18:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/radio/day6/snail-mail-subscriptions-9.7272378?cmp=rss",
+    "source": "CBC News",
+    "title": "Snail-mail clubs deliver on the desire for physical letters",
+    "summary": "<img alt=\"A woman&apos;s hands are pictured sliding a letter into a blue envelope.\" height=\"349\" src=\"https://i.cbc.ca/ais/e34c7eb3-19f2-43d8-b0b2-0eec0b42b99c,1784831005813/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C295%2C3600%2C2025%29%3BResize%3D%28620%29\" title=\"Toronto photographer Angela Lewis says her snail-mail club, Bloom Strolling, came about in response to Instagram post asked if other people were craving that nostalgic feeling of snail mail.\" width=\"620\" /><p>Creative entrepreneurs are finding their way into people's hearts \u2014 and mailboxes \u2014 by offering snail-mail subscriptions. Creators, subscribers and academic experts alike say they're tapping into a desire to seek healthier relationships with technology and more personal, tangible \u2014 and tactile \u2014 ways of communicating.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Brandie Weikle"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3361886/noul-third-closest-typhoon-hong-kong-2000-causes-minor-damage-city?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Noul, third-closest typhoon to Hong Kong since 2000, causes minor damage to city",
+    "summary": "Typhoon Noul, which triggered a No 9 signal on Sunday, made the third-closest approach to Hong Kong by a major storm this century, but it caused relatively minor damage in the city despite violent winds rattling buildings throughout the night.\nIt was the first No 9 signal issued since Super Typhoon Ragasa last September, which came within 100km (62 miles) of the city. Noul came within 80km, making it the third closest after Saola at 40km in 2023, and both Hato and Wipha at 60km in 2017 and 2025,...",
+    "byline_count": 1,
+    "author_names": [
+      "Kristen Cheung"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:31:51+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.politico.com/news/2026/07/25/iran-war-gulf-alliance-01012083?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+    "source": "Politico Europe",
+    "title": "Gulf countries want the war to end, but can\u2019t agree on how",
+    "summary": "Some Arab states are \"more on the same page with the U.S. mission than others,\u201d said a Republican aide.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:44:34+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/education/article/3361883/journal-review-eduhk-research-paper-citing-hong-kong-map-without-victoria-harbour?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Journal to review university paper citing Hong Kong map without Victoria Harbour",
+    "summary": "An international journal has said it is looking into concerns raised over a map featured in a paper by an Education University of Hong Kong (EdU) researcher, in which Victoria Harbour was omitted and Kowloon Peninsula was merged with Hong Kong Island.\nA spokesman for the Humanities and Social Sciences Communications journal said on Wednesday that its \u201cassessment is ongoing\u201d.\nMeanwhile, EdU defended the map, saying it was neither a distortion nor an error but a cartographic characteristic based...",
+    "byline_count": 1,
+    "author_names": [
+      "William Yiu"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:00:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/politics/canada-remains-antinuke-road-to-bomb-getting-shorter-9.7283194?cmp=rss",
+    "source": "CBC News",
+    "title": "Canada remains anti-nuke, but its potential path to the bomb is getting shorter",
+    "summary": "<img alt=\"A nuclear plant from the sky. \" height=\"349\" src=\"https://i.cbc.ca/ais/18c5c65f-f707-4839-95fb-5c681344abc8,1760637912537/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3BResize%3D%28620%29\" title=\"Ontario Power Generation&apos;s Pickering Nuclear Power generation station is pictured in May, 2024. Most of Canada&apos;s nuclear sector is currently concentrated in Ontario. A private company is proposing a plant in northern Alberta, the project has drawn criticism from a water advocate in the N.W.T., but nuclear physicist says it is extremely safe.\" width=\"620\" /><p></p>",
+    "byline_count": 1,
+    "author_names": [
+      "Evan Dyer"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:01:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/africa/article/3361891/super-el-nino-africa-facing-mass-migration-us20-billion-damages?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "\u2018Super\u2019 El Nino: Africa facing mass migration, US$20 billion in damages",
+    "summary": "An \u2060impending \u2018super\u2019 El Nino is likely to inflict a combined US$10 billion to US$20 billion of damage \u2060in affected African countries and trigger mass migration from hard-hit areas, the African Development Bank\u2019s (AfDB) top climate expert said.\nForecasters are warning that the El Nino weather pattern \u2013 which often drives severe droughts, flooding and storms in Africa \u2013 could turn into one of the strongest ever seen if current Pacific Ocean warming trends continue. As well as the threat to food...",
+    "byline_count": 1,
+    "author_names": [
+      "Reuters"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:02:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3361884/hong-kong-veterinary-board-pressed-improve-service-amid-logjam-complaints?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hong Kong veterinary board pressed to improve service amid logjam of complaints",
+    "summary": "When Hongkonger Tara Fung brought her eight-month-old Munchkin cat, Yuen Yuen, to a clinic to get spayed in March 2025, she was told two hours later that her pet had died from an allergic reaction to a sedative.\n\u201cWho would have thought she would go in and never come out \u2026 I never got to see her again,\u201d she told the South China Morning Post.\nFung pressed the clinic for explanations and surveillance footage but said she did not receive a proper reply.\n\u201cThe way the clinic\u2019s vet and nurse answered...",
+    "byline_count": 1,
+    "author_names": [
+      "Lo Hoi-ying"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:30:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/07/26/data-centers-electricity-costs-cheaper-7billion-buildout-ai-demand/",
+    "source": "Fortune",
+    "title": "Data centers were actually making electricity costs cheaper, but the $7 trillion buildout with no guaranteed AI demand is threatening the trend",
+    "summary": "From 2015 to 2024, average retail electricity prices decreased by 3.5% for every doubling of data center capacity, new research finds.",
+    "byline_count": 1,
+    "author_names": [
+      "Sasha Rogelberg"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3361890/northern-metropolis-will-make-hong-kong-more-liveable-paul-chan-says?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Northern Metropolis will make Hong Kong more liveable, Paul Chan says",
+    "summary": "Residents of the Northern Metropolis, Hong Kong\u2019s future mega township near the border with Shenzhen, can expect bigger living spaces and improved access to recreational areas, according to the city\u2019s finance chief.\nFinancial Secretary Paul Chan Mo-po also said the government would make the border town a place \u201csuitable for living, working, studying and leisure\u201d, as part of a wider effort to develop Hong Kong as a \u201cliveable city\u201d.\nIn his weekly blog post on Sunday, Chan added that the Northern...",
+    "byline_count": 1,
+    "author_names": [
+      "Ng Kang-chung"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:51:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/science/sugar-in-space-life-on-earth-9.7281908?cmp=rss",
+    "source": "CBC News",
+    "title": "Scientists just found sugar in space. Here's why that matters",
+    "summary": "<img alt=\"A view of the Milky Way.\" height=\"349\" src=\"https://i.cbc.ca/ais/3ae5a5b9-f578-469e-ac52-c53251db5bc5,1784855020725/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C430%2C8256%2C4644%29%3BResize%3D%28620%29\" title=\"The Milky Way photographed by the NASA Artemis II crew from inside the Orion spacecraft on April 7, 2026.\" width=\"620\" /><p>It's a sweet discovery that has the science world talking \u2014 and may help us better understand the origins of life on Earth.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Jillian Kestler-D'Amours"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/people-culture/trending-china/article/3361879/chinese-teen-helps-mum-carry-bricks-construction-site-earn-university-tuition?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Chinese teen helps mum carry bricks at construction site to earn university tuition",
+    "summary": "A secondary school graduate in China, unlike many of her peers who travelled after sitting for the national university entrance exam, chose to work alongside her mother at a construction site.\nTo earn money for her university tuition fees, she carried bricks on her back.\nThe girl, nicknamed Yuanyuan, is the daughter of Wei Yungui, a dedicated labourer at construction sites in southern China\u2019s Guangdong province for the past 16 years, as reported by the Xiaoxiang Morning Herald.\nThe 40-year-old...",
+    "byline_count": 1,
+    "author_names": [
+      "Alice Yan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:00:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/07/26/bridgewater-associates-ex-recruitment-boss-unpopularity-test-hedge-fund-interview-candidates/",
+    "source": "Fortune",
+    "title": "Bridgewater Associates ex-recruitment boss reveals the secret \u2018unpopularity\u2019 interview test he used on hundreds of candidates at the hedge fund",
+    "summary": "Ex-recruitment boss at Ray Dalio's Bridgewater Associates says he'd reject any job candidate who's never walked away from a safe, cushy job",
+    "byline_count": 1,
+    "author_names": [
+      "Orianna Rosa Royle"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:01:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/07/26/jersey-mikes-founder-peter-cancro-125000-loan-football-coach-sub-shop-national-chain/",
+    "source": "Fortune",
+    "title": "The Pete behind Jersey Mike\u2019s was only 17 years old when he borrowed $125,000 to buy the chain\u2014with some help from his high school football coach",
+    "summary": "Peter Cancro had worked at the Jersey Shore sub shop since he was 14; the six-figure loan would be worth $775,000 today.",
+    "byline_count": 1,
+    "author_names": [
+      "Marco Quiroz-Gutierrez"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/07/26/gambling-america-pastime-spend-sports-bets-movies-arts-museums-music/",
+    "source": "Fortune",
+    "title": "Gambling becomes America\u2019s favorite pastime as Americans spend more on sports bets than movies, arts, museums, and music combined",
+    "summary": "Americans wagered $166 billion on sports last year, more than Hollywood, the music industry, books, and museums combined.",
+    "byline_count": 1,
+    "author_names": [
+      "Catherina Gioino"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Tour de France final stage shortened as emergency teams tackle wildfires",
+    "summary": "Sunday\u2019s traditional stage in Paris has been shortened to reduce pressure on emergency services tackling wildfires.",
+    "byline_count": 1,
+    "author_names": [
+      "Adam Hancock"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:55:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/07/26/georgia-power-utility-company-eminent-domain-grid-expansion-data-center/",
+    "source": "Fortune",
+    "title": "\u2018My childhood home is being taken\u2019: Eminent domain for data centers targets properties across a thousand miles of grid expansion in Georgia",
+    "summary": "Nearly 30 residential properties are located along a 35-mile stretch in Georgia where some residents said they have no choice but to sell their homes.",
+    "byline_count": 1,
+    "author_names": [
+      "Joshua Hong"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/7/26/cape-verde-world-cup-star-vozinha-agrees-deal-with-chiles-colo-colo?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Cape Verde World Cup star Vozinha agrees deal with Chile\u2019s Colo Colo",
+    "summary": "The 40-year-old goalkeeper made global headlines after starring in Cape Verde\u2019s historic run at the World Cup.",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:04:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
+    "summary": "Anthony Joshua survives two knockdowns by Albania&#039;s Kristian Prenga before winning the fight in the second round.",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T06:37:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Thousands rally against Tunisia\u2019s president five years after power grab",
+    "summary": "Thousands marched in Tunisia\u2019s capital to demand the resignation of President Kais Saied.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:55:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Israeli settlers set fire to mosque in occupied West Bank",
+    "summary": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:12:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+    "summary": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
+    "byline_count": 1,
+    "author_names": [
+      "Maram Humaid"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:55:10+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Israel debate boils over in the United States",
+    "summary": "How far have US politics - and media - really shifted on the topic of Israel?",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:53:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+    "summary": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
+    "byline_count": 1,
+    "author_names": [
+      "Umut Uras"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:55:30+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "The Cockroach Effect: Modi vs India\u2019s Gen Z",
+    "summary": "Protests by India&#039;s Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:08:52+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/catina-salarno-murder-steven-burns-california-48-hours/",
+    "source": "CBS News",
+    "title": "Student murdered by ex thought she was meeting him one last time",
+    "summary": "Catina Salarno's sister, Nina Salarno, became a prosecutor in California to warn others about a common tactic abusers use.",
+    "byline_count": 1,
+    "author_names": [
+      "Gabriella  Demirdjian"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:23:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/grandparents-raising-grandchildren-sacrificing-retirement-health-2026-7",
+    "source": "Business Insider",
+    "title": "They thought they'd be retiring. Instead, they're grandparenting full time.",
+    "summary": "Vicki and Sal Parisella are among the many US grandparents sacrificing retirement and health to raise grandchildren and keep them out of foster care.",
+    "byline_count": 1,
+    "author_names": [
+      "Noah Sheidlower"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:10:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/ai-becoming-unofficial-third-in-relationships-chatbots-emotional-support-2026-7",
+    "source": "Business Insider",
+    "title": "AI is quietly becoming an unofficial and potentially unwanted 'third' in relationships",
+    "summary": "People are increasingly turning to AI to talk about their relationships, but relying on chatbots can weaken empathy and communication skills.",
+    "byline_count": 1,
+    "author_names": [
+      "Kelsey Vlamis"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:11:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c8dng4lvrvqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Iran's 'sabre-rattling' should not intimidate UK, Wes Streeting says",
+    "summary": "The defence secretary warns Britain \"stands ready to respond to any attacks Iran wishes to wage against this country or our allies\".",
+    "byline_count": 1,
+    "author_names": [
+      "Tom McArthur"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:33:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c36de4jz4e5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Mr Motivator delivers fitness class at care home",
+    "summary": "The 90s TV legend brightens up the day for a group of residents at a facility in West Yorkshire.",
+    "byline_count": 1,
+    "author_names": [
+      "Steve Jones"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-22T07:13:07+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/07/26/why-dont-college-students-read-amherst-college/",
+    "source": "Fortune",
+    "title": "I\u2019ve been teach college students for decades. Most of them can no longer finish a book",
+    "summary": "I assume students will do the reading of long, dense texts, week after week. Lately, that assumption has started to feel naive.",
+    "byline_count": 1,
+    "author_names": [
+      "Austin Sarat"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy9wvln2234o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Wilson makes Leeds debut in defeat by Wrexham",
+    "summary": "Wales attacking midfielder Harry Wilson makes his first outing for Leeds United as they are beaten 3-2 by Wrexham in the club's opening pre-season game.",
+    "byline_count": 1,
+    "author_names": [
+      "Mandeep Sanghera"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T06:24:28+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/07/26/katty-kay-confidence-skill-companies-women-executives-decline/",
+    "source": "Fortune",
+    "title": "Katty Kay: confidence is the skill that turns thoughts into action\u2014and companies need to start teaching it",
+    "summary": "The co-host of \"The Rest is Politics\" and \"Doing it Anyway\" on confidence, women's progress at work, and leaders acting while afraid.",
+    "byline_count": 1,
+    "author_names": [
+      "Katty Kay"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/07/26/lotteries-winning-vs-buying-value-scarcity-demand-hidden-markets/",
+    "source": "Fortune",
+    "title": "Why lotteries can make winning feel more valuable than buying",
+    "summary": "From Broadway drawings to free sports tickets, lotteries distribute scarce experiences. One economist says they reveal demand.",
+    "byline_count": 1,
+    "author_names": [
+      "Tatiana Sataua"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c77gjz0gkx5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Organ donation helped save seven lives after crash",
+    "summary": "Tributes are paid to Edward Pearce after the 20-year-old died in a crash on the A27 near Pevensey.",
+    "byline_count": 1,
+    "author_names": [
+      "Tanya Gupta"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-21T16:21:13+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/years-after-basic-income-participants-share-the-pros-and-cons-2026-7",
+    "source": "Business Insider",
+    "title": "Years after basic income, participants share how their finances have changed",
+    "summary": "Business Insider talked to basic income participants years apart. They shared how their lives and finances changed after receiving cash payments.",
+    "byline_count": 1,
+    "author_names": [
+      "Allie Kelly"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:02:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/videos/c8dnmv7356do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "'Extraordinary sight' of rare bird from Asia spotted in UK",
+    "summary": "A long-tailed shrike has been spotted in Eastleach in Gloucestershire after flying off course from Asia.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-20T16:23:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7",
+    "source": "Business Insider",
+    "title": "Microsoft bet everything on AI. Is its North Star now a noose?",
+    "summary": "Microsoft bet everything on AI. Is its North Star now a noose?",
+    "byline_count": 1,
+    "author_names": [
+      "Ashley Stewart"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:07:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/satellite-images-china-full-size-mock-us-warships-attack-2026-7",
+    "source": "Business Insider",
+    "title": "China built full-size models of US warships and aircraft to hone its missiles",
+    "summary": "Satellite images reveal how China is building replicas to hone its weapons. Their targets: F-35 stealth fighters, US warships, and Taiwan's capital.",
+    "byline_count": 1,
+    "author_names": [
+      "Allegra Mendelson and Mariana Hallal"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:01:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/state-tax-shifts-favor-sales-over-income-hit-lower-earners-2026-7",
+    "source": "Business Insider",
+    "title": "States want to tax the rich less. They're taxing your purchases more.",
+    "summary": "Since 1990, states have opted to rely on sales taxes and slash income taxes, which can hit lower earners harder.",
+    "byline_count": 1,
+    "author_names": [
+      "Juliana Kaplan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:15:02+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/cgr7gyv8zq0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "After chaotic return, where does Joshua win leave Fury fight?",
+    "summary": "Where does Anthony Joshua's chaotic comeback win over Kristian Prenga leave the super-fight with Tyson Fury?",
+    "byline_count": 1,
+    "author_names": [
+      "Kal Sajad"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:33:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/automakers-decluttering-era-evs-discontinued-cars-2026-7",
+    "source": "Business Insider",
+    "title": "Automakers are entering their decluttering era",
+    "summary": "Legacy automakers are pruning vehicle lineups and building cars with fewer parts. They're facing rising costs and cheaper Chinese competition.",
+    "byline_count": 1,
+    "author_names": [
+      "Ben Shimkus"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:31:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
+    "source": "NPR",
+    "title": "Meet the robots programmed by kids to speak their Indigenous languages",
+    "summary": "Many Native American languages are endangered. With the help of his mentor, a 12-year-old in Michigan hopes to help preserve his language through robotics.",
+    "byline_count": 1,
+    "author_names": [
+      "Kadin Mills"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
+    "source": "The Guardian US",
+    "title": "Andy Burnham says he will disagree with Trump in public if necessary",
+    "summary": "<p>PM promises to \u2018defend national interest before anything else\u2019 in first big broadcast interview since entering No 10</p><p>Andy Burnham has promised to disagree with Donald Trump if necessary, including in public, in his first big broadcast interview since becoming prime minister.</p><p>Burnham\u2019s comments came as Wes Streeting, the new defence secretary, said he did not believe the Trump administration was looking for allies who \u201csuck up\u201d, but rather those with the confidence to set out disagreements when needed.</p> <a href=\"https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Peter Walker"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:13:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment",
+    "source": "NPR",
+    "title": "ADHD looks different in women and poses unique health risks",
+    "summary": "For decades, ADHD was viewed as a childhood condition that mostly affected boys. Researchers now know ADHD manifests differently in girls, but many still go undiagnosed until adulthood.",
+    "byline_count": 1,
+    "author_names": [
+      "Maria Godoy"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/video/the-boy-across-the-street-1/",
+    "source": "CBS News",
+    "title": "The Boy Across the Street",
+    "summary": "A college student is killed by her boyfriend who lived right across the street. Her family's long battle to keep him in prison. \"48 Hours\" correspondent Erin Moriarty reports.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T06:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+    "source": "NPR",
+    "title": "Climate change is now threatening a pillar of childhood: summer break",
+    "summary": "When summer rolls around, many parents scramble to sign up their young kids for outdoor activities. But what do you do when extreme heat and wildfire smoke increasingly make the outdoors dangerous?",
+    "byline_count": 1,
+    "author_names": [
+      "Ava Berger"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/music/2026/jul/26/shania-twain-honest-playlist-abba-harry-styles-phantom-opera",
+    "source": "The Guardian US",
+    "title": "Shania Twain\u2019s honest playlist: \u2018If Dancing Queen comes on, you rush out\u2019",
+    "summary": "<p>The country-pop superstar loves Abba and secretly listens to Lloyd Webber, but which British heartthrob\u2019s single gets her out of bed in the morning?</p><p><strong>The song that changed my life</strong><br />\n There\u2019s many critical songs on The Mission soundtrack, but Gabriel\u2019s Oboe [by Ennio Morricone] hit me hard. I had to pull off the road, I cried like a baby. I didn\u2019t realise how powerful music could be until that moment. I was 22.</p><p><strong>The first single I bought</strong><br />\n At Seventeen by Janis Ian. I reference it in my album Little Miss Twain and it says so much about the emotions of a teenage misfit. I felt like her, I related \u2013 but I was also thinking: \u201cWow, I have to some day write this well.\u201d It gave me a goal; I was so in awe. I made very little money, babysitting, taking care of my neighbour\u2019s horse, singing in bars. I would get like 20 bucks, that I would mostly give to my family, but I got that record for myself.</p> <a href=\"https://www.theguardian.com/mu",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T08:00:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/film/2026/jul/26/keith-david-president-curtis-actor-interview",
+    "source": "The Guardian US",
+    "title": "Keith David on his incredible career: \u2018I want you to understand Black men as full-scope human beings\u2019",
+    "summary": "<p>The hard-working character actor has over 400 screen credits, from The Thing to Platoon to Rick and Morty, and he isn\u2019t slowing down any time soon</p><p>Keith David\u2019s voice precedes him. Deep and resonant, with mellifluous notes that hark back to his boys\u2019 choir days, it has spent decades inhabiting warriors, gods, rogues, fathers and a welter of cartoon oddballs. Before David appears in a Zoom window from his Los Angeles home office, his voice reverberates through my tinny laptop speakers like a foghorn. \u201cCan you see me now?\u201d he booms once our connection is established after fits and starts. \u201cOK. Outside of technology, you know I\u2019m \u2026 OK.\u201d</p><p>He fizzes about the project he just wrapped: a dark buddy comedy called My Friend Jim, in which he stars opposite Rob Lowe. It\u2019s the latest entry in a seemingly unstinting slew of productions that have kept him booked and busy since the late 1970s, from The Thing to Platoon to There\u2019s Something About Mary to Nope.</p> <a href=\"https://www.th",
+    "byline_count": 1,
+    "author_names": [
+      "Andrew Lawrence"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:00:07+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/commentisfree/2026/jul/26/chicken-shop-left-french-fast-food-row-politics",
+    "source": "The Guardian US",
+    "title": "Am I a chicken-shop lefty? Here's what a French fast food row taught me about politics | Coco Khan",
+    "summary": "<p>Feathers are flying over the halal chicken chain Master Poulet opening a branch in gentrified Saint-Ouen-sur-Seine \u2013 it\u2019s an issue of wealth and class we know only too well</p><p>How do you like your progressive politics? Are you net-zero left or anti-identity politics left? A \u201clegalising drugs\u201d kind of radical or someone whose public sector solidarity includes police? Nato or Nat-<em>no? </em>The reputation for infighting in lefty spaces \u2013 where policy disagreements harden into personal tests of morality \u2013 needs neither introduction nor encouragement.</p><p>But reading about the left-on-left battle at Master Poulet, a French chicken chain that just opened its first UK branch, I found myself mulling a question that felt more than a little personal: am I chicken shop left?</p> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/26/chicken-shop-left-french-fast-food-row-politics\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Coco Khan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:00:04+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bloomberg.com/sessions/2026-07-26/live-q-amp-a-what-s-next-for-india-s-youth-movement-after-modi-concedes-to-protesters",
+    "source": "Bloomberg",
+    "title": "Cockroach Janta Party Youth Protests Force Rare Modi Retreat: Live Q&A",
+    "summary": "<p>Bloomberg reporters take your questions on how Indian students forced rare concessions from Modi\u2019s government, and what's next for education reform, jobs and national politics.</p>",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T06:45:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-07-26/us-pauses-iran-strikes-for-second-night-as-red-sea-tensions-rise",
+    "source": "Bloomberg",
+    "title": "US Pauses Iran Strikes for Second Night as Red Sea Tensions Rise",
+    "summary": "The US paused its almost two-week run of strikes against Iran for a second night as skirmishes between Yemen\u2019s Houthi militants and Saudi Arabia ratcheted up tensions near a global energy chokepoint in the southern Red Sea.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T07:02:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/caudle-navy-hegseth-parlatore-promotion.html",
+    "source": "NYT Politics",
+    "title": "An Admiral\u2019s Rise Reveals the Politics Driving Hegseth\u2019s Pentagon",
+    "summary": "Before he was picked to lead the Navy, Adm. Daryl Caudle found ways to signal his support for Defense Secretary Pete Hegseth\u2019s anti-diversity goals.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:00:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
+    "source": "NYT Politics",
+    "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
+    "summary": "In some cases, no direct line can be drawn from the president\u2019s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:02:04+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/jackson-collins-platner-senate-maine.html",
+    "source": "NYT Politics",
+    "title": "Democrats Reset the Maine Senate Race. Now Comes the Tricky Part.",
+    "summary": "Troy Jackson is replacing Graham Platner, but Republicans are seeking to tie them together as a remade race kicks off with high stakes.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:01:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html",
+    "source": "NYT Politics",
+    "title": "Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party",
+    "summary": "The Democrats should be well positioned to make gains in this year\u2019s midterms. But inside party headquarters, every week brings paranoia, worries about money and, on occasion, emotional eruptions.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:01:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/turek-iowa-senate-democrat.html",
+    "source": "NYT Politics",
+    "title": "Senate candidate Josh Turek handcycles the Iowa campaign trail",
+    "summary": "State Representative Josh Turek, the Democrat running to flip Iowa\u2019s open Senate seat, cycled with his hands at an Iowa biking event that took place between two cities nearly 60 miles apart.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:01:44+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html",
+    "source": "NYT Politics",
+    "title": "Trump Seems Trapped by Iran War, Even as He Wields the World\u2019s Biggest Hammer",
+    "summary": "A president who thought there were no limits to his power has discovered several, leaving him more frustrated and erratic.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-07-26T09:52:49.560292+00:00",
+    "published_parsed": "2026-07-26T09:01:50+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.abc.net.au/news/2026-07-26/afl-r20-lions-power-kangaroos-saints-live-blog/106959530",
     "source": "ABC Australia",
     "title": "Live: Lion in hot water over 'stupid action' in win, Saints lead Roos early",
@@ -7996,7 +9315,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:37:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "http://www.euronews.com/2026/07/26/chickenpox-sweeps-gaza-camps-as-thousands-of-cases-emerge-in-two-weeks",
@@ -8009,7 +9328,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "http://www.euronews.com/video/2026/07/26/latest-news-bulletin-july-26th-2026-morning",
@@ -8022,7 +9341,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/culture/books/review/2026/07/26/new-poetry-an-indispensable-mirror-to-death-dealing-cultures-of-neglect-and-abuse/",
@@ -8037,7 +9356,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:56:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/ireland/2026/07/26/no-israel-boycott-for-irish-football-team-but-elite-frisbee-throwers-see-things-differently/",
@@ -8052,7 +9371,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.dw.com/en/brazil-denies-entry-to-senior-trump-officials-ahead-of-elections/a-78117458?maca=en-rss-en-all-1573-xml-mrss",
@@ -8067,7 +9386,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:45:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/culture/books/2026/07/26/author-max-porter-we-wrote-to-the-school-there-are-extraordinary-childrens-books-youre-giving-kids-david-walliams/",
@@ -8082,7 +9401,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:16:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.dw.com/en/germany-launches-manhunt-after-berlin-pride-van-ramming/live-78117180?maca=en-rss-en-all-1573-xml-mrss",
@@ -8097,7 +9416,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:51:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/culture/books/2026/07/26/michael-michael-lived-to-be-a-100-he-died-at-a-moment-of-his-own-choosing/",
@@ -8112,7 +9431,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:49:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/health/your-wellness/2026/07/26/i-always-go-for-men-who-are-out-of-my-league-can-i-change-my-attraction-preferences/",
@@ -8127,7 +9446,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:58:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/food/drink/2026/07/26/what-does-reserva-mean-on-a-wine-label-and-is-it-a-good-thing/",
@@ -8142,7 +9461,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/food/2026/07/26/how-an-ohio-woman-set-up-a-hit-vegetarian-restaurant-on-a-tiny-irish-island/",
@@ -8157,7 +9476,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/business/2026/07/26/how-bad-would-an-ai-crash-really-be-for-ireland/",
@@ -8172,7 +9491,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/culture/music/2026/07/26/cover-bands-the-serious-business-of-pretending-to-be-someone-else/",
@@ -8187,7 +9506,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/crime-law/courts/2026/07/26/wife-secures-interim-barring-order-against-allegedly-abusive-husband/",
@@ -8202,7 +9521,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/life-style/2026/07/26/this-picture-proves-at-least-one-successful-breeding-event-is-happening-in-2026/",
@@ -8217,7 +9536,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/your-money/2026/07/25/one-company-two-prices-sk-hynixs-strange-stock-gap-raises-ai-bubble-questions/",
@@ -8232,7 +9551,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:39:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/life-style/gardening/2026/07/26/carlow-garden-festival-what-is-the-single-best-thing-you-can-do-for-a-garden-of-any-size/",
@@ -8247,7 +9566,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/life-style/people/2026/07/26/roberto-saviano-on-the-kinahans-living-under-threat-from-the-mafia-and-similarities-between-ireland-and-italy/",
@@ -8262,7 +9581,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/canada/kitchener-waterloo/whats-it-like-having-an-ai-boyfriend-2-waterloo-researchers-decided-to-find-out-9.7281399?cmp=rss",
@@ -8275,7 +9594,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-25T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-07-26/nrl-live-updates/106958596",
@@ -8288,7 +9607,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:37:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/life-style/gardening/2026/07/26/how-can-i-encourage-more-moths-to-visit-my-garden/",
@@ -8303,7 +9622,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:58:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/sport/gaelic-games/2026/07/25/for-kerry-its-simple-no-drama-and-a-40th-all-ireland-can-be-theirs/",
@@ -8318,7 +9637,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-07-26/love-story-how-tom-huma-busby-became-perfect-duo/106949176",
@@ -8331,7 +9650,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/life-style/people/2026/07/26/youghal-has-an-amazing-creative-community-with-musicians-and-artists-its-a-hidden-gem/",
@@ -8346,7 +9665,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/sport/gaelic-games/2026/07/24/david-clifford-vs-kobe-mcdonald-no-getting-away-from-pair-amid-all-ireland-build-up/",
@@ -8361,7 +9680,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.lemonde.fr/en/international/article/2026/07/26/russian-authorities-try-to-recruit-students-to-make-up-for-soldiers-shortages-in-drone-regiments_6755840_4.html",
@@ -8374,7 +9693,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:17:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.lemonde.fr/en/summer-reads/article/2026/07/26/my-life-as-a-russian-exile-in-paris-becoming-a-customer-of-a-french-bank-when-you-come-from-moscow-is-a-real-feat_6755841_183.html",
@@ -8387,7 +9706,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:00:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.lemonde.fr/en/pixels/article/2026/07/26/social-media-ban-for-kids-under-15-eight-key-questions-answered_6755842_13.html",
@@ -8400,7 +9719,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:18:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-07-26/diary-of-an-englishman/106918570",
@@ -8413,7 +9732,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:07:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/opinion/2026/07/26/analysis-human-rights-defender-or-dangerous-criminal-a-german-court-will-decide-dubliners-fate/",
@@ -8428,7 +9747,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T06:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/opinion/2026/07/26/pat-leahy-is-the-irish-economy-really-trump-proof-wed-better-hope-so/",
@@ -8443,7 +9762,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:05:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/world/europe/2026/07/26/a-key-epstein-associate-takes-crucial-answers-to-the-grave/",
@@ -8458,7 +9777,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/sport/gaelic-games/2026/07/25/recollections-from-the-road-the-highs-lows-and-what-ill-miss-after-32-years-as-a-gaa-correspondent/",
@@ -8473,7 +9792,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-07-26/young-sextortion-victims-speak-out-on-scam/106948972",
@@ -8488,7 +9807,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:04:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-07-26/albanese-questioned-over-point-piper-dinner/106959648",
@@ -8503,7 +9822,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:34:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-07-26/sophia-croker-the-bee-drover-beekeeping-vs-varroa-mite/106953802",
@@ -8518,7 +9837,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:09:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/culture/tv-radio/2026/07/26/tv-guide-the-best-new-shows-to-watch-starting-tonight/",
@@ -8533,7 +9852,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:41:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1",
@@ -8546,7 +9865,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/opinion/2026/07/25/hell-is-empty-and-all-the-devils-are-in-my-social-media-feed/",
@@ -8561,7 +9880,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:10:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/2ddef625-df80-4690-9475-f3ce86171593?syn-25a6b1a6=1",
@@ -8574,7 +9893,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/culture/2026/07/26/elon-musks-wokebusters-and-the-failing-campaign-against-the-odyssey/",
@@ -8589,7 +9908,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:15:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d",
@@ -8602,7 +9921,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T06:15:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/sports/dodgers/story/2026-07-25/kyle-tucker-home-run-dodgers-win-mets",
@@ -8617,7 +9936,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:22:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-07-26/body-found-after-kiama-house-fire/106959500",
@@ -8632,7 +9951,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T06:01:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theferret.scot/non-native-trees-dominate-scottish-woodlands/",
@@ -8647,7 +9966,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1",
@@ -8660,7 +9979,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/ad635fef-8785-47be-b264-e74582413ed6?syn-25a6b1a6=1",
@@ -8673,7 +9992,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1",
@@ -8686,7 +10005,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-07-26/first-sa-metro-beach-bird-flu-case-confirmed/106959832",
@@ -8701,7 +10020,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T06:24:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/canada/nova-scotia/mens-mental-health-support-halifax-9.7279312?cmp=rss",
@@ -8716,7 +10035,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-25T09:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/asia/southeast-asia/article/3361864/malaysian-police-receive-report-against-sanusi-over-race-linked-campaign-remarks?utm_source=rss_feed",
@@ -8731,7 +10050,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:49:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/week-asia/opinion/article/3361816/southeast-asia-must-embrace-reforms-china-plus-one-succeed?utm_source=rss_feed",
@@ -8746,7 +10065,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:30:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.france24.com/en/middle-east/20260726-us-holds-fire-against-iran-as-media-reports-say-washington-s-stockpiles-are-dwindling",
@@ -8759,7 +10078,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:47:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3361865/rare-medical-condition-causes-chinese-mans-scalp-thicken-and-fold-resembling-human-brain?utm_source=rss_feed",
@@ -8774,7 +10093,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:21:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/china/science/article/3361847/how-chinese-scientists-created-alloy-can-survive-2400-degrees-celsius?utm_source=rss_feed",
@@ -8789,7 +10108,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:19:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/week-asia/economics/article/3361861/why-new-us-tariffs-threaten-trump-governments-credibility-asean?utm_source=rss_feed",
@@ -8804,7 +10123,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:30:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/hong-kong/education/article/3361859/hong-kong-expands-after-school-care-some-families-say-they-still-lack-access?utm_source=rss_feed",
@@ -8819,7 +10138,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/china/politics/article/3361867/typhoon-noul-chinas-strongest-storm-year-hits-tech-and-manufacturing-hubs?utm_source=rss_feed",
@@ -8834,7 +10153,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:07:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/nightly-news/video/caitlin-clark-speaks-out-after-controversies-267275845790",
@@ -8849,7 +10168,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-25T22:54:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/europe/article/3361871/european-heatwaves-drive-summer-tourists-cooler-north?utm_source=rss_feed",
@@ -8864,7 +10183,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:54:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/week-asia/people/article/3361577/defanging-aung-san-myanmars-generals-wage-war-memory?utm_source=rss_feed",
@@ -8879,7 +10198,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:00:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/week-asia/politics/article/3361868/marches-memes-why-indias-youth-turned-against-modi?utm_source=rss_feed",
@@ -8894,7 +10213,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:22:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/week-asia/politics/article/3361786/india-aims-200-ship-navy-counter-china-and-pakistan?utm_source=rss_feed",
@@ -8909,7 +10228,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:30:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/hong-kong/transport/article/3361875/2000-passengers-stranded-overnight-hong-kong-airport-due-typhoon-noul?utm_source=rss_feed",
@@ -8924,7 +10243,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:56:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3361874/100-days-us-midterms-trump-faces-defeat-amid-voter-anger-over-inflation-iran-war?utm_source=rss_feed",
@@ -8939,7 +10258,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:42:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/asia/east-asia/article/3361872/unesco-adds-ancient-japanese-capitals-asuka-fujiwara-world-heritage-list?utm_source=rss_feed",
@@ -8954,7 +10273,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:15:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/07/26/network-school-balaji-srinivasan-malaysia-johor-israel-kazakhstan/",
@@ -8969,7 +10288,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/brazils-denies-visas-us-officials-upcoming-elections/",
@@ -8982,7 +10301,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:48:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
@@ -8997,7 +10316,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T01:52:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss",
@@ -9010,7 +10329,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:19:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/french-wildfires-trigger-mass-evacuations-around-bordeaux?traffic_source=rss",
@@ -9023,7 +10342,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:03:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/video/135080243/",
@@ -9036,7 +10355,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-25T14:21:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/7/26/can-zimbabwes-mineral-ambitions-benefit-smaller-producers?traffic_source=rss",
@@ -9051,7 +10370,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:21:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/the-root-beer-float-murder-post-mortem/",
@@ -9064,7 +10383,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-04-11T13:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/video/135090775/",
@@ -9077,7 +10396,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T01:10:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/7/26/tunisians-mark-fifth-year-of-emergency-rule-with-calls-for-saied-to-go?traffic_source=rss",
@@ -9092,7 +10411,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:14:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
@@ -9107,7 +10426,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:40:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
@@ -9120,7 +10439,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:49:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/video/135080765/",
@@ -9133,7 +10452,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-25T17:27:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss",
@@ -9148,7 +10467,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:29:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/video/135090881/",
@@ -9161,7 +10480,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T00:55:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
@@ -9174,7 +10493,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:33:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss",
@@ -9189,7 +10508,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:29:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/video/135091185/",
@@ -9202,7 +10521,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T01:10:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/https-drive-google-com-drive-folders-17kzlaaj?traffic_source=rss",
@@ -9215,7 +10534,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:14:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/07/26/cocoa-prices-chocolate-lindt-barry-callebaut-nestle.html",
@@ -9230,7 +10549,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
@@ -9245,7 +10564,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss",
@@ -9260,7 +10579,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T06:25:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
@@ -9273,7 +10592,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:49:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/food/2026/jul/26/i-panic-it-turns-to-rubber-could-i-learn-to-make-omurice-the-worlds-hardest-omelette",
@@ -9288,7 +10607,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/environment/2026/jul/26/how-to-keep-cool-in-a-heatwave-from-people-who-know-best",
@@ -9303,7 +10622,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/sport/2026/jul/26/tim-tszyu-beats-errol-spence-jr-in-12-round-epic-boxing",
@@ -9318,7 +10637,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T06:01:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/travel/2026/jul/26/best-village-food-festivals-italy",
@@ -9333,7 +10652,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T06:00:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/2026/jul/26/violent-demonstrations-target-immigrants-south-africa",
@@ -9348,7 +10667,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/media/2026/jul/26/uk-journalists-changed-how-what-report-fears-safety",
@@ -9363,7 +10682,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/tv-and-radio/2026/jul/26/the-curse-of-love-island-review-amazon-prime-video",
@@ -9378,7 +10697,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:00:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/science/2026/jul/26/glp1-drugs-weight-loss-side-effects-relationship",
@@ -9393,7 +10712,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-25T20:00:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/2026/jul/26/typhoon-noul-china-hong-kong",
@@ -9408,7 +10727,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:28:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms",
@@ -9423,7 +10742,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/2026/jul/26/french-beekeepers-fury-lifting-of-pesticides-ban",
@@ -9438,7 +10757,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/2026/jul/26/ukraine-war-briefing-iran-accuses-kyiv-vessel-caspian-sea",
@@ -9453,7 +10772,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:08:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
@@ -9468,7 +10787,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T01:10:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/uk-news/2026/jul/26/how-the-met-police-spent-25m-hiding-spycop-from-former-partner",
@@ -9483,7 +10802,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:00:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/lifeandstyle/2026/jul/26/my-partners-mother-dominates-him-i-feel-helpless",
@@ -9498,7 +10817,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/wireStory/seattle-police-searching-men-parachuted-space-needle-135093014",
@@ -9513,7 +10832,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T03:24:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/policy/international/5990740-israeli-forces-arrest-west-bank/",
@@ -9526,7 +10845,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T02:45:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bloomberg.com/news/articles/2026-07-26/burnham-s-cabinet-is-more-vulnerable-to-reform-than-starmer-s",
@@ -9539,7 +10858,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html",
@@ -9552,7 +10871,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T04:01:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/state-watch/5990722-dangerous-heat-dome-grips-central-us/",
@@ -9565,7 +10884,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T01:50:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/07/26/opinion/ukraine-lgbt-rights-war.html",
@@ -9578,7 +10897,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:00:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bloomberg.com/news/articles/2026-07-26/burnham-vows-to-stand-up-to-trump-on-uk-interests-bbc-reports",
@@ -9591,7 +10910,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-26T06:31:02.218606+00:00",
     "published_parsed": "2026-07-26T05:57:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.irishtimes.com/crime-law/2026/07/25/former-fai-coach-arrested-in-connection-with-investigation-into-historic-sexual-abuse-of-women-players/",
@@ -28394,1293 +29713,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
     "published_parsed": "2026-07-24T19:23:44+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.npr.org/2026/07/24/nx-s1-5863498/the-illharmonic-orchestra-hip-hop-classical-music",
-    "source": "NPR",
-    "title": "How The Illharmonic's mix of hip-hop and classical builds community, one show at a time",
-    "summary": "The Illharmonic Orchestra's performances blend hip-hop lyricism with classical instrumentation, and feature all-Black musical ensembles. The group's leaders speak with NPR's Juana Summers about how they build community around their high-energy performances and represent musicians and audiences in spaces where they may have not traditionally felt welcomed.",
-    "byline_count": 1,
-    "author_names": [
-      "Juana Summers"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/amtrak-usa-rail-pass-worth-money-according-to-frequent-traveler-2026-7",
-    "source": "Business Insider",
-    "title": "I've purchased Amtrak's USA Rail Pass 3 times. Most rides are slow and uncomfortable, but I can't wait to buy it again.",
-    "summary": "I've bought the $500 Amtrak USA Rail Pass three times. It saves me money and provides 10 rides to over 500 destinations across the country.",
-    "byline_count": 1,
-    "author_names": [
-      "William Fleeson"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:21:28+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/facebook-tiktok-test-video-advertising-2026-7",
-    "source": "Business Insider",
-    "title": "What if Facebook just becomes TikTok? We may find out soon.",
-    "summary": "It's the circle of life, social media style.",
-    "byline_count": 1,
-    "author_names": [
-      "Peter Kafka"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:50:21+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
-    "source": "The Verge",
-    "title": "Roku raises streaming hardware prices by up to $50",
-    "summary": "Roku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The price hike affects all of Roku's other devices as well, with some increasing by as much as $50. Here's a rundown of the changes: Roku is currently [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Emma Roth"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:07:19+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/moved-to-los-angeles-for-love-broke-up-stayed-california-2026-7",
-    "source": "Business Insider",
-    "title": "I moved to Los Angeles for love. The relationship ended, but staying helped me find my future husband and build a career.",
-    "summary": "Moving to Los Angeles for love didn't work out how I expected, but staying in California after we split helped me find my husband and build a career.",
-    "byline_count": 1,
-    "author_names": [
-      "Cheyenne Elwell"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:39:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
-    "source": "The Verge",
-    "title": "DJI camera clone company Xtra is halting and refunding all preorders",
-    "summary": "After selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the new dual-lens Osmo Pocket 4 Pro, too. But today, Xtra has abruptly removed the new Xtra Muse 2 Pro from its website landing page, is [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Sean Hollister"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:27:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/never-guilt-trip-my-kids-2026-7",
-    "source": "Business Insider",
-    "title": "My mother expected me to call every Sunday. I expect almost nothing from my kids.",
-    "summary": "Trying to avoid my mother's parenting style left me reluctant to ask my adult children for the time and connection I wanted.",
-    "byline_count": 1,
-    "author_names": [
-      "Susan Solomon Yem"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:59:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
-    "source": "The Verge",
-    "title": "Blade Runner 2099\u2019s moody dystopia streams on Amazon in November",
-    "summary": "After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on November 25th with all eight episodes dropping at once. We also got the first trailer for the series, which is full of Blade Runner staples: a [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Andrew Webster"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:40:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
-    "source": "The Verge",
-    "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
-    "summary": "In response to a report that Nothing is planning to \"exit 12 markets as global shipments decline,\" Nothing cofounder Akis Evangelidis said the company is \"reorganizing\" and laying off some of its staff, but that \"the reported numbers are way overblown.\" Evangelidis disputed a claim about underwhelming sales for Nothing's Phone 4B, saying it \"sold [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Stevie Bonifield"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:10:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/opinion/lindseys-lens/5988857-lawmakers-introduce-ai-kill-switch/",
-    "source": "The Hill",
-    "title": "House considering bipartisan \u2018kill switch\u2019 bill to regulate AI",
-    "summary": "I know the phrase \"kill switch\"\u00a0immediately\u00a0raises eyebrows. It\u00a0sounds\u00a0dystopian. It sounds like\u00a0government\u00a0overreach. But\u00a0I think that framing\u00a0misses the more\u00a0important question.\u00a0Why are lawmakers from both parties suddenly agreeing that something like this might be necessary?",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:57:28+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/state-watch/5988637-denver-ice-arrest/",
-    "source": "The Hill",
-    "title": "Emotions erupt at Denver airport after ICE detains woman accused of overstaying visa",
-    "summary": "\"At the time, we didn\u2019t know they were targeting her specifically, we thought maybe they were just asking Latina women to talk about their visa status,\" a witness said.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:16:31+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/healthcare/5988653-map-states-report-new-measles-cases-as-virus-surpasses-alarming-benchmark/",
-    "source": "The Hill",
-    "title": "MAP: States report new measles cases as virus surpasses alarming benchmark",
-    "summary": "Cyclospora isn't the only public health crisis the U.S. is contending with in 2026. Measles, one of the world's most contagious viruses, has now spread to 43 states, the Centers for Disease Control and Prevention said on Friday.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:32:20+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-    "source": "TechCrunch",
-    "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year\u2019s mark",
-    "summary": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
-    "byline_count": 1,
-    "author_names": [
-      "Ram Iyer"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:33:19+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/technology/5988736-trump-eu-google-fine-investigation/",
-    "source": "The Hill",
-    "title": "Trump fires back at EU over Google\u2019s $1B fine, launches probe",
-    "summary": "President Trump on Friday slammed the European Union for fining Google over allegedly violating its digital competition law, stating the &#8220;illegal and highly discriminatory practice&#8221; will be probed in a trade investigation. &#8220;The European Union is at it again and, as usual, taking direct aim at GREAT American Companies!&#8221; Trump wrote on Truth Social. &#8220;This&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:06:08+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5988864-trump-canada-bridge-tariff/",
-    "source": "The Hill",
-    "title": "Canada opens Gordie Howe bridge without US; Trump says that\u2019s \u2018fine\u2019",
-    "summary": "President Trump said Friday it was \u201cfine\u201d that Canada excluded the U.S. from its ceremony marking the opening of the Gordie Howe International Bridge after the Trump administration threatened a 50 percent tariff on certain Canadian imports. \u201cCanada disinvited the United States of America to the opening of the Gordie Howe Bridge, which is fine,&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:00:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5988929-early-primary-window-expands-six/",
-    "source": "The Hill",
-    "title": "DNC panel picks South Carolina as first primary state",
-    "summary": "South Carolina is expected to be the first state in the 2028 Democratic presidential primary contest after the Democratic National Committee&#8217;s (DNC) rules and bylaws committee voted Friday to approve it as the initial battleground. The committee&#8217;s recommendation will now go to the entire Democratic National Committee, which will consider the matter in Austin, Texas,&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:11:21+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
-    "source": "The Verge",
-    "title": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
-    "summary": "Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by \"a percentage in the double digits,\" Bloomberg reports. The price hikes will go into effect starting with products shipped after September 1st. Qualcomm claims it has \"exhausted its ability to absorb higher costs from suppliers,\" as ongoing component shortages [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Stevie Bonifield"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:14:23+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/5988780-alaska-voter-data-mixup/",
-    "source": "The Hill",
-    "title": "Alaska officials ask voters to verify citizenship after data error",
-    "summary": "Alaska sent more than 3,000 letters to voters in the state asking them to verify their citizenship, ahead of the Aug. 18 primary, after a data mix-up between state agencies possibly added noncitizens to the voter rolls. Alaska Division of Elections Director Carol Beecher said during a hearing with state lawmakers that while the division&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:51:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/video-clips/5988716-trump-us-saudi-arabia-deal/",
-    "source": "The Hill",
-    "title": "Watch: Trump announces milestone in efforts to boost domestic nuclear production",
-    "summary": "President Trump spoke from the White House Friday afternoon as the administration marks a major milestone in expanding domestic nuclear energy. The announcement came just more than a year after Trump signed four executive orders seeking to quadruple the nation\u2019s nuclear power, including making cutbacks to health and environmental considerations. The president was joined by&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:44:10+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/healthcare/5988933-us-measles-worst-three-decades/",
-    "source": "The Hill",
-    "title": "US exceeds measles cases in all of 2025 by July 2026",
-    "summary": "The Centers for Disease Control and Prevention&#8217;s (CDC) tally of 2026 measles cases has officially surpassed the annual total of last year, with more then 2,300 cases reported from across most of the country. As of July 23, the CDC has confirmed 2,318 new measles cases in 2026, compared with 2,289 total cases detected in&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:27:51+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-    "source": "The Verge",
-    "title": "You can\u2019t ignore Google Zero anymore",
-    "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "David Pierce"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:29:48+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/1-hotel-seattle-review-photos",
-    "source": "Business Insider",
-    "title": "I stayed at a hotel voted the best in Seattle. Now I'll book the chain wherever I travel.",
-    "summary": "I booked a one-night stay at 1 Hotel Seattle for $450 and saw why the luxury chain was voted the best in Seattle.",
-    "byline_count": 1,
-    "author_names": [
-      "Joey Hadden"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:50:59+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/senate/5989025-trump-pressures-thune-reconciliation/",
-    "source": "The Hill",
-    "title": "Trump presses Thune to move reconciliation framework before August recess as tensions mount",
-    "summary": "President Trump on Friday pressured Senate Majority Leader John Thune (R-S.D.) to immediately take up a House-passed budget resolution to advance critical funding for the Iran war despite Thune\u2019s statement on Thursday saying the measure doesn\u2019t have the votes to pass in the Senate. Trump turned the screws on the Senate GOP leader to act&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:45:10+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/technology/5988652-elon-musk-economist-interview/",
-    "source": "The Hill",
-    "title": "Elon Musk says he backs \u2018normal people\u2019  when asked about support for \u2018far right\u2019",
-    "summary": "Tesla and SpaceX CEO Elon Musk is pushing back on the idea that he supports the &#8220;far right,&#8221; quipping in a recent interview that he backs &#8220;normal people&#8221; and slamming the media for its coverage of conservatives. In an interview published Thursday by The Economist, Editor-in-Chief Zanny Minton Beddoes suggested Musk &#8220;supports not just the&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:36:37+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-    "source": "The Verge",
-    "title": "Midjourney bought the astrology app Co-Star",
-    "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Emma Roth"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:06:58+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
-    "source": "TechCrunch",
-    "title": "US accuses American of allegedly wiping his phone using a \u2018duress\u2019 password during border search",
-    "summary": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
-    "byline_count": 1,
-    "author_names": [
-      "Zack Whittaker"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:53:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/healthcare/5988953-cyclospora-outbreak-diarrhea-lettuce-spreads-9-states/",
-    "source": "The Hill",
-    "title": "Cyclospora outbreak linked to lettuce expands to 9 states",
-    "summary": "Federal health officials have linked cyclospora outbreaks in four additional states to the same iceberg lettuce sourced from central Mexico that has sickened thousands of people in the Midwest.\u00a0 The new states are Illinois, Kansas, Oklahoma and Pennsylvania. They join Michigan, Ohio, Indiana, Kentucky and West Virginia as part of the country\u2019s largest known cyclosporiasis&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:45:51+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/5989010-andrew-weissmann-calls-jack-smith-perjury-claim-preposterous/",
-    "source": "The Hill",
-    "title": "Ex-federal prosecutor on Jack Smith developments: \u2018This is preposterous\u2019",
-    "summary": "Former federal prosecutor Andrew Weissmann called House Judiciary Committee Chair Jim Jordan&#8217;s (R-Ohio) recommendation of criminal charges for former special counsel Jack Smith \u201cpreposterous.\u201d In an interview on MS NOW with Jen Psaki, Weissmann added, \u201cYou cannot read this letter and in any way view this as perjury.\u201d He was referring to Jordan\u2019s accusation that&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:47:02+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/artanddesign/gallery/2026/jul/24/the-week-around-the-world-in-20-pictures",
-    "source": "The Guardian US",
-    "title": "The week around the world in 20 pictures",
-    "summary": "<p>Wildfires in Europe, Russian missile strikes in Kyiv, the cockroach protests in New Delhi and the World Cup final \u2013 <a href=\"https://www.instagram.com/theguardian20photos/?hl=en-gb\">the past seven days as captured by the world\u2019s leading photojournalists</a></p><p><em>Warning: this gallery contains images some readers may find distressing</em></p> <a href=\"https://www.theguardian.com/artanddesign/gallery/2026/jul/24/the-week-around-the-world-in-20-pictures\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Jim Powell"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:02:32+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "source": "TechCrunch",
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke\u2019s conversational style and interaction model to Cognition\u2019s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-    "byline_count": 1,
-    "author_names": [
-      "Sarah Perez"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:07:32+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5989158-education-department-rescinds-discrimination-policy/",
-    "source": "The Hill",
-    "title": "Education Department removes antidiscrimination rule",
-    "summary": "The Education Department said Thursday that it is rescinding a long-standing policy allowing statistical disparities to serve as evidence of discrimination in schools during civil rights investigations. The policy, which took place immediately, eliminated guidance dating back to 1979 that permitted the agency\u2019s Office for Civil Rights to use data showing disproportionate outcomes for students&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:20:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/state-watch/5989138-nypd-hate-crime-upper-west-side-stabbings/",
-    "source": "The Hill",
-    "title": "NYC police investigating two Upper West Side stabbings as possible hate crimes",
-    "summary": "The New York City Police Department (NYPD) is investigating two stabbings as possible hate crimes, police said Thursday.&#160; An Asian man and a Jewish man were injured in separate attacks, which occurred midday Thursday in the Upper West Side. Both men were transported to Mount Sinai Morningside hospital to receive treatment for their injuries and&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:24:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/video-clips/5988934-watch-live-donald-trump-speech-white-house-correspondents-dinner/",
-    "source": "The Hill",
-    "title": "Watch live: Trump takes center stage at White House correspondents\u2019 dinner",
-    "summary": "President Trump will deliver remarks Friday evening at the do-over White House Correspondents&#8217; Association (WHCA) dinner, three months after the first event was disrupted by a gunman looking to target Trump and his administration officials. The president&#8217;s speech, according to White House press secretary Karoline Leavitt, will be &#8220;unifying but vicious.&#8221; The WHCA and Secret&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5989281-california-rejected-mail-ballots-primary/",
-    "source": "The Hill",
-    "title": "California rejected almost 150K mail-in primary ballots",
-    "summary": "California rejected nearly 150,000 mail-in ballots during its June primary, the highest total in recent election cycles, as a surge in late-postmarked ballots sparked concerns about changes to U.S. Postal Service processing. According to data from the California secretary of State\u2019s office, 148,241 mail ballots \u2014 or 1.73 percent of all mailed ballots cast \u2014&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:03:25+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/energy-environment/5989317-trump-nuclear-reactors/",
-    "source": "The Hill",
-    "title": "Trump touts US nuclear reactors hitting new milestone",
-    "summary": "President Trump said Friday that four new nuclear power plants had hit a key milestone recently, a win for a vital energy source his administration has promoted.\u00a0 Flanked by CEOs and administration officials, Trump said in the Oval Office that four companies had met his administration\u2019s goal of advancing new reactors by July 4. &#8220;I&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:08:24+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/5989321-trump-calls-lebron-james-racist/",
-    "source": "The Hill",
-    "title": "Trump on LeBron James as he joins Philadelphia: \u2018Maybe he\u2019s a racist\u2019",
-    "summary": "President Trump described NBA superstar LeBron James as a possible racist, saying he prefers Michael Jordan when asked about the two in the Oval Office on Friday.&#160; \u201cWell, Michael Jordan&#8217;s a guy that&#8217;s a friend of mine. I golf with him. He&#8217;s a really good guy,\u201d Trump said when asked if prefers James or Jordan.&#160;&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:13:25+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/international/5989282-trump-saudi-nuclear-deal-abraham-accords/",
-    "source": "The Hill",
-    "title": "Trump says \u2018nobody got out ahead\u2019 on Saudi nuclear deal despite Abraham Accords twist",
-    "summary": "President Trump said Friday that &#8220;nobody got out ahead&#8221; of him in the announcement of a nuclear deal between the U.S. and Saudi Arabia, despite the president changing the terms of the agreement the next day.\u00a0 Trump&#8217;s remarks served to push back against a CNN report that he was caught off guard by Secretary of&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:08:32+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
-    "source": "TechCrunch",
-    "title": "Waymo reportedly mulling a breakup with Uber",
-    "summary": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
-    "byline_count": 1,
-    "author_names": [
-      "Sean O'Kane"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:43:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/sport/2026/jul/24/tyson-fury-defeats-mariusz-wach-anthony-joshua-boxing",
-    "source": "The Guardian US",
-    "title": "Tyson Fury defeats 46-year-old Mariusz Wach in warm-up for expected Joshua bout",
-    "summary": "<ul><li><p>Fight in Pattaya, Thailand had no live broadcast</p></li><li><p>Anthony Joshua faces Kristian Prenga on Saturday</p></li></ul><p>Tyson Fury fulfilled his side of the bargain for a potential heavyweight blockbuster against Anthony Joshua by stopping the veteran Polish fighter Mariusz Wach in Pattaya, Thailand.</p><p>About 1,500 fans watched the bout, which had no live broadcast, and saw Fury largely dominate his overmatched 46-year-old opponent, who slipped to an eighth defeat in his past 11 contests. While Wach remained upright, he was pulled out after the end of the seventh round by his corner, battered into submission by Fury, who made it back-to-back wins in 2026 after a 16-month layoff.</p> <a href=\"https://www.theguardian.com/sport/2026/jul/24/tyson-fury-defeats-mariusz-wach-anthony-joshua-boxing\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Guardian staff reporter"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:41:18+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/5989373-platner-recruiter-maine-senate-race/",
-    "source": "The Hill",
-    "title": "Platner recruiter: Reddit posts \u2018should\u2019ve been a red line\u2019",
-    "summary": "Morris Katz, the Democratic strategist who helped recruit Graham Platner to run for the U.S. Senate in Maine, reflected on the string of controversies that led up to Platner\u2019s decision to exit the race.&#160; In a podcast interview with The New York Times\u2019 Ezra Klein released on Friday, Katz addressed resurfaced Reddit posts the Democratic&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:33:27+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/film/2026/jul/25/rebel-wilson-had-a-legal-win-but-didnt-come-out-of-the-deb-defamation-trial-unscathed",
-    "source": "The Guardian US",
-    "title": "Rebel Wilson had a legal win but didn\u2019t come out of The Deb defamation trial unscathed",
-    "summary": "<p>Judgment dismissing Charlotte MacInnes\u2019s case expressed doubts about credibility of three key witnesses, and is likely to be appealed</p><p>Rebel Wilson\u2019s self-styled brand as a truth teller was put to the test during a fiery defamation feud where rivals called her a bully.</p><p>But the Hollywood A-lister, referred to as \u201cvery difficult to be around\u201d and \u201cfucking nuts\u201d during an at-times bruising trial, emerged from the federal court battle <a href=\"https://www.theguardian.com/australia-news/2026/jul/22/rebel-wilson-wins-defamation-case-charlotte-macinnes-ntwnfb\">with the last laugh</a>.</p> <a href=\"https://www.theguardian.com/film/2026/jul/25/rebel-wilson-had-a-legal-win-but-didnt-come-out-of-the-deb-defamation-trial-unscathed\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Guardian staff reporter"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:30:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/jul/24/celeste-rivas-hernandez-autopsy-d4vd",
-    "source": "The Guardian US",
-    "title": "Doctor details condition of Celeste Rivas Hernandez\u2019s body in D4vd hearing",
-    "summary": "<p>Grant Ho, who performed postmortem examination, said he identified two stab wounds on 14-year-old\u2019s body</p><p>The autopsy of 14-year-old Celeste Rivas Hernandez\u2019s body took center stage on Friday as a hearing continued to determine whether musician D4vd will stand trial for murder charges linked to her death.</p><p>Prosecutors say the singer, whose legal name is David Anthony Burke, fatally stabbed Hernandez last April to silence her from divulging the sexual nature of their relationship as his career soared. He was 18 and she was 13 when the sexual abuse began, according to prosecutors.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/24/celeste-rivas-hernandez-autopsy-d4vd\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Uwa Ede-Osifo"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:10:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/sport/2026/jul/24/pogacar-wins-stage-19-alpe-d-huez-extends-tour-de-france-lead",
-    "source": "The Guardian US",
-    "title": "Pogacar conquers Alpe d\u2019Huez in record climb to win stage 19 and extend Tour de France lead",
-    "summary": "<ul><li><p>Slovenian only second man to win in yellow on mountain</p></li><li><p>Leader opens up gap of more than seven minutes</p></li></ul><p>Tadej Pogacar put further distance between himself and his last remaining rivals, winning the Alpe d\u2019Huez stage of the Tour de France and extending his overall lead to more than seven minutes.</p><p>There was a brutal inevitability about the defending Tour champion\u2019s win on the legendary climb of the Alpe, despite all the rumours of illness and gastric problems within his UAE Emirates XRG team.</p> <a href=\"https://www.theguardian.com/sport/2026/jul/24/pogacar-wins-stage-19-alpe-d-huez-extends-tour-de-france-lead\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Jeremy Whittle"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T16:25:54+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/jul/24/apalachee-school-shooter-sentencing-hearing",
-    "source": "The Guardian US",
-    "title": "Georgia school shooter handed victims\u2019 families \u2018life sentence of trauma\u2019, court hears",
-    "summary": "<p>Colt Gray, who was 14 at time of attack on Apalachee high school, admits 55 charges including four counts of murder</p><p>The wife of a teacher killed in a high school shooting in Georgia two years ago told a court on Friday that the families of the four victims had been handed \u201ca life sentence of grief and trauma\u201d by the teenage student who murdered them.</p><p>Shayna Aspinwall, whose husband Richard died at Apalachee high school, about 45 miles north-east Atlanta, on 4 September 2024, was speaking at the sentencing hearing for Colt Gray, 16, who earlier pleaded to 55 charges, including second-degree murder.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/24/apalachee-school-shooter-sentencing-hearing\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Richard Luscombe"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:52:46+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/jul/24/texas-migrant-deaths-indictment",
-    "source": "The Guardian US",
-    "title": "11 people indicted over deaths of six people in cargo container in Texas",
-    "summary": "<p>Six migrants from Honduras and Mexico \u2013 including 14-year-old boy \u2013 were found dead in May near US-Mexico border</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a><em> </em></p></li></ul><p>A US attorney announced a federal indictment on Friday against 11 people in the smuggling deaths of six migrants whose bodies were <a href=\"https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border\">found in</a> a rail cargo container in <a href=\"https://www.theguardian.com/us-news/texas\">Texas</a> in May.</p><p>The six people were found dead in a rail yard shipping container in Laredo, on the <a href=\"https://www.theguardian.com/us-news/us-mexico-border\">US-Mexico bor",
-    "byline_count": 1,
-    "author_names": [
-      "Guardian staff reporter"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:16:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/law/2026/jul/24/karim-khan-ousted-from-role-as-prosecutor-of-international-criminal-court",
-    "source": "The Guardian US",
-    "title": "Karim Khan ousted as prosecutor of international criminal court",
-    "summary": "<p>Member states vote to remove British barrister after allegations of sexual abuse</p><p>The prosecutor of the international criminal court, Karim Khan, has been removed from office after the court\u2019s governing body found he had committed serious misconduct in connection to allegations of sexual abuse.</p><p>The ICC\u2019s member states voted on Friday to oust the British prosecutor in an unprecedented move that concludes a damaging episode for the court two years after the allegations were first raised.</p> <a href=\"https://www.theguardian.com/law/2026/jul/24/karim-khan-ousted-from-role-as-prosecutor-of-international-criminal-court\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Harry Davies"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:37:10+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/jul/24/trump-tariffs-forced-labor-us-prisons",
-    "source": "The Guardian US",
-    "title": "If Trump really cares about forced labor, he should look at the US \u2013 rather than slap more tariffs on the world | Eduardo Porter",
-    "summary": "<p>Forced labor <em>is</em> a problem, especially in the US, where prisoners are coerced to work for pennies \u2013 or nothing at all</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/jul/24/donald-trump-tariffs-white-house-correspondents-dinner-latest-news-updates\">US politics live \u2013 latest updates</a></p></li></ul><p>Don\u2019t believe the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a>\u2019s rationale for its new volley of <a href=\"https://www.theguardian.com/us-news/trump-tariffs\">tariffs</a> against everybody.</p><p>The new levies, ostensibly to punish countries for failing to do enough to curb forced labor, switched on at 12.01am on Friday, to coincide with the expiration of a temporary 10% blanket duty that <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> imposed in February, ostensibly to protect the United States from a balance-of-payments crisis.</p> <a href=\"https://www.theguardian.com/us-news/2026/ju",
-    "byline_count": 1,
-    "author_names": [
-      "Eduardo Porter"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:14:12+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/jul/24/joanna-ruth-shields-big-sur-alcohol-withdrawal-cause-of-death",
-    "source": "The Guardian US",
-    "title": "Police say alcohol withdrawal caused woman\u2019s death in California backcountry",
-    "summary": "<p>Joanna Ruth Shields\u2019 body was found in a pool of water with suspicious marks, driving speculation she was attacked</p><p>A young woman whose body was found in the backcountry of <a href=\"https://www.theguardian.com/us-news/california\">California</a>\u2019s Big Sur with suspicious marks on her face and neck died of alcohol withdrawal, the <a href=\"https://www.countyofmonterey.gov/Home/Components/News/News/12213/14253?widgetId=11601\">Monterey county sheriff\u2019s office said</a> on Thursday.</p><p>The discovery of Joanna Ruth Shields\u2019 body in April had driven widespread suspicion that she had been the victim of a violent attack. A group of hikers found Shields, 37, naked in a pool of water in the Sykes hot springs area of the Ventana wilderness with marks on her neck and a cut across her forehead.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/24/joanna-ruth-shields-big-sur-alcohol-withdrawal-cause-of-death\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Roque Planas"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:42:45+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/sport/2026/jul/24/tony-romo-arrest-owi",
-    "source": "The Guardian US",
-    "title": "CBS analyst Tony Romo arrested on suspicion of DUI in Wisconsin",
-    "summary": "<ul><li><p>Romo booked for operating vehicle under the influence</p></li><li><p>First-offense OWI is not criminal charge in Wisconsin</p></li></ul><p>Tony Romo, the CBS NFL analyst and former Dallas Cowboys quarterback, has been arrested on suspicion of operating a vehicle while under the influence.</p><p>According to an arrest report by the Milwaukee county sheriff\u2019s office, Romo performed poorly on field sobriety tests after getting stopped while driving south on Interstate 43 on Thursday. Sheriff\u2019s officials said Romo was taken into custody, booked and released.</p> <a href=\"https://www.theguardian.com/sport/2026/jul/24/tony-romo-arrest-owi\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Guardian staff reporter"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:28:10+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/jul/24/democrats-south-carolina-2028-presidential-primaries",
-    "source": "The Guardian US",
-    "title": "Democrats move to keep South Carolina as first state to vote in 2028 presidential primaries",
-    "summary": "<p>DNC move aims to better represent views of party\u2019s racially diverse voter base ahead of next presidential cycle</p><p>Democrats moved to keep South Carolina as the first state to vote in their party\u2019s 2028 presidential primary process, while moving up several other states, in an effort to better represent the views of the party\u2019s racially diverse voter base.</p><p>At a meeting in Washington DC of the Democratic National Committee\u2019s (DNC) rules and bylaws committee on Friday, South Carolina received a slim majority of votes to take the first spot, scheduled for 22 January 2028, with Nevada, New Hampshire, New Mexico, Michigan and Virginia set to follow, in that order. The selections must still be confirmed by the full DNC at a meeting set for next month.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/24/democrats-south-carolina-2028-presidential-primaries\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Chris Stein"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:51:41+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us",
-    "source": "The Guardian US",
-    "title": "How Chinese tech and Russian tactics are aiding Iran\u2019s bombing of US bases",
-    "summary": "<p>Increasingly accurate and lethal attacks are revealing weaknesses in stretched defences across the Gulf</p><p>As the crisis in the Middle East escalates, Iran has been bombing US bases and critical infrastructure in the Gulf with increasing accuracy, helped by Chinese satellite imagery and tactics learned by Russia in Ukraine.</p><p><a href=\"https://www.theguardian.com/world/2026/jul/23/iran-war-us-troops\">Three US soldiers were killed</a> last Friday in an attack on the Muwaffaq Salti airbase in Jordan, which was being protected by a Thaad air defence system. Satellite imagery later released by Iranian media showed several buildings had been destroyed.</p> <a href=\"https://www.theguardian.com/world/2026/jul/24/irans-much-improved-missile-systems-pose-a-real-threat-to-the-us\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Dan Sabbagh"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:13:36+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/uk-news/2026/jul/24/parts-of-england-under-heat-alert-with-30c-possible",
-    "source": "The Guardian US",
-    "title": "Parts of England under heat alert with 30C temperatures possible",
-    "summary": "<p>Warning in place until Sunday morning in southern and central regions after drought declared in parts of Wales</p><p>Heat alerts are in place across parts of England, with possible highs of 30C (86F) and officials saying temperatures are likely to have an impact on health and wellbeing.</p><p>The yellow heat health alerts issued for the East Midlands, east of England, London, south-east, south-west and West Midlands are in place until 9am on Sunday.</p> <a href=\"https://www.theguardian.com/uk-news/2026/jul/24/parts-of-england-under-heat-alert-with-30c-possible\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Hayden Vernon"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T16:52:31+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-over-red-sea-strikes",
-    "source": "The Guardian US",
-    "title": "US expands Iran attacks as Trump warns Tehran and Houthis over Red Sea strikes",
-    "summary": "<p>No end to fighting in sight as Revolutionary Guards launch drones at targets in Bahrain, Jordan and Kuwait</p><p>The US has struck targets across Iran, reaching as far as the Caspian Sea, as Donald Trump threatened \u201cmajor military punishment\u201d for Tehran and its Houthi allies in Yemen for extending the war to a second shipping \u2060chokepoint at the entrance to the Red Sea.</p><p>As Iran retaliated on Friday with missile and drone fire against US bases and allies across the region, the New York Times reported <a href=\"https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil#iran-iraq-cease-fire-proposal\">that Tehran had rejected a US ceasefire proposal</a> delivered by the Iraq prime minister, Ali al-Zaidi. This despite the US secretary of state, Marco Rubio, claiming a day earlier that Iran was begging for a ceasefire. Iraq later disputed the report.</p> <a href=\"https://www.theguardian.com/world/2026/jul/24/us-expands-iran-attacks-as-trump-warns-tehran-and-houthis-ov",
-    "byline_count": 1,
-    "author_names": [
-      "Peter Beaumont"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:58:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
-    "source": "The Guardian US",
-    "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
-    "summary": "<p>At least 90 active blazes in British Columbia in what PM says is one of the country\u2019s most intense seasons on record</p><ul><li><p><a href=\"https://www.theguardian.com/environment/2025/aug/13/how-dangerous-wildfires-stop-them-getting-worse\">How dangerous are wildfires and how can we stop them from getting worse?</a></p></li></ul><p>Fresh wildfires have broken out in western Canada and forests continued to \u2060burn in Ontario as the country \u2060battled what the prime \u200bminister, Mark Carney, called one of the most intense wildfire seasons on record.</p><p>Nearly 34,000 lightning strikes over the past week led to a series of fires \u2060and evacuation orders in southern British Columbia. There were 25 evacuation orders and 90 active wildfires in the province as of Friday morning, and authorities said warming \u2060and drying conditions could cause them to grow.</p> <a href=\"https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada\">Continue ",
-    "byline_count": 1,
-    "author_names": [
-      "Guardian staff reporter"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:58:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
-    "source": "The Guardian US",
-    "title": "Trump threatens EU with \u2018substantial\u2019 tariffs over fines of US tech giants",
-    "summary": "<p>After Google fined \u20ac890m by EU, US president said Europe was \u2018robbing\u2019 American companies and taxpayers</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/jul/23/trump-tariffs-what-to-know\">What to know about Trump\u2019s new tariffs on more than 80 countries</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has threatened the European Union with additional and \u201csubstantial\u201d tariffs after Brussels imposed a series of <a href=\"https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps\">steep fines</a> on US tech giants.</p><p>The US president accused Brussels of taking \u201cdirect aim\u201d at several American companies including Apple, Meta Platforms, Amazon and Google,<strong> </strong>writing in a Truth Social post: \u201cThe United States of America is not a \u2018PIGGYBANK\u2019 for Europe, nor will we allow it to be!\u201d</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/24/trump-european-uni",
-    "byline_count": 1,
-    "author_names": [
-      "Guardian staff reporter"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:38:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/jul/24/paramount-warner-bros-merger",
-    "source": "The Guardian US",
-    "title": "Paramount agrees to pause $110bn Warner Bros merger as case plays out",
-    "summary": "<p>Twelve states led by California had obtained temporary restraining order blocking merger from closing for 28 days</p><p>Paramount \u2060Skydance \u2060has agreed to \u200bpause its $110bn acquisition \u2060of \u200bWarner \u200cBros \u200cDiscovery until a \u200cruling on several states\u2019 challenge \u200cto the deal, or \u200buntil 1 June \u20602027, according \u200bto court \u200bpapers \u200bfiled \u200bon Friday.</p><p>A group of 12 US states headed by California obtained a temporary restraining order this week that blocked the merger from closing for 28 days, pending the outcome of a motion for a preliminary injunction.</p> <a href=\"https://www.theguardian.com/us-news/2026/jul/24/paramount-warner-bros-merger\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Guardian staff reporter"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:36:06+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/society/2026/jul/24/us-measles-infections-record-high",
-    "source": "The Guardian US",
-    "title": "US surpasses 2025\u2019s record number of measles infections as cases climb",
-    "summary": "<p>The latest milestone, a recorded 2,318 infections, makes 2026 the worst year for measles in the US since 1991</p><p>The US has officially surpassed last year\u2019s record number of measles infections, marking the highest case count since the disease was declared eliminated in 2000.</p><p>New figures from the US Centers for Disease Control and Prevention (CDC) released on Friday show the country has recorded 2,318 measles cases in 2026, overtaking the 2,289 cases reported during all of 2025 \u2013 with five months still remaining in the year. The country crossed the <a href=\"https://www.theguardian.com/us-news/2026/jun/10/measles-us-spike\">2,000-case threshold</a> last month before climbing even higher in July.</p> <a href=\"https://www.theguardian.com/society/2026/jul/24/us-measles-infections-record-high\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Marina Dunbar"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:09:29+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.semafor.com/article/07/24/2026/warren-steps-up-her-campaign-surrogate-travel",
-    "source": "Semafor",
-    "title": "Warren steps up her campaign surrogate travel",
-    "summary": "Senate Democrats have three contested primaries left on the calendar \u2014 and Warren is involved in all of them.",
-    "byline_count": 1,
-    "author_names": [
-      "Burgess Everett"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:59:23+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theatlantic.com/newsletters/2026/07/books-briefing-climate-fiction-accomplish/688057/?utm_source=feed",
-    "source": "The Atlantic",
-    "title": "What Truly Imaginative Fiction Can Do",
-    "summary": "Can a novel capture the shock of planetary instability?",
-    "byline_count": 1,
-    "author_names": [
-      "Emma Sarappo"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:45:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.semafor.com/article/07/24/2026/democrats-recommend-south-carolina-to-host-first-2028-primary",
-    "source": "Semafor",
-    "title": "Democrats recommend South Carolina to host first 2028 primary",
-    "summary": "The Democratic National Committee\u2019s rules and bylaws committee recommended keeping the state at the front of their primary calendar.",
-    "byline_count": 1,
-    "author_names": [
-      "David Weigel"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:35:45+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theatlantic.com/ideas/2026/07/war-strategy-shift-isolation/688061/?utm_source=feed",
-    "source": "The Atlantic",
-    "title": "Does Iran Have a Plan?",
-    "summary": "The U.S is subtly shifting its strategy for round two.",
-    "byline_count": 1,
-    "author_names": [
-      "Graeme Wood"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:22:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theatlantic.com/ideas/2026/07/odyssey-race/688058/?utm_source=feed",
-    "source": "The Atlantic",
-    "title": "The Fear of Black Greeks",
-    "summary": "White people don\u2019t own the accomplishments of ancient Greece.",
-    "byline_count": 1,
-    "author_names": [
-      "Adam Serwer"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:18:02+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/style/car-luxury-private-garages.html",
-    "source": "NYT",
-    "title": "Car Condos Give Your Vehicle Luxury Housing",
-    "summary": "No longer satisfied by regular parking garages, some drivers are upgrading their luxury vehicles\u2019 homes.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:48:44+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/democrats-south-carolina-nevada-2028-presidential-race.html",
-    "source": "NYT Politics",
-    "title": "Democrats Vote to Put South Carolina First in 2028 Primary",
-    "summary": "The state, along with several others still being chosen, appears set to play an important role in determining the party\u2019s next presidential nominee.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:09:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html",
-    "source": "NYT",
-    "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
-    "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:24:58+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-tariffs-russia-sanctions.html",
-    "source": "NYT",
-    "title": "Trump Tariff Fight Stalls Russia Sanctions Bill Championed by Lindsey Graham",
-    "summary": "A bipartisan bill championed by the late Senator Lindsey Graham has become mired in a dispute over expanding President Trump\u2019s tariff power.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:33:21+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html",
-    "source": "NYT",
-    "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
-    "summary": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:14:36+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html",
-    "source": "NYT",
-    "title": "Iran\u2019s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
-    "summary": "The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:18:50+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html",
-    "source": "NYT",
-    "title": "Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses",
-    "summary": "Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:27:32+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/whitmer-endorse-stevens-michigan-senate.html",
-    "source": "NYT",
-    "title": "Gretchen Whitmer Endorses Haley Stevens in Michigan Senate Race",
-    "summary": "Ms. Whitmer, a popular second-term governor, is wading into one of the most contentious Democratic primaries of this year\u2019s midterms.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:19:45+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html",
-    "source": "NYT",
-    "title": "Christopher Nolan\u2019s \u2018Odyssey\u2019 Shows That Epics Are Better Without A.I.",
-    "summary": "A.I. has rendered eye candy cheap. Viewers long for the visceral.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T12:56:06+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
-    "source": "NYT Politics",
-    "title": "Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran",
-    "summary": "President Trump has insisted the U.S.-Israeli war in Iran would be a relatively short \u201cexcursion,\u201d although it has now lasted nearly five months, with no end in sight.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:07:40+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/us/madison-wisconsin-police-shooting.html",
-    "source": "NYT",
-    "title": "What We Know About the Police Shooting in Madison",
-    "summary": "A Black man was shot and killed by the police on Wednesday, not far from the Wisconsin Capitol. An investigation is underway.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T18:57:43+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.politico.com/news/2026/07/24/gretchen-whitmer-michigan-senate-race-haley-stevens-01011606",
-    "source": "Politico",
-    "title": "Gretchen Whitmer endorses Haley Stevens for Michigan Senate seat",
-    "summary": "Whitmer waded into one of the highest-profile ideological battles within the Democratic Party.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T19:26:04+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/07/24/business/trump-tariffs-small-businesses-lawsuit.html",
-    "source": "NYT",
-    "title": "Small Businesses Sue Trump Administration Over Latest Tariffs",
-    "summary": "The businesses are represented by the Liberty Justice Center, a legal group that has successfully challenged President Trump\u2019s past duties.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T20:25:55+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.politico.com/news/2026/07/24/democrats-dnc-2028-calendar-south-carolina-01011481",
-    "source": "Politico",
-    "title": "Dems pick South Carolina to lead 2028 primary calendar",
-    "summary": "The state edged Nevada to be first, marking a major shift from past primary schedules",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:26:40+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion",
-    "source": "The Guardian US",
-    "title": "LeBron James going to the Philadelphia 76ers is perfectly in character",
-    "summary": "<p>Philadelphia wasn\u2019t the obvious destination for LeBron James. That may be exactly why it makes perfect sense for a player who has always prioritized fit over sentiment</p><p>Should we have seen this coming all along? LeBron James knew that joining the Golden State Warriors would have been a losing gamble on the health of players five times closer to the ends of their careers than the beginnings. He knew the Cleveland Cavaliers, however strong their analytics, hopelessly lacked the unquantifiable greatness of a championship team. He knew the Giannis Antetokounmpo-led Miami Heat were too unproven to hitch his wagon to.</p><p>Of course he knew.</p> <a href=\"https://www.theguardian.com/sport/2026/jul/24/lebron-james-philadelphia-76ers-perfect-fit-opinion\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Owen Lewis"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T20:57:04.645248+00:00",
-    "published_parsed": "2026-07-24T17:49:16+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/wirtschaft/usa-news-liveblog-masern-masernimpfung-kennedy-li.3511620",
-    "source": "Sueddeutsche Zeitung",
-    "title": "USA: Maserninfektionen in den USA auf h\u00f6chstem Stand seit 35 Jahren",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/07/24/c75963ac-022a-4e17-8783-8e9841feb9ce.jpg?rect=0%2C446%2C2727%2C2045&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Das Land z\u00e4hlt jetzt schon so viele Infektionen wie im ganzen Jahr 2025. In 43 Bundesstaaten sowie in Washington, D.C., wurde in diesem Jahr mindestens eine Infektion registriert.</p>",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T16:38:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kiew-raketen-li.3512468",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Krieg in der Ukraine: Russische Raketen fordern Tote bei Kiew",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/07/24/e4e60df0-f7d9-4995-bdb0-bfb8d51192a1.jpg?rect=0%2C0%2C1280%2C960&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Mindestens zehn Menschen sterben laut offiziellen Angaben beim Luftangriff auf eine mutma\u00dfliche Waffenschau, Dutzende werden verletzt. In Slowjansk t\u00f6ten Gleitbomben mindestens f\u00fcnf Menschen.</p>",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T14:29:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-07-24/russian-missile-strike-kills-10-at-ukraine-defence-event/106957128",
-    "source": "ABC Australia",
-    "title": "Russian missile strike kills 10 at Ukraine defence industry event",
-    "summary": "A Russian ballistic missile strike has killed 10 people and injured almost 100 at a defence industry event near Kyiv, as the Kremlin says it will keep fighting while awaiting new US peace proposals.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T13:41:40+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/california/story/2026-07-24/sunset-boulevard-expected-to-reopen-late-friday-following-water-leak",
-    "source": "Los Angeles Times",
-    "title": "Sunset Boulevard expected to reopen late Friday following water leak",
-    "summary": "<p>About a week after an estimated 17 million gallons of water spilled out of a broken water main under Sunset Boulevard in West Hollywood, crews have finalized repairs and announced the road will soon reopen.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Hannah Fry"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T15:24:23+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/muenchen/muenchen-architekt-stephan-braunfels-kuendigung-wohnung-li.3520698",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Prominenter Wohnungsstreit: Architekt Stephan Braunfels soll nach 56 Jahren aus seiner Wohnung geklagt werden",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/07/24/528068c9-0d86-4654-8cf3-af3c54853bf1.jpg?rect=323%2C0%2C3567%2C2675&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Verliert der Sch\u00f6pfer der Pinakothek der Moderne wegen einer Schuhablage seine Bleibe? Vor dem Amtsgericht kommt es zum Showdown zwischen dem bekannten Architekten und einem Immobilienkonzern.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Patrik St\u00e4bler"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T13:14:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/politik/leihmutterschaft-usa-deutschland-unterschiede-li.3520252",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Kinderwunsch: Wie die Amerikaner auf die Leihmutterschaft schauen",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/07/24/ee057a81-47f2-41bd-bda2-fb3f9d0b496e.jpg?rect=507%2C231%2C1803%2C1352&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Selbst manche erzkonservativen Bundesstaaten der USA erlauben, was in Deutschland verboten ist: mithilfe einer fremden Frau ein Kind zu bekommen. Antworten auf die wichtigsten Fragen.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Boris Herrmann"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T12:25:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/california/story/2026-07-24/5-reasons-dodgers-should-not-go-back-to-white-house-again-next-year",
-    "source": "Los Angeles Times",
-    "title": "Lopez: 5 reasons the Dodgers should not go back to the White House again next year",
-    "summary": "<p>A World Series victory comes at a stiff price: the annual White House photo op.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Steve Lopez"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T16:51:25+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/sport/dfb-juergen-klopp-bundestrainer-passt-kommentar-li.3520878",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Neuer Bundestrainer: Klopp und die Nationalelf, das k\u00f6nnte ein perfektes Match sein \u2013 wenn Klopp noch Kloppo ist",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/07/24/f339c245-2604-4121-ae58-cfe6b0b32dff.jpg?rect=181%2C0%2C3556%2C2667&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Das gab es in der Geschichte der deutschen Nationalmannschaft noch nie: Ein Bundestrainer \u00fcbernimmt eine Elf, die deutlich kleiner ist als er. Zu Klopps Vita k\u00f6nnte diese Versuchsanordnung passen.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Christof Kneer"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T12:05:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
-    "source": "Los Angeles Times",
-    "title": "Southern California's heat wave is about to break. But not for long",
-    "summary": "<p>Southern California will continue to endure hotter than normal conditions for the foreseeable future, with the peak of the heat wave lasting through Sunday, forecasters said.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Alex Wigglesworth"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T15:56:16+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/panorama/karlsruhe-deutsche-bahn-sturz-mitarbeiter-streit-fahrgast-li.3520885",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Sturz aus dem Zug: \u201eMein Mandant war das Opfer, nicht der T\u00e4ter\u201c",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/07/24/f03bb4db-2696-4675-b02c-01cd858d5285.jpg?rect=0%2C116%2C3225%2C2419&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Nach einem Streit mit einem Fahrgast st\u00fcrzt ein DB-Mitarbeiter aus dem Zug und \u00fcberlebt nur knapp. Laut Staatsanwaltschaft ist der Fahrgast auf den Mann losgegangen, doch ein Video weckt Zweifel. War es doch anders?</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Roland Muschel"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T13:15:40+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/sports/story/2026-07-24/lebron-james-chooses-philadelphia-76ers-as-his-next-team",
-    "source": "Los Angeles Times",
-    "title": "LeBron James chooses the Philadelphia 76ers, will sign a two-year, $8 million deal",
-    "summary": "<p>After nearly a month of weighing his options, LeBron James announced on X that he will sign with the Philadelphia 76ers to play in his record 24th NBA season and pursue a fifth title.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Steve Henson"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T15:43:47+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/business/story/2026-07-24/did-la-businesses-get-promised-world-cup-bump",
-    "source": "Los Angeles Times",
-    "title": "Did L.A. businesses get the promised World Cup bump?",
-    "summary": "<p>World Cup economic impact on L.A., beer sales soar</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Annika Duneja"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T15:37:04+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/sport/mertesacker-dfb-geschaeftsfuehrer-klopp-li.3521059",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Per Mertesacker beim DFB: Der erste Weltmeister von 2014 in einer Chefrolle",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2022/06/22/164235a3-c4b2-4516-a2ae-9da50a1326e6.jpeg?rect=0%2C17%2C1138%2C854&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>J\u00fcrgen Klopp ist nicht der einzige Neue beim DFB: Vom 1. Januar an folgt Per Mertesacker auf Andreas Rettig als Gesch\u00e4ftsf\u00fchrer Sport. Seine Referenz ist die Entwicklung von Talenten beim FC Arsenal.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Sebastian Fischer"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T14:10:41+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-07-24/chris-brown-pleads-guilty/106957100",
-    "source": "ABC Australia",
-    "title": "Singer Chris Brown pleads guilty to affray over London nightclub incident",
-    "summary": "US singer Chris Brown has pleaded guilty to affray over an altercation in a London nightclub in a fight that injured a music producer with a glass bottle.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-07-24T17:22:47.846861+00:00",
-    "published_parsed": "2026-07-24T13:58:46+00:00",
     "is_new": false
   }
 ]
