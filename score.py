@@ -127,10 +127,21 @@ def score_article(article):
     hits = body_hits + label_hits
 
     byline_count = article.get("byline_count", 1)
-    # Byline bonus: 2 points per additional author beyond the first, capped —
-    # this rewards visibly resourced investigations without letting a 6-byline
-    # wire roundup dominate the rankings.
-    byline_bonus = min((byline_count - 1) * 2, 6)
+    # Byline bonus: 2 points per author beyond the SECOND, capped at +6 —
+    # deliberately changed from "beyond the first" (2026-07-26). A 2-byline
+    # article is the routine default for wire/agency copy and even
+    # lifestyle-desk features (AP co-bylines, CNBC/Business Insider pieces),
+    # not a reliable signal of a resourced investigation on its own. This was
+    # confirmed by real report output: several 2-byline, zero-category-hit
+    # articles (a tariffs wire piece, a travel listicle, a "generations"
+    # feature) were clearing the display threshold on byline bonus alone.
+    # Only a 3rd+ author is treated as a meaningfully stronger collaborative-
+    # investigation signal. Known tradeoff, not yet validated against a week
+    # of real output: this also zeroes the bonus for genuine 2-reporter
+    # investigative bylines (common at NYT/WaPo/ProPublica) — those pieces
+    # still score on keyword hits if the story itself has real signal, but
+    # they lose this bonus same as a routine 2-byline wire piece would.
+    byline_bonus = min((byline_count - 2) * 2, 6) if byline_count > 2 else 0
 
     result = dict(article)
     result["keyword_score"] = keyword_score
