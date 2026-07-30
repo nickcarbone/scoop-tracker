@@ -165,7 +165,17 @@ def select_representative(cluster):
     exist), earliest timestamp wins, as the closest available proxy for
     who actually had it first — acknowledged as only as good as each feed's
     own published/updated timestamp, which can be a same-hour wire-pickup
-    race rather than a meaningful gap."""
+    race rather than a meaningful gap.
+
+    Known limitation (flagged 2026-07-29, Suri Cruise/Page Six case): this
+    logic can only compare outlets that are actually in feeds.json. If the
+    true first-reporter isn't a tracked source, this will confidently pick
+    the earliest *tracked* outlet and present it as if it were the origin —
+    it has no way to know a non-monitored outlet broke the story earlier.
+    Not fixable in this function; the fix is expanding source coverage, or
+    (longer-term) Tier 2 GDELT downstream-citation checking, which could
+    eventually flag "this outlet cites another outlet" even when the
+    original isn't tracked."""
     labeled = [a for a in cluster if "headline_label" in a.get("matched_categories", [])]
     pool = labeled if labeled else cluster
     return min(pool, key=_timestamp_sort_key)
@@ -288,6 +298,11 @@ def write_json(conn, path="scoop_tracker_output.json", window_hours=72, new_urls
         json.dump(articles, f, indent=2)
 
 def render_rows(selected, new_urls=frozenset()):
+    """Mobile layout note (2026-07-29): rank + score used to be two separate
+    fixed-width <td> columns (34px + 44px), which on an iPhone-width viewport
+    ate roughly 20% of horizontal space before the headline even started.
+    Both now live in a single .story-head strip above the headline, inside
+    the one content cell, so the full row width goes to the story text."""
     rows = []
     for i, a in enumerate(selected, 1):
         cats = a.get("matched_categories", [])
@@ -298,7 +313,7 @@ def render_rows(selected, new_urls=frozenset()):
         # scored this run — a story is new-to-you even if the specific
         # outlet showing as the representative happened to be seen earlier.
         is_new = a["link"] in new_urls or any(o["link"] in new_urls for o in others)
-        new_badge = '<span class="badge-new">NEW</span> ' if is_new else ''
+        new_badge = '<span class="badge-new">NEW</span>' if is_new else ''
 
         also_covered_html = ""
         if others:
@@ -311,10 +326,13 @@ def render_rows(selected, new_urls=frozenset()):
 
         rows.append(f"""
         <tr class="{'is-new' if is_new else ''}">
-          <td class="rank">{i:02d}</td>
-          <td class="score">{a['total_score']}</td>
           <td class="story">
-            {new_badge}<a href="{esc(a['link'])}" target="_blank">{esc(a['title'])}</a>
+            <div class="story-head">
+              <span class="rank">#{i:02d}</span>
+              <span class="score-badge">SCORE {a['total_score']}</span>
+              {new_badge}
+            </div>
+            <a href="{esc(a['link'])}" target="_blank">{esc(a['title'])}</a>
             <div class="meta">{esc(a['source'])} &middot; {byline_note}{(' &middot; ' + esc(', '.join(a['author_names'][:3]))) if a.get('author_names') else ''}</div>
             <div class="tags">{cat_tags}</div>
             {also_covered_html}
@@ -358,7 +376,7 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
         bucket_sections.append(f"""
   <section class="bucket">
     <h2 class="bucket-title">{esc(label)} <span class="bucket-count">({len(selected)} of {len(bucket_articles)} flagged)</span></h2>
-    <table><tbody>{rows_html if rows_html else '<tr><td class="empty" colspan="3">Nothing flagged in this window.</td></tr>'}</tbody></table>
+    <table><tbody>{rows_html if rows_html else '<tr><td class="empty">Nothing flagged in this window.</td></tr>'}</tbody></table>
   </section>""")
 
     total_in_window = len(db.recent_articles(conn, hours=window_hours, limit=100000))
@@ -389,10 +407,13 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
   .subhead {{ font-size: 12px; color: var(--dim); letter-spacing: 1px; text-transform: uppercase; margin-top: 6px; }}
   .stats {{ display: flex; gap: 18px; flex-wrap: wrap; font-size: 12px; color: var(--dim); margin-top: 10px; border-top: 1px solid var(--line); padding-top: 10px; }}
   .stats b {{ color: var(--paper); }}
+  .score-legend {{ font-size: 11.5px; color: var(--dim); line-height: 1.5; margin-top: 10px; border-top: 1px solid var(--line); padding-top: 10px; }}
+  .score-legend b {{ color: var(--paper); }}
   table {{ width: 100%; border-collapse: collapse; }}
-  td {{ padding: 10px 8px; vertical-align: top; border-bottom: 1px solid var(--line); }}
-  .rank {{ font-family: 'Bebas Neue', sans-serif; font-size: 20px; color: var(--dim); width: 34px; }}
-  .score {{ font-family: 'Bebas Neue', sans-serif; font-size: 26px; color: var(--red); width: 44px; }}
+  td {{ padding: 12px 8px; vertical-align: top; border-bottom: 1px solid var(--line); }}
+  .story-head {{ display: flex; align-items: center; gap: 8px; margin-bottom: 5px; flex-wrap: wrap; }}
+  .rank {{ font-family: 'Bebas Neue', sans-serif; font-size: 13px; color: var(--dim); }}
+  .score-badge {{ font-size: 10px; letter-spacing: 0.5px; text-transform: uppercase; background: var(--panel); border: 1px solid var(--red); color: var(--red); padding: 2px 7px; border-radius: 2px; }}
   .story a {{ color: var(--paper); text-decoration: none; font-weight: 700; font-size: 15px; }}
   .story a:hover {{ color: var(--red); text-decoration: underline; }}
   .meta {{ color: var(--dim); font-size: 11px; margin-top: 4px; }}
@@ -402,7 +423,7 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
   .also-covered {{ color: var(--dim); font-size: 11px; margin-top: 6px; }}
   .also-covered a {{ color: var(--ink); }}
   tr.is-new {{ background: rgba(212, 161, 61, 0.07); }}
-  .badge-new {{ display: inline-block; background: var(--gold); color: #171513; font-family: 'Bebas Neue', sans-serif; font-size: 11px; letter-spacing: 1px; padding: 2px 6px; border-radius: 2px; vertical-align: middle; margin-right: 2px; }}
+  .badge-new {{ display: inline-block; background: var(--gold); color: #171513; font-family: 'Bebas Neue', sans-serif; font-size: 11px; letter-spacing: 1px; padding: 2px 6px; border-radius: 2px; vertical-align: middle; }}
   .bucket {{ margin-top: 26px; }}
   .bucket-title {{ font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 1px; color: var(--paper); border-bottom: 1px solid var(--line); padding-bottom: 6px; margin: 0 0 4px; }}
   .bucket-count {{ font-family: 'Courier Prime', monospace; font-size: 11px; color: var(--dim); letter-spacing: 0; text-transform: none; }}
@@ -426,6 +447,17 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
       <div><b>{total_stories}</b> distinct stories ({total_collapsed} duplicate write-ups collapsed)</div>
       <div><b>{total_shown}</b> shown (capped at {per_source_cap}/source per time window)</div>
       <div><b>{total_new_shown}</b> new this run</div>
+    </div>
+    <div class="score-legend">
+      <b>What the score means:</b> sum of matched structural signals — sourcing-depth
+      language ("people familiar with," "docs obtained by," "a source tells [outlet]"),
+      primary-source language (FOIA, leaked memos, court/custody/divorce filings),
+      institutional-record mentions (SEC/DOJ/PACER, name-change petitions), and
+      headline exclusivity labels ("Scoop:"/"Exclusive:") — plus a capped bonus for
+      extra bylines. It flags candidates worth a human's attention, not verified
+      importance. A high score can still be a fast wire-pickup of someone else's
+      scoop, not the original exclusive — check the tags below each story for which
+      signals matched, and "Also covered by" for other outlets on the same story.
     </div>
   </header>
   {''.join(bucket_sections)}

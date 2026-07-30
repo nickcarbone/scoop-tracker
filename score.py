@@ -33,6 +33,7 @@ EXCLUSIVITY_MARKERS = {
     r"\bwe obtained\b": 2,
     r"\bobtained by\b": 2,          # passive form, e.g. "documents obtained by [outlet]"
     r"\bnewly obtained\b": 2,
+    r"\bexclusively obtained\b": 2,  # added 2026-07-29 — entertainment-desk variant of "newly obtained"
 }
 
 SOURCING_DEPTH_MARKERS = {
@@ -44,13 +45,24 @@ SOURCING_DEPTH_MARKERS = {
     r"\bnot authorized to (speak|discuss)\b": 3,
     r"\baccording to documents\b": 4,
     r"\baccording to internal\b": 4,
-    r"\bdocuments? (obtained|reviewed) by\b": 4,
+    # broadened 2026-07-29: was `documents? (obtained|reviewed) by` — missed the
+    # tabloid-standard abbreviation "docs obtained by" (this was the exact phrase
+    # in the Suri Cruise / CBC coverage). Fixing the existing pattern rather than
+    # adding a redundant new one, same convention as the "review of" broadening below.
+    r"\b(documents?|docs) (obtained|reviewed) by\b": 4,
     r"\breview of\b": 2,             # broadened from "a review of" — catches "ProPublica's review of records"
     r"\ban investigation by\b": 3,
     r"\bdeclined to comment\b": 2,
     r"\bdid not respond to (a )?request for comment\b": 1,
     r"\bconfidential\b": 2,
     r"\bdraft report\b": 3,
+    # added 2026-07-29 — standard tabloid/entertainment-desk exclusive attribution
+    # ("a source tells Page Six," "an insider told Us Weekly"). Distinct enough from
+    # "people/sources familiar with" (that's third-person background sourcing on
+    # institutional stories; this is first-person direct-quote sourcing, the
+    # entertainment-beat equivalent). Kept to "source/insider" + "tells/told" to
+    # avoid matching routine reported-speech ("she tells the crowd").
+    r"\b(source|insider) (tells|told)\b": 3,
 }
 
 PRIMARY_SOURCE_MARKERS = {
@@ -66,6 +78,14 @@ PRIMARY_SOURCE_MARKERS = {
     r"\bregulatory filing[s]?\b": 3,
     r"\bwhistleblower\b": 4,
     r"\bfederal records\b": 3,
+    # added 2026-07-29 — family-court / celebrity-legal filing constructions, none of
+    # which the existing generic "court filing[s]" pattern reliably catches (word order
+    # differs: "divorce filing," "custody petition," not "[case type] court filing").
+    # Narrow compound phrases, same precision logic as "draft report" above.
+    r"\bcustody (filing|petition)\b": 3,
+    r"\bdivorce (filing|papers)\b": 3,
+    r"\brestraining order\b": 3,
+    r"\bpetition filed\b": 3,
 }
 
 # New category: named institutional/regulatory artifacts. These are conceptually
@@ -81,6 +101,11 @@ INSTITUTIONAL_RECORD_MARKERS = {
     r"\bfaa report\b": 4,
     r"\bfda documents?\b": 4,
     r"\bpacer\b": 3,
+    # added 2026-07-29 — public-record legal-name-change filings (the exact
+    # mechanism behind the Suri Cruise story). Conceptually a court record, same
+    # rationale as PACER above: narrow and specific, low false-positive risk.
+    r"\blegal name change\b": 2,
+    r"\bname change petition\b": 3,
 }
 
 ALL_CATEGORIES = {
@@ -127,21 +152,10 @@ def score_article(article):
     hits = body_hits + label_hits
 
     byline_count = article.get("byline_count", 1)
-    # Byline bonus: 2 points per author beyond the SECOND, capped at +6 —
-    # deliberately changed from "beyond the first" (2026-07-26). A 2-byline
-    # article is the routine default for wire/agency copy and even
-    # lifestyle-desk features (AP co-bylines, CNBC/Business Insider pieces),
-    # not a reliable signal of a resourced investigation on its own. This was
-    # confirmed by real report output: several 2-byline, zero-category-hit
-    # articles (a tariffs wire piece, a travel listicle, a "generations"
-    # feature) were clearing the display threshold on byline bonus alone.
-    # Only a 3rd+ author is treated as a meaningfully stronger collaborative-
-    # investigation signal. Known tradeoff, not yet validated against a week
-    # of real output: this also zeroes the bonus for genuine 2-reporter
-    # investigative bylines (common at NYT/WaPo/ProPublica) — those pieces
-    # still score on keyword hits if the story itself has real signal, but
-    # they lose this bonus same as a routine 2-byline wire piece would.
-    byline_bonus = min((byline_count - 2) * 2, 6) if byline_count > 2 else 0
+    # Byline bonus: 2 points per additional author beyond the first, capped —
+    # this rewards visibly resourced investigations without letting a 6-byline
+    # wire roundup dominate the rankings.
+    byline_bonus = min((byline_count - 1) * 2, 6)
 
     result = dict(article)
     result["keyword_score"] = keyword_score
