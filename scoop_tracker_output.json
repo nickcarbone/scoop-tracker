@@ -245,7 +245,7 @@
     ],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:23:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/",
@@ -369,24 +369,6 @@
     ],
     "first_seen_at": "2026-08-05T10:27:57.982970+00:00",
     "published_parsed": "2026-08-05T07:22:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/04/perez-hilton-taken-to-hospital/",
-    "source": "TMZ",
-    "title": "Perez Hilton: Ambulance Seen Transporting Man Outside His Home Following Frightening Livestream",
-    "summary": "A man believed to be Perez Hilton has been transported to a nearby hospital after deputies rushed to his Miami home, following multiple reports that someone inside was live-streaming acts of self-harm on social media, TMZ has learned. Miami-Dade&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 8,
-    "matched_categories": [
-      "exclusivity",
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T04:22:26+00:00",
     "is_new": false
   },
   {
@@ -1416,7 +1398,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:56:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c89n8j5e32do?at_medium=RSS&at_campaign=rss",
@@ -1433,7 +1415,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:34:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/07/porsha-williams-wins-final-divorce-battle-gets-multimillion-dollar-home/",
@@ -2604,55 +2586,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.abc.net.au/news/2026-08-05/robe-locals-concerned-after-mass-bird-flu-deaths/106969790",
-    "source": "ABC Australia",
-    "title": "Mass bird flu deaths drive attendance at community forum",
-    "summary": "As bird flu begins to spread among resident shorebirds, communities are coming to terms with the damage it may do.",
-    "byline_count": 3,
-    "author_names": [
-      "Josh Brine",
-      "Aiden McNamara",
-      "Elsie Adamo"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T04:59:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-05/dry-july-rainfall-western-australia-crop-concerns-agriculture/106999750",
-    "source": "ABC Australia",
-    "title": "No winter respite for farmers after dry July across southern WA",
-    "summary": "Concerns are growing over potential crop losses, with parts of WA's grain-growing regions recording their driest mid-winter spells on record.",
-    "byline_count": 3,
-    "author_names": [
-      "Andrew Chounding",
-      "Anthony Pancia",
-      "Eliza Bidstrup"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T05:48:38+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/european-and-russian-ex-officials-held-talks-on-war-in-ukraine",
-    "source": "Bloomberg",
-    "title": "European and Russian Ex-Officials Held Talks on War in Ukraine",
-    "summary": "Former senior officials from the UK, France, Germany and Russia met in Vienna last month to explore potential conditions for peace talks to end Moscow\u2019s war on Ukraine, according to people familiar with the matter.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 4,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T05:00:00+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://deadline.com/2026/08/supermax-movie-jason-clarke-amazon-mgm-miramax-1237029162/",
     "source": "Deadline",
     "title": "Jason Clarke Joins Action-Thriller \u2018Supermax\u2019 From Amazon MGM & Miramax",
@@ -2667,7 +2600,7 @@
     ],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:54:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
@@ -2684,7 +2617,7 @@
     ],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:00:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/trump-administration-pays-out-100-billion-tariff-refunds-businesses/",
@@ -3178,6 +3111,115 @@
     "is_new": false
   },
   {
+    "link": "https://www.latimes.com/entertainment-arts/awards/story/2026-08-06/noah-wyle-the-pitt-season-3-season-2-casting-envelope-podcast",
+    "source": "Los Angeles Times",
+    "title": "Noah Wyle previews 'The Pitt' Season 3, from addressing critics to Robby's 'original sin'",
+    "summary": "<p>With production on a new season of 'The Pitt' underway, The Envelope podcast visited Wyle on the Warner Bros. lot to discuss the show's 25 Emmy nominations, what's next and more.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Mark Olsen",
+      "Yvonne Villarreal"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-06T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/aug/08/how-northern-ireland-race-riots-unfolded-belfast",
+    "source": "The Guardian US",
+    "title": "The night Belfast burned: how the Northern Ireland race riots unfolded",
+    "summary": "<p>A horrific knife attack on a street in June sparked another summer\u2019s night of racial violence, stoked by loyalist groups. How did the unrest erupt \u2013 and why do many fear it will happen again?</p><p>Shortly after 10.30pm on Monday 8 June, as a summer twilight lingered over Belfast, a horrific scene unfolded on Kinnaird Avenue: a man straddled and repeatedly stabbed a figure lying on the ground in a bloody assault that ended only after onlookers intervened.</p><p>Others captured the drama on cameraphones and uploaded the footage to social media. Once seen, the grainy images were hard to forget, and by dawn on Tuesday 9 June they were ricocheting around X, WhatsApp, Facebook, Telegram and other platforms.</p> <a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/aug/08/how-northern-ireland-race-riots-unfolded-belfast\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Rory Carroll",
+      "Hannah Al-Othman"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T06:00:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/US/wireStory/senate-approves-funding-bill-avoid-shutdown-election-135478157",
+    "source": "ABC News",
+    "title": "Senate approves funding bill to avoid a shutdown before the election",
+    "summary": "The Senate has passed a short-term measure to keep federal agencies funded into early December and avoid a government shutdown during campaign season",
+    "byline_count": 2,
+    "author_names": [
+      "KEVIN FREKING Associated Press",
+      "LISA MASCARO Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:13:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c4g6pdem336o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Betty, 97, breaks record for oldest wingwalker",
+    "summary": "She has carried out six charity wing walks over the past decade.",
+    "byline_count": 2,
+    "author_names": [
+      "Steve Knibbs",
+      "Clara Bullock"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-04T17:02:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/aug/08/we-have-no-tents-or-blankets-ceuta-migrants-struggle-to-survive-brutal-heat-and-freezing-nights",
+    "source": "The Guardian US",
+    "title": "\u2018We have no tents or blankets\u2019: Ceuta migrants struggle to survive brutal heat and freezing nights",
+    "summary": "<p>Authorities wrestle with fallout from mass border crossing, as tense Spanish enclave fears it will happen again</p><p>Along the wide avenues and tree-lined plazas of Ceuta\u2019s centre, there were few hints of the recent events that catapulted the Spanish enclave on the north African coast into global headlines.</p><p>But less than a mile away from the bustling bars and restaurants, at the nearby El Trampol\u00edn beach, the lingering impact was impossible to ignore.</p> <a href=\"https://www.theguardian.com/world/2026/aug/08/we-have-no-tents-or-blankets-ceuta-migrants-struggle-to-survive-brutal-heat-and-freezing-nights\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Okba Mohammad",
+      "Ashifa Kassam"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/aug/08/us-accused-of-meddling-in-british-politics-with-500000-grant-scheme-promoting-shared-values",
+    "source": "The Guardian US",
+    "title": "US accused of meddling in British politics with $500,000 grant for \u2018public education\u2019 courses",
+    "summary": "<p>Documents published on US embassy\u2019s website prompt claims of attempt to export Maga propaganda to UK</p><p>The US embassy in London is offering grants of up to half a million dollars for new \u201cpublic education\u201d programmes in what has been criticised as interference in British domestic politics.</p><p>Using language that the pro-Trump Maga movement has sought to appropriate, a funding notice identifies a goal of fostering a \u201cnational conversation\u201d about \u201cshared civilizational values\u201d underpinning US-UK ties. Priority will go to applicants aiming to celebrate \u201cfreedom of speech\u201d and \u201climited government\u201d.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/08/us-accused-of-meddling-in-british-politics-with-500000-grant-scheme-promoting-shared-values\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Ben Quinn",
+      "Aisha Down"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:00:41+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/",
+    "source": "The Hill",
+    "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
+    "summary": "The Senate voted early Saturday morning to fund the federal government until Dec. 11 with the aim of averting another government shutdown before the midterm election, sending the bill to the House before leaving for a five-week recess. The continuing resolution (CR) passed\u00a090-6\u00a0after Republicans spent days haggling over a provision inserted by the White House&#8230;",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:00:05+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://pagesix.com/parents/celebrity-babies-2026/",
     "source": "Page Six",
     "title": "Celebrity babies born in 2026:\u00a0All the stars who welcomed kids this year",
@@ -3191,7 +3233,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:01:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/sport/fifa-infantino-trump-investoren-li.3528062",
@@ -3207,7 +3249,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-07T14:28:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/inside-the-closed-world-of-japans-geisha/106983434",
@@ -3223,7 +3265,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:31:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/britain-green-pastures-turn-brown-amid-drought/107011800",
@@ -3239,7 +3281,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:16:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/memphis-grizzlies-brandon-clarke-cause-of-death-heroin-cocaine/",
@@ -3254,7 +3296,7 @@
     ],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T00:55:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/world/africa/video-shows-hippo-charging-boat-full-tourists-botswana-rcna591455",
@@ -3270,7 +3312,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:43:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/wireStory/pentagon-revokes-former-air-force-secretary-frank-kendalls-135474591",
@@ -3286,7 +3328,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:15:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/07/brandon-clarke-cause-of-death/",
@@ -8677,292 +8719,38 @@
     "is_new": false
   },
   {
-    "link": "https://deadline.com/2026/08/disney-consumer-products-moves-studios-1237018017/",
-    "source": "Deadline",
-    "title": "Big-Bucks-Generating Disney Consumer Products Unit Shifts To Studio Umbrella",
-    "summary": "In Disney&#8217;s second corporate shift to the entertainment tent in six months &#8212; and just before CEO Josh D\u2019Amaro leads its Q3 earnings report tomorrow morning &#8212; the company unveiled plans to to move its revenue-rich Consumer Products division. The shift seeks to create &#8220;cohesion across the entire Disney ecosystem and extending the relevance of [&#8230;]",
-    "byline_count": 2,
-    "author_names": [
-      "Tom Tapp",
-      "Dominic Patten"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T03:02:25+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/08/04/celebrity-news/perez-hilton-livestreams-apparent-self-harming-video-cops-respond/",
-    "source": "Page Six",
-    "title": "Perez Hilton livestreams apparent self-harming video, cops respond to celeb blogger\u2019s Miami home",
-    "summary": "The celebrity blogger is father to three children welcomed via surrogacy.",
-    "byline_count": 2,
-    "author_names": [
-      "Carson Blackwelder",
-      "Teresa Roca"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T02:49:08+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/04/police-respond-to-perez-hilton-after-alarming-tiktok-live/",
+    "link": "https://www.tmz.com/2026/08/08/shawne-merriman-talks-chargers-justin-herbert-engagement/",
     "source": "TMZ",
-    "title": "Perez Hilton Sparks Police Response After Alarming TikTok Livestream in Miami-Dade",
-    "summary": "8/4/2026 8:53 PM PST -- The Miami-Dade PIO tells TMZ ... The individual has been safely recovered and transported by Miami-Dade Fire Rescue to a local hospital, where he is receiving medical attention. The Miami-Dade Sheriff\u2019s Office Crisis&hellip;",
+    "title": "Justin Herbert 'Better Get 2 Rings' After Madison Beer Engagement, Shawne Merriman Says",
+    "summary": "Justin Herbert and Madison Beer's training camp love fest won't hurt the Los Angeles Chargers' chances at a Super Bowl ... so says franchise legend Shawne Merriman, who tells TMZ Sports the quarterback's goal better be to get two rings now!! The&hellip;",
     "byline_count": 1,
     "author_names": [
       "TMZ Staff"
     ],
-    "total_score": 2,
+    "total_score": 1,
     "matched_categories": [
       "exclusivity"
     ],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T02:32:52+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:30:01+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.sueddeutsche.de/wirtschaft/sap-chef-klein-interview-afd-digital-ministerium-buerger-app-kuenstliche-intelligenz-ki-li.3524085",
-    "source": "Sueddeutsche Zeitung",
-    "title": "SAP-Chef Christian Klein: \u201eNicht jeder ist ein Top-Performer\u201c",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/03/9bd291d0-ba39-4230-9b07-94bf6e19870f.jpg?rect=316%2C0%2C3368%2C2526&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>SAP-Chef Christian Klein fordert ehrliches Feedback und transparente Geh\u00e4lter. Ein Gespr\u00e4ch \u00fcber faire Leistungsbeurteilungen, KI-Jobs der Zukunft und die Frage, wie sehr ihn der Aufstieg der AfD sorgt.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Tobias Bug",
-      "Alexander M\u00fchlauer"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-04T13:57:02+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-05/nrl-club-claims-keith-titmuss-contributed-to-training-death/106999580",
-    "source": "ABC Australia",
-    "title": "NRL club claims player Keith Titmuss contributed to training death",
-    "summary": "Manly Warringah Sea Eagles respond to a lawsuit from the family of a player who died at preseason training saying he was negligent in his own death by not revealing he was out of shape.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T04:02:29+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-05/mystery-body-northern-nsw-1999-car-missing-person-glen-innes/106997748",
-    "source": "ABC Australia",
-    "title": "Police seek to solve a decades-old mystery of man's body found in car",
-    "summary": "NSW Police are still trying to solve the case of a man whose body was found in a car with WA number plates from a vehicle written off years earlier.",
-    "byline_count": 2,
-    "author_names": [
-      "Peter Sanders",
-      "Kristy Reading"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T03:41:07+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-05/nsw-police-officers-now-mandatory-use-body-worn-cameras/106999018",
-    "source": "ABC Australia",
-    "title": "NSW Police update body-worn camera policy after ABC investigation",
-    "summary": "Thousands of NSW Police officers will from today be required to switch on their body-worn cameras when using police powers.",
-    "byline_count": 2,
-    "author_names": [
-      "Amy Greenbank",
-      "Dylan Welch"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T04:04:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-05/labor-migration-policy-tony-burke-partner-visas/107000272",
-    "source": "ABC Australia",
-    "title": "Warnings Labor's plan to delay family reunions could be 'human rights issue'",
-    "summary": "Experts are divided on the government's plan to increase its control over net migration figures, warning the devil is in the detail.",
-    "byline_count": 2,
-    "author_names": [
-      "Tom Crowley",
-      "Sara Tomevska"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T05:16:28+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-05/deer-on-rock-shelf-near-wollongong-pool/106998206",
-    "source": "ABC Australia",
-    "title": "Deer stranded on rock shelf highlights looming urban pest problem",
-    "summary": "A deer stranded on an ocean rock shelf near swimmers and cyclists in Wollongong is the latest example of pest species encroaching into urban areas.",
-    "byline_count": 2,
-    "author_names": [
-      "Justin Huntsdale",
-      "Brooke Chandler"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T04:39:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/04/has-the-ai-race-shifted-from-u-s-vs-china-to-open-vs-closed/",
-    "source": "Fortune",
-    "title": "Has the AI race shifted from U.S. vs China to open vs closed?",
-    "summary": "Whether it\u2019s GLM-5.2, Kimi K3, or DeepSeek V4, China\u2019s open-source AI models are reshaping how we think about AI.",
-    "byline_count": 2,
-    "author_names": [
-      "Grace Shao",
-      "Alvin Wang Graylin"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T03:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/news/us-news/perez-hilton-hospitalized-reports-livestream-self-harm-rcna590901",
-    "source": "NBC News",
-    "title": "Perez Hilton hospitalized after reports he livestreamed self-harm, sheriff\u2019s officials say",
-    "summary": "The blogger recently returned to his native Miami after living in Las Vegas.",
-    "byline_count": 2,
-    "author_names": [
-      "Emilie Dorn",
-      "Dennis Romero"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T05:07:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.courthousenews.com/no-dice-for-kalshi-in-federal-lawsuit-against-utah/",
-    "source": "Courthouse News",
-    "title": "No dice for Kalshi in federal lawsuit against Utah",
-    "summary": "A federal judge ruled Utah can enforce its gambling laws against prediction market company Kalshi, rejecting the company\u2019s argument that federal law shields it from state regulation.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T03:23:51+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Tories offer Jewish groups meeting with ex neo-Nazi activist candidate",
-    "summary": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
-    "byline_count": 2,
-    "author_names": [
-      "Henry Zeffman",
-      "Helen Sullivan"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T02:03:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/mike-lindell-step-down-mypillow-ceo-minnesota-governor-run-2026-8",
-    "source": "Business Insider",
-    "title": "MyPillow's Mike Lindell is stepping down after 22 years as CEO",
-    "summary": "Mike Lindell is handing over control of the company to Jim Furlong, who was its president from 2004 to 2019. Lindell is running for governor of Minnesota.",
-    "byline_count": 1,
-    "author_names": [
-      "Cheryl Teh"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T05:46:50+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/articles/c5y3pd5xvpzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Why Liverpool are ready to make Barcola third \u00a3100m signing",
-    "summary": "With Liverpool prepared to make Bradley Barcola their third \u00a3100m signing, BBC Sport looks at what the France and Paris St-Germain winger would bring to Anfield.",
-    "byline_count": 2,
-    "author_names": [
-      "Michael Emons",
-      "Mohamed Moallim"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T05:28:08+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
-    "summary": "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister.",
-    "byline_count": 2,
-    "author_names": [
-      "Nicholas Watt",
-      "Sophie McAlpine"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T02:19:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.semafor.com/article/08/04/2026/spacex-shares-sink-after-execs-promise-more-spending",
-    "source": "Semafor",
-    "title": "SpaceX shares sink after execs promise more spending",
-    "summary": "Still, shares wobbled after an initial jump on Tuesday.",
-    "byline_count": 2,
-    "author_names": [
-      "Liz Rappaport",
-      "Shelly Banjo"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T01:58:48+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/aug/05/abdul-el-sayed-haley-stevens-michigan-primary-election",
+    "link": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
     "source": "The Guardian US",
-    "title": "El-Sayed holds narrow lead in Michigan Senate primary but race too close to call",
-    "summary": "<p>Abdul El-Sayed and his opponent Haley Stevens were both optimistic late in the evening, and said the results of the state\u2019s Democratic primary might take until Wednesday morning to arrive</p><p>The marquee race for the Democratic nomination for Senate in Michigan remained too close to call on Tuesday night, with Abdul El-Sayed, a progressive former public health official, holding a narrow lead over Congresswoman Haley Stevens.</p><p>The battleground state is <a href=\"https://theguardian.com/us-news/2026/aug/02/michigan-primary-democrats\">crucial</a> to the party\u2019s hopes of winning back control of the Senate in November\u2019s midterm elections. The winner of Tuesday\u2019s Democratic primary will face the Republican nominee, former representative Mike Rogers, in November, to succeed the retiring Democratic senator Gary Peters.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/05/abdul-el-sayed-haley-stevens-michigan-primary-election\">Continue reading...</a>",
-    "byline_count": 2,
+    "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
+    "summary": "<p>Exclusive: anonymous flagging service says cases have surged, as watchdog says AI is making sexualised or \u2018nudified\u2019 content easier to produce</p><p>Children in the UK have reported a surge in explicit <a href=\"https://www.theguardian.com/technology/deepfake\">deepfake</a> images featuring their likenesses, as a safety watchdog warned AI is making such content easier to produce.</p><p>The Report Remove service, which blocks intimate images from appearing online, said there had been a rapid increase in imagery that had been digitally manipulated or \u201cfaked\u201d in some way, including with AI and <a href=\"https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps\">nudification tools.</a></p> <a href=\"https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai\">Continue reading...</a>",
+    "byline_count": 1,
     "author_names": [
-      "Rachel Leingang",
-      "Joseph Gedeon"
+      "Dan Milmo"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T05:06:45+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:00:39+00:00",
+    "is_new": true
   },
   {
     "link": "https://deadline.com/2026/08/vincent-pastore-final-tv-role-gravesend-first-look-1237029055/",
@@ -10727,55 +10515,1152 @@
     "is_new": false
   },
   {
-    "link": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-    "source": "Wired",
-    "title": "KitchenAid Promo Codes: Save Up to 20%",
-    "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
+    "link": "https://variety.com/2026/film/news/i-rarely-wake-up-dreaming-review-1236830181/",
+    "source": "Variety",
+    "title": "\u2018I Rarely Wake Up Dreaming\u2019 Review: An Affecting Trans Relationship Drama Brings Fresh Perspective to the War in Ukraine",
+    "summary": "Russia&#8217;s 2022 invasion of Ukraine has prompted a wealth of urgent nonfiction filmmaking documenting the harsh realities of life under siege, but comparatively little dramatic storytelling \u2014 a space that the new German-Ukrainian production &#8220;I Rarely Wake Up Dreaming&#8221; occupies with bold formal imagination and a commitment to illuminating lives neglected in wider views of [&#8230;]",
     "byline_count": 1,
     "author_names": [
-      "Molly Higgins"
+      "Guy Lodge"
     ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T05:00:00+00:00",
-    "is_new": false
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:19:07+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.wired.com/story/dermstore-promo-code/",
-    "source": "Wired",
-    "title": "Dermstore Coupons: 25% Off for August 2026",
-    "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
+    "link": "https://variety.com/2026/music/news/taylor-swift-song-august-removed-trump-tiktok-video-1236830512/",
+    "source": "Variety",
+    "title": "Taylor Swift Song \u2018August\u2019 Removed From Trump TikTok Video",
+    "summary": "A TikTok video that included Taylor Swift&#8217;s song &#8220;August&#8221; posted four days ago to the account for Donald Trump&#8217;s campaign has had the sound removed. The caption on the now Taylor-less &#8220;Team Trump&#8221; TikTok video reads, &#8220;I\u2019m sure @Taylor Swift is going to be super excited we used her song! #taylorswift #maga #august.&#8221; The video [&#8230;]",
     "byline_count": 1,
     "author_names": [
-      "Boutayna Chokrane "
+      "Todd Spangler"
     ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T05:00:00+00:00",
-    "is_new": false
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:13:01+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.wired.com/story/medicube-coupon-code/",
-    "source": "Wired",
-    "title": "Medicube Coupon Code: 40% Off for August 2026",
-    "summary": "Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards.",
+    "link": "https://www.latimes.com/sports/dodgers/story/2026-08-07/dodgers-lose-arizona-diamondbacks-7-game-losing-streak",
+    "source": "Los Angeles Times",
+    "title": "Dodgers fall to Diamondbacks on a walk-off homer as losing skid reaches 7 games",
+    "summary": "<p>Arizona's Ryan Waldschmidt hits a two-run, walk-off home run in the ninth off closer Edwin D\u00edaz in a 4-3 win that sends the Dodgers to their seventh straight loss.</p>",
     "byline_count": 1,
     "author_names": [
-      "Boutayna Chokrane "
+      "Maddie Lee"
     ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T04:40:21+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-08/pentagon-loan-to-syerston-scandium-mine-in-nsw/107012648",
+    "source": "ABC Australia",
+    "title": "Trump announces $560m critical minerals investment in tiny NSW town",
+    "summary": "The Pentagon is investing more than half a billion dollars to expand an Australian critical mineral project poised to become the world's first scandium mine.",
+    "byline_count": 1,
+    "author_names": [
+      "Annabel Bowles"
     ],
-    "first_seen_at": "2026-08-05T06:21:37.878476+00:00",
-    "published_parsed": "2026-08-05T05:00:00+00:00",
-    "is_new": false
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T04:48:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-08/two-native-birds-test-positive-first-cases-h5-bird-flu-nsw/107012958",
+    "source": "ABC Australia",
+    "title": "NSW confirms its first cases of bird flu in Australian natives",
+    "summary": "The New South Wales government has confirmed the state's first cases of H5 avian influenza in Australian native birds.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:26:32+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.ft.com/content/bdcf7729-3b03-49ec-82fb-b5773fdaa990",
+    "source": "Financial Times",
+    "title": "Forget Asimov. Philip K Dick saw the future",
+    "summary": "His 1960s science-fiction visions are a guide to our age of erratic billionaires, wild space fantasies and glitchy, invasive technology",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T04:00:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/bayern/wirtshaus-kultur-bayern-eilsbrunn-regensburg-muk-roehrl-instagram-adults-kinder-biergarten-li.3524761",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Kinderl\u00e4rm versus Ruhebed\u00fcrfnis: Familien oder \u201eAdults only\u201c \u2013 wem geh\u00f6rt das bayerische Wirtshaus?",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/03/e1b95077-6d98-44cf-b7e6-471b582c6303.jpg?rect=841%2C631%2C1773%2C1330&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Muk R\u00f6hrl hat in seinem Wirtshaus bei Regensburg den Sandkasten aufgef\u00fcllt \u2013 und daf\u00fcr in den sozialen Medien kinderfeindliche Kommentare bekommen. Zeit f\u00fcr ein Gespr\u00e4ch \u00fcber ein ewiges Streitthema.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Florian Zick"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-07T13:55:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-08/gina-rinehart-statement-race-around-the-world-abc-hugh-marks/107012884",
+    "source": "ABC Australia",
+    "title": "Gina Rinehart says ABC Ombudsman finding 'fails all Australian women'",
+    "summary": "The mining magnate says the ABC's Editorial Standards need \"significant improvement\" after a video describing a fictional scenario that involved a violent attack on her was aired on Race Around the World.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:19:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/08/pet-cat-necessities/",
+    "source": "TMZ",
+    "title": "International Cat Day Gift Guide",
+    "summary": "TMZ may collect a share of sales or other compensation from links on this page. International Cat Day calls for spoiling the real rulers of the house. Whether your cat loves climbing, scratching, chasing or simply lounging the day away, these&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:05:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/medien/nzz-russland-propaganda-li.3527527",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Schweiz: Warum die NZZ russische Propaganda publiziert",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/07/36c6d76c-18e9-48ff-9e7e-635c9a134eeb.jpg?rect=942%2C423%2C2429%2C1822&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Moskau mischt sich in einen Schweizer Wahlkampf ein \u2013 und die \u201eNeue Z\u00fcrcher Zeitung\u201c gibt einen Propagandatext des russischen Au\u00dfenministeriums vollst\u00e4ndig wieder. Wie konnte das passieren?</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Nicolas Freund"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-07T14:52:05+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/08/kyle-richards-leather-dress/",
+    "source": "TMZ",
+    "title": "Kyle Richards Stuns In Body-Hugging Leather Look",
+    "summary": "Kyle Richards -- the longest-running consecutive \"Real Housewife\" -- slayed a leather look in New York City this week, but can you outrun the sneaky switches we made to the two photos?! HINT: There are THREE differences in the above Kyle Richards&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:01:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/wirtschaft/lkw-verkehr-wirtschaft-hitze-trockenheit-rhein-rheinland-pfalz-saarland-sonntagsfahrverbot-li.3528225",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Niedrigwasser am Rhein: Erste Bundesl\u00e4nder heben Lkw-Sonntagsfahrverbot auf",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/07/68161b24-255a-46ee-8d1d-3d3596c25fd6.jpg?rect=1080%2C85%2C2208%2C1656&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Der Wasserpegel des Rheins hat ein Rekordtief von 15 Zentimetern erreicht, Schiffe k\u00f6nnen daher nur mit weniger Fracht fahren. Rheinland-Pfalz, NRW, Niedersachsen und das Saarland haben nun den Transport per Lkw erleichtert.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "S\u00fcddeutsche Zeitung"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-07T18:34:03+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/08/hot-influencer-pitcures-whod-you-rather/",
+    "source": "TMZ",
+    "title": "Hollywood Hotties Summer Showdown Who'd You Rather?!",
+    "summary": "Summer 2026 is far from over 'cuz the hotness is just gettin' started y'all! We've paired up the season's top-tier stars -- like Brooks Nader and Liberty Poole -- and we're leaving it all on you ... who are you pullin' for?! Here's one more sneak&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:45:59+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/08/polls-you-be-the-judge/",
+    "source": "TMZ",
+    "title": "Stars and Scars -- You Be the Judge",
+    "summary": "Senator Rand Paul has made it clear ... he wants to see Anthony Fauci in an orange jumpsuit, and people are increasingly alarmed over Ariana's appearance. So we gotta ask ...",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:25:44+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/08/samuel-monroe-jr-may-never-recover-from-brain-condition/",
+    "source": "TMZ",
+    "title": "'Menace II Society' Star Samuel Monroe Jr. May End Up In Vegetative State, Tough Choice Looms",
+    "summary": "Samuel Monroe Jr.&nbsp;remains hospitalized in Los Angeles on life support, in a medically induced coma ... and it's getting more apparent there may be no light at the end of the tunnel, his family tells TMZ. The actor best known for his work in&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:00:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/08/jen-selter-hot-booty-pics/",
+    "source": "TMZ",
+    "title": "Jen Selter Hot Shots To Slay Her 33rd Birthday",
+    "summary": "Jen Selter's serving up so much cake in these sexy bikini shots you'd think it's your birthday! This sexy fitness model is turning 33 ... and she looks free as can be in barely-there bikinis ... and she's never been shy in front of cameras. Jen's&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:00:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/thailand-school-shooting-bangkok/",
+    "source": "CBS News",
+    "title": "At least 5 killed and more than 20 injured in Thailand school shooting",
+    "summary": "Five school staff members died in the shooting, and 10 people were in critical condition.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T06:56:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/ukraine-russia-strike-child-killed/",
+    "source": "CBS News",
+    "title": "Child among three people killed in Russian attacks on Ukraine",
+    "summary": "Falling debris sparked several fires on the outskirts of the Ukrainian capital, in attacks which killed at least three people",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T06:01:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/politics/china-canada-us-arctic-research-ships-snow-dragons-9.7299939?cmp=rss",
+    "source": "CBC News",
+    "title": "Canada, U.S. shadow Chinese research ships in the Arctic as concern grows over Snow Dragons' presence",
+    "summary": "<img alt=\"An icebreaker ship.\" height=\"349\" src=\"https://i.cbc.ca/ais/cd834f03-95bb-4410-8ee0-2f297b1a0213,1786139233417/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C48%2C2778%2C1562%29%3BResize%3D%28620%29\" title=\"The Xue Long (Snow Dragon) Chinese icebreaker sits in the ice pack in East Antarctica on December 28, 2013, some 100 nautical miles (185 km) east of French Antarctic station Dumont D&apos;Urville.\" width=\"620\" /><p>Canada and the U.S. are shadowing two Chinese icebreakers operating in Arctic waters off Alaska, amid growing concern their scientific missions could also gather strategically valuable undersea data. Defence experts warn China\u2019s expanding Arctic presence is testing Canada's already stretched military capabilities.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Murray Brewster"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/gaza-miscarriages-2026-9.7300001?cmp=rss",
+    "source": "CBC News",
+    "title": "'I woke up and I had lost the baby': Miscarriages in Gaza spike amid harsh conditions, UN report finds",
+    "summary": "<img alt=\"A woman in a black headscarf sits in a makeshift room with tarp walls and talks with two young boys.\" height=\"349\" src=\"https://i.cbc.ca/ais/c2a69015-2de0-4a65-b445-61f769aae124,1786156770468/full/max/0/default.jpg?im=Crop%2Crect%3D%2819%2C0%2C1282%2C721%29%3BResize%3D%28620%29\" title=\"Eman Abu Fasifsa, 38, lives with her five children in a makeshift room at a UN school in central Gaza. She says she can&apos;t think of getting pregnant again after she recently experienced a miscarriage. The number of miscarriages in Gaza in the first half of 2026 is more than three times higher than in the second half of 2025, according to a recent report from the United Nations Population Fund.\" width=\"620\" /><p>Women in Gaza experienced nearly 4,000 miscarriages between January and June this year, according to a UN report that suggests that rate is more than three times higher than in the second half of 2025. Though it's not yet clear exactly what is behind the spike, a doctor in central Ga",
+    "byline_count": 1,
+    "author_names": [
+      "Yasmine Hassan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/education/article/3363355/path-open-revival-cuhk-student-union-if-it-registers-dennis-lo-says?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "\u2018Path open\u2019 for revival of CUHK student union \u2013 if it registers, Dennis Lo says",
+    "summary": "The president of the Chinese University of Hong Kong (CUHK) has said \u201cthe path is open\u201d for the revival of the institution\u2019s main student union, so long as it registers with authorities in accordance with the law.\nDennis Lo Yuk-ming also pushed back on claims that the university was overreliant on intake from mainland China, arguing that it was making strides in diversification.\nIn an interview with the South China Morning Post, he said the pathway to re-establishing a central union remained...",
+    "byline_count": 1,
+    "author_names": [
+      "Kristen Cheung"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:00:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/senate-funding-bill-continuing-resolution-approved/",
+    "source": "CBS News",
+    "title": "Senate approves bill to fund government into December",
+    "summary": "The measure was approved in a 90 to 6 vote and now goes to the House.",
+    "byline_count": 1,
+    "author_names": [
+      "Faris  Tanyos"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:19:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363387/hong-kong-commerce-chief-lead-joint-local-and-mainland-delegation-malaysia?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hong Kong commerce chief to lead joint local and mainland delegation to Malaysia",
+    "summary": "Hong Kong\u2019s commerce chief is set to lead a delegation of mainland Chinese and local firms to Malaysia next week, noting that about 200 enterprises from across the border have already set up offices in the city since last year, using it as a stepping stone to go global.\nSecretary for Commerce and Economic Development Algernon Yau Ying-wah also said on Saturday that the city was eyeing emerging markets in Africa, after exploring the Middle East and Central Asia amid geopolitical tensions.\nYau...",
+    "byline_count": 1,
+    "author_names": [
+      "Ambrose Li"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:39:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/middle-east/article/3363385/un-warns-yemen-greatest-risk-renewed-major-conflict-2022-truce?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "UN warns Yemen at greatest risk of renewed major conflict since 2022 truce",
+    "summary": "Yemen\u2019s Iran-aligned Houthis launched ballistic missiles and drones at displacement camps and residential neighbourhoods in the city of Marib on Friday, killing two people and wounding 14, state news agency SABA reported, citing local authorities.\nYemen\u2019s army said early on Saturday it had responded against Houthi forces on several fronts.\nThe army did not give details of the operations or say when they took place but said it would respond to any further targeting of its units with what it...",
+    "byline_count": 1,
+    "author_names": [
+      "Reuters"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:09:24+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/canadair-water-bombers-de-havilland-europe-demand-9.7299520?cmp=rss",
+    "source": "CBC News",
+    "title": "The world wants more Canadian-made water bombers. Can Canada build them fast enough?",
+    "summary": "<img alt=\"A yellow plane dumps water over a forest in a smoky sky.\" height=\"349\" src=\"https://i.cbc.ca/ais/74bc9695-d797-47c4-9417-9250903514fa,1786145379576/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6000%2C3375%29%3BResize%3D%28620%29\" title=\"A Canadair firefighting aircraft drops water to battle a wildfire in the Fox-Amphoux communal forest near Ponteves in the Var department, as drought conditions worsen following a heatwave and water shortages across much of France, July 21, 2026.\" width=\"620\" /><p>The hand-built planes are unmatched in the firefighting aircraft market and are built to last for decades. Europe wants more of them than ever.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Verity Stevenson"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/toronto/trans-swimmer-crosses-lake-huron-9.7299844?cmp=rss",
+    "source": "CBC News",
+    "title": "Meet the man who is a step closer to being 1st openly transgender person to swim across all 5 Great Lakes",
+    "summary": "<img alt=\"A man with no shirt and blue swim goggles\" height=\"349\" src=\"https://i.cbc.ca/ais/befd5f96-f2e1-4d35-979f-0ed4867f03aa,1786124806392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C120%2C1024%2C576%29%3BResize%3D%28620%29\" title=\"Lev Goldberg is the first transgender marathon swimmer to cross Lake Huron.\" width=\"620\" /><p>Lev Goldberg, a transgender athlete, has swum across two out of five of the Great Lakes after completing Lake Huron this week. His mission is to raise awareness, and donations, for 2SLGBTQ+ youth.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Ian Curran"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-07T20:35:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/entertainment/roblox-gaming-falling-9.7299607?cmp=rss",
+    "source": "CBC News",
+    "title": "Why is gaming giant Roblox losing tens of billions in market value?",
+    "summary": "<img alt=\"A boy in silhouette holds a phone to his face with a cartoon characters on a screen in the background.\" height=\"349\" src=\"https://i.cbc.ca/ais/8c7d6217-44c5-4e4e-8853-0d47af447d9c,1786117140616/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C352%2C6753%2C3798%29%3BResize%3D%28620%29\" title=\"A boy poses for a photo while holding a smartphone in front of a screen displaying a character of the U.S. children&apos;s video game Roblox, in this illustration taken December 8, 2025.\" width=\"620\" /><p>Roblox isn\u2019t getting the high financial scores that it used to, as the popular gaming platform has lost approximately $70 billion US in market value over the last year. The company says the steep drop-off is partly because of changes in the games its users play and growing pains as it attempts to attract older gamers \u2014 but experts say more could be at play.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Richard Raycraft"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/people-culture/trending-china/article/3363362/chinese-virtual-actress-trending-ai-drama-raises-deep-industry-concerns-and-questions?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Chinese virtual actress in trending AI drama raises deep industry concerns and questions",
+    "summary": "An artificial intelligence (AI)-generated actress has amassed 400,000 followers on a leading social media platform in China within just two months, with a miniseries she stars in garnering an astonishing 250 million views.\nThe success of the virtual star Fang Taozi, who is claimed to be 20 years old, has sparked intense discussion and widespread anxiety within the industry regarding the potential replacement of human actors.\nThe drama The Laid-off Girl features Fang, a protagonist from a small...",
+    "byline_count": 1,
+    "author_names": [
+      "Alice Yan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:00:07+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/education/article/3363390/addiction-irreversible-hong-kong-urged-ban-under-16s-social-media?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "\u2018Addiction is irreversible\u2019: Hong Kong urged to ban under-16s from social media",
+    "summary": "Hong Kong should follow international peers in legislating to bar children under 16 from social media to combat cyberbullying and addiction, education experts and lawmakers have said, while stressing the need for broad social consensus.\nAt a panel discussion on Saturday to examine proposals to restrict social media access for under-16s, educators and lawmakers argued that legislation was needed to signal the government\u2019s stance and drive efforts to prevent the next generation from being harmed...",
+    "byline_count": 1,
+    "author_names": [
+      "Kristen Cheung"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:27:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/us-booze-bans-canadians-9.7300293?cmp=rss",
+    "source": "CBC News",
+    "title": "U.S. booze might end up back on Canadian shelves, but have we lost the taste for it?",
+    "summary": "<img alt=\"a man speaks into a microphone\" height=\"349\" src=\"https://i.cbc.ca/ais/0db7c19e-2493-4c68-81b7-992e27f9ecda,1786147326504/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29\" title=\"Canada could be willing to end provincial bans on U.S. liquor and make concessions on dairy products in exchange for relief from U.S. tariffs, sources tell CBC News, but provinces are already pushing back.\" width=\"620\" /><p></p>",
+    "byline_count": 1,
+    "author_names": [
+      "Jillian Kestler-D'Amours"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-06T15:44:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/business/july-23-all-time-global-flight-record-9.7289277?cmp=rss",
+    "source": "CBC News",
+    "title": "The air travel industry was on the brink of disaster, but travellers are still taking to the skies",
+    "summary": "<img alt=\"Two women take a selfie with the phone in front of a large building.\" height=\"349\" src=\"https://i.cbc.ca/ais/488afe12-2dd7-433b-829f-128bc5f8d6e3,1785344854752/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C504%2C5380%2C3026%29%3BResize%3D%28620%29\" title=\"Street view of tourists making selfies in front of the Basilica of the Sacre Coeur in Montmartre in Paris in Ile de France in France on June 29, 2025. The image shows visitor attendance at one of the most popular religious and heritage landmarks in Paris during the summer tourist season. Photo by Benoit Durand / Hans Lucas Vue de rue de touristes faisant des selfies devant la Basilique du Sacre Coeur a Montmartre a Paris en Ile de France en France le 29 Juin 2025. L image montre la frequentation des visiteurs devant un des principaux sites religieux et patrimoniaux de Paris durant la saison touristique estivale. Photographie par Benoit Durand / Hans Lucas (Photo by Beno\u00eet Durand / Hans Lucas / AFP via Getty Images)\" width=\"",
+    "byline_count": 1,
+    "author_names": [
+      "Hanna Lee"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/week-asia/politics/article/3363349/indias-kusha-missile-test-signals-step-closer-self-reliance-air-defence?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "India\u2019s Kusha missile test signals step closer to self-reliance for air defence",
+    "summary": "India\u2019s first test of its Kusha long-range surface-to-air missile system is seen as a milestone that could pave the way for New Delhi to bolster its home-grown air defence network and meet the challenges of future conflicts.\nDeveloped by the state-run Defence Research and Development Organisation, the system is expected to become a key part of the two-phase Mission Sudarshan Chakra, Prime Minister Narendra Modi\u2019s plan for a multilayered national defence umbrella against ballistic missiles,...",
+    "byline_count": 1,
+    "author_names": [
+      "Biman Mukherji"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/canada-u-s-border-tour-detroit-windsor-9.7300262?cmp=rss",
+    "source": "CBC News",
+    "title": "On America's northern border, the threats are not unidirectional",
+    "summary": "<img alt=\"A man in a khaki uniform, wearing a black bulletproof vest, poses for a portrait while standing at the wheel of a covered boat.\" height=\"349\" src=\"https://i.cbc.ca/ais/e3d7d35d-f9e0-479d-8421-9584cefd1d70,1786143394350/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C314%2C5712%2C3213%29%3BResize%3D%28620%29\" title=\"Tim Thayer is a marine interdiction agent with U.S. Customs and Border Protection, assigned to the Detroit sector, which covers Michigan, Ohio, Indiana and Illinois.\" width=\"620\" /><p>While U.S. President Donald Trump has accused Canada of allowing illegal drugs and traffickers across the border, the reality on the ground appears very different. CBC News recently spent two days with U.S. Customs and Border Protection in and around Detroit.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Willy Lowry"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3363384/hong-kong-temperatures-exceed-38-degrees-severe-typhoon-dolphin-brings-extreme-heat?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hong Kong temperatures exceed 38 degrees as Severe Typhoon Dolphin brings extreme heat",
+    "summary": "Temperatures exceeded 38 degrees Celsius (100 Fahrenheit) in parts of Hong Kong on Saturday as the city\u2019s forecaster warned that extremely hot weather would persist over the coming days.\nThe Hong Kong Observatory said Severe Typhoon Dolphin was bringing high temperatures to the region, with the heat expected to continue into early next week.\n\u201cWith [Severe Typhoon] Dolphin moving towards the vicinity of Zhejiang and northern Fujian, its outer subsiding air will persistently bring extremely hot...",
+    "byline_count": 1,
+    "author_names": [
+      "Connor Mycroft"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:08:36+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/china/article/3363380/typhoon-dolphin-causes-flight-chaos-china-shanghai-set-enter-danger-zone?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Typhoon Dolphin causes flight chaos in China, with Shanghai set to enter danger zone",
+    "summary": "Flights serving eastern China were disrupted on Saturday as Typhoon Dolphin approached the coast, with some services cancelled and airlines offering flexible rebooking and refund options for affected passengers.\nMost of the typhoon-related flight disruptions have been reported at airports in the cities of Ningbo, Wenzhou, Taizhou, Hangzhou and Shanghai, according to Chinese media.\nSome travellers also reported receiving notifications that flights to and from Shanghai on Sunday and Monday would...",
+    "byline_count": 1,
+    "author_names": [
+      "Meredith Chen"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:04:04+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363379/man-found-knife-wounds-lift-another-falls-death-same-hong-kong-block?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Man found with knife wounds in lift before another falls to death at same Hong Kong block",
+    "summary": "Hong Kong police are investigating after a man with multiple knife wounds was found in a lift at a public housing block in Wong Tai Sin, seven minutes before another man was discovered to have fallen to his death at the same building.\nPolice received the first report at 7.19am on Saturday after the injured man was found inside a lift at Chiu Sin House in Upper Wong Tai Sin Estate.\nThe man, who had sustained several knife wounds, was taken to Queen Elizabeth Hospital for treatment. Police said he...",
+    "byline_count": 1,
+    "author_names": [
+      "Wynna Wong"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T04:58:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/asia/east-asia/article/3363388/south-korean-football-body-apologises-after-report-referee-sex-scandal?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "South Korean football body apologises after report on referee sex scandal",
+    "summary": "South Korea\u2019s national football association apologised on Saturday \u2060after a media report \u2060alleged it had provided \u201csexual services\u201d \u2060to foreign referees when they were in the country for international matches more than a decade ago.\nSouth Korean broadcaster JTBC reported on Thursday that the Korea Football Association (KFA) had provided such services to foreign referees on \u200cmultiple occasions in 2011 and 2012, including when they were in the country for qualifying matches for the 2014 World Cup...",
+    "byline_count": 1,
+    "author_names": [
+      "Reuters"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:48:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.courthousenews.com/hawaii-high-court-restores-smokers-2-million-award-against-philip-morris/",
+    "source": "Courthouse News",
+    "title": "Hawaii high court restores smoker\u2019s $2 million award against Philip Morris",
+    "summary": "Hawaii's Supreme Court said a plaintiff's own negligence can't reduce damages for a defendant's intentional fraud.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:39:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/08/how-chevron-became-the-ai-darling-of-big-oil/",
+    "source": "Fortune",
+    "title": "How Chevron became the AI darling of Big Oil",
+    "summary": "Chevron's West Texas data center deal with Microsoft may jumpstart a new Big Ol and AI trend.",
+    "byline_count": 1,
+    "author_names": [
+      "Jordan Blum"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:11:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/waymo-tesla-zoox-robotaxi-expansion-service-reliability-problems-autonomous-vehicles-2026-8",
+    "source": "Business Insider",
+    "title": "Robotaxis are scaling now, fixing problems later",
+    "summary": "Robotaxi companies are scaling their operations as they continue to run into driving scenarios that could trip up the AI driver.",
+    "byline_count": 1,
+    "author_names": [
+      "Lloyd Lee"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:11:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/mckinsey-partners-advice-for-junior-consultants-ai-slop-socialize-2026-8",
+    "source": "Business Insider",
+    "title": "Create less AI slop and have more fun: 4 McKinsey partners told us what they want from junior consultants",
+    "summary": "Junior consultants should go out with their colleagues more instead of getting an early night, one senior McKinsey partner told Business Insider.",
+    "byline_count": 1,
+    "author_names": [
+      "Polly Thompson"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:07:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "FIFA\u2019s Infantino backed in Colombia where he attends president inauguration",
+    "summary": "FIFA president Gianni Infantino gets South American football&#039;s backing while at Abelardo de la Espriella&#039;s inauguration.",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:10:27+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/congress/senate-passes-short-term-bill-prevent-shutdown-midterm-elections-rcna591359",
+    "source": "NBC News",
+    "title": "Senate passes short-term bill to prevent a shutdown before the midterm elections",
+    "summary": "WASHINGTON \u2014 The Senate voted 90-6 to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.",
+    "byline_count": 1,
+    "author_names": [
+      "Sahil Kapur"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:00:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Violence is driving Palestinian Christians out of their Holy Land",
+    "summary": "Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:28:45+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "South Korea FA apologises over \u2018sexual services\u2019 allegations",
+    "summary": "Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games.",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:49:21+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
+    "summary": "After a fire broke out, the building was cleared in what activists say was a politically motivated move.",
+    "byline_count": 1,
+    "author_names": [
+      "Simone Manda"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:45:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+    "summary": "Memphis Grizzlies \u2060forward Brandon Clarke&#039;s \u2060May 11 death ruled accidental, with effects of heroin and cocaine cited.",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T06:03:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.courthousenews.com/online-booking-fee-tax/",
+    "source": "Courthouse News",
+    "title": "Online booking fee tax",
+    "summary": "HONOLULU \u2014 The Hawaii Supreme Court found booking.com has standing to challenge a Hawaii law taxing online rental bookings, even as an out-of-state defendant.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T06:04:44+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Afghanistan\u2019s Rashid takes six wickets in ODI thrashing of Ireland",
+    "summary": "Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in second game of five-match ODI series.",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:06:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
+    "summary": "Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:30:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+    "source": "CNBC",
+    "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+    "summary": "Fire Point CEO Iryna Terekh says Ukraine has \"learned the hard way\" that military leverage is integral to to bringing diplomacy within reach.",
+    "byline_count": 1,
+    "author_names": [
+      "Sam Meredith"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:21:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Life as a Wag in the transfer window",
+    "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
+    "byline_count": 1,
+    "author_names": [
+      "Simon Casson"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:15:34+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/International/wireStory/high-divers-plunge-seine-new-test-paris-reclaimed-135477400",
+    "source": "ABC News",
+    "title": "High divers take the plunge in the Seine in a new test of Paris\u2019 reclaimed river",
+    "summary": "Paris is hosting its first high-diving competition in the Seine, with athletes diving from a 20-meter platform near the Eiffel Tower",
+    "byline_count": 1,
+    "author_names": [
+      "EVA VAN DAM Associated Press"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:39:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c36dxp822k4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Chernobyl disaster evacuee 'forever grateful' to Welsh family who took him in",
+    "summary": "Anton Honchanka was one of thousands of people affected by the 1986 nuclear disaster who came to the UK.",
+    "byline_count": 1,
+    "author_names": [
+      "Oscar Edwards"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-02T06:04:55+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c0m7l70283go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Poo, parking and poor pitching - the Lake District's summer battles",
+    "summary": "Protection orders are being used to try and control the issue, but funding is limited, councils say.",
+    "byline_count": 1,
+    "author_names": [
+      "Federica Bedendo"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-02T11:01:10+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+    "source": "The Verge",
+    "title": "Nitecore\u2019s latest power bank is the lightest and most compact yet",
+    "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Thomas Ricker"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c1k1lyg94w9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Hundreds stranded on second day of disruption at Bristol Airport",
+    "summary": "Flights are restarting with delays and diversions after 14 hours of cancellations.",
+    "byline_count": 1,
+    "author_names": [
+      "Sarah Turnnidge"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:30:16+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y02m99evro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Goals galore - the wildest scores in EFL Cup history",
+    "summary": "BBC Sport looks at some of the wildest games - and scorelines - the EFL Cup has produced as the competition returns for a new season.",
+    "byline_count": 1,
+    "author_names": [
+      "Jude Winter"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T06:37:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors",
+    "source": "The Guardian US",
+    "title": "\u2018I\u2019ve always felt too old and too young at the same time\u2019: The Last of Us star Bella Ramsey on swapping child stardom for cult television \u2013 and Celebrity Traitors",
+    "summary": "<p>At 22, Ramsey has already been on our screens for a decade, and nominated for every award going. So why do they find it strange to be called an actor?</p><p>Bella Ramsey often feels more comfortable around older people. The actor, 22, who is non-binary and uses they/them pronouns, has been working professionally since they were 11, when they got their first TV job as the child noblewoman Lyanna Mormont in Game of Thrones. For half of their life, they have been in adult environments, talking to adults, working with adults. Even so, the London cafe in which Ramsey has chosen to meet makes any retirement home look like a creche. It is full of old men with their dogs, popping in for a cup of tea and a morning chat.</p><p>\u201cIt feels like it belongs in the Midlands. It feels a bit, like, shit and familiar,\u201d says Ramsey, who grew up in the East Midlands and can say that with affection. Their curly hair is short, pushed back off their face, and they have a single gold hoop in one ear. The pl",
+    "byline_count": 1,
+    "author_names": [
+      "Rebecca Nicholson"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/golf/articles/cn9nz8n7yrno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "England's Hull closes in on Huang after historic 62",
+    "summary": "Charley Hull's 62 equals the lowest round in Ladies European Tour history and also breaks the course record at the Centurion Club to move within one stroke of the lead at the PIF London Championship.",
+    "byline_count": 1,
+    "author_names": [
+      "Adwaidh Rajan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-07T22:03:31+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Inside Newcastle 2.0 - how the project is changing",
+    "summary": "Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins.",
+    "byline_count": 1,
+    "author_names": [
+      "Ciaran Kelly"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:50:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cpvw7xyjz8eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Farage and Tice sue NCA over alleged leaks of financial information",
+    "summary": "The Reform leaders claim the National Crime Agency supplied details about party donations to the media.",
+    "byline_count": 1,
+    "author_names": [
+      "Phillip Kemp"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T06:48:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/commentisfree/2026/aug/08/cities-lime-bikes-revenge-generation-london",
+    "source": "The Guardian US",
+    "title": "Lime bikes hurtling around the city: is this the revenge of a priced-out generation? | Andy Beckett",
+    "summary": "<p>From running red lights to dumping bikes, some Lime users get a bad rap. But many who grumble about them don\u2019t appreciate their own privilege</p><p>The night belongs to Lime bikes in the capital this summer. Buses and tube carriages are boiling, cars crawl between low traffic neighbourhoods and Thames Water roadworks, and pedestrians plod through the sticky heat. But Lime riders exist in a different, breezier realm: whirring along, chatting in pairs or blissfully alone, weaving through the city\u2019s tree-lined maze, choosing impulsively between destinations, rarely stopping for anything or anyone.</p><p>\u201cMy favourite part of a night out is Lime biking home,\u201d writes <a href=\"https://www.theguardian.com/books/2026/jul/12/people-treat-each-other-as-disposable-dating-columnist-turned-novelist-annie-lord-on-love-and-sex-in-the-age-of-apps\">Annie Lord</a>, a dating columnist and author, in Freewheeling: Essays on Cycling. \u201cAs I ride up a hill, the bike\u2019s electrics click \u2026 And, for a little w",
+    "byline_count": 1,
+    "author_names": [
+      "Andy Beckett"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:38+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/08/blind-date-imogen-andy",
+    "source": "The Guardian US",
+    "title": "Blind date: \u2018I asked him to compliment my outfit and he said he didn\u2019t really like it\u2019",
+    "summary": "<p>Imogen, 31, a doctor, meets Andy, 36, founder of a consultancy firm</p><p></p><p><strong>What were you hoping for?</strong><br />\n Something to tell the group chat that would elicit more :o reactions than usual.</p> <a href=\"https://www.theguardian.com/lifeandstyle/2026/aug/08/blind-date-imogen-andy\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/lifeandstyle/picture/2026/aug/08/discovering-the-joys-of-family-holiday-resorts-the-becky-barnicoat-cartoon",
+    "source": "The Guardian US",
+    "title": "Discovering the joys of family holiday resorts: the Becky Barnicoat cartoon",
+    "summary": "<a href=\"https://www.theguardian.com/lifeandstyle/picture/2026/aug/08/discovering-the-joys-of-family-holiday-resorts-the-becky-barnicoat-cartoon\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Becky Barnicoat"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/08/sandra-day-oconnor-was-the-first-woman-appointed-to-which-body-the-saturday-quiz",
+    "source": "The Guardian US",
+    "title": "Sandra Day O\u2019Connor was the first woman appointed to which body? The Saturday quiz",
+    "summary": "<p>From the world\u2019s longest pleasure pier to Cloud Dancer, Mocha Mousse and Viva Magenta, test your knowledge with the Saturday quiz</p><p><strong>1</strong> What was written between 1 January 1660 and 31 May 1669?<br /><strong>2</strong> Which UK resort has the world\u2019s longest pleasure pier?<br /><strong>3</strong> Sandra Day O\u2019Connor was the first woman appointed to which body?<br /><strong>4</strong> Which painkiller\u2019s name is derived from the Greek for \u201cpoppy head\u201d?<br /><strong>5</strong> Which driver won the F1 title in a car bearing his own name?<br /><strong>6</strong> The Trefoil Guild is an adult branch of which organisation?<br /><strong>7</strong> Savak was the secret police of which state?<br /><strong>8</strong> Inishmore is the largest island in which archipelago?<br /><strong>What links:<br />\n  9</strong> Cloud Dancer; Mocha Mousse; Peach Fuzz; Viva Magenta?<br /><strong>10</strong> M (192); V (360); E (500); M (760); J (2,580); S (4,800); U (9,600); N (14,400)?<br /><",
+    "byline_count": 1,
+    "author_names": [
+      "Thomas Eaton"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T06:00:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/08/tim-dowling-how-many-electricians-install-electric-car-charger",
+    "source": "The Guardian US",
+    "title": "Tim Dowling: how many electricians does it take to install an electric car charger?",
+    "summary": "<p>\u2018Can\u2019t you just plug it in?\u2019 asks our garage mechanic neighbour. If only it were that simple</p><p>On a Wednesday morning the doorbell rings while I\u2019m working in the kitchen. My wife, who is expecting a delivery, opens the door. \u201cNo, I don\u2019t want brake pads,\u201d she says. I don\u2019t hear the reply. \u201cBecause I\u2019m not a garage,\u201d my wife says. \u201cDo I look like a garage?\u201d</p><p>There actually is a small garage just beyond the end of our back garden. Only a brick wall separates it from my office shed \u2013 my working days are punctuated by the bright ring of dropped wrenches and the grating whine of power tools.</p> <a href=\"https://www.theguardian.com/lifeandstyle/2026/aug/08/tim-dowling-how-many-electricians-install-electric-car-charger\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Tim Dowling"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/aug/08/spanish-mountain-village-braces-for-astrotourists-lured-by-total-solar-eclipse",
+    "source": "The Guardian US",
+    "title": "Spanish mountain village braces for astrotourists lured by total solar eclipse",
+    "summary": "<p>Somosierra will be prime spot to view celestial alignment on 12 August, an event that poses logistical challenges</p><p>Little stirs in the mountains above Somosierra beyond the wind that lashes the flat peaks, the cows that graze on parched grass and the sun that beats down on the abandoned aerodrome where generations of glider pilots learned to ride air currents alongside squadrons of vultures and red kites.</p><p>But all this stillness will disappear, albeit temporarily, on the evening of 12 August, when <a href=\"https://eclipse-solar.es/\">swathes of northern and eastern Spain</a> and the Balearic islands experience <a href=\"https://www.esa.int/Science_Exploration/Space_Science/Join_ESA_for_a_total_solar_eclipse_on_12_August_2026\">a total solar eclipse</a>, the likes of which has not been seen here for more than 120 years.</p> <a href=\"https://www.theguardian.com/world/2026/aug/08/spanish-mountain-village-braces-for-astrotourists-lured-by-total-solar-eclipse\">Continue reading...<",
+    "byline_count": 1,
+    "author_names": [
+      "Sam Jones"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:00:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/science/video/2026/aug/07/scientists-onlyfans-marmots-video",
+    "source": "The Guardian US",
+    "title": "Scientists create OnlyFans account for marmots to fund research \u2013 video",
+    "summary": "<p>UCLA professor Daniel Blumstein and his team started an OnlyFans account \u2013 @OnlyMarms \u2013 featuring cute, G-rated photos and videos of marmots to raise money for their research amid government funding cuts</p> <a href=\"https://www.theguardian.com/science/video/2026/aug/07/scientists-onlyfans-marmots-video\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T00:18:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill",
+    "source": "The Guardian US",
+    "title": "Greenland issues \u2018strong warning\u2019 as Trump-linked oil firm prepares to drill",
+    "summary": "<p>Island\u2019s government says no approval given after Greenland Energy brings kit ashore for exploratory drilling</p><p></p><p>An American oil company connected to Donald Trump is preparing to sink wells in remote Greenland despite not having received permission from the local authorities.</p><p>As the US president renews his threats to <a href=\"https://www.theguardian.com/us-news/2026/jan/15/ronald-lauder-billionaire-donor-donald-trump-ukraine-greenland\">claim</a> the vast Arctic territory, materials to prepare for drilling were brought ashore in recent days on Greenland\u2019s eastern coast.</p> <a href=\"https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Tom Burgis"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/aug/08/iran-journey-israel-us-war",
+    "source": "The Guardian US",
+    "title": "Travelling through Iran reveals no single narrative about the US-Israel war",
+    "summary": "<p>Some believe conflict strengthened national unity, others say it deepened repression, but all mourn the dead</p><p>The excavator stops suddenly. One of the workers reaches into the rubble and pulls something free. It isn\u2019t twisted metal or broken concrete. It\u2019s a child\u2019s exercise book. The pages are still intact, covered in neat handwriting. On the front is a name: Mahya Salari. She was eight years old.</p><p>Five months after a missile tore through Shajareh Tayyebeh primary school in Minab, southern Iran, excavators are still clearing the site. Workers search for the remains of one young boy still believed to be buried beneath the debris.</p> <a href=\"https://www.theguardian.com/world/2026/aug/08/iran-journey-israel-us-war\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+    "source": "The Guardian US",
+    "title": "\u2018I couldn\u2019t breathe\u2019: the deadly health burden of wildfire smoke",
+    "summary": "<p>Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent</p><p>A thousand kilometres from the infernos gorging on northern Ontario\u2019s boreal forests, Erin O\u2019Connor watched the sky above Canada\u2019s biggest city turn an \u201calmost post-apocalyptic\u201d orange as it filled with light-scattering particles of soot and ash. Stepping outside the halls of Toronto General hospital, where air filters were keeping patients safe from the worst of the fumes, she was struck by a smell so strong it felt like standing by a campfire.</p><p>\u201cIt really hit you in the face as soon as you walked outside,\u201d said O\u2019Connor, who runs University Health Network\u2019s emergency department and saw a rise in patients presenting with allergies and shortness of breath. \u201cAs the days progressed, it was like that everywhere. It seemed even inside you could smell that burning.\u201d</p> <a href=\"https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-i",
+    "byline_count": 1,
+    "author_names": [
+      "Ajit Niranjan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-08-08/us-senate-passes-spending-bill-that-ignores-trump-s-priorities",
+    "source": "Bloomberg",
+    "title": "US Senate Passes Spending Bill That Ignores Trump\u2019s Priorities",
+    "summary": "The US Senate passed a short-term spending bill to avert a damaging government shutdown weeks before the November midterms, sidestepping President Donald Trump\u2019s calls to also enact emergency funds for the Iran war and elements of a controversial voter identification proposal.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:06:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/food/2026/aug/08/apple-cake-recipe-limmat-marseille-restaurant-meera-sodha",
+    "source": "The Guardian US",
+    "title": "Meera Sodha\u2019s recipe for Limmat\u2019s apple cake | Meera Sodha recipes",
+    "summary": "<p>With its sweet, caramelised edge and soft, creamy apple centre, you\u2019ll be thinking about this cake for months after the first bite</p><p>For better or for worse (definitely for worse), this column is one-way. If we could talk, I\u2019d ask you about the most mindblowing things you\u2019ve eaten in your wild and precious life (feel free to use the comments). This year, for me, it was chef Lili\u2019s apple cake at her restaurant, <a href=\"https://limmatmarseille.com/\">Limmat</a> in Marseille. I\u2019ve never had anything like it: a cake of pure apple \u2013 one and a half kilos \u2013 sliced and bound together with a breath of flour, a trickle of cream, a spoonful of sugar, a couple of eggs and a lot of time (in the oven). The result is a caramelised edge and a heavenly, scoopable, custard-like apple centre. Heavenly.</p> <a href=\"https://www.theguardian.com/food/2026/aug/08/apple-cake-recipe-limmat-marseille-restaurant-meera-sodha\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Meera Sodha"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T05:00:38+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/film/2026/aug/08/human-centipede-director-tom-six-multiple-sclerosis-diagnosis-final-film",
+    "source": "The Guardian US",
+    "title": "Human Centipede director Tom Six reveals multiple sclerosis diagnosis in \u2018final film\u2019",
+    "summary": "<p>The Dutch creator of the controversial trilogy set to detail struggles with neurological disease in homemade documentary, after spending six years \u2018as a recluse\u2019</p><p>Tom Six, the film-maker behind schlock horror phenomenon The Human Centipede, has revealed that he has been living as \u201ca full-blown recluse\u201d in a darkened Amsterdam apartment for six years after being diagnosed with multiple sclerosis.</p><p>In The End of Tom Six, a homemade documentary that the Dutch director said would be his final film, he says that the stress over his failure to find a distributor for the follow-up to the Centipede trilogy significantly exacerbated his condition.</p> <a href=\"https://www.theguardian.com/film/2026/aug/08/human-centipede-director-tom-six-multiple-sclerosis-diagnosis-final-film\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Philip Oltermann"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T06:00:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/football/2026/aug/08/two-weeks-that-rocked-fifa-how-gianni-infantinos-implosion-unfolded",
+    "source": "The Guardian US",
+    "title": "Two weeks that rocked Fifa: how Gianni Infantino unravelled, day by day",
+    "summary": "<p>Fifa\u2019s president ended the World Cup on a high, but is now battling to save his job after a series of self-inflicted blows</p> <a href=\"https://www.theguardian.com/football/2026/aug/08/two-weeks-that-rocked-fifa-how-gianni-infantinos-implosion-unfolded\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "David Hills"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:00:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html",
+    "source": "NYT",
+    "title": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
+    "summary": "The move came more than a month before the spending deadline, reflecting an eagerness in both parties to avoid a messy fight before the midterm elections.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T08:04:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/policy/healthcare/6017926-senate-delays-hemp-thc-ban/",
+    "source": "The Hill",
+    "title": "Senate tables hemp amendment at center of funding fight, allowing one-month delay of ban",
+    "summary": "A federal ban on most hemp-derived THC products is set to be delayed for a month after a last-minute effort to keep the original timeline failed.\u00a0 The Senate voted 61-32 to table a bipartisan amendment from Sen. Ted Budd (R-N.C.) and about a dozen other senators to strip the delay from a stopgap government funding&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-08T08:30:24.685546+00:00",
+    "published_parsed": "2026-08-08T07:42:05+00:00",
+    "is_new": true
   },
   {
     "link": "https://variety.com/2026/tv/news/obama-larry-david-show-tan-suit-1236829485/",
@@ -10790,7 +11675,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:35:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/feature/tv-show-based-on-books-this-year-1236035246/",
@@ -10805,7 +11690,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:10:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/bella-thorne-spring-breakers-2-tapped-write-direct-star-1237029133/",
@@ -10820,7 +11705,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:03:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/tv/features/raising-kanan-series-finale-how-raq-dies-power-origins-spinoff-1236829538/",
@@ -10835,7 +11720,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/brandi-carlile-postpones-uk-european-tour-dates-1237029159/",
@@ -10850,7 +11735,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:48:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/blue-bloods-will-estes-reprising-role-boston-blue-1237029175/",
@@ -10865,7 +11750,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:23:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/afl-rd-22-live-melb-frem-syd-ptad-geel-ess-adel-rich/107007960",
@@ -10878,7 +11763,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:08:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/08/07/celebrity-news/mama-june-reacts-to-daughter-pumpkins-onlyfans-content/",
@@ -10893,7 +11778,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:53:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/08/07/celebrity-news/reese-witherspoon-speaks-out-after-dad-is-rushed-to-hopsital/",
@@ -10908,7 +11793,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:14:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/craig-drummond-apologises-jake-kolodjashnij-concussion-contract/107012630",
@@ -10921,7 +11806,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:50:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/divorce-indian-women-question-cultural-pressure-of-marriage/106916718",
@@ -10936,7 +11821,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:13:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/lifestyle/celebrity-book-club-monthly-picks/",
@@ -10951,7 +11836,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:10:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/politik/usa-news-liveblog-sanktionen-kongress-russland-senat-li.3523200",
@@ -10964,7 +11849,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:05:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/smart-highway-tech-trialled-in-upper-hunter/106994596",
@@ -10979,7 +11864,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:21:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/how-a-thai-teenager-s-deadly-school-rampage-unfolded/107012408",
@@ -10992,7 +11877,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:53:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/story/2026-08-07/katseyes-sophia-laforteza-announces-hiatus-before-rose-bowl-show",
@@ -11007,7 +11892,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:18:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/health/2026-08-08/unnecessary-prenatal-supplements-marketed-at-expectant-parents/106965418",
@@ -11022,7 +11907,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/politik/trump-ballsaal-weisses-haus-gericht-li.3528267",
@@ -11037,7 +11922,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:06:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/rural/2026-08-08/family-abattoir-eva-valley-meats-celebrating-10-years/106910274",
@@ -11052,7 +11937,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:01:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/nrl-live-updates-storm-sea-eagles-dolphins-broncos-rabbitohs-eel/107012870",
@@ -11065,7 +11950,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:38:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-07/ridge-fire-prompts-evacuation-orders-closes-5-freeway-near-gorman",
@@ -11080,7 +11965,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:14:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/sport/fifa-wm-2026-gianni-infantino-trump-kommentar-li.3527865",
@@ -11095,7 +11980,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-07T14:18:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/dogs-supected-of-fatal-attack-in-sydney-to-be-euthanased/107012384",
@@ -11110,7 +11995,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:16:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/tour-de-france-femmes-fans-broadcast-row/107002508",
@@ -11125,7 +12010,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:31:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-07/bomb-threat-at-pasadena-hospital-linked-to-violent-extremist-group",
@@ -11140,7 +12025,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T00:50:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/alleged-torturers-face-townsville-court-teenager-bashing/107012738",
@@ -11155,7 +12040,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:36:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/perth-man-charged-over-car-smashing-and-police-chase/107012862",
@@ -11168,7 +12053,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:39:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/video/135471110/",
@@ -11181,7 +12066,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T00:32:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-08/liberals-select-senate-replacements-for-tasmanians-duniam-askew/107012632",
@@ -11196,7 +12081,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:45:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/10f9922c-4667-4fb9-b2a0-6f3264ef0b09?syn-25a6b1a6=1",
@@ -11209,7 +12094,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:00:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/2b3726f6-8149-4a74-a58e-eaaa20c9f2b9?syn-25a6b1a6=1",
@@ -11222,7 +12107,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T00:54:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e?syn-25a6b1a6=1",
@@ -11235,7 +12120,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:00:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/china/politics/article/3363313/taiwans-push-dissolve-pro-beijing-party-triggers-political-censorship-debate?utm_source=rss_feed",
@@ -11250,7 +12135,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:00:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/pentagon-revokes-security-clearance-former-air-force-chief-frank-kendall/",
@@ -11263,7 +12148,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:31:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3363358/111-year-old-chinese-grandma-reveals-secret-daily-workout-leading-her-longevity?utm_source=rss_feed",
@@ -11278,7 +12163,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:00:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3363376/russias-sole-anti-war-party-targets-coming-elections-favours-ceasefire?utm_source=rss_feed",
@@ -11293,7 +12178,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:09:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/canada/british-columbia/summerland-bc-wildfire-aug-7-9.7300528?cmp=rss",
@@ -11308,7 +12193,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:15:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/hong-kong/education/article/3363363/cuhk-chief-calls-more-funds-campuses-northern-metropolis-university-town?utm_source=rss_feed",
@@ -11323,7 +12208,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:00:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/middle-east/article/3363378/hopeless-palestinian-christians-leave-west-bank-hardships-mount?utm_source=rss_feed",
@@ -11338,7 +12223,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:48:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/week-asia/opinion/article/3363284/bangkok-branches-out-secret-thai-capitals-green-revival?utm_source=rss_feed",
@@ -11353,7 +12238,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:00:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/china/science/article/3363133/chinese-scientists-find-some-yangtze-flood-controls-may-do-more-harm-good?utm_source=rss_feed",
@@ -11368,7 +12253,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:00:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/week-asia/politics/article/3363312/chip-old-bloc-thailand-looks-siam-silica-propel-it-top-asean-player?utm_source=rss_feed",
@@ -11383,7 +12268,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:00:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
@@ -11398,7 +12283,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T00:49:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cly599xlllyo?at_medium=RSS&at_campaign=rss",
@@ -11413,7 +12298,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:40:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363364/bar-association-broadly-backs-new-offence-persistent-child-sexual-abuse?utm_source=rss_feed",
@@ -11428,7 +12313,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:00:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/video/135470861/",
@@ -11441,7 +12326,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T00:24:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
@@ -11456,7 +12341,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-07T21:05:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
@@ -11471,7 +12356,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:23:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
@@ -11484,7 +12369,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:15:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/article/price-of-oil-08-06-2026/",
@@ -11499,7 +12384,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-06T11:00:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/080726-cbs-evening-news/",
@@ -11512,7 +12397,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-07T22:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
@@ -11527,7 +12412,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-07T20:24:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/former-san-diego-border-officer-sentenced-to-9-years-for-sinaloa-cartel-drug-smuggling-scheme/",
@@ -11540,7 +12425,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:40:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
@@ -11555,7 +12440,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:29:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
@@ -11568,7 +12453,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:28:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
@@ -11581,7 +12466,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:37:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
@@ -11596,7 +12481,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:18:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
@@ -11609,7 +12494,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:20:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
@@ -11624,7 +12509,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:42:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://restofworld.org/2026/tsmc-arizona-investors/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
@@ -11639,7 +12524,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-07T13:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
@@ -11652,7 +12537,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:31:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
@@ -11667,7 +12552,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:29:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
@@ -11682,7 +12567,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:08:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
@@ -11695,7 +12580,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:54:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/2026/aug/08/sunlounger-hoggers-poll-germans-italians-french-british",
@@ -11710,7 +12595,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:00:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/nps-flush-reflecting-pool-pipes-blames-issues-previous/story?id=135457767",
@@ -11725,7 +12610,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-07T19:59:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
@@ -11740,7 +12625,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:08:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/08/07/business/media/netflix-billboard-marketing-strategy.html",
@@ -11753,7 +12638,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:56:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html",
@@ -11766,7 +12651,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:33:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
@@ -11779,7 +12664,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:01:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.politico.com/news/2026/08/07/pete-buttigieg-abdul-el-sayed-unity-rally-01030009",
@@ -11792,7 +12677,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:10:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bloomberg.com/news/articles/2026-08-08/us-says-ukraine-to-avoid-targeting-tankers-black-sea-oil-site",
@@ -11805,7 +12690,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T00:25:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/08/07/weather/weekend-forecast-points-to-heat-humidty-and-haze.html",
@@ -11818,7 +12703,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-07T18:26:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
@@ -11831,7 +12716,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:01:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/senate/6018225-gop-deal-budget-resolution-save-america-act/",
@@ -11844,7 +12729,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:17:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/administration/6018198-spencer-pratt-trump-federal-film-tax/",
@@ -11857,7 +12742,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T02:24:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html",
@@ -11870,7 +12755,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:44:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
@@ -11883,7 +12768,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T04:01:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/regulation/court-battles/6018220-dhs-ends-tps-myanmar-south-sudan/",
@@ -11896,7 +12781,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T03:32:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/administration/6018156-trump-pirro-revisit-reflecting-pool-claims/",
@@ -11909,7 +12794,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-08T04:48:01.283622+00:00",
     "published_parsed": "2026-08-08T01:51:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/feature/book-to-movie-adaptations-1236035322/",
@@ -25932,1243 +26817,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
     "published_parsed": "2026-08-07T11:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.axios.com/2026/08/07/blanche-murkowski-ag-senate-confirmation",
-    "source": "Axios",
-    "title": "Murkowski will oppose Blanche, threatening his confirmation",
-    "summary": "<p>Sen. Lisa Murkowski (R-Alaska) will vote against <a href=\"https://www.axios.com/2026/08/03/trump-anti-weaponization-fund-blanche\" target=\"_blank\">Todd Blanche's nomination for attorney general</a>, becoming the second known Republican to oppose him.</p><p><strong>Why it matters:</strong> Murkowski's opposition puts <a href=\"https://www.axios.com/2026/08/01/blanche-tillis-trump-anti-weaponization-fund\" target=\"_blank\">Blanche's confirmation in jeopardy</a>.</p><ul><li>With Sen. Mitch McConnell (R-Ky.) still absent from the Senate, Blanche cannot afford to lose any more GOP support.</li><li>Sen. Susan Collins (R-Maine) <a href=\"https://www.axios.com/2026/08/04/todd-blanche-attorney-general-senate-republicans-susan-collins\" target=\"_blank\">has already announced her opposition</a>, and Sen. Bill Cassidy (R-La.) has yet to announce his position.</li></ul><p><strong>What they are saying:</strong> \"The country needs an Attorney General who will check the worst impulses of this administrati",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T11:06:45+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/briefing/reader-questions-answered.html",
-    "source": "NYT",
-    "title": "Curious Minds",
-    "summary": "We\u2019re answering reader questions.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T10:59:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
-    "source": "NYT",
-    "title": "The State of Iran\u2019s Three Key Nuclear Sites",
-    "summary": "The conflict may have slowed, but not stopped, Iran\u2019s nuclear program, officials and experts said.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T10:46:29+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/us/puerto-rico-water-crisis-drought.html",
-    "source": "NYT",
-    "title": "Drought and Aging Pipes Plunge Puerto Rico Into Another Water Crisis",
-    "summary": "Starting on Friday, the island\u2019s water authority is scheduled to shut off water for rotating 48-hour periods in parts of San Juan and surrounding areas.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T11:48:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/world/middleeast/gaza-flotilla-israel-abuse.html",
-    "source": "NYT",
-    "title": "Seized on Their Way to Gaza, Activists Tell of Abuse in Israeli Custody",
-    "summary": "In interviews, more than 20 people who tried to break an Israeli blockade described beatings, electric shocks and other abuse after being captured. Israel denied the accusations.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T09:00:14+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html",
-    "source": "NYT",
-    "title": "How the Reflecting Pool Came to Mirror Trump\u2019s Washington",
-    "summary": "A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T09:03:16+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/nyregion/luigi-mangione-double-jeopardy.html",
-    "source": "NYT",
-    "title": "Luigi Mangione Is Facing Two Trials. Isn\u2019t That Double Jeopardy?",
-    "summary": "The legal principle prevents a person from being tried twice for the same crime. But Mr. Mangione\u2019s situation shows how complicated the judicial system can be.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T11:55:44+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html",
-    "source": "NYT",
-    "title": "A Generation on Antidepressants Searches for the Exit",
-    "summary": "Many people feel that antidepressants block their true emotions, but they don\u2019t have guidance about how to get off these drugs.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T11:12:02+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.axios.com/2026/08/07/election-ai-deepfake-rules-states",
-    "source": "Axios",
-    "title": "Voters face uneven AI deepfake protections",
-    "summary": "<div>Data: <a href=\"https://urldefense.com/v3/__https%3A//www.ncsl.org/elections-and-campaigns/artificial-intelligence-ai-in-elections-and-campaigns__;!!Al82Z4c!xFNHXrvRZ_t9wKk2Y6eX8vFdaXO88FkBNZm3LPfkpoa-wMUnYjAT_eszSRYxW3U__vI6v_pgcNpHZ_czltaqgktdem0_-w$\" target=\"_blank\">NCSL</a>; Map: Sara Wise/Axios</div><p>Americans across the country could have very different experiences with <a href=\"https://www.axios.com/technology/automation-and-ai\" target=\"_blank\">AI</a> deepfakes leading up to <a href=\"https://www.axios.com/politics-policy/2026-midterm-elections\" target=\"_blank\">Election Day</a>, thanks to a patchwork of state rules.</p><p><strong>Why it matters: </strong>AI-generated attack ads and campaign content are <a href=\"https://www.axios.com/2026/06/16/ai-deepfake-ads-campaigns-midterms\" target=\"_blank\">rampant</a> leading up to the midterms as candidates across the political spectrum use<strong> </strong>the technology.</p><hr /><p><strong>State of play: </strong>Twenty-nine states",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T09:15:04+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/06/movies/tony-review-dominic-sessa.html",
-    "source": "NYT",
-    "title": "\u2018Tony\u2019 Review: An Appetite for Experiences",
-    "summary": "On 1970s Cape Cod, a young Anthony Bourdain chases love and finds his future in this rambunctious, utterly charming little movie.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-06T09:32:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.politico.com/gallery/2026/08/07/the-nations-cartoonists-on-the-week-in-politics-01028030",
-    "source": "Politico",
-    "title": "The nation\u2019s cartoonists on the week in politics",
-    "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T09:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/us/twin-falls-idaho-shooting.html",
-    "source": "NYT",
-    "title": "Twin Falls Embraces Man Who Confronted Idaho In-N-Out Shooting",
-    "summary": "While the motive in the strip mall shooting rampage in Twin Falls, Idaho, remains elusive, a community embraces a bystander who stepped in.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T09:03:49+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.axios.com/2026/08/07/marco-rubio-cuba-pressure-campaign",
-    "source": "Axios",
-    "title": "\"No escape:\" Inside Rubio's Cuba pressure campaign",
-    "summary": "<p>Secretary of State <a href=\"https://www.axios.com/2026/05/20/rubio-cuba-speech-independence-day\" target=\"_blank\">Marco Rubio</a> is waging an unprecedented economic war on Cuba \u2014 and wants to make sure the island's communist leaders know it's going to get worse.</p><ul><li>\"What we're trying to teach them is, there are no escape valves,\" Rubio told Axios.</li></ul><p><strong>Why it matters:</strong> Cuba's economy is in a state of slow-motion collapse because of crushing U.S. <a href=\"https://www.axios.com/2026/05/28/trump-cuba-squeeze-regime-change\" target=\"_blank\">sanctions</a> and communist mismanagement of the island, which prides itself as the hemisphere's chief foe of the superpower 90 miles to its north.</p><hr /><ul><li>President <a href=\"https://www.axios.com/politics-policy/donald-trump\" target=\"_blank\">Trump</a> hasn't ruled out military action.</li></ul><p><strong>Zoom in: </strong>Since last year, the Trump administration has taken two dozen separate actions to pressure",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T09:10:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/world/europe/barbican-london-redevelopment-tower-block.html",
-    "source": "NYT",
-    "title": "Residents of the Barbican in London Are Battling a New Tower",
-    "summary": "The Barbican, a once divisive housing complex in central London, is now considered an architectural masterpiece. Residents are fighting plans for a 20-story building next door.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T11:27:02+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/opinion/georgia-midterm-black-voters-senate.html",
-    "source": "NYT",
-    "title": "What Black Voters in Georgia Want and Aren\u2019t Getting",
-    "summary": "In Georgia, where Black voters could help decide control of the Senate, Mara Gay asks what they want from America and the Democratic Party.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T11:26:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/world/americas/trump-administration-military-partnership-colombia.html",
-    "source": "NYT",
-    "title": "Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers",
-    "summary": "The country\u2019s new Trump-endorsed president takes office on Friday. Sweeping plans to target drug traffickers with U.S. help are already underway.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T09:02:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html",
-    "source": "NYT",
-    "title": "Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom",
-    "summary": "In an interview with The New York Times, Dr. El-Sayed recalled some of his conversations with establishment figures who once opposed his candidacy.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T12:02:45+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-    "source": "NYT",
-    "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-    "summary": "The agreement treats an attack on any of the three countries as an attack on all. Saudi Arabia has recently faced drone and missile strikes that it has blamed on Iran\u2019s allies in Yemen and Iraq.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T11:40:45+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/podcasts/the-headlines/trump-birthright-citizenship-israel-abuse.html",
-    "source": "NYT",
-    "title": "Trump Targets Birthright Citizenship Again, and Activists Describe Abuse in Israeli Custody",
-    "summary": "Plus, the Friday news quiz.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T11:33:20+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/us/elections/tennessee-primary-results.html",
-    "source": "NYT",
-    "title": "Candidate Field Set After Republicans Redrew Tennessee District Lines",
-    "summary": "Tennessee\u2019s primary elections on Thursday came after Republican legislators carved up the state\u2019s only majority-Black district in a bid to win all nine of the state\u2019s House seats.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T09:02:24+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/08/07/magazine/tony-anthony-bourdain-cult-fandom.html",
-    "source": "NYT",
-    "title": "The Gospel According to Anthony Bourdain",
-    "summary": "Fans of the late writer and chef are cultlike in their devotion. But have they misunderstood his message?",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T12:43:06.887187+00:00",
-    "published_parsed": "2026-08-07T09:01:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://variety.com/2026/film/global/alliance-4-development-bruce-labruce-monica-bellucci-1236828965/",
-    "source": "Variety",
-    "title": "Locarno\u2019s Alliance 4 Development Welcomes Queer Musical, Eco Body Horror and Bruce LaBruce\u2019s Melodrama With Monica Bellucci and B\u00e9atrice Dalle",
-    "summary": "Alliance 4 Development, Locarno\u2019s co-development platform for film projects from Austria, France, Germany and Switzerland, has presented this year\u2019s projects.&#160; The line-up includes Bruce LaBruce\u2019s first French-led feature, \u201cThird Take.\u201d It\u2019s a \u201cfemale melodrama\u201d starring Monica Bellucci and B\u00e9atrice Dalle as two actresses who reunite for a film shoot destined to \u201cbecome the epiphany of [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Marta Balaga"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:29:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://variety.com/2026/film/global/my-fathers-kora-locarno-open-doors-ayeman-aymar-esse-1236829086/",
-    "source": "Variety",
-    "title": "Aymar Esse, Director of Locarno Open Doors World Premiere \u2018My Father\u2019s Kora,\u2019 Explores the Challenges of Queer Identity in Senegal",
-    "summary": "&#8220;My Father\u2019s Kora&#8221; (\u201cLa Kora de Mon P\u00e8re\u201d), a Benin-Switzerland-Germany production, will have its world premiere Aug. 9 at the Locarno Film Festival&#8217;s Open Doors section, which has focused on 42 countries of the African continent since 2025. The film follows Souleymane Everston Adowo Freudenreich, an Afro-German trans man who travels to Dakar, Senegal, to [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Roberto Prieto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T05:58:49+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://variety.com/2026/tv/reviews/alley-cats-review-ricky-gervais-netflix-1236829439/",
-    "source": "Variety",
-    "title": "Ricky Gervais\u2019 Netflix Animated Comedy \u2018Alley Cats\u2019 Is Surprisingly Bittersweet: TV Review",
-    "summary": "To kick off the third episode of the Netflix animated comedy \u201cAlley Cats,\u201d protagonist Gus \u2014 an overweight orange tabby voiced by writer, creator and frequent director Ricky Gervais (think Garfield with a distinctly working class British accent) \u2014\u00a0describes his plan for the day. It starts with an achievable goal. Then: \u201cGet distracted immediately. Do [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Alison Herman"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:01:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://variety.com/2026/film/reviews/the-last-house-review-1236828947/",
-    "source": "Variety",
-    "title": "\u2018The Last House\u2019 Review: Wagner Moura and Greta Lee Bring Conviction to a Suitably Stifling Stay-at-Home Thriller",
-    "summary": "A decade or so ago, the premise of apocalyptic thriller &#8220;The Last House&#8221; might have sounded a little more out there than it does now: A middle-class Seattle family wakes up one morning to find themselves sealed inside their house with no means of escape, a mysterious enforced house arrest that turns out to be [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Guy Lodge"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:59:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://variety.com/2026/film/global/thomas-heise-ubergang-locarno-premiere-1236829124/",
-    "source": "Variety",
-    "title": "Thomas Heise\u2019s Final Documentary \u2018\u00dcbergang,\u2019 a Potential Locarno Highlight, Reflects on Time and Transience",
-    "summary": "Thomas Heise&#8217;s final film, &#8220;\u00dcbergang,&#8221; arrives at the Locarno Film Festival as both a portrait of one of Germany&#8217;s most influential documentary filmmakers and the completion of a project left unfinished by his death. Premiering in the festival&#8217;s out of competition section, the film traces Heise&#8217;s life through newly shot footage, archival material and photographs, [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "JD Linville"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:47:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/08/07/celebrity-news/jason-sudeikis-old-mail-helps-nyc-woman-realize-shes-living-in-ted-lasso-stars-former-apartment/",
-    "source": "Page Six",
-    "title": "NYC woman realizes she\u2019s living in Jason Sudeikis\u2019 old home after getting his mail \u2014 then meets the \u2018Ted Lasso\u2019 star",
-    "summary": "\u201cI was like, \u2018No way. There\u2019s no way this is the same Jason Sudeikis. There\u2019s no way,\u2019\u201d Palmby said.",
-    "byline_count": 1,
-    "author_names": [
-      "Adam Silverstein"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:06:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/08/07/entertainment/country-star-hannah-dasher-says-famous-married-celebrity-once-slid-into-her-dms/",
-    "source": "Page Six",
-    "title": "Country star Hannah Dasher says famous, married celebrity once slid into her DMs",
-    "summary": "The country singer said her Christian faith prevented her from taking shortcuts to land big tours in Nashville.",
-    "byline_count": 1,
-    "author_names": [
-      "Fox News"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:25:41+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/nrl-grants-perth-bears-salary-concessions/107009790",
-    "source": "ABC Australia",
-    "title": "New jumper revealed as NRL grants Perth Bears salary concessions",
-    "summary": "The NRL says the Perth Bears can leave some player wages outside its salary cap as it pursues a marquee signing.",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Wildie"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:20:21+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/migration-cuts-tony-burke-cabinet/107008424",
-    "source": "ABC Australia",
-    "title": "Visa overstayers to have work rights revoked if asylum claim rejected",
-    "summary": "The federal government is expected to take a hard line on temporary visas as it continues to consider ways to reduce Australia's migration figures.",
-    "byline_count": 1,
-    "author_names": [
-      "Jane Norman"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:51:46+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/nrl-live-updates-warriors-panthers-roosters-bulldogs/106998868",
-    "source": "ABC Australia",
-    "title": "Live: Warriors make hot start against Panthers in NRL heavyweight clash",
-    "summary": "The heavyweights of the NRL are on show as the top three sides battle on Friday night. Follow live.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:59:37+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/07/nakisa-bidarian-says-jake-paul-mma-fight-most-watched-ever/",
-    "source": "TMZ",
-    "title": "Jake Paul's MMA Fight Will Be Most Watched Ever, MVP's Nakisa Bidarian Says",
-    "summary": "Jake Paul is eyeing a jump to MMA -- and his business partner says when it happens, it\u2019ll shatter viewership records! Nakisa Bidarian, co-founder of MVP Promotions, dropped the bold prediction during a recent conversation with Babcock ... where&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:30:32+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/07/school-lunch-essentials/",
-    "source": "TMZ",
-    "title": "Back to School Lunchbox Upgrades",
-    "summary": "TMZ may collect a share of sales or other compensation from links on this page. It's back to school season, which means packed lunches, busy mornings and figuring out how to keep everything fresh until the lunch bell rings. From insulated bento&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:05:55+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/07/chloe-bailey-thirst-traps-alix-earle-and-more/",
-    "source": "TMZ",
-    "title": "Tap-In: Chloe Bailey's Red-Hot Thirst Traps, Alix Earle, Stassie Karanikolaou",
-    "summary": "Calling all you mighty Millennials, ballin' Boomers, groovy Gen X-ers, and everyone else ... We're tappin' y'all into Gen Z's hottest stories of the week, packed with sexy stars and piping-hot news! Tap-In to the gallery&nbsp;... we're spillin' it&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:01:49+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/07/harry-soloman-from-3rd-rock-from-the-sun-actor-french-stewart/",
-    "source": "TMZ",
-    "title": "Harry Soloman On '3rd Rock From the Sun' 'Memba Him?!",
-    "summary": "American actor French Stewart was in his early 30s when he first started playing Harry -- one of the four extraterrestrials disguised as humans -- on the sitcom \"3rd Rock From the Sun\" back in 1996. French was part of an ensemble cast including&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:01:51+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/07/toni-braxton-allegedly-owes-massive-tax-debt/",
-    "source": "TMZ",
-    "title": "Toni Braxton Resolves 6-Figure Tax Debt Years After Bankruptcy",
-    "summary": "Toni Braxton says she dropped some serious dough to settle a debt with the IRS \u2026 over a decade after she finalized her second bankruptcy. According to official records, the singer was hit with a federal tax lien on June 22 ... and Uncle Sam said&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:00:41+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/de-minaur-haunted-by-montreal-masters-double-fault-drama/107010090",
-    "source": "ABC Australia",
-    "title": "De Minaur haunted by Montreal Masters double-fault drama",
-    "summary": "Alex de Minaur's tepid form ahead of the US Open continues with the Australian missing a big opportunity at the Canadian Open in Montreal.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T05:40:56+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/trump-birthright-executive-orders-explained/107009810",
-    "source": "ABC Australia",
-    "title": "Five quick questions about Trump's birthright orders answered",
-    "summary": "US President Donald Trump is taking another swing at limiting birthright citizenship. Here are five simple questions to break down what's happened.",
-    "byline_count": 1,
-    "author_names": [
-      "Elissa Fitzgerald"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T05:33:56+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-news-usa-hormus-li.3523210",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Krieg in Nahost: Iran will Schiffe aus den USA und Israel aus der Stra\u00dfe von Hormus verbannen",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/06/d8e08eb1-1e3f-4421-869e-f7bb254eddb6.jpg?rect=2718%2C303%2C1133%2C850&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Zudem sollen Medienberichten zufolge feindlich gesinnte L\u00e4nder eine Entsch\u00e4digung leisten m\u00fcssen, bevor ihre Schiffe die Meerenge passieren d\u00fcrfen.</p>",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:03:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/sport/fifa-infantino-krisentreffen-rabat-uefa-boykott-wm-fussball-li.3527723",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Fifa: Die n\u00e4chste Anti-Infantino-Welle t\u00fcrmt sich auf",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/07/3581e8c8-0309-4d1a-83a2-6a5e4c3acbf1.jpg?rect=372%2C0%2C1933%2C1450&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Der von Gianni Infantino erw\u00fcnschte Effekt des Krisentreffens in Rabat verpufft. Die Uefa erneuert ihren WM-Boykott, die Spielergewerkschaft spricht von \u201eMachtmissbrauch\u201c \u2013 und ein weiterer bisheriger Verb\u00fcndeter geht auf Distanz.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Johannes Aum\u00fcller"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:22:06+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/victoria-h5n1-bird-flu-poultry-lockdown/107010162",
-    "source": "ABC Australia",
-    "title": "Victoria announces poultry lockdown as bird flu cases spread",
-    "summary": "Testing confirmed a further 20 cases of H5N1avian influenza in Victoria on Friday, all in greater crested terns along the state's south-west coast.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T05:48:50+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/nsw-eschol-park-man-found-dead-suspected-mauling/107008040",
-    "source": "ABC Australia",
-    "title": "Man killed in suspected dog attack may have been an intruder, police say",
-    "summary": "Police are investigating whether a man suspected of being mauled to death by dogs at a property in Sydney's south-west was an intruder.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:20:02+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/sport/real-madrid-diomande-rb-leipzig-transfer-135-millionen-euro-li.3527573",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Fu\u00dfball-Transfermarkt: Diomande wechselt f\u00fcr 135 Millionen Euro zu Real Madrid",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/06/2774514f-3793-413d-a9e1-be9f10359e63.jpg?rect=245%2C0%2C2904%2C2178&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Nun ist es fix: Sturmjuwel Yan Diomande verl\u00e4sst RB Leipzig. Der 19-J\u00e4hrige ist der teuerste Einkauf in der Geschichte von Real Madrid \u2013 und einer der teuersten Transfers der Bundesliga-Historie.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Javier C\u00e1ceres"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-06T14:40:38+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/darwin-pharmacist-alleged-misconduct-stephen-dank-doping-scandal/107007650",
-    "source": "ABC Australia",
-    "title": "Pharmacist denies conflict of interest with man behind Essendon doping scandal",
-    "summary": "A Darwin pharmacist is facing a tribunal over allegations he inappropriately dispensed performance-enhancing drugs and did so on the basis of a conflict of interest with the man at the centre of the Essendon football club doping scandal.",
-    "byline_count": 1,
-    "author_names": [
-      "Grace Atta"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:14:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/cairns-crash-victim-savannah-spence-paige-remembered/107010702",
-    "source": "ABC Australia",
-    "title": "Family of young woman killed in Cairns crash thank community for support",
-    "summary": "Savannah Spence Paige's family say they are \"beyond devastated\" after the 25-year-old's death in this week's horrific road crash. She is being remembered for having had a \"smile that lit up every room\".",
-    "byline_count": 1,
-    "author_names": [
-      "Christopher Testa"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:03:12+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/afl-round-22-brisbane-lions-hawthorn-hawks-live-blog/106995760",
-    "source": "ABC Australia",
-    "title": "Live: Lions and Hawks in blockbuster, Cats name player in concussion drama",
-    "summary": "Defending premiers Brisbane Lions host Hawthorn in a Friday night blockbuster at the Gabba, as Geelong makes a move in the midst of its concussion scandal. Follow live.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:23:49+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/rachel-smith-fertility-freezing-eggs-high-court-appeal/107009548",
-    "source": "ABC Australia",
-    "title": "Drug trafficker takes fight to freeze eggs while in prison to High Court",
-    "summary": "Rachel Smith, who is serving a 10-year prison sentence for drug trafficking, requested leave to freeze her eggs while incarcerated.",
-    "byline_count": 1,
-    "author_names": [
-      "Talissa Siganto"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:14:41+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/teens-charged-over-alleged-murder-of-redbank-plains-man/107008104",
-    "source": "ABC Australia",
-    "title": "Four teenagers charged with murder after death of 21yo man",
-    "summary": "Four teenagers have been charged with murder over the death of a 21-year-old man who was allegedly seriously assaulted south of Brisbane last month.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T05:47:55+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/karrakatta-cemetery-chapel-fire-woman-jailed/107008598",
-    "source": "ABC Australia",
-    "title": "Woman jailed for lighting fire that gutted Karrakatta Cemetery chapel",
-    "summary": "A woman who set fire to a chapel in Perth's main cemetery, causing more than $3 million damage and widespread disruption, is sentenced to five years in prison.",
-    "byline_count": 1,
-    "author_names": [
-      "David Weber"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:33:23+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/natsiaa-art-awards-winners-ryan-presley-jenna-mayilema-lee/106992592",
-    "source": "ABC Australia",
-    "title": "Artwork riffing on Renaissance painting and George Orwell wins $100k",
-    "summary": "Ryan Presley has won the top prize at the National Aboriginal and Torres Strait Islander Art Awards for an oil painting riffing on Renaissance art.",
-    "byline_count": 1,
-    "author_names": [
-      "Hannah Story"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/prostate-cancer-screening-guidelines-change/107009124",
-    "source": "ABC Australia",
-    "title": "Men to be offered prostate screening from age 45 under new guidelines",
-    "summary": "New guidelines released today will change the way men are screened for prostate cancer and lead to less invasive testing.",
-    "byline_count": 1,
-    "author_names": [
-      "Paige Cockburn"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:03:34+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/welfare-groups-warn-qld-boot-camp-could-hide-child-abuse/107008338",
-    "source": "ABC Australia",
-    "title": "Concerns planned boot camps may allow child abuse to go unreported",
-    "summary": "The Queensland government wants to allow Circuit Breaker Program operators to not report child harm if doing so would incriminate themselves. Welfare groups are concerned this would leave children vulnerable to abuse.",
-    "byline_count": 1,
-    "author_names": [
-      "Ellen Fanning"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:25:27+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/lane-cove-public-school-150-years-nicole-kidman/107009410",
-    "source": "ABC Australia",
-    "title": "Nicole Kidman delivers message to former school on 150th anniversary",
-    "summary": "Lane Cove Public School students put out an appeal inviting Nicole Kidman to their 150th birthday celebrations. The famous actress couldn't make it in the flesh, but she did send a message from Greece.",
-    "byline_count": 1,
-    "author_names": [
-      "Mawunyo Gbogbo"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:50:32+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/accc-launches-inquiry-into-food-labelling-after-four-corners/107010678",
-    "source": "ABC Australia",
-    "title": "ACCC launches inquiry into food labelling claims after Four Corners investigation",
-    "summary": "Australia's consumer watchdog has launched an inquiry into allegations of misleading consumer conduct after a major Four Corners investigation examining food fraud.",
-    "byline_count": 1,
-    "author_names": [
-      "Samantha Dick"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:23:12+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-07/grieving-dolphin-carries-calfs-body-for-eleven-days/107001910",
-    "source": "ABC Australia",
-    "title": "Do dolphins grieve the way humans do?",
-    "summary": "A dolphin mother has carried its calf's remains for 11 days in what researchers believe could potentially reveal something new about dolphin mourning.",
-    "byline_count": 1,
-    "author_names": [
-      "Eden G Regan"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:25:31+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.ft.com/content/22a6bce7-ccec-4e7d-a31b-ca8d67b1bcb6",
-    "source": "Financial Times",
-    "title": "The curious case of the Japanese government bond yields",
-    "summary": "Maybe not as high as you think",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T05:00:04+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.ft.com/content/f8fc56ba-7088-4f73-87c1-13b11eee80ec?syn-25a6b1a6=1",
-    "source": "Financial Times",
-    "title": "\u2018It\u2019s now or never.\u2019 Is the EU serious about letting in new members?",
-    "summary": "Candidate countries hope for progress after years of inaction, but some in Brussels are still uncertain about enlargement",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T04:00:17+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/thailand-high-school-shooting-dead-injured-nonthaburi/",
-    "source": "CBS News",
-    "title": "Several dead in Thailand high school shooting after suspect kills grandparents",
-    "summary": "A student shot several people at a high school outside Bangkok on Friday, killing three teachers and three students and wounding 15 others, police said.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:32:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/china/politics/article/3363262/13-times-size-zhejiang-china-deploys-drones-ai-typhoon-dolphin-nears-coast?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "1,230 times the size of Hong Kong: China deploys drones, AI as Typhoon Dolphin nears coast",
-    "summary": "Ferry routes have been suspended, construction halted, fishermen evacuated and drones deployed to patrol over the sea as China\u2019s coastal provinces prepare for the landfall of Typhoon Dolphin, the fourth typhoon to reach the country this summer.\nBy Friday morning, the typhoon was about 820km from China\u2019s east coast and was expected to land from Sunday afternoon to Monday morning somewhere between Zhejiang province in eastern China and northern Fujian, the National Meteorological Centre said.\nThe...",
-    "byline_count": 1,
-    "author_names": [
-      "Phoebe Zhang"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T05:53:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.defenseone.com/technology/2026/08/rough-waters-help-firm-demo-expeditionary-manufacturing-aboard-warship/415275/",
-    "source": "Defense One",
-    "title": "Rough waters help firm demo \u2018expeditionary manufacturing\u2019 aboard warship",
-    "summary": "Firestorm Labs says it 3D-printed thousands of parts as waves buffeted USS Essex.",
-    "byline_count": 1,
-    "author_names": [
-      "Jennifer Hlad"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:03:37+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363263/hong-kong-woman-loses-hk69m-scammers-posing-mainland-chinese-officials?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Hong Kong woman loses HK$69m to scammers posing as mainland Chinese officials",
-    "summary": "A Hong Kong woman has been conned out of nearly HK$69 million (US$8.8 million) in a month-long scam involving fraudsters posing as mainland Chinese officials.\nPolice said on Friday that the 43-year-old woman received calls from people claiming to be mainland law enforcement officers, who accused her of committing a crime and demanded money to prove her innocence.\nThe victim transferred about HK$68.9 million to designated bank accounts in multiple transactions between July 2 and August 1.\nShe...",
-    "byline_count": 1,
-    "author_names": [
-      "Veronica Qi"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:03:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3363266/china-delivery-rider-poet-known-writing-verses-scrap-paper-wins-elite-literature-prize?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "China \u2018delivery rider poet\u2019 known for writing verses on scrap paper wins elite literature prize",
-    "summary": "After winning China\u2019s prestigious Lu Xun Literary Prize, grass roots delivery rider and poet Wang Jibing expressed his intention to continue delivering food, describing himself as \u201ca river that quietly flows.\u201d\nWang, 57, widely known as the \u201cdelivery rider poet\u201d, won the elite literature prize in the poetry category for his third collection, Low Flight.\nThe Lu Xun Literary Prize, named after one of China\u2019s most celebrated modern writers, Lu Xun, is regarded as one of the nation\u2019s most respected...",
-    "byline_count": 1,
-    "author_names": [
-      "Fran Lu"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:27:28+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.defenseone.com/business/2026/08/defense-business-brief-enduring-case-small-usvs-battleship-costs-balloon-rainey-joins-bain-capital/415276/",
-    "source": "Defense One",
-    "title": "Defense Business Brief: The enduring case for small USVs | Battleship costs balloon | Rainey joins Bain Capital",
-    "summary": "",
-    "byline_count": 1,
-    "author_names": [
-      "Lauren C. Williams"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:33:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://grist.org/energy/in-montana-controversial-pipeline-hits-a-speed-bump/",
-    "source": "Grist",
-    "title": "In Montana, a controversial $2B pipeline hits a speed bump",
-    "summary": "",
-    "byline_count": 1,
-    "author_names": [
-      "Ellis Juhlin"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:45:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/business/banking-finance/article/3363286/hong-kongs-us-dollar-peg-faces-fresh-calls-review-change-feasible?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Hong Kong\u2019s US dollar peg faces fresh calls for review \u2013 but is change feasible?",
-    "summary": "The Hong Kong dollar\u2019s four-decade-old peg to the US dollar is facing fresh calls for review, after a local financial industry body urged greater use of the yuan and floated the idea of shifting to a basket of major currencies and gold \u2013 though financial analysts argue the current system is likely to remain in place.\nThe proposal to revisit the pegged exchange rate system was submitted this week by the Hong Kong Securities and Futures Professionals Association (HKSFPA), as the government gathers...",
-    "byline_count": 1,
-    "author_names": [
-      "Daisy Wu"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:14:51+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/china/diplomacy/article/3363272/despite-south-china-sea-clashes-chinese-and-filipino-police-boost-cooperation?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Despite South China Sea clashes, Chinese and Filipino police boost cooperation",
-    "summary": "The Philippine National Police and their counterparts in a coastal Chinese province have agreed to deepen intelligence sharing and crack down on international crimes, in a rare display of cooperation between the nations as they clash in the South China Sea.\nChief Jose Melencio Nartatez Jnr hosted Wang Xizhang, the executive director general of Fujian\u2019s Public Security Department, on Tuesday, according to the official Philippine News Agency.\nThe two sides emphasised the importance of addressing...",
-    "byline_count": 1,
-    "author_names": [
-      "Laura Zhou"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:06:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363288/hong-kong-actively-considering-dedicated-offence-fight-persistent-child-sex-abuse?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Hong Kong \u2018actively considering\u2019 dedicated offence to fight persistent child sex abuse",
-    "summary": "Hong Kong is \u201cactively considering\u201d creating a dedicated offence to target persistent sexual abuse of children, after more than 90 per cent of suggestions from a month-long public consultation backed a proposed overhaul of laws tackling sex crimes.\nSecretary for Security Chris Tang Ping-keung said on Friday that more than 6,000 suggestions were received throughout the consultation period, which began on July 7 and wrapped up on Wednesday.\n\u201cAll in all, over 90 per cent of suggestions supported...",
-    "byline_count": 1,
-    "author_names": [
-      "Wynna Wong"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:16:57+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.statnews.com/2026/08/07/why-did-this-boston-entrepreneur-found-his-biotech-startup-in-california/?utm_campaign=rss",
-    "source": "STAT",
-    "title": "STAT+: He grew up near Boston, went to Harvard, and worked at MIT. Why did he found his startup in California?",
-    "summary": "Boston, with its rising costs, high taxes, and business climate, is losing ground to rivals across the country, sometimes even in biotech.",
-    "byline_count": 1,
-    "author_names": [
-      "Emma Platoff \u2014 Boston Globe"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.statnews.com/2026/08/07/medical-ai-doctors-autonomy/?utm_campaign=rss",
-    "source": "STAT",
-    "title": "Opinion: AI won\u2019t enhance physician autonomy. It will further diminish it",
-    "summary": "\u201cAI is not the villain here; it is a mirror,\u201d reflecting the diminishment of physician judgment, writes former surgeon Frances Mei Hardin.",
-    "byline_count": 1,
-    "author_names": [
-      "Frances Mei Hardin"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/hong-kong/politics/article/3363291/nominations-hong-kongs-election-committee-run-october-7-20?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Nominations for Hong Kong\u2019s Election Committee to run from October 7 to 20",
-    "summary": "Nominations for Hong Kong\u2019s powerful Election Committee will take place in October, with the vote for 982 seats of the 1,500-member body \u2013 which picks the city\u2019s chief executive and some of the legislative candidates \u2013 taking place a month later.\nA government spokesman said Chief Executive John Lee Ka-chiu had specified November 22 as the polling date for the committee\u2019s subsector ordinary elections and that the relevant notice had been gazetted on Friday.\nThe spokesman added that the nomination...",
-    "byline_count": 1,
-    "author_names": [
-      "Connor Mycroft"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:35:11+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.statnews.com/2026/08/07/cdc-shooting-anniversary-public-health-threats/?utm_campaign=rss",
-    "source": "STAT",
-    "title": "Opinion: I was in my office when bullets hit the CDC. A year later, the agency remains under attack",
-    "summary": "\u201cIt was briefly more dangerous to sit at a desk in Atlanta than to chase a hemorrhagic fever in the field,\u201d writes Daniel Jernigan.",
-    "byline_count": 1,
-    "author_names": [
-      "Daniel Jernigan"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/week-asia/politics/article/3363294/malaysia-nurul-izzahs-pkr-exit-deepens-questions-over-anwars-leadership?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "In Malaysia, Nurul Izzah\u2019s PKR exit deepens questions over Anwar\u2019s leadership",
-    "summary": "Nurul Izzah Anwar, the daughter of Malaysian Prime Minister Anwar Ibrahim, has stepped back from the deputy presidency of his ruling People\u2019s Justice Party (PKR), raising questions over his ability to hold together the political movement he built after a bruising run of electoral setbacks and defections by former allies.\nPKR\u2019s leadership has sought to frame the move by Nurul Izzah, one of the party\u2019s most recognisable reformist figures, not as a resignation but as a temporary break \u2013 exposing...",
-    "byline_count": 1,
-    "author_names": [
-      "Ushar Daniele"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:36:19+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/07/shlomo-kramer-cato-godfather-of-cyber-hugging-face-hack/",
-    "source": "Fortune",
-    "title": "The godfather of Israeli cybersecurity: The Hugging Face incident exposes the wrong AI security debate",
-    "summary": "A human insider threat unfolds over days or weeks; an agent can execute thousands of autonomous actions in an entirely different window of time.",
-    "byline_count": 1,
-    "author_names": [
-      "Shlomo Kramer"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/07/every-10-jobs-2539-applicants-greenhouse-ceo-daniel-chait-hiring-advice-openai/",
-    "source": "Fortune",
-    "title": "\u2018Don\u2019t apply to OpenAI\u2019: This hiring platform CEO sees 2,539 applicants for every 10 jobs",
-    "summary": "The job hunt hell is real\u2014applications per recruiter are up 412%, but most of them are chasing the same famous companies, says Greenhouse CEO Daniel Chait",
-    "byline_count": 1,
-    "author_names": [
-      "Orianna Rosa Royle"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Mexico deploys troops to secure avocado region after US halts imports",
-    "summary": "Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T05:25:56+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/pwc-us-cancels-disney-world-intern-trip-2026-8",
-    "source": "Business Insider",
-    "title": "Sorry PwC interns, your end-of-summer trip to Disney World is canceled",
-    "summary": "The Big Four firm PwC has cut a 20-year tradition of taking summer interns to \"The Happiest Place on Earth.\"",
-    "byline_count": 1,
-    "author_names": [
-      "Polly Thompson"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:00:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/news/2026/8/7/still-searching-for-truth-daughter-of-sikh-activist-killed-30-years-ago?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "\u2018Still searching for truth\u2019: Daughter of Sikh activist killed 30 years ago",
-    "summary": "Jaswant Singh Khalra&#039;s daughter Navkiran reflects on slain father&#039;s life and legacy, which also inspired a recent film.",
-    "byline_count": 1,
-    "author_names": [
-      "Arsalan Bukhari"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:29:40+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/bodies-of-climbers-killed-in-avalanche-retrieved-from-broad-peak?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Bodies of climbers killed in avalanche retrieved from Broad Peak",
-    "summary": "A search team has retrieved the remains of renowned climber Nirmal Purja and several members of his team.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T05:49:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Africa backs Infantino as CAF unanimously votes in FIFA president\u2019s favour",
-    "summary": "CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA&#039;s Gianni Infantino.",
-    "byline_count": 1,
-    "author_names": [
-      "Al Jazeera"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:44:06+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Earthquake strikes as doctors perform surgery",
-    "summary": "A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:43:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/articles/c87nlvj2zy9o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Caldentey embraces 'cool' pressure as Arsenal target Treble",
-    "summary": "Midfielder Mariona Caldentey explains why Arsenal, strengthened by seven new players, are talking up their chances of winning the Treble this season.",
-    "byline_count": 1,
-    "author_names": [
-      "Joe Bradshaw"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:27:36+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/07/wildfires-insurance-cover-zurich-allianz-munich.html",
-    "source": "CNBC",
-    "title": "Europe\u2019s wildfire \u2018protection gap\u2019 is growing, insurers warn",
-    "summary": "Insurers warn that Europe is facing a \"protection gap\" in wildfire cover as disaster recovery costs outpace insurance coverage.",
-    "byline_count": 1,
-    "author_names": [
-      "Sawdah Bhaimiya"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T07:52:04+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theinformation.com/briefings/datadog-says-largest-customer-reduced-spending-shares-drop-19",
-    "source": "The Information",
-    "title": "Datadog Says Largest Customer Reduced Spending, Shares Drop 19%",
-    "summary": "<p>Datadog shares dropped more than 19% after the software firm forecast a slowdown in annual revenue growth for its current quarter&nbsp;and said it stemmed from its largest customer reducing its spending.</p> <p>On an earnings call, CEO Olivier Pomel declined to name the customer, saying only that it ...</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Kevin McLaughlin"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:19:54+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/environment/gallery/2026/aug/07/week-in-wildlife-a-tiger-release-an-exmoor-eagle-and-pallass-kittens",
-    "source": "The Guardian US",
-    "title": "Week in wildlife: a tiger release, an Exmoor eagle and Pallas\u2019s kittens",
-    "summary": "<p>This week\u2019s best wildlife photographs from around the world</p> <a href=\"https://www.theguardian.com/environment/gallery/2026/aug/07/week-in-wildlife-a-tiger-release-an-exmoor-eagle-and-pallass-kittens\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Pejman Faratin"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T05:00:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/cr7kl7jxv59o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Norrie saves match point in superb Montreal fightback",
-    "summary": "Britain's Cameron Norrie saves a match point as he produces a superb fightback to beat world number seven Alex de Minaur at the Canadian Open.",
-    "byline_count": 1,
-    "author_names": [
-      "BBC Sport"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:56:04+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/07/volkswagen-vw-porsche-autos-job-cuts.html",
-    "source": "CNBC",
-    "title": "Volkswagen controlling families call for faster overhaul to fend off Chinese rivals",
-    "summary": "Volkswagen's top investor on Friday called on the auto giant to take immediate action to fend off intensifying competition from Chinese car brands.",
-    "byline_count": 1,
-    "author_names": [
-      "Sam Meredith"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T08:03:43+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/International/6-people-killed-dozen-injured-thailand-school-shooting/story?id=135447961",
-    "source": "ABC News",
-    "title": "At least 6 people killed, more than a dozen injured in Thailand school shooting",
-    "summary": "At least six people have been killed and more than a dozen others injured in a school shooting that took place at a high school in the outskirts of Bangkok, Thailand.",
-    "byline_count": 1,
-    "author_names": [
-      "Britt Clennett"
-    ],
-    "total_score": 0,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-07T08:48:29.678070+00:00",
-    "published_parsed": "2026-08-07T06:53:03+00:00",
     "is_new": false
   }
 ]
