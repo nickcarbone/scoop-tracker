@@ -214,6 +214,25 @@
     "is_new": false
   },
   {
+    "link": "https://www.theinformation.com/articles/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal",
+    "source": "The Information",
+    "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal",
+    "summary": "<p>Nvidia is in talks to invest as much as $3 billion in SB Energy, the Softbank Group-backed developer of a massive planned Ohio data center project for OpenAI, according to people familiar with the discussions.</p>\n\n<p>The investment is being discussed as part of Nvidia\u2019s negotiations with OpenAI and SB Energy over the chip giant providing <a href=\"https://www.theinformation.com/articles/nvidia-nears-deal-guarantee-100-billion-financing-massive-data-center\">around $100 billion</a> in credit support for the planned Ohio data center campus, one of the people said. Those deals would add to a growing number cases where Nvidia is using its financial heft to support AI-related companies and projects&nbsp;to make it easier for firms to buy and use Nvidia hardware.</p>",
+    "byline_count": 3,
+    "author_names": [
+      "Valida Pau",
+      "Ann Davis Vaughan",
+      "Phoebe Liu"
+    ],
+    "total_score": 8,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T19:12:18+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.theinformation.com/articles/nvidia-nears-deal-guarantee-100-billion-financing-massive-data-center",
     "source": "The Information",
     "title": "Nvidia Nears Deal To Guarantee About $100 Billion In Financing For Massive Data Center",
@@ -417,23 +436,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.latimes.com/sports/lakers/story/2026-08-12/lakers-sale-bob-iger-joshua-kushner",
-    "source": "Los Angeles Times",
-    "title": "Bob Iger, Joshua Kushner to buy Lakers from Mark Walter's ownership group for $12.5 billion",
-    "summary": "<p>Joshua Kushner and Bob Iger were eyeing an NBA expansion team bid in Las Vegas but pivoted to buying the Lakers from Mark Walter, who bought a controlling interest in the team last year.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Thuc Nhi Nguyen"
-    ],
-    "total_score": 7,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:02:03+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://fortune.com/2026/08/15/jane-street-loss-15-billion-situational-awareness-stake-ai-bets/",
     "source": "Fortune",
     "title": "Jane Street lost $15 billion in its first down month in a decade",
@@ -449,7 +451,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T14:59:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora",
@@ -1000,297 +1002,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.nature.com/articles/s41586-026-10888-8",
-    "source": "Nature News",
-    "title": "Cascading continental-scale floods across Europe in 1342\u20131343",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10888-8\">doi:10.1038/s41586-026-10888-8</a></p>Tracing cascading continental-scale medieval megafloods across Europe indicates that current flood management is unprepared for such sequences, highlighting the urgent need for proactive flood risk management strategies that account for unusual series of extreme flood events.",
-    "byline_count": 36,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10922-9",
-    "source": "Nature News",
-    "title": "Maternal influences on infant gut microbiome and health",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10922-9\">doi:10.1038/s41586-026-10922-9</a></p>The maternal gut microbiome is a predictor of infant eczema.",
-    "byline_count": 41,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10907-8",
-    "source": "Nature News",
-    "title": "Procognitive restoration of PV neuron plasticity in neurodevelopmental disorders",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10907-8\">doi:10.1038/s41586-026-10907-8</a></p>Expression of Meis2 in hippocampal parvalbumin-expressing interneurons in an adult mouse model of neurodevelopmental disorders rescues experience-dependent plasticity, improves memory and network function and suppresses seizures.",
-    "byline_count": 14,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10925-6",
-    "source": "Nature News",
-    "title": "Biomarkers of nivolumab benefit in resectable non-small cell lung cancer",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10925-6\">doi:10.1038/s41586-026-10925-6</a></p>Potential predictive biomarkers of perioperative nivolumab therapy benefit in non-small cell lung cancer are identified from evaluable participants in the CheckMate 77T trial.",
-    "byline_count": 31,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10906-9",
-    "source": "Nature News",
-    "title": "In vivo genome-wide CRISPR screens of human T cells in solid tumours",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10906-9\">doi:10.1038/s41586-026-10906-9</a></p>An in vivo model that is able to recover human T cells from solid tumours can identify targets to help improve CAR T cell antitumour activity.",
-    "byline_count": 33,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10905-w",
-    "source": "Nature News",
-    "title": "Towards an equitable future of global photovoltaic waste recycling",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10905-w\">doi:10.1038/s41586-026-10905-w</a></p>Global photovoltaic waste will reach 297\u2013402\u2009million tonnes by 2060, and regionally adapted recycling strategies and international cooperation will be needed to provide equitable and scalable PV waste circularity.",
-    "byline_count": 12,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10846-4",
-    "source": "Nature News",
-    "title": "A gas-enshrouded and gas-reddened black hole at cosmic dawn",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10846-4\">doi:10.1038/s41586-026-10846-4</a></p>Observations of an unusual cosmic-dawn source illuminate how early supermassive black holes may have grown rapidly in a gas-enshrouded state; such enshrouded black holes may lie at the heart of the 'little red dots'.",
-    "byline_count": 54,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10878-w",
-    "source": "Nature News",
-    "title": "Evidence for the first globular cluster stellar stream beyond the Milky Way",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10878-w\">doi:10.1038/s41586-026-10878-w</a></p>Deep Hubble Space Telescope imaging of the ultra-diffuse galaxy UGC\u20099050-Dw1 reveals an extragalactic globular cluster stream, with analysis and modelling probing the rich dark matter content of the host galaxy.",
-    "byline_count": 8,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10857-1",
-    "source": "Nature News",
-    "title": "Superconducting 2D cuprate with a single CuO<sub>2</sub> plane",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10857-1\">doi:10.1038/s41586-026-10857-1</a></p>A high-quality, pristine monolayer cuprate superconductor with a single CuO2 plane is fabricated and used to identify two quantum critical phenomena emerging between the Mott insulating phase and the superconducting phase.",
-    "byline_count": 15,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10916-7",
-    "source": "Nature News",
-    "title": "Temporal uncoupling of radial glia lineage progression in cortical organoids",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10916-7\">doi:10.1038/s41586-026-10916-7</a></p>RGP lineage tracing in stem-cell-derived organoids shows highly plastic proliferation and reduced clonal neuronal diversity, indicating that missing non-cell-autonomous niche cues are essential for faithful temporal control of cortical lineage progression.",
-    "byline_count": 7,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10886-w",
-    "source": "Nature News",
-    "title": "Rb-driven transcription limits its tumour-suppressive effects in breast cancer",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10886-w\">doi:10.1038/s41586-026-10886-w</a></p>CDK4/6 inhibition redirects Rb chromatin occupancy to activate oestrogen-responsive genes, counteracting its own ability to maintain therapeutic cell-cycle arrest.",
-    "byline_count": 24,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10880-2",
-    "source": "Nature News",
-    "title": "Heterogeneous climatic controls on tropical-forest biomass",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10880-2\">doi:10.1038/s41586-026-10880-2</a></p>An analysis of the relationships between aboveground biomass and various climatic factors in three major regions of tropical forest shows that understanding the complex interactions between climate, topography and soils is crucial to predict how climate change will affect carbon storage capacity.",
-    "byline_count": 5,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10896-8",
-    "source": "Nature News",
-    "title": "Neural basis of compositional control",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10896-8\">doi:10.1038/s41586-026-10896-8</a></p>Behaviour of human participants in a prey-pursuit task reflects dynamic blending of goal-specific control policies, with hippocampus estimating latent states, anterior cingulate cortex orchestrating policy switches and orbitofrontal cortex supplying value-based contextualization rather than driving continuous policy updating.",
-    "byline_count": 21,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10724-z",
-    "source": "Nature News",
-    "title": "Numerous bow shocks in the outer Helix Nebula",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10724-z\">doi:10.1038/s41586-026-10724-z</a></p>Shocks in the eastern outskirts of the Helix Nebula, detected in H\u03b1 emission with the MOTHRA telescope, provide evidence for the recycling of fragmented stellar ejecta into the surrounding gas.",
-    "byline_count": 8,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10903-y",
-    "source": "Nature News",
-    "title": "Structural mechanism governing the directionality of bridge recombination",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10903-y\">doi:10.1038/s41586-026-10903-y</a></p>Cryo-electron microscopy structures show how IS621 bridge recombinase mediates DNA excision, explaining its natural preference for insertion and informing the design of programmable bridge-editing technologies.",
-    "byline_count": 14,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10889-7",
-    "source": "Nature News",
-    "title": "Luminescent-reaction-enabled super-resolution imaging",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10889-7\">doi:10.1038/s41586-026-10889-7</a></p>A new chemistry-based super-resolution imaging framework is described, enabling 3D, laser-free, highly sensitive and ultralong-term imaging of live cells which overcomes the limitations in spatiotemporal resolution associated with reaction-based imaging methods.",
-    "byline_count": 12,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10870-4",
-    "source": "Nature News",
-    "title": "Species intraspecific variation drives tropical forest drought resistance",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10870-4\">doi:10.1038/s41586-026-10870-4</a></p>Substantial intraspecific variation, together with species turnover, drives coordinated shifts in drought resistance such as increased embolism resistance and wider stomatal safety margins in drier forests.",
-    "byline_count": 4,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10909-6",
-    "source": "Nature News",
-    "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10909-6\">doi:10.1038/s41586-026-10909-6</a></p>Engineered probiotics equipped with a synthetic glucose-responsive circuit transiently colonize the gut and secrete therapeutic factors when glucose levels increase, enabling safe, oral, sense-and-respond control of diabetes in mouse and primate models.",
-    "byline_count": 13,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10774-3",
-    "source": "Nature News",
-    "title": "Pre-clinical data interpretation requires clinical context",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10774-3\">doi:10.1038/s41586-026-10774-3</a></p>Pre-clinical data interpretation requires clinical context",
-    "byline_count": 6,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10994-7",
-    "source": "Nature News",
-    "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10994-7\">doi:10.1038/s41586-026-10994-7</a></p>Lead carboxylates passivation for meter-scale perovskite solar modules",
-    "byline_count": 27,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10787-y",
-    "source": "Nature News",
-    "title": "Dataset artefacts can partially drive the measured decline in disruption",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10787-y\">doi:10.1038/s41586-026-10787-y</a></p>Dataset artefacts can partially drive the measured decline in disruption",
-    "byline_count": 5,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/sports/nba/los-angeles-lakers-sold-bob-iger-josh-kushner-12-billion-rcna592121",
-    "source": "NBC News",
-    "title": "Los Angeles Lakers sold to Bob Iger, Josh Kushner for $12 billion",
-    "summary": "The Los Angeles Lakers are being sold to an ownership group led by Josh Kushner and Bob Iger, the businessmen confirmed to NBC News on Wednesday.",
-    "byline_count": 2,
-    "author_names": [
-      "Greg Rosenstein",
-      "Steve Kopack"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:35:52+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://deadline.com/2026/08/bbc-subpoena-defamation-lawsuit-1237041495/",
     "source": "Deadline",
     "title": "BBC Seeks To Subpoena Ivanka Trump, Jared Kushner & Don Jr. In Defamation Lawsuit",
@@ -1305,7 +1016,7 @@
     ],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T13:19:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/",
@@ -1499,6 +1210,40 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/news/us-news/13-year-old-survivor-michigan-rampage-called-911-rcna592709",
+    "source": "NBC News",
+    "title": "13-year-old survivor of Michigan rampage called 911 to report she\u2019d been shot",
+    "summary": "A 13-year-old girl \u2014 the only survivor of a shooting rampage in rural Michigan \u2014 called 911 on Friday after she was shot four times, according to a state police official and her family Saturday.",
+    "byline_count": 3,
+    "author_names": [
+      "Phil Helsel",
+      "Valerie Castro",
+      "Marin Scott"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T19:57:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Major incidents across UK put firefighters under 'incredible pressure', fire chief says",
+    "summary": "Major incidents are declared across the UK including in Stourbridge, Sandwell and Pershore.",
+    "byline_count": 3,
+    "author_names": [
+      "Susie Rack",
+      "Joan Cummins",
+      "Christopher Steers"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T17:41:54+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/08/15/netflix-wants-tyra-banks-defamation-suit-dismissed/",
     "source": "TMZ",
     "title": "Netflix Asks Judge to Toss Tyra Banks' Defamation Lawsuit Over Docuseries",
@@ -1514,7 +1259,7 @@
     ],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T15:04:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/15/trump-aircraft-carrier-asia-iran-george-washington-abraham-lincoln-china-aggression/",
@@ -1531,7 +1276,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T13:52:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/15/anthropic-revenue-q2-11-5-billion-ipo-investors/",
@@ -1548,7 +1293,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T14:52:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
@@ -2422,185 +2167,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.sueddeutsche.de/politik/flughafenschutz-deutschland-drohnenabwehr-zustaendigkeiten-debatte-li.3529396",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Hybride Bedrohungen: Wer deutsche Flugh\u00e4fen vor Drohnen sch\u00fctzen soll \u2013 und wer nicht",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/12/01a4c03a-eda4-4a8d-8c1a-2adb5b74765b.jpg?rect=489%2C40%2C2672%2C2004&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die Abwehr unbemannter Flugger\u00e4te steht noch am Anfang.\u00a0 Das hat viel mit technischen Herausforderungen zu tun, aber auch mit der Frage, wer eigentlich zust\u00e4ndig ist.</p>",
-    "byline_count": 3,
-    "author_names": [
-      "Daniel Br\u00f6ssler",
-      "Roland Preu\u00df",
-      "Sina-Maria Schweikle"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T12:52:36+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10891-z",
-    "source": "Nature News",
-    "title": "Degree-of-polarization modulation for high-dimensional optical computing",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10891-z\">doi:10.1038/s41586-026-10891-z</a></p>By engineering the statistics of light at the micrometre scale using phase-only spatial light modulators, both the state and degree of polarization become spatially programmable, enabling direct encoding of information in a high-dimensional space.",
-    "byline_count": 3,
-    "author_names": [],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.statnews.com/2026/08/12/lindsay-clancy-postpartum-psychosis-diagnosis-treatment-limits/?utm_campaign=rss",
-    "source": "STAT",
-    "title": "Opinion: The Lindsay Clancy case shows the limits of postpartum psychiatry",
-    "summary": "\u201cOur understanding and treatment of postpartum psychiatric illnesses remain profoundly inadequate,\u201d experts write.",
-    "byline_count": 3,
-    "author_names": [
-      "Jamie Maguire",
-      "Lauren M. Osborne",
-      "Jennifer Payne"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:51:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10788-x",
-    "source": "Nature News",
-    "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10788-x\">doi:10.1038/s41586-026-10788-x</a></p>Reply to: Dataset artefacts can partially drive the measured decline in disruption",
-    "byline_count": 3,
-    "author_names": [],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/12/blackstone-strikes-1-8-billion-deal-for-air-canada-division/",
-    "source": "Fortune",
-    "title": "Blackstone strikes $1.8 billion deal for Air Canada division",
-    "summary": "Blackstone and a group of Canadian pension funds will acquire a 25% stake in Air Canada's loyalty program.",
-    "byline_count": 3,
-    "author_names": [
-      "Bloomberg",
-      "Thomas Seal",
-      "Stephanie Hughes"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:01:13+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/trump-secret-flight-turkey-pete-hegseth-marco-rubio-scott-bessent/",
-    "source": "CBS News",
-    "title": "Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump",
-    "summary": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent were on the decoy flight last month when President Trump secretly switched to a different plane while Defense Secretary Pete Hegseth was with Mr. Trump.",
-    "byline_count": 1,
-    "author_names": [
-      "Jennifer  Jacobs"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:22:21+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/los-angeles-lakers-sold-bob-iger-josh-kushner/",
-    "source": "CBS News",
-    "title": "Los Angeles Lakers to be sold to Bob Iger, Josh Kushner for $12.5 billion",
-    "summary": "The deal comes less than 1 year after Mark Walter purchased a majority stake from the Buss family for about $10 billion.",
-    "byline_count": 1,
-    "author_names": [
-      "Austin  Turner"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:28:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/trump-administration-officials-iowa-campaigns-republicans/",
-    "source": "CBS News",
-    "title": "Top Trump officials heading to Iowa to help GOP campaigns, sources say",
-    "summary": "The upcoming Iowa State Fair is a pivotal window of opportunity for candidates on the campaign trail.",
-    "byline_count": 1,
-    "author_names": [
-      "Jennifer  Jacobs"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:38:04+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/Politics/primaries-key-takeaways-centrist-win-questions-trump-endorsement/story?id=135556127",
-    "source": "ABC News",
-    "title": "Primaries key takeaways: A centrist win, questions about Trump endorsement",
-    "summary": "Tuesday's primaries offered fresh tests of the Democratic Party's direction, the influence of President Donald Trump's endorsements and the Republican Party's future.",
-    "byline_count": 3,
-    "author_names": [
-      "Oren Oppenheim",
-      "Gaby Vinick",
-      "Diana Paulsen"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T13:43:56+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/12/trump-officials-float-cut-to-capital-gains-tax-on-home-sales.html",
-    "source": "CNBC",
-    "title": "Trump officials float cut to capital gains tax on home sales. What it could mean for homeowners",
-    "summary": "Trump officials may be considering a tax break for homeowners selling their primary residence in the lead up to the midterm elections.",
-    "byline_count": 3,
-    "author_names": [
-      "Annie Nova",
-      "Sarah Agostino",
-      "Kelli Grant, CFP\u00ae"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:17:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/uk-news/2026/aug/12/jason-arday-cambridge-claim-non-verbal-child",
-    "source": "The Guardian US",
-    "title": "\u2018Always cracking jokes\u2019: questions raised over Jason Arday\u2019s claim he was non-verbal as a child",
-    "summary": "<p>Fellow pupils at his primary school have challenged Cambridge academic\u2019s story, though others support it</p><p>The story of Jason Arday\u2019s extraordinary rise to becoming the youngest black professor in the history of the University of Cambridge is all the more remarkable for one claim: that he did not learn to speak until just shy of his 12th birthday.</p><p>This claim was mentioned in a letter announcing <a href=\"https://www.theguardian.com/education/2026/aug/05/cambridge-professor-jason-arday-resigns-amid-accusations-of-plagiarism\">his resignation last week</a>, which came amid <a href=\"https://www.theguardian.com/education/ng-interactive/2026/aug/01/playbooks-plagiarism-pigs-head-new-claims-surrounding-cambridge-professor-jason-arday\">mounting questions</a> about both his academic work and statements he had made about his past.</p> <a href=\"https://www.theguardian.com/uk-news/2026/aug/12/jason-arday-cambridge-claim-non-verbal-child\">Continue reading...</a>",
-    "byline_count": 3,
-    "author_names": [
-      "Lanre Bakare",
-      "Aamna Mohdin",
-      "Sammy Gecsoyler"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:00:33+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
     "source": "CNBC",
     "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
@@ -3074,21 +2640,184 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/08/12/zohran-mamdani-wife-denied-nypd-security-for-middle-east-travel/",
+    "link": "https://variety.com/2026/tv/news/selena-gomez-slams-wondermind-lawsuit-file-to-dismiss-1236835495/",
+    "source": "Variety",
+    "title": "Selena Gomez Slams \u2018Completely Meritless\u2019 Wondermind Lawsuit, Will File to Dismiss \u2018Baseless Claims\u2019",
+    "summary": "Selena Gomez and her legal team have released a fiery statement after the \u201cOnly Murders in the Building\u201d star was accused of defrauding investors in her mental health startup, Wondermind, in a federal lawsuit filed Thursday. \u201cThe allegations that Selena Gomez engaged in any way whatsoever in any purported \u2018fraud\u2019 or other wrongdoing are completely [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Jack Dunn"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T18:55:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://deadline.com/2026/08/kylo-ren-hunt-for-ben-solo-dave-filoni-adam-driver-d23-1237041672/",
+    "source": "Deadline",
+    "title": "Lucasfilm Co-Boss Dave Filoni On \u2018Hunt For Ben Solo\u2019 Pic Future: \u201cThe Force Is Not With Us\u2026\u201d \u2013 D23",
+    "summary": "There&#8217;s always the theme of hope in the Star Wars franchise, and with the brand landing its lowest grossing live-action feature in the franchise with The Mandalorian and Grogu ($345M WW), fans still wanna know: is there any shot in the galaxy that Disney/Luscasfilm would re-consider an Adam Driver-led The Hunt for Ben Solo project? [&#8230;]",
+    "byline_count": 2,
+    "author_names": [
+      "Destiny Jackson",
+      "Anthony D'Alessandro"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T20:13:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://nypost.com/2026/08/15/us-news/cbs-star-matt-gutmans-scandalous-past-resurfaces-after-shocking-sexual-harassment-lawsuit/",
+    "source": "Page Six",
+    "title": "CBS star Matt Gutman\u2019s scandalous past resurfaces after shocking sexual harassment lawsuit",
+    "summary": "Embattled golden boy and CBS News anchor Matt Gutman's checkered past has come to light as he deals with a revealing sexual harassment lawsuit filed Friday from a former colleague.",
+    "byline_count": 1,
+    "author_names": [
+      "Ross O'Keefe"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T16:19:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/15/matt-gutman-accused-of-harassment-by-former-coworker/",
     "source": "TMZ",
-    "title": "Mamdani's Wife Snubbed by NYPD Over Security Detail For Middle East Trip",
-    "summary": "9:24 AM PT -- A spokesperson for the mayor tells TMZ \u2026&nbsp;\"There was a miscommunication. She has not taken that trip. When she takes that trip, it will be without any NYPD detail.\" NYC Mayor Zohran Mamdani is not on the same page with the NYPD&hellip;",
+    "title": "CBS News Correspondent Matt Gutman Accused of Harassment by Former Coworker",
+    "summary": "CBS News Chief Correspondent Matt Gutman has reportedly been accused of harassment by a former colleague. The allegations are part of a broader wrongful termination lawsuit against ABC News by former ABC field producer Samira Said ... who says she&hellip;",
     "byline_count": 1,
     "author_names": [
       "TMZ Staff"
     ],
-    "total_score": 3,
+    "total_score": 2,
     "matched_categories": [
-      "sourcing_depth"
+      "primary_source"
     ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T13:50:57+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T16:57:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/15/selena-gomez-denies-fraud-accusations/",
+    "source": "TMZ",
+    "title": "Selena Gomez's Attorney Calls Fraud Accusations 'Meritless'",
+    "summary": "Selena Gomez's lawyer says the claims against his client are total BS ... and they're ready to fight it out in court. Matthew Rosengart released a statement after two companies filed a lawsuit against Selena, her mother, Mandy Teefey, and their&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T19:08:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-16/how-much-might-it-cost-to-electrify-road-freight/106956614",
+    "source": "ABC Australia",
+    "title": "Fuel security or electrification? We've crunched the numbers",
+    "summary": "The war in Iran has drawn attention to something invisible to most Australians \u2014 we use a lot of diesel to keep this country running.",
+    "byline_count": 2,
+    "author_names": [
+      "Nathan Morris",
+      "Alex Lim"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T18:40:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-16/yuntas-newest-residents-take-over-the-local-pub-sa/107005296",
+    "source": "ABC Australia",
+    "title": "Dream becomes reality as couple takes over outback pub",
+    "summary": "Yunta's newest residents turn the taps back on at a historic pub in outback SA.",
+    "byline_count": 2,
+    "author_names": [
+      "Bill Ormonde",
+      "Patrick Reincke"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T18:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-16/your-say-volunteers-adelaide-sing-out-choir-early-bird-cafe/107038984",
+    "source": "ABC Australia",
+    "title": "Volunteering changes lives and fills community gaps across the country",
+    "summary": "From planting trees to dementia choirs and early morning cafes for the homeless, volunteering is turning lives around, offering opportunities and filling gaps in community services across Australia.",
+    "byline_count": 2,
+    "author_names": [
+      "Cindy Wockner",
+      "Kathryn Robinson"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T18:43:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-16/search-for-survivors-after-indonesia-earthquake/107042186",
+    "source": "ABC Australia",
+    "title": "Earthquake survivors 'still on alert' after dozens killed in Indonesia",
+    "summary": "Rescue teams are combing the rubble of buildings for survivors after the magnitude-7.7 earthquake struck eastern Indonesia.",
+    "byline_count": 2,
+    "author_names": [
+      "Erwin Renaldi",
+      "Tim Swanston"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T19:34:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/democratic-national-committee-presidential-primary-south-carolina-vote/",
+    "source": "CBS News",
+    "title": "South Carolina to hold first 2028 Democratic presidential primary",
+    "summary": "South Carolina's Democratic presidential primary will take place on Jan. 22, 2028. Nevada, New Hampshire, New Mexico, Michigan and Virginia will also hold early Democratic nominating contests.",
+    "byline_count": 2,
+    "author_names": [
+      "Zak  Hudak",
+      "Sophia  Vlahakis"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T19:57:54+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/US/wireStory/us-pulls-aircraft-carrier-asia-trump-focuses-iran-135669614",
+    "source": "ABC News",
+    "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran, Western Hemisphere",
+    "summary": "Trump&rsquo;s war on Iran is stretching the limits of the nation&rsquo;s aircraft carriers.",
+    "byline_count": 2,
+    "author_names": [
+      "BEN FINLEY Associated Press",
+      "DIDI TANG Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T17:23:19+00:00",
+    "is_new": true
   },
   {
     "link": "https://deadline.com/2026/08/2026-dorian-tv-awards-winners-list-heated-rivalry-hacks-1237033386/",
@@ -3104,7 +2833,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T13:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-15/robert-carradine-family-lawsuit-suing-ucla-wrongful-death",
@@ -3121,7 +2850,7 @@
     ],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T15:03:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/15/bryan-kohberger-mental-health-evaluation/",
@@ -3138,7 +2867,7 @@
     ],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T13:21:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/canada/british-columbia/wildfire-insurance-what-to-know-9.7305044?cmp=rss",
@@ -3154,7 +2883,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T13:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/15/trump-political-strategy-in-charge-everything-responsible-nothing/",
@@ -3170,7 +2899,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T14:01:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/15/nvidia-21-billion-spacex-stake-30-billion-intel-shares/",
@@ -3186,7 +2915,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T15:04:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/15/berkshire-hathaway-delta-alphabet-stakes-greg-abel-cash-pile-warren-buffett/",
@@ -3202,7 +2931,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T15:09:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/administration/6031322-trump-accuses-national-trust-revealing-info-ballroom/",
@@ -3217,7 +2946,7 @@
     ],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T14:05:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-15/quick-hits-australia-vs-bangladesh-day-three-first-test/107037432",
@@ -7712,502 +7441,38 @@
     "is_new": false
   },
   {
-    "link": "https://deadline.com/2026/08/bob-iger-l-a-lakers-purchase-josh-kusner-1237031779/",
-    "source": "Deadline",
-    "title": "Bob Iger Buys L.A. Lakers In Multibillion-Dollar Post-Disney Slam Dunk",
-    "summary": "UPDATED with Magic Johnson comments: Fulfilling almost every American boy&#8217;s dream, Bob Iger has bought himself a big-city sports franchise. The ex-Disney CEO and Thrive Capital boss Josh Kushner have scored the L.A. Lakers for $12.5 billion, Deadline has confirmed. \u201cAs lifelong NBA fans, we are deeply honored for the opportunity to become stewards of [&#8230;]",
-    "byline_count": 2,
-    "author_names": [
-      "Dominic Patten",
-      "Jill Goldsmith"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:55:44+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/12/alisa-hackett-sues-moisses-arellano-over-violent-arrest/",
-    "source": "TMZ",
-    "title": "Arkansas State Trooper Sued By 18-Year-Old Woman After Violent Arrest Goes Viral",
-    "summary": "The 18-year-old motorist who was punched and thrown to the ground by an Arkansas State Trooper in a violent arrest is punching back ... because she's suing him. Alisa Hackett filed a federal lawsuit Monday against Trooper Moisses Arellano, claiming&hellip;",
+    "link": "https://www.nbcnews.com/select/shopping/pattern-beauty-heat-collection-launch-rcna592362",
+    "source": "NBC News",
+    "title": "Pattern Beauty just launched a new styling tool for natural hair \u2014 here\u2019s everything you should know",
+    "summary": "Pattern Beauty just launched a vibrating flat iron, along with two new hair care and styling products \u2014 and you can shop them starting today.",
     "byline_count": 1,
     "author_names": [
-      "TMZ Staff"
+      "Ashley Morris"
     ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:00:23+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/sport/gianni-infantino-fifa-uefa-skandal-mitarbeiterin-geldzahlung-li.3530189",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Fifa-Pr\u00e4sident Gianni Infantino: Sehr viel Geld f\u00fcr eine Mitarbeiterin",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/12/03fed91a-f9b1-40d8-80b5-4a59f44e4068.jpg?rect=856%2C177%2C2939%2C2204&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Ein anr\u00fcchiger TV-Vertrag, ein falsch verbuchter Flug \u2013 und nun Zahlungen an eine scheidende Mitarbeiterin: Schon wieder holt den Fifa-Pr\u00e4sidenten Gianni Infantino ein delikater Vorgang aus seiner Uefa-Zeit ein.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Johannes Aum\u00fcller",
-      "Thomas Kistner"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:05:17+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/12/perez-hilton-mother-files-for-custody-of-his-kids/",
-    "source": "TMZ",
-    "title": "Perez Hilton\u2019s Mom Files for Temporary Custody of His Three Kids After Self-Harming Incident",
-    "summary": "Perez Hilton's&nbsp;mom has filed for temporary custody of his three minor kids, TMZ can confirm. Teresita Lavandeira is asking to seal the records. In her filing, she says ... \"The children in this case should not be subjected to any further&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
+    "total_score": 1,
     "matched_categories": [
       "exclusivity"
     ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T13:01:55+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T18:18:53+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
-    "source": "Los Angeles Times",
-    "title": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
-    "summary": "<p>Latino men who cut artificial stone countertops in California are falling ill from an incurable and deadly lung disease at an alarming rate, a new study finds.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Karen Garcia",
-      "Clara Harter"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-geheimdienste-reform-verfassungsschutz-bnd-dobrindt-li.3530401",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Podcast: \u201eAuf den Punkt\u201c: Nachrichtendienste: Bekommt Deutschland eine Geheimpolizei?",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?rect=400%2C0%2C2400%2C1800&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Der Verfassungsschutz soll bald vorgehen d\u00fcrfen wie die Polizei. Aber es gibt rechtliche Bedenken.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Ronen Steinke",
-      "Leopold Zaak"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:09:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363817/hong-kong-college-finance-chief-wife-and-contractor-held-over-hk41m-theft?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Hong Kong college finance chief, wife and contractor held over HK$41m theft",
-    "summary": "The finance director of a private college in Hong Kong has been remanded in custody on suspicion of embezzling HK$41 million (US$5.2 million) over three years, with his wife and an engineering contractor also denied bail for allegedly handling the illicit proceeds.\nRay Yip Kam-chun, 49, appeared in Tuen Mun Court on Wednesday to face a count of theft for allegedly stealing from Hong Kong Chu Hai College in Tuen Mun between December 23, 2022, and January 7 this year.\nHis wife, Ng Ka-man, 49, and...",
-    "byline_count": 1,
-    "author_names": [
-      "Brian Wong"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T13:41:18+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scotusblog.com/2026/08/the-new-birthright-citizenship-battle/",
-    "source": "SCOTUSblog",
-    "title": "The new birthright citizenship battle",
-    "summary": "Plus, the court has scheduled seven cases for the November argument session.",
-    "byline_count": 2,
-    "author_names": [
-      "Kelsey Dallas",
-      "Nora Collins"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T13:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scotusblog.com/2026/08/scotus-has-issued-its-decisions-now-congress-has-the-floor/",
-    "source": "SCOTUSblog",
-    "title": "SCOTUS has issued its decisions. Now Congress has the floor.",
-    "summary": "",
-    "byline_count": 2,
-    "author_names": [
-      "James Valvo ",
-      "Cindy Crawford"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-02291-0",
-    "source": "Nature News",
-    "title": "No single rule explains how climate affects carbon storage in tropical forests",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02291-0\">doi:10.1038/d41586-026-02291-0</a></p>Ecologists have long wondered why some tropical forests store more carbon than others. A global satellite survey offers an explanation.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-02292-z",
-    "source": "Nature News",
-    "title": "Intraspecific variation in tropical trees can drive resistance to drought",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02292-z\">doi:10.1038/d41586-026-02292-z</a></p>Different tropical tree species can vary in their ability to withstand drought \u2014 and so too, it seems, can distinct populations of the same tree species.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-02290-1",
-    "source": "Nature News",
-    "title": "\u2018Little red dot\u2019 gets its colour from gas \u2014 not dust",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02290-1\">doi:10.1038/d41586-026-02290-1</a></p>Dust can tint the cosmos red, but a compact astronomical object is coloured by turbulent gas around a black hole.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10805-z",
-    "source": "Nature News",
-    "title": "Agentic profiles for effective AI governance",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10805-z\">doi:10.1038/s41586-026-10805-z</a></p>A framework comprising four dimensions\u2014autonomy, efficacy, goal complexity and generality\u2014is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10773-4",
-    "source": "Nature News",
-    "title": "Reply to: Pre-clinical data interpretation requires clinical context",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10773-4\">doi:10.1038/s41586-026-10773-4</a></p>Reply to: Pre-clinical data interpretation requires clinical context",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-02521-5",
-    "source": "Nature News",
-    "title": "The probiotic bacteria engineered to treat diabetes",
-    "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02521-5\">doi:10.1038/d41586-026-02521-5</a></p>Genetically modified bacteria lower high blood-sugar in animal trials \u2014 plus, how to watch a solar eclipse safely.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/12/sam-altman-goldman-sachs-openai/",
-    "source": "Fortune",
-    "title": "Sam Altman thinks working at Goldman Sachs \u2018sounds unbelievably terrible now\u2019 and admits he was \u2018peer pressured\u2019 into accepting an internship there",
-    "summary": "Two decades after his application to the bank, OpenAI is recruiting Wall Street veterans and teaching AI to do the work of junior bankers.",
-    "byline_count": 2,
-    "author_names": [
-      "Mia Osmonbekov",
-      "Catherina Gioino"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:50:47+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/12/norway-2-3-trillion-fund-posts-best-quarter-since-2020-2/",
-    "source": "Fortune",
-    "title": "Norway $2.3 trillion fund posts best quarter since 2020",
-    "summary": "The fund returned 11.5% in the second quarter\u2014the best result since 2020.",
-    "byline_count": 2,
-    "author_names": [
-      "Bloomberg",
-      "Heidi Taksdal Skjeseth"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:13:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-12/",
-    "source": "CBS News",
-    "title": "Watch Live: Lindsay Clancy jury hearing from mental health counselor",
-    "summary": "The jury in Lindsay Clancy's trial is hearing testimony from Latiesha Dukes, a mental health counselor who worked with Clancy.",
-    "byline_count": 2,
-    "author_names": [
-      "Matt  Schooley",
-      "Penny  Kmitt"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:46:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/video/instagram-owner-meta-accused-of-causing-social-media-addiction-in-children/",
-    "source": "CBS News",
-    "title": "Instagram owner Meta accused of causing social media addiction in children in massive lawsuit",
-    "summary": "Tech giant Meta is being accused of designing social media platforms that violate privacy and enable social media addiction in children. Jury selection in the trial begins today. CBS News legal contributor Jessica Levinson has more on the case.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:34:08+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
-    "source": "CNBC",
-    "title": "AI\u2019s costly build-out complicates the Fed\u2019s inflation fight",
-    "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed\u2019s job.",
-    "byline_count": 2,
-    "author_names": [
-      "Matt Peterson",
-      "Kate Rooney"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:23:12+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/trump-seeks-immediate-halt-to-judge-s-penalties-in-irs-case",
-    "source": "Bloomberg",
-    "title": "Trump Seeks Immediate Halt to Judge\u2019s Penalties in IRS Case",
-    "summary": "President Donald Trump has asked a federal appeals court to pause a judge\u2019s order imposing sanctions on him and his lawyers for how they handled his $10 billion lawsuit against the Internal Revenue Service while he appeals that ruling.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T13:54:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/12/stocks-making-the-biggest-moves-midday-wen-hrb-qnt-crwv-cava.html",
-    "source": "CNBC",
-    "title": "Stocks making the biggest moves midday: Wendy's, H&R Block, Quantinuum, CoreWeave, Cava & more",
-    "summary": "These are the stocks posting the largest moves midday.",
-    "byline_count": 2,
-    "author_names": [
-      "Sarah Min",
-      "Davis Giangiulio"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:06:12+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/12/trump-truth-social-lawsuit.html",
-    "source": "CNBC",
-    "title": "Trump sued over Truth Social advance access sale",
-    "summary": "The lawsuit, filed in U.S. District Court in Manhattan, notes that Trump's posts on his own social media site often move financial markets.",
-    "byline_count": 1,
-    "author_names": [
-      "Dan Mangan"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:25:58+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/12/bob-iger-joshua-kushner-buy-los-angeles-lakers-from-mark-walter.html",
-    "source": "CNBC",
-    "title": "Bob Iger, Joshua Kushner buy Los Angeles Lakers at a $12.5 billion valuation, source says",
-    "summary": "Venture capital founder Joshua Kushner and former Disney CEO Bob Iger acquire Mark Walter's stake in Los Angeles Lakers at valuation of more than $12 billion.",
-    "byline_count": 2,
-    "author_names": [
-      "Alex Sherman",
-      "Jessica Golden"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:31:38+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "PM warned of Iran war impact on UK growth next year",
-    "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
-    "byline_count": 2,
-    "author_names": [
-      "Jemma Crew",
-      "Joe Pike"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:17:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html",
-    "source": "CNBC",
-    "title": "Strait of Hormuz ship traffic near three-month low as U.S.-Iran deal in doubt",
-    "summary": "Traffic is about 90% lower than the daily average of 130 ships that transited Hormuz before the U.S. and Israel attacked Iran on Feb. 28.",
-    "byline_count": 2,
-    "author_names": [
-      "Spencer Kimball",
-      "Deena Zaidi"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:33:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-    "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-    "byline_count": 2,
-    "author_names": [
-      "Brandon Drenon ",
-      "Bernd Debusmann Jr "
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:34:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+    "link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
     "source": "The Verge",
-    "title": "Google aims for influencers with the Pixel 11 Creator Suite",
-    "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators record, organize, edit, and publish content faster and more [&#8230;]",
-    "byline_count": 2,
-    "author_names": [
-      "David Imel",
-      "Mia Sato"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/regulation/court-battles/6024836-human-rights-groups-sue-trump-icc-sanctions/",
-    "source": "The Hill",
-    "title": "Human rights groups sue Trump administration over ICC sanctions",
-    "summary": "Four human rights groups are suing the Trump administration over its economic pressure campaign against the International Criminal Court (ICC), arguing that sanctions against judges, prosecutors and others are unlawfully interfering with their international criminal justice work. The lawsuit was filed Tuesday in New York by the American Friends Service Committee, the Center for Constitutional&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:13:58+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/perplexity-thwarts-times-ads-for-ai-bots-experiment-2026-8",
-    "source": "Business Insider",
-    "title": "The dream of serving ads to AI agents has hit a snag",
-    "summary": "Perplexity said ads designed to influence AI bots are \"deceptive,\" in response to a recent experiment from the publisher Time.",
+    "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
+    "summary": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker, witchcraft-filled take on the Star Wars universe, with Grand Admiral [&#8230;]",
     "byline_count": 1,
     "author_names": [
-      "Lara O'Reilly"
+      "Terrence O'Brien"
     ],
-    "total_score": 2,
+    "total_score": 1,
     "matched_categories": [
-      "sourcing_depth"
+      "exclusivity"
     ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:11:25+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/anthropic-fable-5-openai-gpt-5-6-sol-ramp-2026-8",
-    "source": "Business Insider",
-    "title": "OpenAI finds a crack in Anthropic's business AI lead",
-    "summary": "Although OpenAI trails Anthropic in business adoption, it won a moneymaking battle in July with its most advanced model, GPT-5.6 Sol.",
-    "byline_count": 1,
-    "author_names": [
-      "Stephen Council"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:00:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
-    "source": "The Guardian US",
-    "title": "Canadian airline WestJet agrees to settle flight attendants\u2019 sexual harassment class action",
-    "summary": "<p>Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot</p><p>The Canadian airline WestJet has agreed to pay C$4.5m (\u00a32.4m) to settle a decade-long sexual harassment class action lawsuit levelled by its female flight attendants, who alleged the company failed to maintain a safe workplace.</p><p>The suit followed allegations by Mandalena Lewis, a former flight attendant, that a pilot had sexually assaulted her and a colleague, but that WestJet kept the pilot flying, thereby putting other employees at risk.</p> <a href=\"https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Olivia Bowden"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:40:36+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-15T20:13:47.125955+00:00",
+    "published_parsed": "2026-08-15T14:58:27+00:00",
+    "is_new": true
   },
   {
     "link": "https://variety.com/2026/tv/news/nate-bargatze-guinness-world-record-comedy-tour-tickets-sold-1236835016/",
@@ -8224,7 +7489,7 @@
     ],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T16:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/article/38-billion-twilio-ceo-wakes-at-430-a-m-works-sundays-and-runs-laps-around-his-house-between-meetings-to-blow-off-steam/",
@@ -8241,7 +7506,7 @@
     ],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T13:25:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/cbs-mornings-deals-081526/",
@@ -8256,7 +7521,7 @@
     ],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T15:46:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/tv-and-radio/2026/aug/15/little-bird-canadian-drama-first-nations-children-sixties-scoop-adoptions",
@@ -9706,174 +8971,6 @@
     ],
     "first_seen_at": "2026-08-12T20:35:23.411341+00:00",
     "published_parsed": "2026-08-12T19:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://variety.com/2026/film/news/boys-for-life-cast-alex-wolff-will-angus-almost-friday-movie-1236832629/",
-    "source": "Variety",
-    "title": "\u2018Boys for Life\u2019 Cast: Alex Wolff, Will Angus and More Almost Friday Stars to Lead Paramount Primal Comedy (EXCLUSIVE)",
-    "summary": "&#8220;Boys for Life,&#8221; the R-rated comedy movie from Tyler Falbo, has set its ensemble cast. Alex Wolff, Will Angus, Billy Langdon, Liam Cullagh, Chester Collins and Eilise Patton will star in the Paramount Primal film, which, as Variety broke in July, will open theatrically on April 9, 2027. Plot details are being kept under wraps, [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Ethan Shanfeld"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/scary-teacher-youtube-game-getting-movie-adaptation-1237031745/",
-    "source": "Deadline",
-    "title": "Viral Game \u2018Scary Teacher\u2019 Getting Movie Adaptation With Studio Vet Joe Roth Aboard",
-    "summary": "EXCLUSIVE: Hollywood vet Joe Roth, the former Fox and Disney chairman, and his producing partner Jeff Kirschenbaum, are partnering with writers Cory Todd Hughes and Adrian Speckert to develop a feature adaptation of digital horror game Scary Teacher. Based on the hit franchise created by Z &#38; K Games, Scary Teacher has billions of views [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Andreas Wiseman"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:15:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/sundance-run-amok-us-release-greenwich-entertainment-1237031733/",
-    "source": "Deadline",
-    "title": "Sundance Dark Comedy \u2018Run Amok\u2019 Gets North American Deal With Greenwich Entertainment",
-    "summary": "EXCLUSIVE: Greenwich Entertainment has acquired North American distribution rights to Sundance dramedy Run Amok, the feature directorial debut of NB Mager. The Tandem Pictures and Greenmachine production stars Alyssa Marvin, Margaret Cho, Sophia Torres, Elizabeth Marvel, Bill Camp, Yul Vazquez, Grace Reiter, Jim Kaplan, Nuha Jes, Pilot Bunch, Molly Ringwald, and Patrick Wilson. Greenwich plans [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Andreas Wiseman"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:40:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/wrestleher-docuseries-documentary-acquisition-1237031531/",
-    "source": "Deadline",
-    "title": "Documentary+ Pins Hopes On \u2018WrestleHer,\u2019 Nonfiction Platform\u2019s Biggest Series To Date",
-    "summary": "EXCLUSIVE: Documentary+ has acquired WrestleHer, a major nonfiction series on the rise of girls\u2019 high school wrestling, one of the fastest growing sports in the U.S. The 11-part series, produced by Substance, will premiere on Documentary+ and Allez! Sports on September 10, just as highschoolers around the country are returning to class for the fall [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Matthew Carey"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/son-of-a-critch-trailer-final-season-1237030955/",
-    "source": "Deadline",
-    "title": "\u2018Son Of A Critch\u2019: Trailer For Final Season Of Canadian Sitcom Sees Mark Having A Midlife Crisis At 17",
-    "summary": "EXCLUSIVE: &#8220;To be or not to be an actor. That is the question,&#8221; states an overly-dramatic Mark in the first trailer for the final run of Son of a Critch. Unfortunately, life isn&#8217;t going to make it easy, and he&#8217;s soon working as a giant hot dog mascot and, in his own words, &#8220;having a [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Jesse Whittock"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/neal-huff-gaby-hoffmann-paramount-plus-the-best-of-us-cast-1237031877/",
-    "source": "Deadline",
-    "title": "Neal Huff, Gaby Hoffmann & Sky Yang Join Paramount+\u2019s \u2018The Best Of Us,\u2019 Formerly \u20189/12\u2019",
-    "summary": "EXCLUSIVE: Neal Huff (Fallout, A Murder at the End of the World), Gaby Hoffmann (Transparent, Springsteen: Deliver Me from Nowhere), and Sky Yang (Last Days, Rebel Moon) will star in The Best of Us, the upcoming Paramount+ limited series from writers Tobias Lindholm and Frank Pugliese. The series was previously known as 9/12. The Best [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Rosy Cordero"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.twz.com/space/u-s-must-fuse-missile-warning-and-defense-to-defeat-future-threats-spacecom-deputy-commander",
-    "source": "The War Zone",
-    "title": "U.S. Must Fuse Missile Warning And Defense To Defeat Future Threats: SPACECOM Deputy Commander",
-    "summary": "<p>SPACECOM is working to dissolve traditional silos of operations and thinking in order to speed-up swatting-down increasingly complex missile threats.</p>\n<p>The post <a href=\"https://www.twz.com/space/u-s-must-fuse-missile-warning-and-defense-to-defeat-future-threats-spacecom-deputy-commander\">U.S. Must Fuse Missile Warning And Defense To Defeat Future Threats: SPACECOM Deputy Commander</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Howard Altman"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T16:37:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.carbonbrief.org/analysis-weaker-ev-targets-could-cost-uk-consumers-3bn-a-year-by-2030",
-    "source": "Carbon Brief",
-    "title": "Analysis: Weaker EV targets could cost UK consumers \u00a33bn a year by 2030",
-    "summary": "<p>An upcoming UK government consultation on weakening targets for electric vehicles (EVs) could cost consumers as much as \u00a33bn a&#8230;</p>\n<p>The post <a href=\"https://www.carbonbrief.org/analysis-weaker-ev-targets-could-cost-uk-consumers-3bn-a-year-by-2030\">Analysis: Weaker EV targets could cost UK consumers \u00a33bn a year by 2030</a> appeared first on <a href=\"https://www.carbonbrief.org\">Carbon Brief</a>.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Carbon Brief Staff"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:50:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/video/cbs-mornings-deals-081226/",
-    "source": "CBS News",
-    "title": "Exclusive discounts from CBS Mornings Deals",
-    "summary": "On this edition of CBS Mornings Deals, we show you items that will help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T15:03:31+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theinformation.com/articles/onlyfans-investor-says-company-will-never-use-ai-replace-creators",
-    "source": "The Information",
-    "title": "OnlyFans Investor Says Company Will \u2018Never\u2019 Use AI to Replace Creators",
-    "summary": "<p>Every AI executive I talk to these days wants to tell me what their models can now do. <b>James Sagan</b>, the low-profile investor who just bought 16% of <b>OnlyFans</b> at a $3 billion valuation, spent most of our interview telling me what his platform is betting AI can't do.</p><p>In a wide-ranging exclusive interview about the deal, and how he plans to evolve the company, I asked him the obvious question: Does AI disrupt OnlyFans? (You can see the full transcript of the interview <a href=\"https://www.theinformation.com/articles/onlyfans-new-investor-reveals-financials-ipo-ambitions-rare-interview\">here</a>. As a disclosure, my husband invested alongside Sagan in the deal.)</p><p>AI has been upending the pornography industry. AI-generated adult content has been flooding all sorts of services, including the <a href=\"https://www.theinformation.com/articles/xai-bets-groks-racy-side\">leading AI platforms</a>.&nbsp;</p><p>But Sagan doesn\u2019t see it as a threat to his new investment. He ",
-    "byline_count": 1,
-    "author_names": [
-      "Jessica Lessin"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
-    "published_parsed": "2026-08-12T14:01:27+00:00",
     "is_new": false
   }
 ]
