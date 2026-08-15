@@ -214,24 +214,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-12/inside-david-ellisons-desperate-fight-for-warner-bros",
-    "source": "Los Angeles Times",
-    "title": "Inside David Ellison's desperate fight for Warner Bros.",
-    "summary": "<p>Paramount's board has approved David Ellison's plan to move headquarters from Hollywood to save money.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Meg James"
-    ],
-    "total_score": 9,
-    "matched_categories": [
-      "primary_source",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:00+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.theinformation.com/articles/nvidia-nears-deal-guarantee-100-billion-financing-massive-data-center",
     "source": "The Information",
     "title": "Nvidia Nears Deal To Guarantee About $100 Billion In Financing For Massive Data Center",
@@ -452,6 +434,24 @@
     "is_new": false
   },
   {
+    "link": "https://fortune.com/2026/08/15/jane-street-loss-15-billion-situational-awareness-stake-ai-bets/",
+    "source": "Fortune",
+    "title": "Jane Street lost $15 billion in its first down month in a decade",
+    "summary": "Jane Street was rattled by Situational Awareness and the equity market turmoil.",
+    "byline_count": 4,
+    "author_names": [
+      "Katherine Doherty",
+      "Sridhar Natarajan",
+      "Laura Benitez",
+      "Bloomberg"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T14:59:53+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.theguardian.com/food/2026/aug/15/best-salad-recipes-lettuce-free-cyclospora",
     "source": "The Guardian US",
     "title": "10 delicious and safe summer salad recipes during cyclospora outbreak",
@@ -470,7 +470,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T12:00:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/lawsuit-alleges-sony-investigation-into-wpp-rebates-2026-8",
@@ -1291,40 +1291,21 @@
     "is_new": false
   },
   {
-    "link": "https://www.cbsnews.com/news/card-skimming-scam-crime-secret-service/",
-    "source": "CBS News",
-    "title": "How the Secret Service is cracking down on card-skimming scams",
-    "summary": "A Secret Service analyst told CBS News a single skimming device can net a scammer up to $1 million.",
-    "byline_count": 4,
-    "author_names": [
-      "Laura  Geller",
-      "Carter  Evans",
-      "Christian  Duran",
-      "Kerry  Breen"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T11:38:34+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.wired.com/story/femas-shadow-administrator-was-paid-by-a-doge-members-startup-for-months/",
-    "source": "Wired",
-    "title": "FEMA's \u2018Shadow Administrator\u2019 Was Paid by a DOGE Member's Startup for Months",
-    "summary": "Details from recent court filings show that DOGE's influence within government\u2014and potential conflicts of interest\u2014extend further than previously known.",
+    "link": "https://deadline.com/2026/08/bbc-subpoena-defamation-lawsuit-1237041495/",
+    "source": "Deadline",
+    "title": "BBC Seeks To Subpoena Ivanka Trump, Jared Kushner & Don Jr. In Defamation Lawsuit",
+    "summary": "The BBC is seeking to subpoena Donald Trump Jr, Ivanka Trump and Jared Kushner in its defense against a $10 billion defamation suit brought against the broadcaster by President Donald Trump. In court filings yesterday, the BBC alleges that Trump&#8217;s son Donald Jr., daughter Ivanka and son-in-law Kushner have &#8220;personal knowledge&#8221; of the president&#8217;s intentions [&#8230;]",
     "byline_count": 1,
     "author_names": [
-      "Vittoria Elliott"
+      "Greg Evans"
     ],
-    "total_score": 6,
+    "total_score": 5,
     "matched_categories": [
-      "primary_source",
-      "sourcing_depth"
+      "primary_source"
     ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:00+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T13:19:25+00:00",
+    "is_new": true
   },
   {
     "link": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/",
@@ -1518,22 +1499,56 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/08/12/john-gottis-grandson-carmine-agnello-gets-prison-time-shaved-off/",
+    "link": "https://www.tmz.com/2026/08/15/netflix-wants-tyra-banks-defamation-suit-dismissed/",
     "source": "TMZ",
-    "title": "John Gotti's Grandson Gets Prison Time Shaved Off Amid His Mom's Major Health Issues",
-    "summary": "John Gotti's grandson Carmine Agnello will have to spend just over a year behind bars as his mom, Victoria Gotti, desperately tries to find a kidney donor during his incarceration, TMZ has learned. The federal Bureau of Prisons says Carmine's&hellip;",
+    "title": "Netflix Asks Judge to Toss Tyra Banks' Defamation Lawsuit Over Docuseries",
+    "summary": "Netflix wants Tyra Banks' \"America's Next Top Model\" documentary defamation lawsuit off the runway for good -- officially asking a judge Friday to toss it. The filing, obtained by TMZ, basically laughs off the model's claims Netflix defamed her and&hellip;",
     "byline_count": 1,
     "author_names": [
       "TMZ Staff"
     ],
-    "total_score": 5,
+    "total_score": 4,
     "matched_categories": [
       "exclusivity",
       "primary_source"
     ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:50:14+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T15:04:32+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/15/trump-aircraft-carrier-asia-iran-george-washington-abraham-lincoln-china-aggression/",
+    "source": "Fortune",
+    "title": "Trump pulls last aircraft carrier in Asia to send to Mideast, and China \u2018is quite happy with U.S. distraction\u2019 as Beijing shows signs of aggression",
+    "summary": "The\u00a0USS George Washington\u00a0is departing the Pacific and expected to replace the\u00a0USS Abraham Lincoln\u00a0in the Middle East.",
+    "byline_count": 3,
+    "author_names": [
+      "Ben Finley",
+      "Didi Tang",
+      "The Associated Press"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T13:52:29+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/15/anthropic-revenue-q2-11-5-billion-ipo-investors/",
+    "source": "Fortune",
+    "title": "Anthropic revenue surges to over $11.5 billion in second quarter",
+    "summary": "Anthropic PBC is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago.",
+    "byline_count": 3,
+    "author_names": [
+      "Bailey Lipschultz",
+      "Rachel Metz",
+      "Bloomberg"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T14:52:55+00:00",
+    "is_new": true
   },
   {
     "link": "https://abcnews.com/International/2-dead-after-powerful-77-earthquake-strikes-off/story?id=135664681",
@@ -1550,7 +1565,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T11:52:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/phoenix-air-traffic-controller-2-american-airlines-flights-same-call-number-converge/",
@@ -2586,21 +2601,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.washingtonpost.com/investigations/2026/08/12/trump-administration-set-spend-least-900-million-white-house-construction/",
-    "source": "Washington Post",
-    "title": "Trump administration set to spend at least $900 million on White House construction",
-    "summary": "The price tag is much larger than what has been previously reported, according to a Post review of confidential contracts, and taxpayers would cover most of it.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 4,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:01+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
     "source": "CNBC",
     "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
@@ -3091,40 +3091,133 @@
     "is_new": false
   },
   {
-    "link": "https://deadline.com/2026/08/snapshot-thriller-sales-deal-edinburgh-frightfest-movie-1237031709/",
+    "link": "https://deadline.com/2026/08/2026-dorian-tv-awards-winners-list-heated-rivalry-hacks-1237033386/",
     "source": "Deadline",
-    "title": "Supernatural Thriller \u2018Snapshot\u2019 Gets Sales Deal Ahead Of Edinburgh & Frightfest Bows, Watch First Clip",
-    "summary": "EXCLUSIVE: UK-French sales firm Alief has acquired world sales rights to Joseph Archer&#8217;s supernatural thriller Snapshot ahead of the film\u2019s world premiere at the Edinburgh International Film Festival on August 15th and its berth at Frightfest London on August 31st. In Edinburgh, the Victorian thriller is one of the films vying for the Sean Connery [&#8230;]",
+    "title": "Dorian TV Awards 2026 Winners Include \u2018Heated Rivalry\u2019, \u2018Hacks\u2019 Final Season & More \u2014\u00a0Full List",
+    "summary": "The Gay and Lesbian Entertainment Critics Association (GALECA) has voted on another year of the best in LGBTQ television. On Saturday, GALECA announced the winners of the LGBTQ journalist organization&#8217;s 18th Dorian TV Awards, with shows like Heated Rivalry, Hacks, Pluribus and more taking some of the top honors. Rhea Seehorn, Jean Smart, Fran\u00e7ois Arnaud [&#8230;]",
     "byline_count": 2,
     "author_names": [
-      "Andreas Wiseman",
-      "Melanie Goodfellow"
+      "Erik Pedersen",
+      "Glenn Garner"
     ],
-    "total_score": 3,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T12:18:04+00:00",
-    "is_new": false
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T13:00:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.propublica.org/article/wayne-halfway-house-jason-crews-tennessee",
-    "source": "ProPublica",
-    "title": "\u201cThey\u2019re Putting Kids\u2019 Lives at Risk\u201d: How Abuse in a Tennessee Businessman\u2019s Juvenile Prisons Remained Under Wraps",
-    "summary": "<p>The post <a href=\"https://www.propublica.org/article/wayne-halfway-house-jason-crews-tennessee\">\u201cThey\u2019re Putting Kids\u2019 Lives at Risk\u201d: How Abuse in a Tennessee Businessman\u2019s Juvenile Prisons Remained Under Wraps</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "byline_count": 2,
+    "link": "https://www.latimes.com/california/story/2026-08-15/robert-carradine-family-lawsuit-suing-ucla-wrongful-death",
+    "source": "Los Angeles Times",
+    "title": "'Revenge of the Nerds' star Robert Carradine's family sues UCLA over his death",
+    "summary": "<p>The family of Robert Carradine has filed a lawsuit against UCLA for wrongful death, elder abuse and neglect following the \"Revenge of the Nerds\" actor's passing in February.</p>",
+    "byline_count": 1,
     "author_names": [
-      "Paige Pfleger",
-      "Aliyya Swaby"
+      "Carlos De Loera"
     ],
-    "total_score": 3,
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T15:03:10+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/15/bryan-kohberger-mental-health-evaluation/",
+    "source": "TMZ",
+    "title": "Inside the Psych Evaluation Diagnosing Bryan Kohberger with Autism, OCD, ADHD, More",
+    "summary": "Bryan Kohberger&nbsp;revealed he was diagnosed with several mental health disorders in 2025 ... and now, the neuropsychological evaluation has been unsealed, giving folks a closer look at his unusual characteristics -- plus four more potential&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
     "matched_categories": [
       "exclusivity"
     ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T09:00:00+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T13:21:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/british-columbia/wildfire-insurance-what-to-know-9.7305044?cmp=rss",
+    "source": "CBC News",
+    "title": "Homes across B.C. have been decimated by wildfires. Here's what to know about your insurance",
+    "summary": "<img alt=\"Trees are pictured on fire near homes due to the Bald Range wildfire in Summerland, British Columbia, on Saturday, Aug. 8, 2026.\" height=\"349\" src=\"https://i.cbc.ca/ais/574ac840-3abd-4d64-81d4-0a879a536caa,1786646671929/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C7996%2C4497%29%3BResize%3D%28620%29\" title=\"Trees are pictured on fire near homes due to the Bald Range wildfire in Summerland, British Columbia, on Saturday, Aug. 8, 2026.\" width=\"620\" /><p>Hundreds of structures have been lost to wildfires so far this year.  Experts say even those who are fully insured will face a long, complex process as they begin to rebuild.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Michelle Ghoussoub",
+      "Simon Little"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T13:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/15/trump-political-strategy-in-charge-everything-responsible-nothing/",
+    "source": "Fortune",
+    "title": "Trump embraces a political strategy of being in charge of everything but responsible for nothing when things go badly",
+    "summary": "His unwillingness to accept blame\u00a0sometimes leads him to deny that there are problems\u00a0at all.",
+    "byline_count": 2,
+    "author_names": [
+      "Will Weissert",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T14:01:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/15/nvidia-21-billion-spacex-stake-30-billion-intel-shares/",
+    "source": "Fortune",
+    "title": "Nvidia has $21 billion SpaceX stake, $30 billion in Intel shares",
+    "summary": "Nvidia also had stakes in Coherent Corp., Generate Biomedicines Inc., Nebius Group NV, Nokia Corp. and Synopsys Inc. as of June 30.",
+    "byline_count": 2,
+    "author_names": [
+      "Lynn Doan",
+      "Bloomberg"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T15:04:21+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/15/berkshire-hathaway-delta-alphabet-stakes-greg-abel-cash-pile-warren-buffett/",
+    "source": "Fortune",
+    "title": "Berkshire pads Delta, Alphabet stakes as Abel taps cash pile",
+    "summary": "The conglomerate continued to pare its stake in Bank of America Corp. and now owns 6.8% of the US lender\u2019s shares.",
+    "byline_count": 2,
+    "author_names": [
+      "Alexandre Rajbhandari",
+      "Bloomberg"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T15:09:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/administration/6031322-trump-accuses-national-trust-revealing-info-ballroom/",
+    "source": "The Hill",
+    "title": "Trump accuses nonprofit organization of revealing \u2018top military secrets\u2019 in ballroom case",
+    "summary": "President Trump issued fresh criticism on Friday evening toward the nonprofit organization suing his administration over the White House ballroom project, accusing the National Trust for Historic Preservation of revealing \u201cTop Military Secrets\u201d in their lawsuit.&#160; \u201cThese are the TREASONISTS that brought the suit against the Military Complex,\u201d the president wrote in a Truth Social&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T14:05:35+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-15/quick-hits-australia-vs-bangladesh-day-three-first-test/107037432",
@@ -3140,7 +3233,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T08:37:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://insideclimatenews.org/news/15082026/colorado-river-dam-expansion-climate-considerations/",
@@ -3157,7 +3250,7 @@
     ],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T09:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
@@ -3173,7 +3266,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T08:22:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/15/mckinsey-senior-partners-americas-growth-strategy-demands-a-health-reset/",
@@ -3189,7 +3282,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T09:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/blogs/in-the-know/6030541-katie-miller-podcast-maga-women-influence/",
@@ -3202,7 +3295,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T10:03:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
@@ -3218,7 +3311,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T10:25:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.vox.com/america-actually/499260/hasan-piker-francesca-hong-wisconsin-michigan-democratic-socialism-primaries",
@@ -3234,7 +3327,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T12:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/business/2026/aug/15/scotland-visitors-tourists-europe-heat-north-america-tartan-army",
@@ -3250,7 +3343,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T09:00:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/society/2026/aug/15/bbc-was-warned-of-authors-claim-to-possess-missing-clothes-of-child-victim",
@@ -3266,7 +3359,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T05:00:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/08/15/college-major-ai-skills-job-search",
@@ -3279,7 +3372,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-15T12:20:17.213866+00:00",
     "published_parsed": "2026-08-15T09:50:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-15/variety-bash-sa-outback-road-closures/107036610",
@@ -8117,197 +8210,53 @@
     "is_new": false
   },
   {
-    "link": "https://www.latimes.com/business/story/2026-08-12/senator-deeply-troubled-by-utility-threats",
-    "source": "Los Angeles Times",
-    "title": "Senator 'deeply troubled' by utility threats",
-    "summary": "<p>The chair of the California Senate's utilities committee said Tuesday he was \"deeply troubled\" by electric company executives' recent threats to take action to protect their shareholders if they don't get legislation in Sacramento to limit their wildfire liabilities.</p>",
+    "link": "https://variety.com/2026/tv/news/nate-bargatze-guinness-world-record-comedy-tour-tickets-sold-1236835016/",
+    "source": "Variety",
+    "title": "Nate Bargatze Sets Guinness World Record for Most Tickets Sold for a Stand-Up Comedy Tour (EXCLUSIVE)",
+    "summary": "Nate Bargatze and his &#8220;Big Dumb Eyes&#8221; just set a Guinness World Record. The Tennessee-born comedian has officially sold the most tickets for a stand-up comedy tour, surpassing the previously record held by Jeff Dunham. Bargatze will be presented with the Guinness World Record onstage at the Scotiabank Arena in Toronto on Saturday. Ahead of [&#8230;]",
     "byline_count": 1,
     "author_names": [
-      "Melody Petersen"
+      "Ethan Shanfeld"
     ],
-    "total_score": 2,
+    "total_score": 1,
     "matched_categories": [
-      "sourcing_depth"
+      "exclusivity"
     ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:00+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T16:00:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.latimes.com/business/story/2026-08-12/googles-sergey-brin-spent-102-million-fighting-california-wealth-tax",
-    "source": "Los Angeles Times",
-    "title": "Google co-founder Sergey Brin spending more than $100 million fighting California wealth tax",
-    "summary": "<p>Brin has been pouring money into Building a Better California, a group that's backing two measures that could nullify a proposed billionaire tax.</p>",
+    "link": "https://fortune.com/article/38-billion-twilio-ceo-wakes-at-430-a-m-works-sundays-and-runs-laps-around-his-house-between-meetings-to-blow-off-steam/",
+    "source": "Fortune",
+    "title": "$38 billion Twilio CEO wakes at 4:30 a.m., works Sundays, and runs laps around his house between meetings to blow off steam",
+    "summary": "EXCLUSIVE: Running a $38 billion company looks like 4:30 a.m. starts, working on Sundays and running laps around the house to blow off steam\u2014and Twilio\u2019s CEO says all his peers have similarly strict routines.",
     "byline_count": 1,
     "author_names": [
-      "Queenie Wong"
+      "Orianna Rosa Royle"
     ],
-    "total_score": 2,
+    "total_score": 1,
     "matched_categories": [
-      "sourcing_depth"
+      "exclusivity"
     ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:00+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T13:25:31+00:00",
+    "is_new": true
   },
   {
-    "link": "https://feeds.texastribune.org/link/16799/17415948/texas-trial-lawyers-gop-texans-for-lawsuit-reform-tort-civil-justice",
-    "source": "Texas Tribune",
-    "title": "Trial lawyers, once a force for Democrats, reclaim political clout in Texas GOP\u2019s MAGA wing",
-    "summary": "Texas plaintiffs\u2019 lawyers are bankrolling populist GOP insurgents. Tort reform groups like Texans for Lawsuit Reform are aghast. <img height=\"1\" src=\"https://feeds.texastribune.org/link/16799/17415948.gif\" width=\"1\" />",
+    "link": "https://www.cbsnews.com/video/cbs-mornings-deals-081526/",
+    "source": "CBS News",
+    "title": "Exclusive discounts from CBS Mornings Deals",
+    "summary": "On this edition of CBS Deals, we show you items that will help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.",
     "byline_count": 1,
-    "author_names": [
-      "Eleanor Klibanoff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/us/science-technology/article/3363810/who-chief-warns-trumps-vaccine-policy-overhaul-against-decades-evidence?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "WHO chief warns Trump\u2019s vaccine policy overhaul is against \u2018decades of evidence\u2019",
-    "summary": "The World Health Organization warned on Wednesday that President Donald Trump\u2019s bid to overhaul child vaccination in the United States went against \u201cdecades of evidence\u201d.\nTrump signed an order on Monday pushing for a rethink of school vaccine mandates and repeating calls for the measles, mumps, and rubella (MMR) vaccine to be separated into three separate shots.\nHis Health Secretary Robert F. Kennedy Jnr founded an anti-vaccine group and has long promoted a disproved link between the MMR shot...",
-    "byline_count": 1,
-    "author_names": [
-      "Agence France-Presse"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T12:10:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/12/stocks-making-the-biggest-moves-premarket-crwv-smic-cohr.html",
-    "source": "CNBC",
-    "title": "Stocks making the biggest moves premarket: CoreWeave, Super Micro Computer, Nebius, Cava & more",
-    "summary": "These are the stocks posting the largest moves premarket.",
-    "byline_count": 2,
-    "author_names": [
-      "Sarah Min",
-      "Davis Giangiulio"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T12:12:29+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
-    "source": "CNBC",
-    "title": "CoreWeave surges 18% in premarket after a 'cleaner quarter.' Here's what's happening",
-    "summary": "AI cloud giant CoreWeave jumped in premarket trading after reporting that its second-quarter revenue doubled on surging AI demand from hyperscalers.",
-    "byline_count": 2,
-    "author_names": [
-      "Sawdah Bhaimiya",
-      "Kai Nicol-Schwarz"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T11:22:47+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
-    "summary": "The new feature, starting from mid-September, will tell listeners if an artist is AI-generated.",
-    "byline_count": 2,
-    "author_names": [
-      "Naomi de Souza",
-      "Eleanor Doyle"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T12:09:48+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
-    "source": "Wired",
-    "title": "\u2018The Worst I\u2019ve Ever Seen\u2019: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
-    "summary": "Experts allege that two recent incidents in California show the extreme lengths that criminal organizations are willing to go to to steal servers and other gear meant for data centers.",
-    "byline_count": 2,
-    "author_names": [
-      "Paresh Dave",
-      "Aarian Marshall"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
-    "source": "The Hill",
-    "title": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-    "summary": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. &#160; President Trump on Monday doubled down on his attempt to overhaul the childhood vaccine schedule with an executive order aimed at reducing&#8230;",
-    "byline_count": 2,
     "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/nato-plan-drone-infested-battlefield-ai-flies-humans-decide-strikes-2026-8",
-    "source": "Business Insider",
-    "title": "NATO\u2019s plan for a battlefield swarming with drones: Let AI fly, but keep lethal decisions human",
-    "summary": "NATO is incorporating drones and artificial intelligence into a new defensive initiative aimed at fortifying its eastern flank.",
-    "byline_count": 2,
-    "author_names": [
-      "Jake Epstein",
-      "Luca-Marie Hoffmann"
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T11:30:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models",
-    "source": "The Guardian US",
-    "title": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders",
-    "summary": "<p>From space to telecommunications, the US has a long history of fostering technology for the public good. These AI models could be aligned to democratic values, not corporate profits</p><p>OpenAI, and then Anthropic, were each formed by AI developers who feared unrestrained corporate AI development \u2013 specifically, that companies like Google and Meta would steer the technology towards deleterious, maybe even catastrophically unsafe, outcomes for society. Their founders proclaimed that their new labs, uniquely, could be trusted to develop the technology in humanity\u2019s best interest. But each, in turn, were themselves co-opted by the same market incentives, themselves becoming corporate behemoths zealously guarding future investor value rather than the public interest.</p><p>It was only a few weeks ago, in June, when OpenAI and Anthropic each <a href=\"https://www.reuters.com/technology/openai-files-us-ipo-after-anthropic-ai-giants-head-public-markets-2026-06-08/\">filed</a> for their IPOs",
-    "byline_count": 2,
-    "author_names": [
-      "Bruce Schneier",
-      "Nathan E Sanders"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theatlantic.com/international/2026/08/afghanistan-withdrawal-taliban-terrorism/688251/?utm_source=feed",
-    "source": "The Atlantic",
-    "title": "A Silver Lining in Afghanistan",
-    "summary": "Five years after the U.S. withdrawal, al-Qaeda remains weak and the Taliban has become an unexpected partner.",
-    "byline_count": 2,
-    "author_names": [
-      "Tricia Bacon",
-      "Daniel Byman"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T11:30:00+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
+    "published_parsed": "2026-08-15T15:46:13+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.theguardian.com/tv-and-radio/2026/aug/15/little-bird-canadian-drama-first-nations-children-sixties-scoop-adoptions",
@@ -9925,210 +9874,6 @@
     ],
     "first_seen_at": "2026-08-12T16:49:23.969804+00:00",
     "published_parsed": "2026-08-12T14:01:27+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://variety.com/2026/film/festivals/zarrar-kahn-lion-does-not-concern-himself-toronto-trailer-1236832800/",
-    "source": "Variety",
-    "title": "\u2018In Flames\u2019 Director Zarrar Kahn Returns to Toronto With Gym-Incel Rom-Com \u2018The Lion Does Not Concern Himself,\u2019 Trailer Unveiled (EXCLUSIVE)",
-    "summary": "Zarrar Kahn, whose debut feature &#8220;In Flames&#8221; premiered at Cannes and later played Toronto, is returning to the festival&#8217;s Short Cuts strand with romantic comedy &#8220;The Lion Does Not Concern Himself.&#8221; A trailer has been unveiled. The film follows a likeable gym coach who has convinced himself that his identity as a toxic podcaster is [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Naman Ramachandran"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T09:18:45+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/seedance-blocking-hollywood-ripoff-cruise-pitt-ai-deepfakes-1237031665/",
-    "source": "Deadline",
-    "title": "After Chaos Of Cruise Vs Pitt AI Deepfakes, Seedance 2.5 Is Now Blocking Hollywood Rip-Offs",
-    "summary": "EXCLUSIVE: ByteDance&#8217;s new AI video generator Seedance 2.5 is successfully blocking efforts to steal Hollywood intellectual property after Seedance 2.0 prompted outrage among U.S. studios, research has revealed. The Chinese owner of TikTok appears to have made good on its promise to improve safeguards after Seedance 2.0 produced a flurry of videos that regurgitated copyrighted [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Jake Kanter"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:18:13+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://variety.com/2026/film/global/shirley-cruz-clara-ferrer-taina-bevilacqua-the-she-devil-1236832820/",
-    "source": "Variety",
-    "title": "\u2018The Best Mother in the World\u2019 Standout Shirley Cruz to Star in Clara Ferrer and Tain\u00e1 Bevilacqua\u2019s Trans Coming-of-Age \u2018The She-Devil\u2019 (EXCLUSIVE)",
-    "summary": "Shirley Cruz, who delivered an acclaimed central performance in Anna Muylaert\u2019s 2025 Berlinale drama \u201cThe Best Mother in the World,\u201d is set to star in Clara Ferrer and Tain\u00e1 Bevilacqua\u2019s \u201cThe She-Devil.\u201d&#160; \u201cThe She-Devil\u201d is currently in development, with a short film taking place in the same universe, titled \u201cThe Death of the She-Devil,\u201d currently [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Rafa Sales Ross"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T11:33:31+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/bill-moseley-sean-gunn-horror-cotton-eye-joe-1237031721/",
-    "source": "Deadline",
-    "title": "Bill Moseley & Sean Gunn Underway On Horror \u2018Cotton Eye Joe\u2019, SC Films Launching Sales Ahead Of TIFF",
-    "summary": "EXCLUSIVE: SC Films is launching worldwide sales at the upcoming TIFF market on action-horror Cotton Eye Joe, which began shoot this week in Illinois. Starring are genre vets Bill Moseley (The Texas Chainsaw Massacre 2) and Sean Gunn (Guardians of the Galaxy) with Cassidy Terracian, Brian Dole, Eloise Lola Gordan and Moses Jones. Pic is [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Andreas Wiseman"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T12:45:07+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://documentedny.com/2026/08/12/low-cost-eye-care-nyc/",
-    "source": "Documented",
-    "title": "How to Find an Affordable Eye Doctor in NYC",
-    "summary": "<p>Even if you don&#8217;t wear glasses or have vision problems, you should get your eyes checked. According to the American Academy of Ophthalmology, adults under 40 with good vision and eye health should get a complete exam every 5 to 10 years. Depending on your insurance or immigration status, you might not know where to [&#8230;]</p>\n<p>The post <a href=\"https://documentedny.com/2026/08/12/low-cost-eye-care-nyc/\">How to Find an Affordable Eye Doctor in NYC</a> appeared first on <a href=\"https://documentedny.com\">Documented</a>.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Denia P\u00e9rez"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T09:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://documentedny.com/2026/08/12/queens-koreatown-soondae/",
-    "source": "Documented",
-    "title": "In Queens, a Tiny Korean Sausage Spot Has People Lining Up for Links",
-    "summary": "<p>Yanghan Choe's new restaurant, Tamra Soondae, has achieved rapid success in Queens' Koreatown by offering authentic varieties of traditional Korean blood sausage.</p>\n<p>The post <a href=\"https://documentedny.com/2026/08/12/queens-koreatown-soondae/\">In Queens, a Tiny Korean Sausage Spot Has People Lining Up for Links</a> appeared first on <a href=\"https://documentedny.com\">Documented</a>.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Caroline Shin"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://documentedny.com/2026/08/12/ice-arrests-families-poverty/",
-    "source": "Documented",
-    "title": "Immigration News Today: ICE Arrests Push Families Into Poverty",
-    "summary": "<p>Plus: Decade-long study finds no link between unauthorized immigration and crime rates, and more immigration news.</p>\n<p>The post <a href=\"https://documentedny.com/2026/08/12/ice-arrests-families-poverty/\">Immigration News Today: ICE Arrests Push Families Into Poverty</a> appeared first on <a href=\"https://documentedny.com\">Documented</a>.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Julia Malleck"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-    "source": "Wired",
-    "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-    "summary": "Last week, an AI newsroom beat mainstream journalists\u2014including WIRED\u2014to a story about OpenAI and hacking. It\u2019s just the beginning.",
-    "byline_count": 1,
-    "author_names": [
-      "Kate Knibbs"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.wired.com/story/honor-robot-phone/",
-    "source": "Wired",
-    "title": "Honor\u2019s Robot Phone Has a Gimbal-Powered Camera for Vloggers",
-    "summary": "Honor\u2019s new China-exclusive Android phone features a pop-out motorized gimbal camera designed to replace your action cam.",
-    "byline_count": 1,
-    "author_names": [
-      "Julian Chokkattu"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T12:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/elon-musk-grok-trained-on-spacex-employee-data-2026-8",
-    "source": "Business Insider",
-    "title": "Elon Musk tells staff Grok will be trained on all of SpaceX's data: 'It will inherit your thoughts and ideas'",
-    "summary": "SpaceX has become the latest tech giant to target employee data in the race to improve its AI models.",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Carter"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T11:15:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.propublica.org/article/general-dynamics-artillery-factory-failed",
-    "source": "ProPublica",
-    "title": "Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing",
-    "summary": "<p>The post <a href=\"https://www.propublica.org/article/general-dynamics-artillery-factory-failed\">Fiasco in the Factory: Taxpayers Funded a $533 Million Artillery Plant That Made Nothing</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Jesse Coburn"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/football/2026/aug/12/manchester-city-chelsea-enzo-fernandez",
-    "source": "The Guardian US",
-    "title": "Barcelona make improved \u00a351m bid for Rodri as Manchester City target Fern\u00e1ndez",
-    "summary": "<ul><li><p>Latest offer close to City\u2019s valuation for Spain midfielder</p></li><li><p>Chelsea\u2019s \u00a3120m price for Fern\u00e1ndez may be too high</p></li></ul><p>Barcelona have made an improved bid to Manchester City of around \u20ac60m (\u00a351m) for Rodri. This follows Bar\u00e7a\u2019s initial offer of \u20ac45m that was rejected out of hand by City.</p><p>The Spanish club\u2019s new offer \u2013 which may include add-ons \u2013 is close to City\u2019s valuation for the 30-year-old who captained Spain to the World Cup and <a href=\"https://www.theguardian.com/football/2024/oct/28/rodri-and-bonmati-scoop-ballons-dor-as-real-madrid-boycott-big-awards-night\">won the Ballon d\u2019Or in 2024</a>.</p> <a href=\"https://www.theguardian.com/football/2026/aug/12/manchester-city-chelsea-enzo-fernandez\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Jamie Jackson"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-12T12:47:51.842969+00:00",
-    "published_parsed": "2026-08-12T10:57:58+00:00",
     "is_new": false
   }
 ]
