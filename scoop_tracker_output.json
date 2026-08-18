@@ -14,7 +14,7 @@
     ],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T03:39:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/17/hayden-panettieres-boyfriend-brian-hickerson-domestic-violence-case-motions-denied/",
@@ -32,7 +32,7 @@
     ],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T03:08:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/17/baby-gabriel-biological-parents-choose-heart-surgery-to-save-him/",
@@ -125,6 +125,76 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-08-18/space-x-rocket-operation-christmas-island/107051288",
+    "source": "ABC Australia",
+    "title": "Breaking: SpaceX rocket towed towards Christmas Island after ocean landing",
+    "summary": "A SpaceX rocket is being towed off Christmas Island after landing in the Indian Ocean in an unusual spectacle for locals.",
+    "byline_count": 4,
+    "author_names": [
+      "Mikki Cusack",
+      "Blake Kagi",
+      "Joshua Cahill",
+      "Kenith Png"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T07:52:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/sports/nba/buss-family-votes-sell-final-lakers-stake-iger-kushner-rcna593012",
+    "source": "NBC News",
+    "title": "Lakers controlling owner Jeanie Buss hasn\u2019t agreed to sell share of team, lawyer says",
+    "summary": "Her lawyer also accused Joey and Jesse Buss of leaking \u201cfalse, defamatory and pernicious \u2018information.\u2019\u201d",
+    "byline_count": 1,
+    "author_names": [
+      "Steve Kopack"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-17T20:57:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states",
+    "source": "The Guardian US",
+    "title": "US states take on Meta in pivotal trial over child social media addiction claims",
+    "summary": "<p>State attorneys general allege that tech company intentionally designed addictive products that harm young people</p><p>More than half of the states in the US have joined together in an unprecedented lawsuit against <a href=\"https://www.theguardian.com/technology/meta\">Meta</a> that goes to trial on Tuesday, accusing the parent company of Instagram and Facebook of deliberately designing addictive products that lured in young people and caused them harm.</p><p>The jury trial is taking place in federal court in Oakland, <a href=\"https://www.theguardian.com/us-news/california\">California</a>, and is expected to last between six and eight weeks. The jury is expected to hear from Meta CEO <a href=\"https://www.theguardian.com/technology/mark-zuckerberg\">Mark Zuckerberg</a>, Instagram CEO Adam Mosseri and employee turned whistleblower <a href=\"https://www.theguardian.com/technology/2024/jan/24/meta-has-not-done-enough-to-safeguard-children-whistleblower-says\">Arturo B\u00e9jar</a>.</p> <a href=",
+    "byline_count": 1,
+    "author_names": [
+      "Dara Kerr"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T07:00:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/science/audio/2026/aug/18/ultra-rich-collecting-fossils-bad-for-science-podcast",
+    "source": "The Guardian US",
+    "title": "The ultra rich are collecting fossils, and that\u2019s bad for science \u2013 podcast",
+    "summary": "<p>One of the UK\u2019s best fossil collections has been sold overseas in what experts have called a loss to the nation. The collection, which is now on display at the Natural History Museum in Abu Dhabi, was gathered on Dorset\u2019s Jurassic Coast. As dinosaur fossils sell to private collectors for increasingly large sums, scientists are worried that domestic museums are being priced out of the market, and in turn scientists are missing out on the opportunity to make new observations. To find out how fossils became big business and what it could mean for research, Madeleine Finlay hears from science correspondent Nicola Davis</p><p><strong><a href=\"https://www.theguardian.com/science/ng-interactive/2026/aug/09/one-of-uks-best-fossil-collections-sold-overseas-in-loss-to-the-nation\">One of UK\u2019s best fossil collections sold overseas in \u2018loss to the nation\u2019</a></strong></p><p>Support the Guardian: <a href=\"http://theguardian.com/sciencepod\">theguardian.com/sciencepod</a></p> <a href=\"https://www.t",
+    "byline_count": 4,
+    "author_names": [
+      "Madeleine Finlay",
+      "Nicola Davis",
+      "Joel Cox",
+      "Ellie Bury"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T04:00:15+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.businessinsider.com/stripe-is-finalizing-8b-openrouter-purchase-investors-could-gain-2026-8",
     "source": "Business Insider",
     "title": "Andreessen Horowitz could make close to $1.5 billion from OpenRouter's potential sale to Stripe",
@@ -139,7 +209,7 @@
     ],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T02:55:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/17/andrew-gillum-enters-rehab-under-court-order/",
@@ -556,6 +626,40 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/politics/immigration/san-diego-padres-oswaldo-pirela-detained-ice-rcna593055",
+    "source": "NBC News",
+    "title": "San Diego Padres catching coordinator Oswaldo Pirela detained by ICE in Texas",
+    "summary": "San Diego Padres catching coordinator Oswaldo Jos\u00e9 Pirela was detained by immigration authorities in El Paso, Texas, and remained in custody, according to family and ICE detainee records.",
+    "byline_count": 3,
+    "author_names": [
+      "Dennis Romero",
+      "Izzy Alvarez",
+      "Jean Lee"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T06:59:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/Politics/hateful-leaders-parties-slam-house-candidate-dan-bilzerians/story?id=135715306",
+    "source": "ABC News",
+    "title": "'Hateful': Both parties slam House candidate Dan Bilzerian's antisemitic attacks",
+    "summary": "Elected officials from both sides of the aisle have taken to social media to denounce antisemitic postings from Florida congressional candidate Dan Bilzerian.",
+    "byline_count": 3,
+    "author_names": [
+      "Lauren Peller",
+      "Emily Chang",
+      "Hannah Demissie"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-17T21:34:44+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://pagesix.com/2026/08/17/celebrity-news/hayden-panettieres-boyfriend-brian-hickerson-dealt-legal-blow-in-domestic-abuse-case-days-before-her-death/",
     "source": "Page Six",
     "title": "Hayden Panettiere\u2019s boyfriend Brian Hickerson dealt legal blow in domestic abuse case days before her death",
@@ -570,7 +674,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T01:49:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-18/the-taboo-experience-of-motherhood-regret/107004982",
@@ -587,7 +691,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T02:04:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-17/ucla-closing-infant-toddler-child-care-daycare-centers-krieger-university-village",
@@ -1444,6 +1548,164 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-08-18/pork-industry-money-laundering-food-risk/107048950",
+    "source": "ABC Australia",
+    "title": "Pork industry fraud case raises questions about money laundering risk",
+    "summary": "A financial crimes expert says the revelation of large-scale fraud connected to the pork industry raises new questions about the risk of money laundering in food production.",
+    "byline_count": 2,
+    "author_names": [
+      "Megan Hughes",
+      "Kallee Buchanan"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T05:54:24+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/politik/thueringen-bsw-landesregierung-wagenknecht-li.3532593",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Th\u00fcringen: BSW bleibt gegen Wagenknechts Willen in der Landesregierung\u00a0\u2013 Sonderparteitag",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/17/fcdce2fb-6d1c-4adb-91ab-a29a60d5ce09.jpg?rect=0%2C0%2C3555%2C2666&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die Brombeer-Koalition in Th\u00fcringen h\u00e4lt, die BSW-Fraktion hat f\u00fcr den Verbleib im B\u00fcndnis gestimmt. Der Streit zwischen dem Landesverband und der Parteigr\u00fcnderin droht zu eskalieren.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Tim Frehler",
+      "Valerie H\u00f6hne"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-17T19:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-18/marking-60-years-since-the-vietnam-war-battle-of-long-tan/107048958",
+    "source": "ABC Australia",
+    "title": "Veterans gather to mark 60 years since the Battle of Long Tan",
+    "summary": "The battle was fought in a rubber plantation called Long Tan and was one of the most significant engagements fought by Australians during the war, but many still feel like they are still not recognised 60 years on.",
+    "byline_count": 2,
+    "author_names": [
+      "Niki Burnside",
+      "Caitlin Maloney"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T06:01:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/business/tariff-deadline-small-businesses-brace-9.7310021?cmp=rss",
+    "source": "CBC News",
+    "title": "\u2018Owners are afraid\u2019: New tariffs could cut sales in half for some Canadian businesses",
+    "summary": "<img alt=\"A jeweler sitting in her home office, partaking in a zoom interview with CBC.\" height=\"349\" src=\"https://i.cbc.ca/ais/cc0dd706-b195-48c0-ad38-6a7215179b88,1786999723432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29\" title=\"\" width=\"620\" /><p></p>",
+    "byline_count": 2,
+    "author_names": [
+      "Jeff Lagerquist",
+      "Abby Hughes"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-12T19:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3364393/china-led-sco-counterweight-west?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "China-led SCO, a counterweight to the West",
+    "summary": "\u2013",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T07:00:13+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/neko-health-body-scanner-announces-us-launch-2026-8",
+    "source": "Business Insider",
+    "title": "The $500 longevity body scanner from Spotify's cofounder is coming to the US",
+    "summary": "The $500 Neko Health scan is geared towards health-conscious consumers and longevity biohackers looking to collect their own data.",
+    "byline_count": 1,
+    "author_names": [
+      "Hilary Brueck"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T07:00:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "China censors public mourning as it holds former premier's funeral",
+    "summary": "While hailing Zhu\u2019s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi\u2019s rule.",
+    "byline_count": 2,
+    "author_names": [
+      "Laura Bicker",
+      "Koh Ewe"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T07:17:07+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/Business/wireStory/us-canada-hold-minute-talks-stop-50-us-135728041",
+    "source": "ABC News",
+    "title": "US, Canada hold last-minute talks to stop 50% U.S. tariffs",
+    "summary": "Tension between Washington and Ottawa is already high, stoked by trade disputes and President Donald Trump's inflammatory comments about making Canada the 51st U.S. state",
+    "byline_count": 2,
+    "author_names": [
+      "PAUL WISEMAN Associated Press",
+      "ROB GILLIES Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T06:27:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
+    "summary": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
+    "byline_count": 2,
+    "author_names": [
+      "BBC Sinhala",
+      "Koh Ewe"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T06:53:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+    "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+    "byline_count": 2,
+    "author_names": [
+      "Anna Collinson",
+      "Jo Adnitt"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T08:07:37+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/08/17/santos-salazar-released-from-jail/",
     "source": "TMZ",
     "title": "Influencer Santos Salazar Released From Jail After Attempted Murder Arrest",
@@ -1458,7 +1720,7 @@
     ],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T02:05:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-18/fadi-haddara-shooting-tobacco-underworld-violence/107046822",
@@ -1474,7 +1736,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T03:36:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-18/shane-hryhorec-disability-advocate-removed-from-virgin-flight/107049174",
@@ -1490,7 +1752,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T03:34:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-18/peter-malinauskas-domestic-violence-royal-commission-plan/107050350",
@@ -1506,7 +1768,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T04:23:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Business/wireStory/shakira-makes-surprise-visit-earthquake-damaged-colombia-commits-135726206",
@@ -1522,7 +1784,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T02:47:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/abby-phillip-cnn-contract-1237043487/",
@@ -4431,85 +4693,38 @@
     "is_new": false
   },
   {
-    "link": "https://www.abc.net.au/news/2026-08-15/variety-bash-sa-outback-road-closures/107036610",
-    "source": "ABC Australia",
-    "title": "Charity drive charges on despite boggy conditions",
-    "summary": "Torrential rains and flooded roads did not stop more than 70 cars from taking part in this year's Variety Bash, even if major route alterations were needed.",
-    "byline_count": 2,
-    "author_names": [
-      "Luke Lay",
-      "Jodie Hamilton"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-15T08:17:53.627055+00:00",
-    "published_parsed": "2026-08-15T07:56:28+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/15/davine-joy-randolph-sues-landlord-over-rental-home/",
-    "source": "TMZ",
-    "title": "Da'Vine Joy Randolph Sues Landlord Over Alleged $17K a Month Rental From Hell",
-    "summary": "Da\u2019Vine Joy Randolph is dragging her landlord to court \u2026 claiming she rented a luxury home for $17K a month \u2026 only to have to deal with pests and plumbing issues ... TMZ has learned. The Oscar-winning actress is suing a leasing company, 421&hellip;",
+    "link": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/",
+    "source": "Variety",
+    "title": "Sundance Breakout \u2018Thelma\u2019 Set for Mandarin Remake by Stars Collective, Titled \u2018Grandma, Please\u2019 (EXCLUSIVE)",
+    "summary": "Stars Collective has acquired the Mandarin-language remake rights to &#8220;Thelma,&#8221; the 2024 Sundance Film Festival breakout that became Magnolia Pictures&#8217; highest-grossing narrative feature, and is developing an adaptation titled &#8220;Grandma, Please.&#8221; In &#8220;Grandma, Please,&#8221; an 80-year-old grandmother is swindled out of her life savings by a scammer who uses AI to clone her late husband&#8217;s [&#8230;]",
     "byline_count": 1,
     "author_names": [
-      "TMZ Staff"
+      "Naman Ramachandran"
     ],
-    "total_score": 2,
+    "total_score": 1,
     "matched_categories": [
       "exclusivity"
     ],
-    "first_seen_at": "2026-08-15T08:17:53.627055+00:00",
-    "published_parsed": "2026-08-15T08:00:09+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T08:11:15+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/christopher-berry-dee-bestselling-true-crime-author-investigation",
-    "source": "The Guardian US",
-    "title": "Christopher Berry-Dee is the UK\u2019s all-time bestselling true crime author. Is he also a violent abuser of women and children?",
-    "summary": "<p>The British writer is known for his unique ability to get inside the heads of serial killers. But a Guardian investigation reveals multiple accusations of assault and child sexual abuse. What is the truth about the man described by his own daughter as \u2018absolute evil\u2019?</p><p><em>Warning: this article contains descriptions of sexual abuse and violence</em></p><p>From the outside, it looked like the sort of happy family home a child might draw. Red brick, surrounded by rolling countryside, in Curdridge, near Winchester. Here lived the true crime writer Christopher Berry-Dee, with his second wife, Tracey Dee, and their two young daughters, Zoe and Sasha, in the early 1990s. Inside, it was a house of horrors, full of murder memorabilia. In a wardrobe were the clothes a nine-year-old girl had been murdered in. One afternoon, Zoe was playing when she found them. The now 38-year-old council worker from Romsey says she remembers \u201cputting it all on \u2026 going downstairs and everyone being absolu",
-    "byline_count": 2,
+    "link": "https://deadline.com/2026/08/jon-ronson-things-fell-apart-returns-season-3-bbc-1237042799/",
+    "source": "Deadline",
+    "title": "Jon Ronson Culture Wars Series \u2018Things Fell Apart\u2019 Returns For Third Season On BBC \u2013 This Time Exploring David Vs. Goliath Stories",
+    "summary": "EXCLUSIVE: Jon Ronson&#8217;s audio series Things Fell Apart is returning for a third season next year. The new season, the show&#8217;s first in three years, will follow the British-American gonzo journalist as he explores eight stories of outsiders fighting powerful institutions. Per the synopsis, it will include &#8220;all too\u00a0human stories\u00a0about the moment one person decides [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Lucy Osborne",
-      "Sirin Kale"
+      "Jesse Whittock"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-15T08:17:53.627055+00:00",
-    "published_parsed": "2026-08-15T05:00:49+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c204de2jjxzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Peter James returns to Sussex with his 57 animals",
-    "summary": "The Brighton-born Roy Grace author moves to a new home in Pulborough in West Sussex.",
-    "byline_count": 2,
-    "author_names": [
-      "Danny Pike",
-      "Jacob Panons"
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-15T08:17:53.627055+00:00",
-    "published_parsed": "2026-08-11T05:00:32+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/global-development/2026/aug/15/five-years-taliban-rule-afghanistan-collapse-visualised",
-    "source": "The Guardian US",
-    "title": "Five years into Taliban rule, Afghanistan plunges into a state of collapse \u2013 visualised",
-    "summary": "<p>The stark figures show that since the hardliners seized power in 2021, women have been erased from public life, poverty is forcing hopeless families to marry off their daughters and healthcare is on the brink of failure</p><p>\u2018I married off my daughter so that none of us would die of hunger.\u201d Malika hesitated before saying the words aloud. The 46-year-old lives with her husband and four youngest children (three girls and a boy) in Chihil Dukhtar\u0101n, one of Kabul\u2019s poorest neighbourhoods.</p><p>Poverty pushed the family to the brink before Malika and her husband made what they describe as the hardest decision of their lives: marrying off their eldest daughter, Maryam, for 200,000 afghanis (\u00a32,270). She was still a teenager.</p> <a href=\"https://www.theguardian.com/global-development/2026/aug/15/five-years-taliban-rule-afghanistan-collapse-visualised\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Ana Luc\u00eda Gonz\u00e1lez Paz",
-      "Harriet Barber"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-15T08:17:53.627055+00:00",
-    "published_parsed": "2026-08-15T06:00:49+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
+    "published_parsed": "2026-08-18T08:00:00+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.latimes.com/sports/dodgers/story/2026-08-17/shohei-ohtani-homers-twice-dodgers-win-rockies",
@@ -4526,7 +4741,7 @@
     ],
     "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
     "published_parsed": "2026-08-18T03:44:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/hulu-prison-break-reboot-series-cast-sam-trammell-chris-coy-1237043324/",
@@ -5289,23 +5504,6 @@
     ],
     "first_seen_at": "2026-08-15T16:14:52.388867+00:00",
     "published_parsed": "2026-08-15T15:46:13+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/tv-and-radio/2026/aug/15/little-bird-canadian-drama-first-nations-children-sixties-scoop-adoptions",
-    "source": "The Guardian US",
-    "title": "Little Bird: this beautiful, moving Canadian drama will fill you with visceral anger",
-    "summary": "<p>There is dignity and tenderness to this drama based on the real story of the Sixties Scoop \u2013 the scandal of First Nations children who were forcibly taken from their parents and adopted by white families</p><p>Here\u2019s one you\u2019ll like: a man comes home to find his wife handcuffed to the wall and his young children missing. They have been taken by child protection services due to the lack of a fridge in the house, which is treated as a sign of neglect. When he confronts law enforcement officials outside, they beat him to death. Decades later, one of the children, now adopted into a Jewish home in Montreal, goes looking for the family she lost, risking the collapse of her new life to do so. I never said it was a joke. Although it turns out there was a fridge, behind the house.</p><p>Watching Little Bird (18 August, 9pm, Sky Atlantic), I was reminded that TV is capable of more than mere entertainment, something we lose sight of when we think of it as a purely profit-or loss-making enterp",
-    "byline_count": 1,
-    "author_names": [
-      "Rhik Samadder"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-15T08:17:53.627055+00:00",
-    "published_parsed": "2026-08-15T06:00:51+00:00",
     "is_new": false
   }
 ]
