@@ -17,7 +17,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:30:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/media/ng-interactive/2026/aug/19/brendan-carr-fcc-white-house-exclusive",
@@ -36,7 +36,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:00:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/18/mckenna-west-surrogacy-company-rejects-her-claims-of-threats/",
@@ -253,6 +253,301 @@
     "is_new": false
   },
   {
+    "link": "https://www.nature.com/articles/s41586-026-10934-5",
+    "source": "Nature News",
+    "title": "Pervasive phosphorylation by phage T7 kinase disarms bacterial defences",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10934-5\">doi:10.1038/s41586-026-10934-5</a></p>The T7 bacteriophage deactivates bacterial defence systems through T7K phosphorylation of nearly all host and phage proteins during infection.",
+    "byline_count": 15,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10894-w",
+    "source": "Nature News",
+    "title": "Discovery of a star sensitive to the spin of Sagittarius A*",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10894-w\">doi:10.1038/s41586-026-10894-w</a></p>The discovery of the fast-orbiting star S301 near Sagittarius A* offers a promising new probe of the central black hole spin of the Milky Way through relativistic orbit measurements.",
+    "byline_count": 93,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10687-1",
+    "source": "Nature News",
+    "title": "Safety and security of large language models in healthcare",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10687-1\">doi:10.1038/s41586-026-10687-1</a></p>The Review examines rapid LLM adoption in clinical care, outlining emerging security and safety risks across development stages, key protective layers, clinically relevant threats and current mitigation responsibilities in a single integrated framework.",
+    "byline_count": 15,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10910-z",
+    "source": "Nature News",
+    "title": "Psychedelics align brain activity with context",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10910-z\">doi:10.1038/s41586-026-10910-z</a></p>The psychedelic psilocybin reorganizes brain activity into structured, context-aligned patterns that integrate internal and external processing, providing a neural basis for the felt continuity between self and world, elucidating how the psychedelic state translates into psychological change.",
+    "byline_count": 19,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10935-4",
+    "source": "Nature News",
+    "title": "Increasing CO<sub>2</sub> levels fertilize C<sub>4</sub> grass production",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10935-4\">doi:10.1038/s41586-026-10935-4</a></p>By combining a meta-analysis of CO2 enrichment experiments with three decades of southern African savanna observations, an increase in biomass production by C4 grasses under rising CO2 levels in water-limited environments is revealed.",
+    "byline_count": 11,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10892-y",
+    "source": "Nature News",
+    "title": "A biased allosteric modulator is a molecular glue for \u03b2<sub>2</sub>AR dimerization",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10892-y\">doi:10.1038/s41586-026-10892-y</a></p>AP-7-168, an optimized derivative of a \u03b2-arrestin-biased negative allosteric modulator of the \u03b22-adrenergic receptor (\u03b22AR), functions as a molecular glue to stabilize \u03b22AR homodimerization.",
+    "byline_count": 12,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10924-7",
+    "source": "Nature News",
+    "title": "An Icelandic pangenome reference",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10924-7\">doi:10.1038/s41586-026-10924-7</a></p>Newly developed methods enable construction of Icelandic haplotypes and mapping of population-scale short reads to a pangenome by reducing reference bias and improving discovery in low-mappability regions, revealing many novel variants, including pathogenic alleles.",
+    "byline_count": 17,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10928-3",
+    "source": "Nature News",
+    "title": "Wake-activated neuronal populations that regulate sleep drive",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10928-3\">doi:10.1038/s41586-026-10928-3</a></p>Whole-brain activity mapping, targeted cell manipulations and electrophysiology in mice identify wake-activated neuronal populations that are crucial for sleep drive and can persistently reduce daily sleep amount.",
+    "byline_count": 14,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10900-1",
+    "source": "Nature News",
+    "title": "Asymmetric prefrontal representations for leader\u2013follower dynamics",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10900-1\">doi:10.1038/s41586-026-10900-1</a></p>Mice spontaneously form leader and follower roles during cooperation, and the medial prefrontal cortex encodes these role dynamics and an egocentric social value map of the partner\u2019s position.",
+    "byline_count": 16,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10904-x",
+    "source": "Nature News",
+    "title": "Observation of conformal field theory spectra in a quantum simulator",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10904-x\">doi:10.1038/s41586-026-10904-x</a></p>Measurements on an array of optically trapped neutral atoms at a quantum phase transition provide a direct observation of the universal excitation spectrum predicted by conformal field theory.",
+    "byline_count": 9,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10877-x",
+    "source": "Nature News",
+    "title": "Human brain organoids record the passage of time over multiple years",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10877-x\">doi:10.1038/s41586-026-10877-x</a></p>Human brain organoids were developed for over five years in culture to demonstrate that brain cells can continue to mature and record the passage of time, following human-specific endogenous programs, even outside the context of the organism.",
+    "byline_count": 24,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10926-5",
+    "source": "Nature News",
+    "title": "Family genetic designs in MoBa provide insights into health and functioning",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10926-5\">doi:10.1038/s41586-026-10926-5</a></p>The Norwegian Mother, Father and Child Cohort Study demonstrates how family-based genomic data can disentangle direct genetic effects from confounding, improving studies of health and human development.",
+    "byline_count": 29,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10938-1",
+    "source": "Nature News",
+    "title": "A global atmospheric methane record from a tropical ice core",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10938-1\">doi:10.1038/s41586-026-10938-1</a></p>A 2,000-year Peruvian ice core record of atmospheric CH4 concentrations contains the first historical global CH4 record from the low latitudes, and implementation of a four-box model indicates higher equatorial CH4 strength than previous estimates from polar-only records.",
+    "byline_count": 9,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10917-6",
+    "source": "Nature News",
+    "title": "The HydroGym reinforcement learning platform for fluid dynamics",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10917-6\">doi:10.1038/s41586-026-10917-6</a></p>HydroGym offers over 60 standardized reinforcement-learning flow-control environments and demonstrates zero-shot transfer to a 3D wing, cutting local skin friction by 38% and exploration costs by four orders of magnitude.",
+    "byline_count": 21,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10912-x",
+    "source": "Nature News",
+    "title": "Multiyear tropical warm pool warming drives slowdown in Antarctic mass loss",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10912-x\">doi:10.1038/s41586-026-10912-x</a></p>Recent Antarctic ice mass gain was linked to a recurrent atmospheric teleconnection, but this recurs about once per decade in observations and historical simulations so does not yet reflect a global-warming-driven moistening of Antarctica.",
+    "byline_count": 7,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10914-9",
+    "source": "Nature News",
+    "title": "Atomic-scale double-slit interferometry with a focused electron probe",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10914-9\">doi:10.1038/s41586-026-10914-9</a></p>Double-slit interferometry at the atomic scale is demonstrated using scanning transmission electron microscopy to provide evidence of interference fringes generated with a focused electron beam encountering two silicon atomic columns separated by 1.36\u2009\u00c5.",
+    "byline_count": 5,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10951-4",
+    "source": "Nature News",
+    "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10951-4\">doi:10.1038/s41586-026-10951-4</a></p>Functional lymphoid structures within the skull bone marrow enable central nervous system immunosurveillance and shape immune responses to brain disease.",
+    "byline_count": 12,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10933-6",
+    "source": "Nature News",
+    "title": "Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10933-6\">doi:10.1038/s41586-026-10933-6</a></p>A one-pot skeletal-editing reaction replaces isoxazole oxygen with carbon to form challenging pyrroles, enabled by an N-propargylic enaminone intermediate and a computational model predicting reaction outcomes.",
+    "byline_count": 4,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10777-0",
+    "source": "Nature News",
+    "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10777-0\">doi:10.1038/s41586-026-10777-0</a></p>Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "byline_count": 6,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-11037-x",
+    "source": "Nature News",
+    "title": "Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11037-x\">doi:10.1038/s41586-026-11037-x</a></p>Evidence for vacuum-enhanced superconductivity in NbSe<sub>2</sub>",
+    "byline_count": 14,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/Politics/texas-gop-senate-candidate-ken-paxton-works-overcome/story?id=135741397",
+    "source": "ABC News",
+    "title": "Texas GOP Senate candidate Ken Paxton works to overcome fundraising woes",
+    "summary": "Paxton's fundraising numbers are dwarfed by both his predecessor's and his opponent's.",
+    "byline_count": 4,
+    "author_names": [
+      "Will Lennon",
+      "Benjamin Siegel",
+      "Hannah Demissie",
+      "Gina Montagna"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T16:06:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
+    "source": "The Guardian US",
+    "title": "Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial",
+    "summary": "<p>Arturo B\u00e9jar, former Meta safety engineer, tells jury tech company was aware of products\u2019 potential harm to children</p><p><a href=\"https://www.theguardian.com/technology/meta\">Meta</a> has taken a \u201cdon\u2019t ask, don\u2019t tell\u201d strategy when it comes to the safety of children on its social media platforms, according to a <a href=\"https://www.theguardian.com/technology/2023/nov/07/meta-facebook-employee-congress-testimony-instagram-child-harm-social-media\">whistleblower</a> who testified during a <a href=\"https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states\">landmark trial</a> against the company on Tuesday. He is slated to continue his testimony on Wednesday.</p><p><a href=\"https://www.theguardian.com/technology/2024/jan/24/meta-has-not-done-enough-to-safeguard-children-whistleblower-says\">Arturo B\u00e9jar</a>, a former Meta safety engineer, told the jury that the company was aware of the harm its products caused children, which included its recommenda",
+    "byline_count": 1,
+    "author_names": [
+      "Dara Kerr"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:38:45+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
     "source": "Axios",
     "title": "Exclusive: GOP warns AI companies that data centers are politically radioactive",
@@ -266,7 +561,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:53:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/world/asia/us-south-korea-joint-military-drills-scaled-back-trump-order-rcna593264",
@@ -952,6 +1247,155 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/08/19/hayden-panettiere-remains-transferred-to-mortuary/",
+    "source": "TMZ",
+    "title": "Hayden Panettiere's Remains Released by Coroner, Transferred to Mortuary",
+    "summary": "Hayden Panettiere's remains have been released from a South Carolina coroner's office -- and are now in the hands of her family, TMZ has learned. A rep for the Greenville Coroner's Office tells TMZ ... the actress' body was transferred Tuesday&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T13:13:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://pagesix.com/2026/08/19/celebrity-news/sam-asghari-praises-ex-wife-britney-spears-as-the-princess-of-pop-as-he-salutes-her-career/",
+    "source": "Page Six",
+    "title": "Sam Asghari praises ex-wife Britney Spears as the \u2018Princess of Pop\u2019 as he salutes her career",
+    "summary": "The Iranian-American model exclusively spoke with Page Six Radio about his ex-wife's successful career.",
+    "byline_count": 3,
+    "author_names": [
+      "Samantha Nungesser",
+      "Danny Murphy",
+      "Evan Real"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T16:12:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/s41586-026-10776-1",
+    "source": "Nature News",
+    "title": "Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10776-1\">doi:10.1038/s41586-026-10776-1</a></p>Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
+    "byline_count": 3,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/trump-administration/trump-heidi-overton-fda-commissioner-rcna593309",
+    "source": "NBC News",
+    "title": "Trump to nominate Heidi Overton to lead the FDA",
+    "summary": "President Donald Trump is expected to nominate physician Dr. Heidi Overton, a White House aide, to be his new FDA commissioner.",
+    "byline_count": 3,
+    "author_names": [
+      "Monica Alba",
+      "Berkeley Lovelace Jr. ",
+      "Rebecca Shabad"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T12:32:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-16/",
+    "source": "CBS News",
+    "title": "Watch Live: Lindsay Clancy trial resumes with cross-examination of psychologist",
+    "summary": "Lindsay Clancy's trial\u200b resumed Wednesday in Massachusetts with the cross-examination of a psychologist who testified that Clancy said she heard a voice ordering her to kill her children.",
+    "byline_count": 3,
+    "author_names": [
+      "Neal  Riley",
+      "Aaron  Parseghian",
+      "Matt  Schooley"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T16:18:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/grand-theft-auto-army-reenlistment-bonus/",
+    "source": "CBS News",
+    "title": "Army unit offers 4-day pass to play Grand Theft Auto as reenlistment incentive",
+    "summary": "Eligible soldiers must reenlist for a minimum of two years and up to six years.",
+    "byline_count": 3,
+    "author_names": [
+      "Eleanor  Watson",
+      "Jennifer  Jacobs",
+      "James  LaPorta"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:36:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/International/idf-launching-criminal-investigations-2-attacks-palestinians/story?id=135769241",
+    "source": "ABC News",
+    "title": "IDF launching criminal investigations into 2 attacks on Palestinians",
+    "summary": "The Israel Defense Forces said Wednesday that it will launch criminal investigations into two attacks on Palestinians during the war in Gaza.",
+    "byline_count": 3,
+    "author_names": [
+      "Guy Davies",
+      "Dorit Long",
+      "Somayeh Malekian"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T14:14:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/most-beautiful-beaches-in-the-us",
+    "source": "Business Insider",
+    "title": "These are 35 of the most beautiful beaches across the US",
+    "summary": "If you're looking for the perfect summer trip, check out these seaside spots, from Kiawah Island in South Carolina to K\u0101'anapali Beach in Hawaii.",
+    "byline_count": 3,
+    "author_names": [
+      "Priyanka Rajput",
+      "Elana Klein",
+      "Kristine Villarroel"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T13:13:36+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/tv-and-radio/2026/aug/19/freefall-a-reckoning-for-boeing-review-like-a-horror-movie-movie",
+    "source": "The Guardian US",
+    "title": "Freefall: A Reckoning for Boeing review \u2013 like a horror movie \u2026 only this is real life",
+    "summary": "<p>In 2022, Rory Kennedy exposed the aviation safety scandal in which 346 people died \u2013 but since then, a plane door has blown out mid-flight and more whistleblowers have come to the fore. Will anyone pay for this?</p><p>It is unfortunate that a sequel was required to Rory Kennedy\u2019s 2022 documentary feature, which alleged that the profit-driven culture at&nbsp;a US aeronautics firm led to two plane crashes and the deaths of 346 people. But given the lack of corporate accountability evident at the end of <a href=\"https://www.theguardian.com/film/2022/feb/22/downfall-the-case-against-boeing-netflix-documentary-737-max\">Downfall: The Case Against Boeing</a> \u2013 and the apparent complicity of regulatory body the US Federal Aviation Administration (FAA) \u2013 it was&nbsp;inevitable.</p><p>Freefall: A Reckoning for Boeing opens with a rundown of a significant development in the story: the mysterious death in March 2024 of John Barnett, a former Boeing employee turned whistleblower. Barnett, a cont",
+    "byline_count": 1,
+    "author_names": [
+      "Ellen E Jones"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T13:25:31+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.scmp.com/news/china/diplomacy/article/3364549/xis-us-visit-approaches-basic-details-planned-ai-talks-remain-uncertain?utm_source=rss_feed",
     "source": "South China Morning Post",
     "title": "As Xi\u2019s US visit approaches, basic details of planned AI talks remain uncertain",
@@ -966,7 +1410,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:00:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.wired.com/story/flock-safety-os-investigate/",
@@ -984,7 +1428,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/s4-capital-sued-former-employees-allege-owed-millions-2026-8",
@@ -1002,7 +1446,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T12:00:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/ai-work-data-price-ai-training-google-spirit-airlines-2026-8",
@@ -1019,7 +1463,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:39:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/19/mckenna-west-sued-for-misconduct/",
@@ -2100,53 +2544,72 @@
     "is_new": false
   },
   {
-    "link": "https://www.sueddeutsche.de/wirtschaft/pegel-kaub-siemens-energy-evonik-lanxess-basf-chemieindustrie-li.3529812",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Hitze: Auf dem Trockenen",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/14/197fb676-490e-4bc0-9116-a28e1a07b1ee.jpg?rect=222%2C0%2C3556%2C2667&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Sandb\u00e4nke und Ger\u00f6ll, wo fr\u00fcher Wasser war: Die sinkenden Pegelst\u00e4nde des Rheins und anderer Fl\u00fcsse bedrohen die Wirtschaft. Es gibt bereits erste Lieferengp\u00e4sse, und es k\u00f6nnte noch schlimmer kommen.</p>",
-    "byline_count": 3,
-    "author_names": [
-      "Thomas Fromm",
-      "Elisabeth Dostert",
-      "Bj\u00f6rn Finke"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T10:41:29+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/16/avocado-pickers-mexico-exports-security-alert-mercy-us-market-government/",
-    "source": "Fortune",
-    "title": "Avocado pickers in Mexico restart exports as security alert is lifted but are \u2018at the mercy of whatever the U.S. market and government decide\u2019",
-    "summary": "\u201cIf the United States says that it is suspending technical services for security reasons, it\u2019s impossible to export. If it's for a plant health, it\u2019s the same.\u201d",
-    "byline_count": 3,
-    "author_names": [
-      "Mar\u00eda Verza",
-      "Armando Solis",
-      "The Associated Press"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T15:24:54+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.axios.com/2026/08/16/kushner-hamas-gaza-disarmament-egypt-israel",
-    "source": "Axios",
-    "title": "Kushner meets Hamas leaders to push Gaza demilitarization",
-    "summary": "<p>President Trump's envoy Jared Kushner met Hamas leaders in Egypt on Sunday to press them to carry out their <a href=\"https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace\" target=\"_blank\">commitment to disarm</a>, according to two sources familiar with the meeting. </p><p><strong>Why it matters:</strong> This was Kushner's first meeting with Hamas leaders since the signing of the <a href=\"https://www.axios.com/2026/01/14/gaza-phase-two-hamas-disarm-israel\" target=\"_blank\">agreement</a> to end the war in Gaza <a href=\"https://www.axios.com/2025/10/13/gaza-deal-kushner-witkoff-hamas-direct-meeting\" target=\"_blank\">last October</a>. </p><hr /><ul><li>The unusual meeting came as the White House and Trump's Board of Peace push both Hamas and Israel to move to the <a href=\"https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace\" target=\"_blank\">next phase</a> of the U.S. 20-point peace plan.</li><li>Kushner is expected to <a href=\"https://www.axio",
+    "link": "https://deadline.com/2026/08/love-island-usa-ariana-madix-st-denis-medical-season-3-return-1237045203/",
+    "source": "Deadline",
+    "title": "Ariana Madix Sets \u2018St. Denis Medical\u2019 Season 3 Return",
+    "summary": "EXCLUSIVE: Ariana Madix is set to return to NBC&#8217;s St. Denis Medical when the mockumentary returns for Season 3 in November. The Emmy-nominated&#160;Love Island USA&#160;host will reprise her role as Dr. Brooke Emerson, a cardiac surgeon and former girlfriend of Josh Lawson&#8217;s Bruce. Deadline has learned that Madix will guest star in at least three [&#8230;]",
     "byline_count": 1,
-    "author_names": [],
-    "total_score": 4,
+    "author_names": [
+      "Armando Tinoco"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:00:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/19/hayden-panettiere-death-being-investigated-for-criminal-conduct/",
+    "source": "TMZ",
+    "title": "Hayden Panettiere Death Investigated by Cops to Determine if There's Criminal Conduct",
+    "summary": "Police are not satisfied Hayden Panettiere's death was a tragic overdose of prescribed meds, because they are trying to determine if there could be criminal conduct behind it. Law enforcement sources involved in the case tell TMZ they are&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 3,
     "matched_categories": [
       "sourcing_depth"
     ],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T15:44:49+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:04:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak",
+    "source": "The Verge",
+    "title": "Amazon seemingly leaked Jason Statham\u2019s entire Mutiny movie",
+    "summary": "Jason Statham's upcoming film Mutiny is set to hit theaters on August 21st, but for at least an hour today it was available to stream in full on the US version of Amazon Prime Video. My colleague Dominic Preston was able to verify that all 1 hour and 35 minutes of the movie was available [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Jess Weatherbed"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T12:32:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/aug/19/justice-department-defends-james-comey-prosecution",
+    "source": "The Guardian US",
+    "title": "US justice department defends prosecution of James Comey over \u20188647\u2019 seashell post",
+    "summary": "<p>Justice department claims there\u2019s \u2018no dispute\u2019 over whether ex-FBI head\u2019s post could be read as a threat against Trump</p><p>The US Department of Justice has defended its prosecution of former FBI director James Comey, claiming in new court documents there is \u201cno serious dispute\u201d that his social media post last year featuring a photo of seashells arranged to read \u201c8647\u201d could be interpreted as a threat against Donald Trump.</p><p>\u201cThere is no serious dispute that an objective viewer of Comey\u2019s post could read it to mean \u2018Kill President Trump\u2019,\u201d prosecutors <a href=\"https://www.courtlistener.com/docket/73256624/54/united-states-v-comey/\">wrote in a document</a> filed on Tuesday in response to efforts by Comey\u2019s <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.nced.227449/gov.uscourts.nced.227449.40.0.pdf\">efforts </a>to have the case dismissed.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/19/justice-department-defends-james-comey-prosecution\">Continue readin",
+    "byline_count": 1,
+    "author_names": [
+      "Anna Betts"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T14:27:57+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-19/ai-hallucinations-case-law-state-farm-la-county-fire-dispute",
@@ -2163,7 +2626,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/asia/south-asia/article/3364588/pakistans-government-challenges-court-order-imran-khan-hospital-move?utm_source=rss_feed",
@@ -2180,7 +2643,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T12:25:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/charlie-kirk-was-targeted-for-his-politics-prosecutors-say-bullet-engraving-shows/",
@@ -2195,7 +2658,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T11:20:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/harvard-morgue-manager-stolen-body-parts-settlement/",
@@ -2210,7 +2673,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:58:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Health/wireStory/fauci-adviser-pleads-guilty-plotting-conceal-covid-19-135756114",
@@ -2227,7 +2690,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T01:21:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.propublica.org/article/military-defense-spending-budget-series",
@@ -2245,7 +2708,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid",
@@ -2263,7 +2726,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/paloma-cinco-ted-lasso-interview-cristo-fernandez-sister-1237044979/",
@@ -2656,6 +3119,330 @@
     "is_new": false
   },
   {
+    "link": "https://www.sueddeutsche.de/medien/desinformation-fake-news-sachsen-anhalt-russland-wahlen-sz-li.3526779",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Landtagswahl in Sachsen-Anhalt: Gef\u00e4lschte Webseite der SZ f\u00fcr Desinformation missbraucht",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/02/03/19d34332-d1f4-40b6-8c4d-4fe6fdd0c78c.jpg?rect=114%2C0%2C1820%2C1365&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Der Verfassungsschutz vermutet, dass eine russische Gruppe die Internetseiten seri\u00f6ser deutscher Medien akribisch nachbaut. Auch die \u201eS\u00fcddeutsche Zeitung\u201c ist davon betroffen.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Nele-Sophie Weimann",
+      "Ralf Wiegand"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:12:24+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/panorama/narkosearzt-frankfurt-tod-emilia-revision-prozess-li.3528082",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Prozess gegen Narkosearzt: Warum starb eine Vierj\u00e4hrige beim Zahnarzt?",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/19/950c3dbc-e4f5-43c2-ab56-fa079cf6c0c2.jpg?rect=77%2C0%2C1237%2C928&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Ein Narkosearzt pfuscht offenbar jahrelang, bis ein M\u00e4dchen stirbt und er wegen Totschlags verurteilt wird. War es doch Mord? In Frankfurt steht er jetzt ein zweites Mal vor Gericht.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Kathrin Wiesel-Lanc\u00e9",
+      "Benedikt Warmbrunn"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T12:58:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364592/evergrande-liquidators-challenge-watchdogs-hk1-billion-settlement-auditor-pwc?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Evergrande liquidators challenge watchdog\u2019s HK$1 billion settlement with auditor PwC",
+    "summary": "Hong Kong\u2019s securities market regulator has defended a HK$1 billion (US$128 million) settlement with an accounting firm at the centre of an auditing scandal involving developer China Evergrande Group, saying it has unfettered powers to enforce discipline and a duty to protect the interests of independent investors.\nIn a judicial review hearing on Wednesday, lawyers for the Securities and Futures Commission (SFC) asked the High Court to dismiss a challenge by the developer\u2019s liquidators, who are...",
+    "byline_count": 1,
+    "author_names": [
+      "Brian Wong"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T12:29:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "Marvell\u2019s stock pops on news of Google chip deal \u2014\u00a0and Broadcom\u2019s falls",
+    "summary": "Google will also get the option to purchase about $12 billion worth of Marvell\u2019s stock.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:05:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
+    "summary": "\u201cThe market took this as a significant intervention,\u201d said Jill Cetina, former vice president for bank supervision at the Dallas Fed.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:55:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scotusblog.com/2026/08/trump-administration-awaits-emergency-docket-decisions/",
+    "source": "SCOTUSblog",
+    "title": "Trump administration awaits emergency docket decisions",
+    "summary": "Plus, an update on the ripple effects of the Supreme Court\u2019s TPS ruling.",
+    "byline_count": 2,
+    "author_names": [
+      "Kelsey Dallas",
+      "Amy Howe"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T13:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-026-02377-9",
+    "source": "Nature News",
+    "title": "Psychedelics tune the brain to the environment",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02377-9\">doi:10.1038/d41586-026-02377-9</a></p>Rather than just scrambling neural activity, the psychedelic substance psilocybin also reorganizes brain dynamics so as to align with a person\u2019s context and experiences.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-026-02610-5",
+    "source": "Nature News",
+    "title": "Rudolph A. Marcus obituary: theoretical chemist who explained how electrons jump between molecules",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02610-5\">doi:10.1038/d41586-026-02610-5</a></p>His calculations explain the efficiency of batteries and solar cells.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-026-02607-0",
+    "source": "Nature News",
+    "title": "A black hole's spin could finally be measured by a high-speed star",
+    "summary": "<p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02607-0\">doi:10.1038/d41586-026-02607-0</a></p>Star orbiting close to Sagittarius A* could reveal its spin \u2014 plus, how exoskeletons might change the way humans move.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/19/data-centers-midterm-elections-governors-races-pennsylvania-texas-ohio/",
+    "source": "Fortune",
+    "title": "From Pennsylvania to Ohio to Texas, the governors\u2019 races are all coming down to data centers",
+    "summary": "Stacy Garrity accused Josh Shapiro of having \u201clit the fuse on the chaos we are seeing in community after community.\u201d",
+    "byline_count": 2,
+    "author_names": [
+      "Marc Levy",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:44:52+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/19/afghanistans-grape-harvest-is-turning-into-raisins-literally-as-exports-collapse/",
+    "source": "Fortune",
+    "title": "Afghanistan\u2019s grape harvest is turning into raisins \u2014\u00a0literally \u2014\u00a0as exports collapse",
+    "summary": "Border closures with Pakistan have crushed Afghanistan's fruit exports, forcing farmers to dry their grapes into lower-priced raisins",
+    "byline_count": 2,
+    "author_names": [
+      "ABDUL QAHAR AFGHAN",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T14:02:30+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/health/health-news/merck-moderna-say-melanoma-vaccine-promise-prevent-recurrence-cancer-rcna593316",
+    "source": "NBC News",
+    "title": "Merck and Moderna say cancer vaccine shows promise in preventing recurrence of melanoma",
+    "summary": "Pharmaceutical giants Moderna and Merck said that an experimental vaccine treatment has shown signs of preventing skin cancer from returning or spreading in a study of melanoma patients.",
+    "byline_count": 2,
+    "author_names": [
+      "Rob Wile",
+      "Aria Bendix "
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T13:15:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/israel-hind-rajab-palestinian-girl-killed-gaza-criminal-investigation-idf/",
+    "source": "CBS News",
+    "title": "Israel orders criminal probe into killing of 5-year-old Hind Rajab in Gaza",
+    "summary": "Israel says military police will investigate the killing of Hind Rajab, a young girl in Gaza whose death at the hands of its forces drew an international outcry.",
+    "byline_count": 1,
+    "author_names": [
+      "Frank  Andrews"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T16:11:02+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/football/articles/crmry3r1ew7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Two collapses in four days - what's happening to Musiala?",
+    "summary": "Jamal Musiala is being treated for a \"neurological dysfunction\" after collapsing twice in four days during Bayern Munich's pre-season friendlies.",
+    "byline_count": 2,
+    "author_names": [
+      "Matthew Hobbs",
+      "Gary Rose"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:34:38+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cy45xkdqxdlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "'Words cannot describe losing our home in Stourbridge wildfire'",
+    "summary": "Loxie and Robin Williams returned home on Thursday to find firefighters trying to save their home.",
+    "byline_count": 2,
+    "author_names": [
+      "Suzanne Virdee and Nadine Towell",
+      "Andy Giddings"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:01:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+    "summary": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+    "byline_count": 2,
+    "author_names": [
+      "Katy Austin",
+      "Patrick Barlow"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T14:06:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "BBC presenter Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
+    "summary": "The BBC Radio 4 Today programme presenter explained her recent absence on her return on Wednesday.",
+    "byline_count": 2,
+    "author_names": [
+      "Paul Glynn",
+      "Ian Youngs"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T13:00:57+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
+    "source": "CNBC",
+    "title": "Hedge funds are about to jump into prediction markets in a big way",
+    "summary": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
+    "byline_count": 2,
+    "author_names": [
+      "Davis Giangiulio",
+      "Ananya Chetia"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T16:04:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Arsenal agree \u00a350m-plus deal to sign Villa's Konsa",
+    "summary": "Arsenal agree a deal worth more than \u00a350m to sign Aston Villa and England defender Ezri Konsa.",
+    "byline_count": 2,
+    "author_names": [
+      "Sami Mokbel",
+      "Nick Mashiter"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T13:55:18+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/19/stocks-making-the-biggest-moves-midday-mrna-ppc-tgt-gdx.html",
+    "source": "CNBC",
+    "title": "Stocks making the biggest moves midday: Moderna, Pilgrim's Pride, Target, gold miners & more",
+    "summary": "These are the stocks posting the largest moves midday.",
+    "byline_count": 2,
+    "author_names": [
+      "Davis Giangiulio",
+      "Fred Imbert"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:41:55+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/film/2026/aug/19/kpop-demon-hunters-netflix-lawsuit",
+    "source": "The Guardian US",
+    "title": "Christian metal band sues Netflix over KPop Demon Hunters name",
+    "summary": "<p>25-year-old band Demon Hunter says name of streamer\u2019s hit movie creates \u2018substantial confusion\u2019 among consumers</p><p>Christian metal band Demon Hunter is suing <a href=\"https://www.theguardian.com/media/netflix\">Netflix</a>, accusing the entertainment giant of trademark infringement and unfair competition tied to the blockbuster \u201cKPop Demon Hunters\u201d name.</p><p>The lawsuit was filed Tuesday by Hyde Lane, the company behind Demon Hunter, and alleges that Netflix Studios and concert promoter AEG Presents have created \u201csubstantial confusion\u201d among consumers.</p> <a href=\"https://www.theguardian.com/film/2026/aug/19/kpop-demon-hunters-netflix-lawsuit\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Marina Dunbar"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:31:55+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.sueddeutsche.de/politik/nord-stream-anschlag-verdaechtiger-festgenommen-li.3533630",
     "source": "Sueddeutsche Zeitung",
     "title": "Nord-Stream-Anschlag: Mutma\u00dflicher Saboteur in Kroatien verhaftet",
@@ -2669,7 +3456,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:30:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364573/hong-kong-customs-arrests-2-opatra-staff-over-aggressive-sales-tactics-source?utm_source=rss_feed",
@@ -2686,7 +3473,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:30:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364580/mable-chan-uses-qatar-airways-cargo-office-opening-drop-central-asia-route-reveal?utm_source=rss_feed",
@@ -2703,7 +3490,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T11:10:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/plus/news/china/science/article/3364562/china-joins-musks-spacex-reusable-rocket-breakthroughs?utm_source=rss_feed",
@@ -2716,7 +3503,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:11:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/?utm_campaign=rss",
@@ -2732,7 +3519,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:45:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/?utm_campaign=rss",
@@ -2748,7 +3535,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T08:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
@@ -2765,7 +3552,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T11:47:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://wisconsinwatch.org/2026/08/wisconsin-tracks-police-use-of-force-numbers-are-hard-to-compare/",
@@ -2781,7 +3568,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T11:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/trump-signals-economic-pressure-iran-conflict-talks-stall/story?id=135753451",
@@ -2797,7 +3584,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:32:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
@@ -2813,7 +3600,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T12:01:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
@@ -2829,7 +3616,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T08:25:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo?at_medium=RSS&at_campaign=rss",
@@ -2845,7 +3632,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T11:22:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
@@ -2861,7 +3648,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T12:09:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
@@ -2877,7 +3664,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:45:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
@@ -2893,7 +3680,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/trump-student-loan-expert-not-aware-debt-repayment-glitch-lawsuit-2026-8",
@@ -2910,7 +3697,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:30:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/money/2026/aug/19/dog-food-recalled-after-reports-of-pets-losing-their-sight-years",
@@ -2926,7 +3713,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T11:03:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
@@ -2943,7 +3730,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T11:00:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/08/19/data-centers-ai-political-opinion",
@@ -2956,7 +3743,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:14:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/08/19/openai-astra-safety-altman-anthropic",
@@ -2969,7 +3756,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:14:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-19/victorian-coalition-promises-to-scrap-vni-west-transmission-line/107053638",
@@ -6622,243 +7409,208 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/08/16/lindsay-clancys-parents-launch-go-fund-me-for-financial-aid-during-her-trial/",
-    "source": "TMZ",
-    "title": "Lindsay Clancy's Parents Launch $2 Million GoFundMe Amid Trial",
-    "summary": "Lindsay Clancy's parents are asking for financial support as they continue standing by their daughter during her ongoing criminal case in Massachusetts, TMZ has learned. The Musgrove Family Fund, a GoFundMe campaign with a $2 million goal, benefits&hellip;",
+    "link": "https://variety.com/2026/film/global/netflix-buys-wu-tang-clan-doc-the-disciple-1236838138/",
+    "source": "Variety",
+    "title": "Netflix Buys Wu-Tang Clan Doc \u2018The Disciple\u2019 Directed by Joanna Natasegara (EXCLUSIVE)",
+    "summary": "&#8220;The Disciple: A Wu-Tang Fable&#8221; the Sundance-bowing doc that unravelled the story of Dutch-Moroccan rapper and producer Cilvaringz and the making of the controversial Wu-Tang Clan record &#8220;Once Upon a Time in Shaolin,&#8221; is heading to Netflix. The streamer has acquired rights to the feature, directed and produced by Oscar-winning British filmmaker Joanna Natasegara (&#8220;The [&#8230;]",
     "byline_count": 1,
     "author_names": [
-      "TMZ Staff"
+      "Alex Ritman"
     ],
-    "total_score": 2,
+    "total_score": 1,
     "matched_categories": [
       "exclusivity"
     ],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T13:15:36+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T16:00:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.tmz.com/2026/08/16/surrogate-mckenna-west-fundraiser-draws-thousands-of-donations/",
-    "source": "TMZ",
-    "title": "McKenna West Surrogacy Fund Nears $80K as Friend Details Financial Burden",
-    "summary": "Surrogate McKenna West's online fundraiser is closing in on $80,000 in donations, as the surrogate continues her legal fight following the birth of the baby at the center of a bitter surrogacy dispute. West's self-described friend -- Ellen Fisher&hellip;",
+    "link": "https://variety.com/2026/film/global/the-end-of-times-split-screen-venice-1236838224/",
+    "source": "Variety",
+    "title": "\u2018The End of Times\u2019 Acquired by Split Screen Ahead of Venice Premiere (EXCLUSIVE)",
+    "summary": "Zagreb-based sales outlet Split Screen has secured international rights to \u201cThe End of Times\u201d ahead of its world premiere in Critics\u2019 Week, an independent sidebar to the Venice Film Festival. In Bibiana Rojas G\u00f3mez and Juan David C\u00e1rdenas Maldonado\u2019s film, Salom\u00e9 searches through five decades of family footage for the reasons for her mother\u2019s sadness. [&#8230;]",
     "byline_count": 1,
     "author_names": [
-      "TMZ Staff"
+      "Leo Barraclough"
     ],
-    "total_score": 2,
+    "total_score": 1,
     "matched_categories": [
-      "primary_source"
+      "exclusivity"
     ],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T15:47:23+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:17:01+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.abc.net.au/news/2026-08-16/fadi-haddara-shot/107044182",
-    "source": "ABC Australia",
-    "title": "Gangland boss Fadi Haddara shot in Melbourne's inner west",
-    "summary": "Alleged gangland boss Fadi Haddara, the head of his namesake family crime clan, has been shot in Melbourne's inner west.",
-    "byline_count": 2,
+    "link": "https://variety.com/2026/gaming/news/jackbox-party-pack-12-trivia-murder-party-3-release-dates-1236838174/",
+    "source": "Variety",
+    "title": "Jackbox Games Sets \u2018Party Pack 12,\u2019 \u2018Trivia Murder Party 3\u2019 Releases as CEO Teases New Streaming Service (EXCLUSIVE)",
+    "summary": "Jackbox Games has unveiled the release dates and trailers for its upcoming \u201cTrivia Murder Party 3&#8243; and \u201cParty Pack 12.\u201d \u201cParty Pack 12&#8243; (unveiled in the trailer above) will be available Oct. 15. \u201cTrivia Murder Party 3&#8243; (featured in the announcement video below) will launch Sept. 17. The launches come as Jackbox is experiencing a [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Olivia Jenkins",
-      "Danny Tran"
+      "Jennifer Maas"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T13:08:57+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:13:26+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.abc.net.au/news/2026-08-17/measles-outbreak-risk-australians-not-protected/107031752",
-    "source": "ABC Australia",
-    "title": "Study warns of measles risk with 1.7 million Australians vulnerable",
-    "summary": "A new study finds that an estimated 1.7 million people are susceptible to measles, with experts warning it could lead to more outbreaks.",
-    "byline_count": 2,
+    "link": "https://deadline.com/2026/08/outer-banks-prequel-series-kildare-netflix-1237044715/",
+    "source": "Deadline",
+    "title": "\u2018Outer Banks\u2019 Prequel Coming Together At Netflix As Hit YA Series Wraps Five-Season Run",
+    "summary": "EXCLUSIVE: Behind the globe-trotting adventures and the treasure hunts, Netflix&#8217;s Outer Banks is a story of haves and have-nots: the working-class locals, Pogues, and the wealthy seasonal residents, the Kooks, who live in The Cut and Figure Eight neighborhoods, respectively, of Outer Banks&#8216; fictional Kildare Island. Outer Banks creators Josh Pate, Jonas Pate and Shannon [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Rachel Carbonell",
-      "Caitlyn Gribbin"
+      "Nellie Andreeva"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T14:04:01+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T14:44:33+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.sueddeutsche.de/politik/waldbraende-deutschland-lage-massnahmen-li.3532099",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Bundespolitik: SPD will Klimaanpassung im Grundgesetz verankern",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/16/8068cabf-5473-4b54-91c4-71643e927238.jpg?rect=646%2C97%2C1638%2C1228&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Angesichts der heftigen Waldbr\u00e4nde in Deutschland und Belgien wird intensiv \u00fcber den Umgang mit den Folgen des Klimawandels diskutiert. Ein Forderungskatalog der SPD k\u00f6nnte in der Bundesregierung neuen Streit ausl\u00f6sen.</p>",
-    "byline_count": 2,
+    "link": "https://variety.com/2026/music/news/soulidified-signs-to-atlantic-records-building-the-band-1236837558/",
+    "source": "Variety",
+    "title": "\u2018Building the Band\u2019 Group Soulidified Signs to Atlantic Records (EXCLUSIVE)",
+    "summary": "Soulidified has signed to Atlantic Records, just a year after they were introduced to the world on Netflix&#8217;s &#8220;Building the Band,&#8221; Variety can exclusively announce. The group, consisting of Shade Jenifer, Malik Heard, Bradley Rittmann and Landon Boyce, was initially formed on &#8220;Building the Band,&#8221; which aired in July 2025. They joined together as a [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Daniel Br\u00f6ssler",
-      "Claudia Henzler"
+      "Steven J. Horowitz"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T13:02:23+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T16:00:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://wisconsinwatch.org/2026/08/poll-democrat-david-crowley-opens-fall-gubernatorial-campaign-with-slight-edge-over-republican-tom-tiffany/",
-    "source": "Wisconsin Watch",
-    "title": "Poll: Democrat David Crowley opens fall gubernatorial campaign with slight edge over Republican Tom Tiffany",
-    "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"538\" src=\"https://i0.wp.com/wisconsinwatch.org/wp-content/uploads/2026/08/asse1.jpg?fit=1024%2C538&amp;quality=100&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Meanwhile, Republicans are disappointed Francesca Hong isn\u2019t the nominee. Here\u2019s what else we learned from Wisconsin\u2019s surprising primary results.</p>\n<p><a href=\"https://wisconsinwatch.org/2026/08/poll-democrat-david-crowley-opens-fall-gubernatorial-campaign-with-slight-edge-over-republican-tom-tiffany/\">Poll: Democrat David Crowley opens fall gubernatorial campaign with slight edge over Republican Tom Tiffany\u00a0</a> is a post from <a href=\"https://wisconsinwatch.org\">Wisconsin Watch</a>, a non-profit investigative news site covering Wisconsin since 2009. Please consider making a contribution to support our journalism.</p>",
-    "byline_count": 2,
+    "link": "https://variety.com/2026/digital/global/julie-andrews-narrate-jane-austen-emma-1236838239/",
+    "source": "Variety",
+    "title": "Julie Andrews to Narrate Jane Austen\u2019s \u2018Emma\u2019 for Noiser Podcast Network (EXCLUSIVE)",
+    "summary": "Dame Julie Andrews will continue to lend her dulcet tones to the world of Jane Austen. The stage and screen icon \u2014\u00a0an Oscar, BAFTA and multi Emmy and Grammy award winner \u2014\u00a0will return for a second season of &#8220;Jane Austen Stories&#8221; to narrate &#8220;Emma&#8221; in its unabridged form. Told exactly how Austen&#8217;s wrote it, &#8220;Emma&#8221; [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Audrey Lopez-Stane / Wisconsin Watch",
-      "Zoey Elwood / Wisconsin Watch"
+      "Alex Ritman"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T14:30:00+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:39:52+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.cbc.ca/news/politics/canada-trump-tariffs-trade-deal-negotiation-sectoral-relief-lumber-auto-steel-9.7309039?cmp=rss",
-    "source": "CBC News",
-    "title": "Negotiators fear U.S. tariffs will be imposed, as provinces and Washington dig in on demands",
-    "summary": "<img alt=\"Prime Minister Mark Carney, centre, and Canada&apos;s premiers hold a closing press conference at the First Ministers Meetings in Charlottetown\" height=\"349\" src=\"https://i.cbc.ca/ais/a441ec87-7336-4edd-b117-067b2e320cf1,1786894171525/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C273%2C5248%2C2952%29%3BResize%3D%28620%29\" title=\"Prime Minister Mark Carney, centre, and Canada&apos;s premiers hold a closing press conference at the First Ministers Meetings in Charlottetown on Thursday, July 23, 2026.\" width=\"620\" /><p></p>",
-    "byline_count": 2,
+    "link": "https://deadline.com/2026/08/de-fabeltjeskrant-international-revival-cgi-series-1237045198/",
+    "source": "Deadline",
+    "title": "Dutch Kids TV Classic \u2018De Fabeltjeskrant\u2019 Getting International Revival",
+    "summary": "EXCLUSIVE: De Fabeltjeskrant, the classic Dutch kids TV program set in the Great Animal Forest, is being given a new lease of life and a fresh international rollout. Some 1,600 episodes of the puppet show will be restored, as a CGI incarnation of the property enters development and will be shopped to buyers at MIPCOM [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Philip Ling",
-      "Kate McKenna"
+      "Jesse Whittock"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-12T19:00:00+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:40:30+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "title": "Here\u2019s the real reason oil prices aren\u2019t moving higher",
-    "summary": "Oil prices are not higher largely because the world does not want as much oil as it used to \u2014 and that\u2019s arguably the more troubling story.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T13:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/16/berkshire-hathaway-homebuilder-lennar-dr-horton-banks-shares/",
-    "source": "Fortune",
-    "title": "Berkshire Hathaway buys more homebuilder stocks but slashes stakes in banks and dumps all its holdings in alcoholic beverage maker",
-    "summary": "Berkshire also reduced stakes in supermarket operator Kroger, steel manufacturer Nucor and dialysis giant DaVita.",
-    "byline_count": 2,
+    "link": "https://deadline.com/2026/08/kane-parsons-kevin-mayer-tilly-norwood-at-zurich-summit-1237045144/",
+    "source": "Deadline",
+    "title": "Zurich Summit: Kane Parsons, Kevin Mayer, Efe Cakarel & Eline Van Der Velden Among Speakers",
+    "summary": "EXCLUSIVE: The Zurich Summit has scored a coup with a strong lineup this year headlined by Backrooms director Kane Parsons. The lineup of speakers at the annual industry conference, dubbed the &#8220;Davos of the film industry&#8221;, also includes Academy of Motion Picture Arts and Sciences CEO Bill Kramer, Candle Media Co-Founder and Co-CEO Kevin Mayer, [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Alex Veiga",
-      "The Associated Press"
+      "Andreas Wiseman"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T15:01:14+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:01:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://fortune.com/2026/08/16/glp-1-drugs-pmos-hormonal-disorder-weight-gain-women-facial-hair/",
-    "source": "Fortune",
-    "title": "\u2018It was like a godsend\u2019 \u2014GLP-1 drugs show promise against hormonal disorder that causes constant weight gain and forces women to shave facial hair",
-    "summary": "\u201cI didn\u2019t understand why all this weight was coming back or why my friends didn\u2019t have to shave their faces and I had to.\u201d",
-    "byline_count": 2,
+    "link": "https://deadline.com/2026/08/nicolas-cage-to-battle-cannibals-in-action-movie-parish-1237045210/",
+    "source": "Deadline",
+    "title": "Nicolas Cage To Play Nuclear Apocalypse Survivor Battling Vicious Cannibals In Action-Thriller \u2018Parish\u2019 \u2014 TIFF Market",
+    "summary": "EXCLUSIVE: Here&#8217;s a fun one. Nicolas Cage is set to play one of the last known survivors of a nuclear apocalypse who must do battle with a horde of vicious cannibals in new action-thriller Parish. Concourse Media is launching world pre-sales on the project ahead of the TIFF market. Set 30 years after a nuclear [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Laura Ungar",
-      "The Associated Press"
+      "Andreas Wiseman"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T15:13:06+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:46:29+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-    "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-    "byline_count": 2,
+    "link": "https://deadline.com/2026/08/4x4-the-event-alex-ullom-neon-horror-film-sets-cast-1237044935/",
+    "source": "Deadline",
+    "title": "Alex Ullom Unveils Cast For Neon Horror Film \u20184 X 4: The Event\u2019",
+    "summary": "EXCLUSIVE:&#160;Ahead of this weekend&#8217;s release of his debut feature, the Neon horror thriller&#160;It Ends, Alex Ullom has set the lead cast for&#160;4 X 4: The Event, his second feature for the studio. The group of eight includes Sophia Lillis (It), Dylan Minnette (13 Reasons Why), Marcel Ruiz (One Day at a Time), Quintessa Swindell (Teenage [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Dan Johnson",
-      "Tinshui Yeung"
+      "Matt Grobar"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T15:50:12+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T15:30:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.bbc.co.uk/news/articles/c5ywwv2pp44o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "UK-made drones strike targets inside Russia",
-    "summary": "The drones have been used for the first time in mainland Russia to hit military and industrial targets.",
-    "byline_count": 2,
+    "link": "https://www.theverge.com/tech/982190/google-pixel-11-review",
+    "source": "The Verge",
+    "title": "The Pixel 11 isn\u2019t the best Pixel of 2026, but it\u2019s the smartest buy",
+    "summary": "It'd be easy to overlook the Pixel 11. Want the best cameras? The Pixel 11 Pro is your answer. Want the best bargain? The Pixel 10A is still a great deal. But the Pixel 11 might be the sweet spot in Google's lineup this year. With 12GB of RAM and 256GB of storage, it delivers [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Joe Inwood",
-      "Andr\u00c3\u00a9 Rhoden-Paul"
+      "Cameron Faulkner"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T12:22:25+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T16:00:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Changing pubs into homes to be made harder under new rules",
-    "summary": "The rules will come into force on Monday along with other changes to planning policy.",
-    "byline_count": 2,
+    "link": "https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/",
+    "source": "Wired",
+    "title": "Why Is It Absolute Hell to Buy a Movie Ticket Now?",
+    "summary": "Overwhelmed theater apps and a scarcity mindset around exclusive big-screen formats for blockbusters like Dune: Part Three and The Odyssey have led to the \u201cconcertification\u201d of movies.",
+    "byline_count": 1,
     "author_names": [
-      "Peter Ruddick",
-      "Mitchell Labiak"
+      "Miles Klee"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T15:04:13+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345",
-    "source": "ABC News",
-    "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
-    "summary": "Adm. Mullen says morale has improved since the crew learned it's going home.",
-    "byline_count": 2,
-    "author_names": [
-      "Ford McCracken",
-      "Isabel Danzis"
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T13:46:54+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/lifeandstyle/2026/aug/16/dining-across-the-divide-at-one-point-she-said-i-dont-want-to-offend-you-but-you-seem-quite-privileged",
-    "source": "The Guardian US",
-    "title": "Dining across the divide: \u2018At one point she said, \u201cI don\u2019t want to offend you, but you seem quite privileged\u201d\u2019",
-    "summary": "<p>A trainee accountant and a company director had differing views on opportunities for young people, but could they find common ground on the new prime minister?<br /><br />\u2022 Want to meet someone from across the divide? Click <a href=\"https://www.theguardian.com/lifeandstyle/2026/mar/18/would-you-like-to-take-part-in-dining-across-the-divide\">here</a> to find out how</p><p><strong>Margaret, 22, </strong><strong>London</strong></p><p><strong>Occupation</strong> Trainee accountant and&nbsp;part-time arts producer</p> <a href=\"https://www.theguardian.com/lifeandstyle/2026/aug/16/dining-across-the-divide-at-one-point-she-said-i-dont-want-to-offend-you-but-you-seem-quite-privileged\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Erica Buist",
-      "Kitty Drake"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T16:15:19.547466+00:00",
-    "published_parsed": "2026-08-16T11:00:24+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-19T16:21:50.251458+00:00",
+    "published_parsed": "2026-08-19T14:33:04+00:00",
+    "is_new": true
   },
   {
     "link": "https://variety.com/2026/film/news/yami-gautam-dhar-nayyi-navelli-october-release-1236837564/",
@@ -6875,7 +7627,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:25:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/sidemen-nfts-training-unscripted-producers-uk-1237044990/",
@@ -6892,7 +7644,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T08:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/nbcu-marketing-whizz-kevin-harrington-lpatrick-patrick-1237045133/",
@@ -6909,7 +7661,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T12:03:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/sasha-buhler-netflix-director-international-film-exiting-1237045014/",
@@ -6926,7 +7678,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:48:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/chulpan-khamatova-star-in-alexander-molochnikov-extremists-1237045109/",
@@ -6943,7 +7695,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:59:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.carbonbrief.org/qa-what-is-long-duration-energy-storage-and-why-does-the-uk-need-it",
@@ -6960,7 +7712,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T11:18:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://documentedny.com/2026/08/19/caribbean-community-irie-jam-radio-haiti-tps/",
@@ -6977,7 +7729,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://documentedny.com/2026/08/19/border-wall-big-bend-national-park/",
@@ -6994,7 +7746,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-social-media-era-2026-8",
@@ -7011,7 +7763,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:00:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.propublica.org/getinvolved/share-military-defense-spending-tips",
@@ -7026,7 +7778,7 @@
     ],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/news/hybrid-ai-mandopop-musical-alishan-escape-red-empire-omg-1236838002/",
