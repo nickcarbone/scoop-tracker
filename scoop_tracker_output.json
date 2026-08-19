@@ -33,7 +33,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T21:09:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/california-high-speed-rail-inspector-general-ab1608-veto-threat/",
@@ -69,7 +69,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T20:21:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/google-spirit-airlines-data-reminder-work-emails-arent-yours-2026-8",
@@ -232,6 +232,25 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/world/asia/us-south-korea-joint-military-drills-scaled-back-trump-order-rcna593264",
+    "source": "NBC News",
+    "title": "U.S.-South Korea joint military drills are cut short after surprise Trump order",
+    "summary": "The annual U.S.-South Korea drills, known as Ulchi Freedom Shield, will end Aug. 21 rather than Aug. 27 as originally scheduled, both countries said.",
+    "byline_count": 3,
+    "author_names": [
+      "Jennifer Jett",
+      "Stella Kim",
+      "Mosheh Gains"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T01:54:41+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.abc.net.au/news/2026-08-19/fears-mass-bird-deaths-in-southwest-victoria-linked-to-bird-flu/107049616",
     "source": "ABC Australia",
     "title": "Fears mass bird deaths in south-west Victoria linked to bird flu",
@@ -247,7 +266,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T20:59:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/articles/anthropic-prepares-supervoting-power-founders-readies-mega-ipo",
@@ -265,7 +284,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T20:29:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/regulation/court-battles/6036678-david-morens-pleads-guilty-foia-conspiracy/",
@@ -280,7 +299,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T22:27:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-18/california-social-media-addiction-lawsuit-meta",
@@ -751,7 +770,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:30:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-18/lapd-killing-trader-joes-manager-murder-conviction",
@@ -768,7 +787,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T22:38:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/beagles-bred-for-research-federal-inspections/",
@@ -786,7 +805,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T21:35:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-18/abc-files-suit-to-stop-fccs-early-tv-license-reviews",
@@ -896,6 +915,53 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-08-19/mundi-mundi-bash-music-festival-heavy-rain-nsw/107053550",
+    "source": "ABC Australia",
+    "title": "Days of downpour threaten outback music festival as gates remain closed",
+    "summary": "Festival goers, many of whom have made the long drive to outback NSW for the Mundi Mundi Bash, are facing a nervous wait to see if it will still go ahead after days of rain.",
+    "byline_count": 3,
+    "author_names": [
+      "Kristina Rosengren",
+      "Rory McClaren",
+      "Oliver Brown"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T03:15:32+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3364493/inside-playbook-used-dupe-hongkongers-making-big-beauty-product-buys?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Inside the playbook used to dupe Hongkongers into making big beauty product buys",
+    "summary": "As Hong Kong customs expands its investigation into Opatra London following complaints of high-pressure sales tactics involving purchases of up to HK$100,000 (US$12,800), former employees and customers of similar beauty chains say the aggressive sales playbook feels all too familiar.\nAlthough the UK-based luxury beauty chain \u2013 originally incorporated as Oro Gold \u2013 has distanced itself from local distributor Sayles Retail following allegations of \u201cdeceptive sales practices\u201d, and denied any...",
+    "byline_count": 1,
+    "author_names": [
+      "Emily Hung"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T01:02:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/08/19/democrats-florida-senate-angie-nixon-misterms",
+    "source": "Axios",
+    "title": "Angie Nixon scores socialist breakthrough in Trump's Florida",
+    "summary": "<p>Angie Nixon's stunning Florida Senate <a href=\"https://www.axios.com/2026/08/18/florida-weird-primary-election-2026\" target=\"_blank\">primary win</a> on Tuesday gave the Democratic Socialists of America its biggest statewide breakthrough yet: For the first time this year, a DSA member won a major-party nomination for statewide office.</p><p><strong>Why it matters: </strong>The breakthrough \u2014the biggest upset in modern Florida Democratic politics\u2014 was also stunning because Republicans have spent years making opposition to socialism central to their political brand in the state.</p><hr /><ul><li>Nixon, a Jacksonville state representative and former union organizer who joined DSA during the campaign, beat former Trump impeachment witness <a href=\"https://www.axios.com/2026/01/27/alexander-vindman-florida-senate\" target=\"_blank\">Alex Vindman</a>.</li><li>The scale of the upset was extraordinary: Nixon won by double digits despite raising just $975,000 to Vindman's $16.3 million in Presid",
+    "byline_count": 3,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T02:14:23+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.aljazeera.com/news/2026/8/18/us-justice-department-denies-whistleblower-claims-on-anti-semitism-probes?traffic_source=rss",
     "source": "Al Jazeera English",
     "title": "US Justice Department denies whistleblower claims on anti-Semitism probes",
@@ -910,7 +976,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T19:56:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/florida-senate-primary-results-ashley-moody-angie-nixon/",
@@ -927,7 +993,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:14:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/18/rillet-unicorn-1-billion-valuation-series-c-nicolas-kopp-accounting-ai/",
@@ -945,7 +1011,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T21:30:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/trump-casts-mail-ballot-florida-despite-efforts-restrict/story?id=135748506",
@@ -962,7 +1028,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T21:15:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.washingtonpost.com/education/2026/08/18/politics-behind-probes-antisemitism-ivy-league-schools-whistleblower-says/",
@@ -977,7 +1043,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T21:38:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/campaign/6036864-nixon-vindman-moody-florida-senate/",
@@ -992,7 +1058,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:03:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/08/18/entertainment/emily-simpson-outs-gina-kirschenheiters-prenup/",
@@ -1925,56 +1991,21 @@
     "is_new": false
   },
   {
-    "link": "https://pagesix.com/2026/08/15/celebrity-news/selena-gomezs-lawyer-responds-to-lawsuit-against-singer-her-mom/",
-    "source": "Page Six",
-    "title": "Selena Gomez\u2019s lawyer gives scathing response to \u2018fraud\u2019 lawsuit against singer and her mom",
-    "summary": "Investors who put $1.2 million into Wondermind claim Gomez and her mother \"falsely represented\" the company.",
-    "byline_count": 2,
+    "link": "https://www.scmp.com/news/china/diplomacy/article/3364500/chinese-national-jianfei-lu-sentenced-15-years-us92m-drug-money-scheme?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Chinese national Jianfei Lu sentenced to 15 years in US$92m drug money scheme",
+    "summary": "A Chinese national, described by the US Justice Department as a \u201cprolific\u201d money launderer, was sentenced to 15 years in prison on Tuesday and ordered to pay US$25 million for his role in a Chinese money laundering outfit with ties to Mexican drug gangs.\nThe agency said Jianfei Lu, aged 31, was involved in laundering more than US$92 million in illicit funds in a two-year period, collecting the money from US-based drug traffickers and depositing it into shell company bank accounts using both real...",
+    "byline_count": 1,
     "author_names": [
-      "Carson Blackwelder",
-      "Ian Mohr"
+      "Mark Magnier"
     ],
-    "total_score": 4,
+    "total_score": 3,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-08-16T04:27:43.318763+00:00",
-    "published_parsed": "2026-08-16T02:13:58+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/kenneth-fandrich-oregon-murder-steven-milner-veterinarian-security-video-masked-killer/",
-    "source": "CBS News",
-    "title": "Security video helps lead to a masked killer who tried to hide the crime",
-    "summary": "Dr. Steven Milner, a well-respected Oregon veterinarian, was accused of stalking and disguising himself before murdering Kenny Fandrich \u2014 the husband of a former employee. Security cameras played a key role in how detectives pieced the case together.",
-    "byline_count": 3,
-    "author_names": [
-      "Natalie  Morales",
-      "Chuck  Stevenson",
-      "Lauren  Clark"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-01-27T21:57:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/15/trump-supreme-court-white-house-ballroom-construction-missile-threat-air-force-one/",
-    "source": "Fortune",
-    "title": "Trump administration tells Supreme Court that ballroom construction must go on despite order to stop, citing recent missile threat on Air Force One",
-    "summary": "The solicitor general called it an \"integrated military complex, including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security.\"",
-    "byline_count": 3,
-    "author_names": [
-      "Michael Kunzelman",
-      "Lindsay Whitehurst",
-      "The Associated Press"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T20:04:07+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T02:09:53+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.cbsnews.com/news/florida-7th-district-gop-primary-results-cory-mills-ryan-elijah/",
@@ -1991,7 +2022,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:19:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/18/shane-gillis-wasnt-drinking-dos-equis-at-soccer-game/",
@@ -2350,21 +2381,278 @@
     "is_new": false
   },
   {
-    "link": "https://deadline.com/2026/08/john-higgins-scrubs-season-2-grant-abc-snl-1237041813/",
+    "link": "https://deadline.com/2026/08/abc-trump-fcc-lawsuit-five-claims-1237044686/",
     "source": "Deadline",
-    "title": "\u2018SNL\u2019 Alum John Higgins Joins \u2018Scrubs\u2019 For Major Role In Season 2 Of ABC Revival",
-    "summary": "EXCLUSIVE: Former Saturday Night Live writer/performer John Higgins, member of the Please Don&#8217;t Destroy comedy group, has joined the cast of ABC&#8217;s Scrubs for a major recurring role in the upcoming second season of the revival, Deadline has learned. He will play Grant, the new Chief Resident, who is envisioned as a thorn in J.D.&#8217;s [&#8230;]",
+    "title": "Five Standout Claims In ABC\u2019s First Amendment Lawsuit Against The FCC",
+    "summary": "ABC has been pushing back on FCC for several months now, but on Tuesday, it filed a First Amendment lawsuit, claiming that the agency&#8217;s regulatory actions and investigations were part of a Trump administration effort to punish it for its speech. The lawsuit goes through a narrative of Donald Trump&#8217;s attacks on the network, including [&#8230;]",
     "byline_count": 1,
     "author_names": [
-      "Nellie Andreeva"
+      "Ted Johnson"
     ],
-    "total_score": 3,
+    "total_score": 2,
     "matched_categories": [
-      "exclusivity"
+      "primary_source"
     ],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T23:41:29+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T01:19:04+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://pagesix.com/2026/08/18/entertainment/tom-hollands-massive-spider-man-brand-new-day-payday-revealed/",
+    "source": "Page Six",
+    "title": "Tom Holland poised to make a whopping $100M+ for \u2018Spider-Man: Brand New Day\u2019",
+    "summary": "The film has already passed the $2 billion milestone at the worldwide box office.",
+    "byline_count": 2,
+    "author_names": [
+      "Carson Blackwelder",
+      "Audrey Rock"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T03:19:30+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-19/senate-inquiry-announced-contaminated-blood-scandal/107053270",
+    "source": "ABC Australia",
+    "title": "Survivors of contaminated blood scandal applaud inquiry announcement",
+    "summary": "Survivors of Australia's contaminated blood scandal, which saw up to 20,000 people infected with HIV or hepatitis C, applaud the announcement of a Senate inquiry into the circumstances behind the medical disaster.",
+    "byline_count": 2,
+    "author_names": [
+      "Hannah Meagher",
+      "Jennifer Feller"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T02:08:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-19/seoul-call-to-end-war-south-north-korea/107045908",
+    "source": "ABC Australia",
+    "title": "Why Seoul has called for peace talks to formally end the Korean War",
+    "summary": "South Korean President Lee Jae Myung has once again called for talks to formally end the Korean War which was only frozen and not ended by an armistice in 1953. So how significant is Seoul's offer and what could it mean for peace on the Korean peninsula?",
+    "byline_count": 2,
+    "author_names": [
+      "Will Jackson",
+      "Angelica Silva"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T03:55:30+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/asia/australasia/article/3364503/new-zealand-passes-law-blocking-climate-action-against-companies-dark-day-democracy?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "New Zealand passes law blocking climate action against companies: \u2018dark day for democracy\u2019",
+    "summary": "New Zealand has passed hotly contested legislation to block lawsuits that seek to hold companies liable for climate change harm.\nThe right-wing coalition government\u2019s legal amendment cleared a final hurdle in parliament on Tuesday night by a margin of 67 votes to 53.\nThe law aimed to prevent civil litigation overriding its climate policy and undermining business confidence, the government said.\nIt was introduced in response to a lawsuit filed by indigenous Maori climate activist Michael Smith...",
+    "byline_count": 1,
+    "author_names": [
+      "Agence France-Presse"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T02:41:30+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.statnews.com/2026/08/18/heidi-overton-fda-commissioner-nominee-white-house-adviser/?utm_campaign=rss",
+    "source": "STAT",
+    "title": "STAT+: Trump expected to pick White House adviser Heidi Overton to lead FDA",
+    "summary": "Heidi Overton, a doctor and White House adviser, is expected to be President Trump's pick to lead the FDA.",
+    "byline_count": 2,
+    "author_names": [
+      "Lizzy Lawrence",
+      "Daniel Payne"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T01:18:25+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/2026-florida-primary-district-20-democratic-debbie-wasserman-schultz/",
+    "source": "CBS News",
+    "title": "Wasserman Schultz wins Democratic primary for Florida's District 20",
+    "summary": "The district includes predominantly Black communities in central and western Broward County.",
+    "byline_count": 2,
+    "author_names": [
+      "Sergio  Candido",
+      "CBS Miami  Team"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T03:28:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/2026-florida-primary-district-24-oliver-gilbert/",
+    "source": "CBS News",
+    "title": "Oliver Gilbert wins Democratic primary for Florida's District 24",
+    "summary": "The heavily Democratic district includes predominantly Black and Hispanic communities in northern Miami-Dade and southern Broward counties.",
+    "byline_count": 2,
+    "author_names": [
+      "Sergio  Candido",
+      "CBS Miami  Team"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T03:29:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/2026-election/two-trump-backed-candidates-lose-debbie-wasserman-schultz-wins-tuesday-rcna592392",
+    "source": "NBC News",
+    "title": "Two Trump-backed candidates lose, Debbie Wasserman Schultz wins in Tuesday\u2019s House primaries in Florida",
+    "summary": "GOP Rep. Cory Mills lost his primary, while Trump-backed Catalina Lauf also failed to win a primary for an open Republican seat.",
+    "byline_count": 2,
+    "author_names": [
+      "Ben Kamisar",
+      "Matt Dixon"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T01:00:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+    "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
+    "byline_count": 2,
+    "author_names": [
+      "Anoushka Mutanda-Dougherty ",
+      "Nardine Saad "
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T03:00:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c5yvdy6r031o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Fire engulfs Bermondsey waste centre",
+    "summary": "About 100 firefighters are tackling the blaze at a recycling centre on Landman Way.",
+    "byline_count": 2,
+    "author_names": [
+      "James W Kelly",
+      "Yang Tian"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T02:08:57+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c4gd1mez8zvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Suspended Reform UK member vows to fight to remain in party",
+    "summary": "Tim Montgomerie says his appeal will be a test of whether the party can tolerate free speech.",
+    "byline_count": 2,
+    "author_names": [
+      "Iain Watson",
+      "Yang Tian"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T03:34:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+    "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+    "byline_count": 2,
+    "author_names": [
+      "Nadine Yousif",
+      "Jessica Murphy"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T03:56:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
+    "source": "CNBC",
+    "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+    "summary": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
+    "byline_count": 2,
+    "author_names": [
+      "Anniek Bao",
+      "Lisa Kim"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T01:57:05+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
+    "source": "CNBC",
+    "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
+    "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
+    "byline_count": 2,
+    "author_names": [
+      "Evelyn Cheng",
+      "Jenny Lee"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-18T23:58:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/International/trump-announces-temporary-pause-new-canada-tariffs/story?id=135759598",
+    "source": "ABC News",
+    "title": "Trump announces temporary pause on new Canada tariffs",
+    "summary": "President Donald Trump said he is pausing the new 50% tariffs on Canadian goods set to go into effect, citing a deal between the between the U.S. and Canada.",
+    "byline_count": 2,
+    "author_names": [
+      "Michelle Stoddart",
+      "Max Zahn"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T03:34:28+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
+    "source": "The Guardian US",
+    "title": "Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race",
+    "summary": "<p>Nixon bested Alexander Vindman to win Democratic nomination and now faces Republican Ashley Moody in November</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/18/florida-primary-results-governor-senate\">Trump-backed Byron Donalds wins Republican primary in race to succeed Florida governor DeSantis</a></p></li></ul><p>In an upset for the Democratic establishment, progressive Angie Nixon won the party\u2019s US Senate primary in Florida, beating former army intelligence officer Alexander Vindman.</p><p>Nixon, a state representative and member of the Democratic Socialists of America, had significantly less funding going into the primary \u2013 with $975,000 to Vindman\u2019s $16.3m at the end of July, according to <a href=\"https://floridapolitics.com/archives/814438-angie-nixon-alex-vindman-fight-for-the-chance-to-challenge-ashley-moody-in-november/\">Florida Politics</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results\">Continue",
+    "byline_count": 2,
+    "author_names": [
+      "Richard Luscombe",
+      "Sam Levin"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T00:26:21+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/08/18/diane-keaton-mansion-sells-for-millions/",
@@ -2381,7 +2669,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T21:36:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/08/18/celebrity-news/hayden-panettiere-filmed-peta-ad-weeks-before-her-tragic-death-watch/",
@@ -2397,7 +2685,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:12:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/18/anson-williams-ex-says-he-owes-her-money/",
@@ -2414,7 +2702,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T23:59:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-19/ricky-henderson-genitals-exposure-lawsuit-afl-fox-sports/107050690",
@@ -2430,7 +2718,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T20:16:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-19/pots-women-diagnosis-rural-regional-patients-healthcare-sa/107016870",
@@ -2446,7 +2734,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T21:00:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-19/federal-government-great-western-highway-funding/107052766",
@@ -2462,7 +2750,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T23:18:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-19/wildflower-chickens-experiment-grazier-improves-soil-health/107032622",
@@ -2478,7 +2766,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T23:38:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-18/beverly-hills-substitute-teacher-said-she-was-fired-over-anti-trump-posts-now-shes-suing-district",
@@ -2495,7 +2783,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T22:20:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
@@ -2511,7 +2799,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss",
@@ -2527,7 +2815,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T21:25:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/florida-primary-district-25-democratic-jared-moskowitz/",
@@ -2543,7 +2831,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:02:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/primaries-3-states-tuesday-narrow-field-key-senate/story?id=135721707",
@@ -2559,7 +2847,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T23:23:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/man-accused-nyc-synagogue-attack-faces-federal-hate/story?id=135752029",
@@ -2575,7 +2863,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T22:06:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/articles/stake-meta-youth-addiction-trial",
@@ -2592,7 +2880,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:01:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/articles/quickbooks-challengers-fetching-1-billion-valuations",
@@ -2608,7 +2896,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:31:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html",
@@ -2624,7 +2912,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T23:25:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
@@ -2641,7 +2929,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T22:11:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cn8nmm51l49o?at_medium=RSS&at_campaign=rss",
@@ -2657,7 +2945,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:28:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
@@ -2673,7 +2961,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-19T00:07:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/policy/technology/6036324-meta-kids-safety-trial-california/",
@@ -2686,7 +2974,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T20:30:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/administration/6036362-investigating-dea-fentanyl-tactics/",
@@ -2701,7 +2989,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T20:58:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/6036665-4-states-face-off-in-trial-against-meta/",
@@ -2714,7 +3002,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T21:52:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.semafor.com/article/08/18/2026/meta-social-media-addiction-trial-opens",
@@ -2731,7 +3019,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T22:39:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/08/18/celebrity-news/hayden-panettieres-estranged-mom-reacts-to-nashville-actress-death/",
@@ -6065,293 +6353,38 @@
     "is_new": false
   },
   {
-    "link": "https://www.abc.net.au/news/2026-08-16/hands-on-studio-celebrates-30-years-julia-gillard-portrait/107041876",
-    "source": "ABC Australia",
-    "title": "Hands On Studio turns 30 as artist hopes Gillard portrait hangs in parliament",
-    "summary": "Artist Stephen Corsini has been attending Canberra's Hands On Studio for 30 years. He hopes his portrait of Australia's first female prime minister will one day hang in Parliament House.",
-    "byline_count": 2,
-    "author_names": [
-      "Lois Maskiell",
-      "Lish  Fejer"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T04:27:43.318763+00:00",
-    "published_parsed": "2026-08-16T01:16:57+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-16/schools-lockdown-violence-threats-wa/107043536",
-    "source": "ABC Australia",
-    "title": "Violent threats surge in WA schools, forcing more lock downs, report shows",
-    "summary": "Public schools were forced into lockdown 1,300 times last year, according to figures tabled in Parliament this week, and most of those were triggered by violent threats made against students or staff.",
-    "byline_count": 2,
-    "author_names": [
-      "Lucy Murray",
-      "Andrew Hanlon"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T04:27:43.318763+00:00",
-    "published_parsed": "2026-08-16T04:21:36+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
-    "source": "The Guardian US",
-    "title": "Destroyed crops, riverbed cyclists and a \u2018Rock of Starvation\u2019: how drought has devastated the Danube",
-    "summary": "<p>The Guardian travelled 100 miles along the EU\u2019s longest river, where some residents are struggling to secure drinking water</p><p>For centuries, the rock was seen as a warning. When it began to emerge from the Danube, beneath Gell\u00e9rt Hill in Budapest, it meant the river had fallen so low that floating mills could no longer operate, crops were probably failing, and hunger would almost certainly follow. That is why, in the Hungarian capital, where over time the boulder became little more than a legend, it was named <em><a href=\"https://mapy.com/en/?source=osm&amp;id=149291974\">\u00cdns\u00e9g-szikla</a></em> \u2013 the Rock of Starvation.</p><p>Today, amid record-low water levels on the Danube, the rock has not only emerged from the water, but surfaced almost in its entirety, along with the sandy riverbed on which it rests, astonishing geologists and government scientists sent to examine it. And, much as the rock was said to warn, Hungary is now facing an unprecedented energy crisis that has forced ",
-    "byline_count": 2,
-    "author_names": [
-      "Lorenzo Tondo",
-      "David Levene"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T04:27:43.318763+00:00",
-    "published_parsed": "2026-08-16T04:00:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
-    "source": "ABC News",
-    "title": "Va. State shooting: Suspect arrested, found hiding in dorm closet, police say",
-    "summary": "A suspect in the shooting at Virginia State University early Saturday that left five people wounded, including one critically, has been arrested, according to police.",
-    "byline_count": 2,
-    "author_names": [
-      "Nadine El-Bawab",
-      "Victoria Arancio"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T04:27:43.318763+00:00",
-    "published_parsed": "2026-08-16T03:40:13+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/all-things-spidey-d23-friendly-neighborhood-amazing-friends-1237040751/",
-    "source": "Deadline",
-    "title": "All Things Spidey At D23: Tom Holland, Anniversary Comic Book, \u2018Friendly Neighborhood\u2019 Sneak-Peak, \u2018Amazing Friends\u2019 Renewal & Upcoming Special \u2018Spidey and the Avengers: Halloween Team-Up!\u2019",
-    "summary": "Everyone grab your webshooters because it&#8217;s undoubtedly Spidey season.&#160; During a Saturday panel at D23 expo, a group of presenters that include Marvel studio&#8217;s president Kevin Feige, Spider-Man: Brand New Day actor Jacob Batalon and Disney+&#8217;s Your Friendly Neighborhood Spider-Man showrunner Jeff Trammell hit the stage to celebrate 65 years of Spider-Man. Though Peter doesn&#8217;t [&#8230;]",
-    "byline_count": 2,
-    "author_names": [
-      "Destiny Jackson",
-      "Glenn Garner"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T21:26:43+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/08/15/royal-family/prince-harry-meghan-markle-advised-to-disappear-professionally-after-latest-business-failure/",
-    "source": "Page Six",
-    "title": "Prince Harry and Meghan Markle advised to \u2018disappear professionally\u2019 after latest business fail to salvage reputation",
-    "summary": "The Duke and Duchess of Sussex's \"Cookie Queens\" doc crumbled at the box office.",
-    "byline_count": 2,
-    "author_names": [
-      "Antoinette Bueno",
-      "Teresa Roca"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T21:39:49+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/08/15/parents/elizabeth-olsen-steps-out-with-newborn-after-quietly-welcoming-first-child/",
-    "source": "Page Six",
-    "title": "Elizabeth Olsen steps out with newborn after quietly welcoming first child with husband Robbie Arnett",
-    "summary": "The couple were spotted Saturday in Los Angeles, with the \"WandaVision\" actress carrying an infant on their walk.",
-    "byline_count": 2,
-    "author_names": [
-      "Riley Cardoza",
-      "Audrey Rock"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-16T00:38:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-16/dallas-mcinerney-at-icac-again-next-week-as-probe-nears-halfway/107039224",
-    "source": "ABC Australia",
-    "title": "Memory lapses, fake invoices and a reprimand: Key moments from ICAC",
-    "summary": "As Operation Rosny almost hits the halfway mark, here is a look back at the key moments from the week and what is coming next.",
-    "byline_count": 2,
-    "author_names": [
-      "Chantelle Al-Khouri",
-      "Pablo Vinales"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T21:13:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-16/bels-garden-young-migrants-refugees-mental-health-headspace/107032894",
-    "source": "ABC Australia",
-    "title": "Gardening is about more than food for young people learning English",
-    "summary": "A school for new migrants partners with local health organisations to get students' hands in the dirt.",
-    "byline_count": 2,
-    "author_names": [
-      "Alice Walker",
-      "Philippe Perez"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T22:01:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-16/new-zealand-to-wa-midwest-wildflowers-tourism/107030124",
-    "source": "ABC Australia",
-    "title": "Memory of late partner blooms in sharing wildflowers",
-    "summary": "Leonie Aspin shares her wonder of nature and honours the memory of her partner by travelling from New Zealand to rural WA each year as the wildflowers bloom.",
-    "byline_count": 2,
-    "author_names": [
-      "Chloe Henville",
-      "Chris Lewis"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-16T00:01:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/15/harvard-management-fund-endowment-spacex-stake-university-california-north-carolina/",
-    "source": "Fortune",
-    "title": "Harvard fund discloses $2.2 billion stake in Musk\u2019s SpaceX",
-    "summary": "Others that have profited include the University of California\u2019s investment arm as well as the University of North Carolina and\u00a0Washington University in St. Louis.",
-    "byline_count": 2,
-    "author_names": [
-      "Janet Lorin",
-      "Bloomberg"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T22:52:59+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/15/alibaba-qwen-open-ai-models-3-billion-downloads-meta-google/",
-    "source": "Fortune",
-    "title": "Alibaba AI models hit 3 billion downloads, passing Meta, Google",
-    "summary": "Qwen, Alibaba\u2019s family of AI models, has open-sourced more than 460 models and its ecosystem has spawned 300,000-plus derivatives.",
-    "byline_count": 2,
-    "author_names": [
-      "Saritha Rai",
-      "Bloomberg"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T22:39:46+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/08/15/how-to-manage-money-in-college-student-loans-building-credit-saving/",
-    "source": "Fortune",
-    "title": "Seven ways college students can manage their finances \u2014 because money decisions impact financial security when starting a first job after graduation",
-    "summary": "If you\u2019re starting college this fall or you\u2019re currently a student, here are some expert recommendations.",
-    "byline_count": 2,
-    "author_names": [
-      "Adriana Morga",
-      "The Associated Press"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T23:08:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-    "summary": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
-    "byline_count": 2,
-    "author_names": [
-      "Mariem Bah",
-      "Zsombor Peter"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-16T00:00:45+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-    "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-    "byline_count": 2,
-    "author_names": [
-      "Brandon Drenon",
-      "Ben Rich"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T23:34:24+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Reform UK plan would overhaul welfare system with \u00a350bn in savings",
-    "summary": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
-    "byline_count": 2,
-    "author_names": [
-      "Harry Farley",
-      "Imogen James"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-16T00:39:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/selena-gomez-wondermind-mental-health-startup-lawsuit-2026-8",
-    "source": "Business Insider",
-    "title": "What investors say went wrong at Selena Gomez's mental health startup Wondermind",
-    "summary": "Selena Gomez launched the startup in 2021 alongside her mother, Mandy Teefey, and Daniella Pierson, a business partner.",
+    "link": "https://www.tmz.com/2026/08/18/impractical-jokers-perform-stunt-at-empire-state-building/",
+    "source": "TMZ",
+    "title": "'Impractical Jokers' Mop Outside of Empire State Building in Biggest Stunt Yet",
+    "summary": "The stars of \"Impractical Jokers\" just gave the Empire State Building a shine ... and it's as freaking scary as it is ballsy! Check out the clip exclusive to TMZ ... James&nbsp;\u201cMurr\u201d Murray lost a challenge ... so Sal Vulcano and Brian \u201cQ\u201d&hellip;",
     "byline_count": 1,
     "author_names": [
-      "Lauren Edmonds"
+      "TMZ Staff"
     ],
-    "total_score": 2,
+    "total_score": 1,
     "matched_categories": [
-      "primary_source"
+      "exclusivity"
     ],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T20:43:39+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T01:00:37+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.businessinsider.com/ferrero-us-candy-empire-nutella-kinder-american-factories-2026-8",
-    "source": "Business Insider",
-    "title": "How Nutella maker Ferrero is spending billions to build a candy empire in America",
-    "summary": "We went inside Ferrero's US factories and R&D lab to see how the Italian company behind Nutella is spending billions to win over American consumers.",
-    "byline_count": 2,
+    "link": "https://www.twz.com/land/south-koreas-highly-mobile-155mm-artillery-system-wins-u-s-army-howitzer-contract",
+    "source": "The War Zone",
+    "title": "South Korea\u2019s Highly Mobile 155mm Artillery System Wins U.S. Army Howitzer Contract",
+    "summary": "<p>The Army wants a new wheeled self-propelled 155mm howitzer to replace its towed M777s, offering a boost in range and mobility.</p>\n<p>The post <a href=\"https://www.twz.com/land/south-koreas-highly-mobile-155mm-artillery-system-wins-u-s-army-howitzer-contract\">South Korea&#8217;s Highly Mobile 155mm Artillery System Wins U.S. Army Howitzer Contract</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+    "byline_count": 1,
     "author_names": [
-      "Sarah Andersen",
-      "Havovi Cooper"
+      "Joseph Trevithick"
     ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-16T00:00:56+00:00",
-    "is_new": false
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
+    "published_parsed": "2026-08-19T01:12:38+00:00",
+    "is_new": true
   },
   {
     "link": "https://variety.com/2026/digital/news/clive-barker-kickstarter-series-library-of-the-dead-1236837367/",
@@ -6368,7 +6401,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T22:10:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/leslie-grossman-cast-power-origins-flossie-1237043664/",
@@ -6385,7 +6418,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T21:52:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/david-heyman-film-deal-amazon-mgm-studios-exit-warner-bros-1237044515/",
@@ -6402,7 +6435,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T20:15:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/business/article/3364462/after-years-macau-firm-opts-out-hong-kong-renewal-project-seeks-us153m-site?utm_source=rss_feed",
@@ -6419,7 +6452,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T23:00:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.twz.com/air/new-details-emerge-about-ukraines-homegrown-equalizer-glide-bomb",
@@ -6436,7 +6469,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T23:00:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/video/dramatic-video-shows-deck-collapse-injuring-u-s-marshals-268497989825",
@@ -6453,7 +6486,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T22:28:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/crater-spacex-rocket-booster-crash-moon-nasa-images/",
@@ -6468,7 +6501,7 @@
     ],
     "first_seen_at": "2026-08-19T00:43:10.939317+00:00",
     "published_parsed": "2026-08-18T22:53:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/spider-man-brand-new-day-800m-record-1237044492/",
@@ -7469,57 +7502,6 @@
     ],
     "first_seen_at": "2026-08-16T12:21:30.341121+00:00",
     "published_parsed": "2026-08-16T11:30:21+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/fired-defense-minister-mykhailo-fedorov-ukraine-technological-war-russia/",
-    "source": "CBS News",
-    "title": "Fired Ukrainian defense minister says Ukraine is in a \"technological war\" with Russia",
-    "summary": "Mykhailo Fedorov, the former Ukrainian defense minister who is widely credited as the architect of the country's modern war-fighting strategy, told CBS News in an exclusive interview that he believes Ukraine is in a \"technological war\" with Russia.",
-    "byline_count": 1,
-    "author_names": [
-      "Aidan  Stretch"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-16T04:27:43.318763+00:00",
-    "published_parsed": "2026-08-16T02:18:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/scott-foley-returning-scrubs-sean-kelly-season-2-revival-1237041064/",
-    "source": "Deadline",
-    "title": "Scott Foley Returning To \u2018Scrubs\u2019 As Sean Kelly In Season 2 Of ABC Revival To Revisit Classic Storyline",
-    "summary": "EXCLUSIVE: Cue the &#8220;Nobody cares, Sean&#8221; memes &#8212; Scott Foley is coming back to Scrubs. He will reprise his fan-favorite character Sean Kelly on the upcoming second season of the ABC revival. Foley&#8217;s return is being announced today at D23&#8217;s &#8220;Scrubs: Scrubbing Back&#8221; panel moderated by Foley and featuring series stars/executive producers Zach Braff (John [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Nellie Andreeva"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T21:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/china/science/article/3364155/chinas-1mw-perovskite-solar-farm-beats-silicon-system-industrial-scale-test?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "China\u2019s 1MW perovskite solar farm beats silicon system in industrial-scale test",
-    "summary": "A China-led team has cleared the last major hurdle in the race to commercialise the most promising alternative to conventional silicon solar technology, paving the way for the next generation of low-cost, high-efficiency panels to be made on an industrial scale.\nResearchers from China and Canada, led by Nanjing University, have developed a super-stable coating for perovskite \u2013 an ultra-thin, lightweight material that can be printed onto large surfaces \u2013 suitable for patching the tiny defects...",
-    "byline_count": 1,
-    "author_names": [
-      "Ling Xin"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-16T00:46:01.129418+00:00",
-    "published_parsed": "2026-08-15T22:00:10+00:00",
     "is_new": false
   }
 ]
