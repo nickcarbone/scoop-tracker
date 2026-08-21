@@ -75,23 +75,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.cbsnews.com/news/california-high-speed-rail-inspector-general-ab1608-veto-threat/",
-    "source": "CBS News",
-    "title": "Newsom may veto bill giving California high-speed rail watchdog more power, sources say",
-    "summary": "Critics called it the \"anti-transparency\" bill. Newsom quietly enacted the controversial part and may now veto the part the rail watchdog says he needs, sources tell CBS California.",
-    "byline_count": 1,
-    "author_names": [
-      "Julie  Watts"
-    ],
-    "total_score": 10,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T03:39:23+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.latimes.com/sports/story/2026-08-20/la-sp-mark-walter-dodgers",
     "source": "Los Angeles Times",
     "title": "The Dodgers are Mark Walter's crown jewel. Can he hold on to it amid federal probe?",
@@ -201,7 +184,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T21:49:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/20/senate-tiktok-experiment/",
@@ -299,24 +282,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/08/17/hayden-panettieres-boyfriend-brian-hickerson-domestic-violence-case-motions-denied/",
-    "source": "TMZ",
-    "title": "Hayden Panettiere's BF Brian Hickerson Denied Reduced Charges in DV Case Involving Her",
-    "summary": "Brian Hickerson suffered a legal setback just days before the death of his on-again, off-again girlfriend, Hayden Panettiere ... TMZ has confirmed. A judge denied Hickerson\u2019s request to have his past felony domestic violence charges reduced to&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 8,
-    "matched_categories": [
-      "exclusivity",
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T03:08:54+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.cbsnews.com/news/albany-ny-alleged-attack-plot/",
     "source": "CBS News",
     "title": "Woman accused of plotting \"major attack\" on New York State Capitol building",
@@ -333,7 +298,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T22:36:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/aug/20/fake-polling-website-median-strategies",
@@ -352,7 +317,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T21:33:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/china/diplomacy/article/3364714/malaysias-anwar-visit-china-next-month-eye-building-trade-ties?utm_source=rss_feed",
@@ -425,6 +390,24 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/politics/donald-trump/president-fixer-michael-cohen-reunite-radio-show-rcna593535",
+    "source": "NBC News",
+    "title": "Trump and former fixer Michael Cohen bury the hatchet",
+    "summary": "The president and his former fixer put their contentious past behind them and reunited on Cohen\u2019s radio show after years of legal feuds and name calling.",
+    "byline_count": 4,
+    "author_names": [
+      "Adam Reiss",
+      "Sarah Dean",
+      "Dareh Gregorian",
+      "Raquel Coronell Uribe"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T01:32:01+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://fortune.com/2026/08/20/donald-trump-data-center-midterm-races/",
     "source": "Fortune",
     "title": "Trump oblivious to voter fury about data centers, saying \u2018the jobs are enormous and the money paid, the taxes paid, are just enormous\u2019",
@@ -440,7 +423,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T19:49:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/20/scott-bessent-treasury-interventionism/",
@@ -1151,21 +1134,22 @@
     "is_new": false
   },
   {
-    "link": "https://www.businessinsider.com/stripe-is-finalizing-8b-openrouter-purchase-investors-could-gain-2026-8",
-    "source": "Business Insider",
-    "title": "Andreessen Horowitz could make close to $1.5 billion from OpenRouter's potential sale to Stripe",
-    "summary": "Stripe's potential acquisition of AI startup OpenRouter for $8 billion could create big gains for A16z and Menlo Ventures.",
-    "byline_count": 1,
+    "link": "https://www.abc.net.au/news/2026-08-21/origin-energy-hack-update-60-customers-bank-account-access/107062636",
+    "source": "ABC Australia",
+    "title": "Origin Energy confirms some customers' bank account details accessed in hack",
+    "summary": "Origin Energy says as many as 60 customers had their full bank account numbers accessed by a hacker in July, but customer data has not been leaked or disclosed publicly.",
+    "byline_count": 2,
     "author_names": [
-      "Katie Roof"
+      "David Taylor",
+      "Kate Ainsworth"
     ],
-    "total_score": 6,
+    "total_score": 5,
     "matched_categories": [
-      "sourcing_depth"
+      "primary_source"
     ],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T02:55:50+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T01:06:18+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/surrogate-baby-texas-parents-wishes-denies-political-theater-accusatio-rcna593353",
@@ -1183,7 +1167,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T21:01:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/youtube-offering-financial-incentives-to-creators-stay-off-netflix-2026-8",
@@ -1311,6 +1295,40 @@
     "is_new": false
   },
   {
+    "link": "https://www.scmp.com/news/world/article/3364744/chinas-smart-diabetes-probiotics-life-sentence-hui-ka-yan-scmps-7-highlights?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "China\u2019s \u2018smart\u2019 diabetes probiotics; life sentence for Hui Ka-yan: SCMP\u2019s 7 highlights",
+    "summary": "We have selected seven stories from this week\u2019s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Chinese team aims to put \u2018smart\u2019 diabetes probiotic on US shelves within 2 years\nChinese researchers have engineered a probiotic that could make diabetes care as simple as drinking a cup of yoghurt or swallowing a capsule.\n2. Saga of...",
+    "byline_count": 1,
+    "author_names": [
+      "SCMP"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T04:15:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/national-security/uss-lincoln-heads-home-extended-deployment-middle-east-rcna593639",
+    "source": "NBC News",
+    "title": "USS Lincoln heads home after extended deployment to the Middle East",
+    "summary": "Service members and their families had complained about deteriorating morale on the ship as its mission was extended to support the Iran war.",
+    "byline_count": 3,
+    "author_names": [
+      "Courtney Kube",
+      "Mosheh Gains",
+      "Kyla Guilfoil"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T00:50:14+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://deadline.com/2026/08/paramount-warner-bros-divides-hollwyood-threats-to-leave-1237045520/",
     "source": "Deadline",
     "title": "The ParaBros Backlash: Threats To Leave L.A. & An AG Who Won\u2019t Back Down Divide Hollywood",
@@ -1325,7 +1343,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T20:30:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/08/20/entertainment/cynthia-bailey-claims-vicki-gunvalson-had-no-idea-who-she-was-during-rhugt-party/",
@@ -1342,7 +1360,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T21:26:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://wisconsinwatch.org/2026/08/trump-embraces-data-centers-as-backlash-shapes-races-in-wisconsin-and-nationwide/",
@@ -1359,7 +1377,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T21:24:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
@@ -1376,7 +1394,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-21T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/20/opm-director-scott-kupor-record-video-blank-wall-work-from-home-return-to-office/",
@@ -1394,7 +1412,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T20:31:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/hayden-panettiere-neutrogena-postpartum-depression-backlash/",
@@ -1411,7 +1429,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T23:03:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/trump-admin-sends-1st-deportation-flight-haiti-ending/story?id=135820753",
@@ -1428,7 +1446,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-21T00:34:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
@@ -1445,7 +1463,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T23:10:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/abc-trump-fcc-lawsuit-hearing-1237046311/",
@@ -2782,38 +2800,38 @@
     "is_new": false
   },
   {
-    "link": "https://pagesix.com/2026/08/17/celebrity-news/hayden-panettieres-boyfriend-brian-hickerson-dealt-legal-blow-in-domestic-abuse-case-days-before-her-death/",
-    "source": "Page Six",
-    "title": "Hayden Panettiere\u2019s boyfriend Brian Hickerson dealt legal blow in domestic abuse case days before her death",
-    "summary": "The two had a tumultuous on-again, off-again relationship marred by domestic violence.",
-    "byline_count": 3,
+    "link": "https://deadline.com/2026/08/chris-hansen-turned-away-primetime-refusing-sign-nda-1237047193/",
+    "source": "Deadline",
+    "title": "Chris Hansen Was Turned Away From \u2018Primetime\u2019 Screening After Refusing To Sign Standard NDA, Not \u201cSign Away\u201d His Rights",
+    "summary": "After Chris Hansen claimed he was turned away from a screening A24&#8217;s Primetime, it would appear he refused to sign a standard NDA. On Thursday, a source told Deadline that the former To Catch a Predator host was not asked to &#8220;sign away my rights&#8221; in order to see the Lance Oppenheim-helmed thriller about him, [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Antoinette Bueno",
-      "Nate Grant",
-      "Jared Downing"
+      "Glenn Garner"
     ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T01:49:06+00:00",
-    "is_new": false
+    "total_score": 3,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T03:02:34+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.abc.net.au/news/2026-08-18/the-taboo-experience-of-motherhood-regret/107004982",
-    "source": "ABC Australia",
-    "title": "The taboo experience of motherhood regret",
-    "summary": "Many parents have moments where they miss their life pre-kids. But what's it like when that feeling isn't fleeting? And how does it feel to carry something, that if said out loud, comes at a significant social cost?",
-    "byline_count": 3,
+    "link": "https://www.businessinsider.com/gwyneth-paltrow-sam-altman-private-dinner-invitation-backlash-meme-2026-8",
+    "source": "Business Insider",
+    "title": "Gwyneth Paltrow is going full meme over that \u2018private, off-the-record al-fresco dinner\u2019",
+    "summary": "Some social media users appeared confused by Gwyneth Paltrow's attempt to address the Sam Altman dinner backlash with spoof invitations.",
+    "byline_count": 1,
     "author_names": [
-      "Kellie Scott",
-      "Elsa Silberstein",
-      "Sarah Mashman"
+      "Amanda Goh"
     ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T02:04:24+00:00",
-    "is_new": false
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T04:00:47+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/08/20/drake-goth-girl-pinkchyu-toronto-castle-date/",
@@ -2830,7 +2848,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T21:00:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/20/ariana-grande-tells-trump-to-stop-using-her-music-for-propaganda/",
@@ -2847,7 +2865,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T22:46:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-20/pasadena-peacock-beaten-by-postal-worker-video-shows-neighbors-outraged",
@@ -2864,7 +2882,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T22:54:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/economy/china-economy/article/3364688/despite-us-sanctions-xinjiang-cotton-chinas-textile-industry-weathers-storm?utm_source=rss_feed",
@@ -2881,7 +2899,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T22:00:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364740/us-charges-woman-isis-inspired-plot-blow-new-york-state-capitol?utm_source=rss_feed",
@@ -2898,7 +2916,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T23:21:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.twz.com/sea/uss-george-washingtons-mideast-arrival-highlights-strain-on-carrier-force",
@@ -2916,7 +2934,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T23:10:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-21/rupert-murdoch-nevada-trust-battle-court-documents-unsealed/107059904",
@@ -3630,6 +3648,131 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-08-21/fiji-fuel-contamination-impacts-qantas-virgin-flights/107061960",
+    "source": "ABC Australia",
+    "title": "Virgin flights forced to refuel halfway to Fiji after fuel contamination",
+    "summary": "In what one pilot described to the ABC as a \"very rare\" situation, airlines are being asked to fuel up at alternative airports and bring in stockpiles of fuel to Fiji's international airport.",
+    "byline_count": 2,
+    "author_names": [
+      "Lice Movono",
+      "Nick Sas"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T00:58:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-21/busselton-health-study-turns-60/107054940",
+    "source": "ABC Australia",
+    "title": "How a world-leading health study in a small town helped shape modern medicine",
+    "summary": "Since 1966, the Busselton Health Study has made several life-saving medical advancements possible, changing the way some chronic diseases are treated around the world.",
+    "byline_count": 2,
+    "author_names": [
+      "Madigan Landry",
+      "Neve Brissenden"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T01:15:36+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-21/perth-man-paul-dougan-bali-assault-death/107062456",
+    "source": "ABC Australia",
+    "title": "Perth grandfather dies after alleged assault in Bali bar",
+    "summary": "Paul Dougan was admitted to a Bali hospital more than two weeks after he was allegedly attacked, and was pronounced dead on Thursday.",
+    "byline_count": 2,
+    "author_names": [
+      "Tim Swanston",
+      "Blake Kagi"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T01:03:41+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-21/child-dies-house-fire-swansea-heads-investigation/107062762",
+    "source": "ABC Australia",
+    "title": "5yo girl dies in house fire despite rescuers' 'extraordinary bravery'",
+    "summary": "A man and a teenage boy are being praised for their efforts in trying to break into a home to rescue a five-year-old girl who perished in a house fire near Newcastle.",
+    "byline_count": 2,
+    "author_names": [
+      "Bridget Murphy",
+      "Ben Clifford"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T02:42:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/trump-administration/navy-discusses-renaming-aircraft-carrier-trump-black-uss-doris-miller-rcna593667",
+    "source": "NBC News",
+    "title": "Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor",
+    "summary": "The USS Doris Miller would be the first aircraft carrier named after a Black and an enlisted sailor. The decision to name the carrier after Miller was made during Trump\u2019s first term.",
+    "byline_count": 2,
+    "author_names": [
+      "Courtney Kube",
+      "Mosheh Gains"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T02:41:10+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Meghan could return to acting once back in UK",
+    "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+    "byline_count": 2,
+    "author_names": [
+      "Daniela Relph",
+      "James Chater"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T02:52:29+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "What happened to Harry and Meghan's American dream?",
+    "summary": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
+    "byline_count": 2,
+    "author_names": [
+      "Shaimaa Khalil",
+      "Regan Morris"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T02:57:34+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/campaign/6042780-moulton-markey-massachusetts-debate-summary/",
+    "source": "The Hill",
+    "title": "Markey, Moulton lock horns ahead of Massachusetts Senate primary: 3 takeaways from last debate",
+    "summary": "Rep. Seth Moulton and Sen. Ed Markey exchanged blows from the onset of the final Massachusetts Democratic Senate primary debate as the 47-year-old House lawmaker mounts a longshot bid to oust his 80-year-old progressive opponent.&#160; Moulton and Markey appeared for their last televised debate on Thursday, which was hosted by WCVB-TV, WBUR-FM and The Boston&#8230;",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-21T04:30:15.745170+00:00",
+    "published_parsed": "2026-08-21T02:45:57+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://deadline.com/2026/08/wga-rips-la-mayor-karen-bass-paramount-wbd-merger-1237046818/",
     "source": "Deadline",
     "title": "WGA Rips L.A. Mayor Karen Bass For Supporting \u201cFalse Choice\u201d In Paramount-WBD Merger Tangle",
@@ -3644,7 +3787,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T20:55:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/",
@@ -3661,7 +3804,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T22:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-21/nsw-bird-flu-detection-merimbula-narooma/107057502",
@@ -3677,7 +3820,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T20:59:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-21/coronial-inquest-death-of-indigenous-boy-skip-bin-port-lincoln/107056860",
@@ -3693,7 +3836,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T21:55:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-20/boyle-heights-warehouse-fire-health-report",
@@ -3710,7 +3853,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T21:35:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/us/article/3364739/us-designates-academic-min-zin-wrongfully-detained-china?utm_source=rss_feed",
@@ -3727,7 +3870,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T22:07:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
@@ -3743,7 +3886,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T21:18:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/20/us-army-unit-four-day-pass-grand-theft-auto-vi/",
@@ -3759,7 +3902,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T19:48:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/nyc-renters-blame-price-surge-on-compass-in-antitrust-class-action/",
@@ -3774,7 +3917,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T20:34:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/trump-administration/army-unit-reenlist-grand-theft-auto-game-rcna593589",
@@ -3790,7 +3933,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T23:50:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/aisha-wahab-califonia-district-14-special-election-eric-swalwell/",
@@ -3806,7 +3949,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-21T00:31:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c62vyz2x065o?at_medium=RSS&at_campaign=rss",
@@ -3822,7 +3965,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-21T00:23:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
@@ -3838,7 +3981,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T22:59:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
@@ -3854,7 +3997,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T22:43:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
@@ -3870,7 +4013,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-21T00:33:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.vox.com/podcasts/499833/wnba-culture-wars-trans-athletes-sophie-cunningham-caitlin-clark",
@@ -3886,7 +4029,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T20:55:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff/",
@@ -3899,7 +4042,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T22:39:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/6042671-rogers-pushing-for-one-year-pause-on-data-center-construction/",
@@ -3912,7 +4055,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T23:04:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/aug/20/natalie-harp-security-clearance",
@@ -3928,7 +4071,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T20:25:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/news/charles-melton-naruto-movie-kakashi-1236839318/",
@@ -8628,87 +8771,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/08/17/santos-salazar-released-from-jail/",
-    "source": "TMZ",
-    "title": "Influencer Santos Salazar Released From Jail After Attempted Murder Arrest",
-    "summary": "Influencer Santos Salazar is a free man, 'cause he has been released from jail after spending several days behind bars in connection with an alleged attempted murder investigation, TMZ has learned. We got photos of Santos leaving an L.A. jail&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T02:05:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-18/fadi-haddara-shooting-tobacco-underworld-violence/107046822",
-    "source": "ABC Australia",
-    "title": "A driveway shooting that could spark trouble in Melbourne's 'big war'",
-    "summary": "The attempted assassination of gangland family patriarch Fadi Haddara may trigger more violence between Melbourne's crime networks, law enforcement and underworld sources fear.",
-    "byline_count": 2,
-    "author_names": [
-      "Danny Tran",
-      "Olivia Jenkins"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T03:36:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-18/shane-hryhorec-disability-advocate-removed-from-virgin-flight/107049174",
-    "source": "ABC Australia",
-    "title": "Disability advocate removed from Virgin flight over wheelchair motor dispute",
-    "summary": "Virgin Australia says it is reviewing an incident where a wheelchair user was removed from a flight after his battery-powered motor could not be stored in overhead lockers on board.",
-    "byline_count": 2,
-    "author_names": [
-      "Matthew Ward Agius",
-      "Sophie Landau"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T03:34:21+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-18/peter-malinauskas-domestic-violence-royal-commission-plan/107050350",
-    "source": "ABC Australia",
-    "title": "SA reveals five-year plan to roll out domestic violence royal commission reforms",
-    "summary": "The SA government has committed to a five-year timeline to implement recommendations from the recent Royal Commission into Domestic, Family and Sexual Violence, as it forges ahead with restrictions on alcohol home delivery sales.",
-    "byline_count": 2,
-    "author_names": [
-      "Thomas Kelsall",
-      "Daniel Keane"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T04:23:32+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/Business/wireStory/shakira-makes-surprise-visit-earthquake-damaged-colombia-commits-135726206",
-    "source": "ABC News",
-    "title": "Shakira makes surprise visit to earthquake-damaged Colombia",
-    "summary": "Colombian superstar Shakira pledged to help build at least 10 new schools in a remote region of her home country after a devastating earthquake struck last week, killing hundreds and affecting thousands of educational sites",
-    "byline_count": 2,
-    "author_names": [
-      "MANUEL RUEDA Associated Press",
-      "GABRIELA AOUN ANGUEIRA Associated Press"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T02:47:01+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://deadline.com/2026/08/california-film-tax-credits-latest-1237045968/",
     "source": "Deadline",
     "title": "Sacramento\u2019s Mad Legislative Dash To Fix Tax Credits SNAFU, Get Post-Production Incentive Passed, Or Not",
@@ -8723,7 +8785,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T21:43:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/teyonah-parris-gavin-oconnor-running-1237046706/",
@@ -8740,7 +8802,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T20:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://documentedny.com/2026/08/20/fomasyon-gratis-oswa-a-pri-abodab-pou-w-vin-yon-fanm-saj-nan-vil-nouyok/",
@@ -8757,7 +8819,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T22:24:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bellingcat.com/news/us-canada/2026/08/20/satellite-imagery-documents-new-border-patrol-road-construction-in-big-bend-national-park/",
@@ -8772,7 +8834,7 @@
     ],
     "first_seen_at": "2026-08-21T00:46:14.644700+00:00",
     "published_parsed": "2026-08-20T20:50:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/gaming/news/naruto-digital-card-app-sekai-tv-tokyo-1236839122/",
@@ -10579,125 +10641,6 @@
     ],
     "first_seen_at": "2026-08-18T16:22:20.763011+00:00",
     "published_parsed": "2026-08-18T12:58:53+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://variety.com/2026/tv/global/red-water-antoneta-alamat-kusijanovic-zdf-arte-beta-film-1236836971/",
-    "source": "Variety",
-    "title": "Croatian Crime Drama \u2018Red Water,\u2019 Directed by Cannes Prizewinner Antoneta Alamat Kusijanovic, to Be Co-Produced by ZDF/Arte, Beta Film (EXCLUSIVE)",
-    "summary": "Beta Film has teamed up with ZDF/Arte and Antitalent to co-produce the Croatian crime drama \u201cRed Water,\u201d winner of the 2025 Council of Europe Series Co-Production Development Award at the Sarajevo Film Festival\u2019s CineLink Industry Days. \u201cRed Water,\u201d a six-hour series, is based on Jurica Pavi\u010di\u0107\u2019s bestselling novel of the same name, which ranked among [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Leo Barraclough"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-18T12:27:16.868216+00:00",
-    "published_parsed": "2026-08-18T09:31:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/100-years-of-solitude-finale-cast-trailer-netflix-1237044029/",
-    "source": "Deadline",
-    "title": "\u2018100 Years Of Solitude\u2019 Stars On Adapting Garc\u00eda M\u00e1rquez\u2019s \u201cImpossible\u201d Novel; Watch The Finale Trailer",
-    "summary": "EXCLUSIVE: Cast members including iconic Colombian star Margarita Rosa de Francisco came on board Part Two of Netflix\u2019s 100 Years Of Solitude, and with the finale of the epic adaptation about to launch, several of the stars who appear in the series-closing episode spoke exclusively to Deadline. We are also first with the trailer for [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Stewart Clarke"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-18T12:27:16.868216+00:00",
-    "published_parsed": "2026-08-18T12:05:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://documentedny.com/2026/08/18/men-kijan-yon-imigran-ka-fe-demann-child-support-nouyok/",
-    "source": "Documented",
-    "title": "Men kijan yon imigran ka f\u00e8 demann \u201cchild support\u201d Nouy\u00f2k",
-    "summary": "<p>Nan Nouy&#242;k, tou de (2) paran yo gen obligasyon dapr&#232; lalwa pou yo pran swen timoun yo jiskaske yo gen 21 an. Si youn nan paran yo refize peye pou bezwen timoun nan &#8212; tankou manje, rad, swen medikal ak edikasyon &#8212; moun k ap pote chay finansye a gen dwa f&#232; yon demann pou [&#8230;]</p>\n<p>The post <a href=\"https://documentedny.com/2026/08/18/men-kijan-yon-imigran-ka-fe-demann-child-support-nouyok/\">Men kijan yon imigran ka f\u00e8 demann &#8220;child support&#8221; Nouy\u00f2k</a> appeared first on <a href=\"https://documentedny.com\">Documented</a>.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Anastasia Tomkin"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-18T12:27:16.868216+00:00",
-    "published_parsed": "2026-08-18T09:54:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.propublica.org/article/measles-cases-vaccines",
-    "source": "ProPublica",
-    "title": "Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.",
-    "summary": "<p>The post <a href=\"https://www.propublica.org/article/measles-cases-vaccines\">Measles Used to Be in Our Rearview Mirror. Now Cases Are Reaching Record Highs.</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Patricia Callahan"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-18T12:27:16.868216+00:00",
-    "published_parsed": "2026-08-18T09:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://variety.com/2026/film/news/sundance-hit-thelma-mandarin-remake-stars-collective-1236836962/",
-    "source": "Variety",
-    "title": "Sundance Breakout \u2018Thelma\u2019 Set for Mandarin Remake by Stars Collective, Titled \u2018Grandma, Please\u2019 (EXCLUSIVE)",
-    "summary": "Stars Collective has acquired the Mandarin-language remake rights to &#8220;Thelma,&#8221; the 2024 Sundance Film Festival breakout that became Magnolia Pictures&#8217; highest-grossing narrative feature, and is developing an adaptation titled &#8220;Grandma, Please.&#8221; In &#8220;Grandma, Please,&#8221; an 80-year-old grandmother is swindled out of her life savings by a scammer who uses AI to clone her late husband&#8217;s [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Naman Ramachandran"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
-    "published_parsed": "2026-08-18T08:11:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/jon-ronson-things-fell-apart-returns-season-3-bbc-1237042799/",
-    "source": "Deadline",
-    "title": "Jon Ronson Culture Wars Series \u2018Things Fell Apart\u2019 Returns For Third Season On BBC \u2013 This Time Exploring David Vs. Goliath Stories",
-    "summary": "EXCLUSIVE: Jon Ronson&#8217;s audio series Things Fell Apart is returning for a third season next year. The new season, the show&#8217;s first in three years, will follow the British-American gonzo journalist as he explores eight stories of outsiders fighting powerful institutions. Per the synopsis, it will include &#8220;all too\u00a0human stories\u00a0about the moment one person decides [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Jesse Whittock"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-18T08:25:50.366597+00:00",
-    "published_parsed": "2026-08-18T08:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/sports/dodgers/story/2026-08-17/shohei-ohtani-homers-twice-dodgers-win-rockies",
-    "source": "Los Angeles Times",
-    "title": "Shohei Ohtani homers twice to help power Dodgers to victory over Rockies",
-    "summary": "<p>Shohei Ohtani hits his 28th and 29th home runs of the season and Blake Snell gives up two hits over six innings in the Dodgers' 11-5 win over Colorado.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Maddie Lee"
-    ],
-    "total_score": 1,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-08-18T04:27:34.485128+00:00",
-    "published_parsed": "2026-08-18T03:44:31+00:00",
     "is_new": false
   }
 ]
