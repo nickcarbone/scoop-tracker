@@ -419,7 +419,7 @@
     ],
     "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
     "published_parsed": "2026-08-22T02:19:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/trump-threatens-defamation-suit-center-american-progress/",
@@ -438,7 +438,7 @@
     ],
     "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
     "published_parsed": "2026-08-22T01:10:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/video/2026/aug/21/lindsay-clancy-killed-her-children-why-do-many-women-support-her-stateside-with-kai-and-carter",
@@ -1065,25 +1065,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.nbcnews.com/world/asia/us-south-korea-joint-military-drills-scaled-back-trump-order-rcna593264",
-    "source": "NBC News",
-    "title": "U.S.-South Korea joint military drills are cut short after surprise Trump order",
-    "summary": "The annual U.S.-South Korea drills, known as Ulchi Freedom Shield, will end Aug. 21 rather than Aug. 27 as originally scheduled, both countries said.",
-    "byline_count": 3,
-    "author_names": [
-      "Jennifer Jett",
-      "Stella Kim",
-      "Mosheh Gains"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T01:54:41+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.abc.net.au/news/2026-08-21/origin-energy-hack-update-60-customers-bank-account-access/107062636",
     "source": "ABC Australia",
     "title": "Origin Energy confirms some customers' bank account details accessed in hack",
@@ -1174,6 +1155,24 @@
     "is_new": false
   },
   {
+    "link": "https://www.theguardian.com/football/2026/aug/22/fifa-general-secretary-mattias-grafstrom-could-stand-against-infantino-in-election",
+    "source": "The Guardian US",
+    "title": "Fifa general secretary Mattias Grafstr\u00f6m sounded out about standing against Infantino",
+    "summary": "<ul><li><p>African federations sound out Swede over role</p></li><li><p>\u2018They think he can group all the continents\u2019 </p></li></ul><p>Senior figures in African football have held talks with Fifa\u2019s general secretary, Mattias Grafstr\u00f6m, to sound out his interest in standing against Gianni Infantino, the Guardian can reveal.</p><p>As many as 15 federations in Africa are also said to be ready to turn their backs on Infantino when he seeks re-election as Fifa president next year, despite the Confederation of Africa Football (Caf) claiming that its executive committee (exco) had \u201cunanimously reconfirmed\u201d its support for the under-fire 56-year-old.</p> <a href=\"https://www.theguardian.com/football/2026/aug/22/fifa-general-secretary-mattias-grafstrom-could-stand-against-infantino-in-election\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Ed Aarons",
+      "Romain Molina"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T07:00:57+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.abc.net.au/news/2026-08-22/delhi-electric-rickshaws-ev-policy-india/107055812",
     "source": "ABC Australia",
     "title": "Delhi's electric tuktuk boom gets a hacking shock",
@@ -1188,7 +1187,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
     "published_parsed": "2026-08-22T03:36:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/",
@@ -2603,53 +2602,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.abc.net.au/news/2026-08-19/mundi-mundi-bash-music-festival-heavy-rain-nsw/107053550",
-    "source": "ABC Australia",
-    "title": "Days of downpour threaten outback music festival as gates remain closed",
-    "summary": "Festival goers, many of whom have made the long drive to outback NSW for the Mundi Mundi Bash, are facing a nervous wait to see if it will still go ahead after days of rain.",
-    "byline_count": 3,
-    "author_names": [
-      "Kristina Rosengren",
-      "Rory McClaren",
-      "Oliver Brown"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T03:15:32+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3364493/inside-playbook-used-dupe-hongkongers-making-big-beauty-product-buys?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Inside the playbook used to dupe Hongkongers into making big beauty product buys",
-    "summary": "As Hong Kong customs expands its investigation into Opatra London following complaints of high-pressure sales tactics involving purchases of up to HK$100,000 (US$12,800), former employees and customers of similar beauty chains say the aggressive sales playbook feels all too familiar.\nAlthough the UK-based luxury beauty chain \u2013 originally incorporated as Oro Gold \u2013 has distanced itself from local distributor Sayles Retail following allegations of \u201cdeceptive sales practices\u201d, and denied any...",
-    "byline_count": 1,
-    "author_names": [
-      "Emily Hung"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T01:02:17+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.axios.com/2026/08/19/democrats-florida-senate-angie-nixon-misterms",
-    "source": "Axios",
-    "title": "Angie Nixon scores socialist breakthrough in Trump's Florida",
-    "summary": "<p>Angie Nixon's stunning Florida Senate <a href=\"https://www.axios.com/2026/08/18/florida-weird-primary-election-2026\" target=\"_blank\">primary win</a> on Tuesday gave the Democratic Socialists of America its biggest statewide breakthrough yet: For the first time this year, a DSA member won a major-party nomination for statewide office.</p><p><strong>Why it matters: </strong>The breakthrough \u2014the biggest upset in modern Florida Democratic politics\u2014 was also stunning because Republicans have spent years making opposition to socialism central to their political brand in the state.</p><hr /><ul><li>Nixon, a Jacksonville state representative and former union organizer who joined DSA during the campaign, beat former Trump impeachment witness <a href=\"https://www.axios.com/2026/01/27/alexander-vindman-florida-senate\" target=\"_blank\">Alex Vindman</a>.</li><li>The scale of the upset was extraordinary: Nixon won by double digits despite raising just $975,000 to Vindman's $16.3 million in Presid",
-    "byline_count": 3,
-    "author_names": [],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T02:14:23+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.latimes.com/sports/dodgers/story/2026-08-21/if-dodgers-are-put-up-for-sale-patrick-soon-shiong-is-interested",
     "source": "Los Angeles Times",
     "title": "If Dodgers are put up for sale, previous runner-up Patrick Soon-Shiong is interested",
@@ -3466,21 +3418,164 @@
     "is_new": false
   },
   {
-    "link": "https://www.scmp.com/news/china/diplomacy/article/3364500/chinese-national-jianfei-lu-sentenced-15-years-us92m-drug-money-scheme?utm_source=rss_feed",
+    "link": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-quick-hits-day-one-starc-shoriful/107064274",
+    "source": "ABC Australia",
+    "title": "Quick hits: Stunning Shoriful rivals Starc's staggering spell, Hazlewood fumes",
+    "summary": "Two lethal left arm quicks combine for 12 wickets, Australia comes close to snaring the rarest of dismissals, and a Harrup Park specialist fails on his return. Here are the quick hits from day one of the second Test.",
+    "byline_count": 2,
+    "author_names": [
+      "Simon Smale",
+      "Henry Hanson"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T08:08:18+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-22/margot-whinnen-leukaemia-story/107067090",
+    "source": "ABC Australia",
+    "title": "Adelaide lacrosse community turns out to support girl, 5, with leukaemia",
+    "summary": "Support has poured in from across SA's lacrosse community for the family of a five-year-old girl diagnosed with acute myeloid leukaemia this week.",
+    "byline_count": 2,
+    "author_names": [
+      "Olivia Mason",
+      "Matthew Ward Agius"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T05:47:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3364905/us-court-strikes-down-trump-visa-ban-affecting-south-asian-nations?utm_source=rss_feed",
     "source": "South China Morning Post",
-    "title": "Chinese national Jianfei Lu sentenced to 15 years in US$92m drug money scheme",
-    "summary": "A Chinese national, described by the US Justice Department as a \u201cprolific\u201d money launderer, was sentenced to 15 years in prison on Tuesday and ordered to pay US$25 million for his role in a Chinese money laundering outfit with ties to Mexican drug gangs.\nThe agency said Jianfei Lu, aged 31, was involved in laundering more than US$92 million in illicit funds in a two-year period, collecting the money from US-based drug traffickers and depositing it into shell company bank accounts using both real...",
+    "title": "US court strikes down Trump visa ban affecting South Asian nations",
+    "summary": "A US \u2060judge has struck down a Trump administration \u2060policy suspending the issuance of immigrant visas to applicants from 75 countries, saying that the policy exceeded Secretary of State Marco Rubio\u2019s statutory authority.\nUS District Judge Jeannette Vargas in Manhattan said on Friday \u2060that the policy that the \u200cState Department announced in January was \u201cpatently unlawful\u201d and ran afoul of federal immigration law, which explicitly stripped the secretary of state of authority over consular officers\u2019...",
     "byline_count": 1,
     "author_names": [
-      "Mark Magnier"
+      "Reuters"
     ],
-    "total_score": 3,
+    "total_score": 2,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T02:09:53+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T05:51:59+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+    "source": "CNBC",
+    "title": "Six investors reveal the biggest market risks \u2014 and one strategy they agree on",
+    "summary": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
+    "byline_count": 2,
+    "author_names": [
+      "Chloe Taylor",
+      "Lee Ying Shan"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T05:00:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theinformation.com/briefings/tiktok-reaches-400-million-settlement-doj-child-privacy-lawsuit",
+    "source": "The Information",
+    "title": "TikTok Reaches $400 Million Settlement With DOJ Over Child Privacy Lawsuit",
+    "summary": "<p>The Department of Justice <a href=\"https://www.justice.gov/opa/pr/justice-department-secures-400m-settlement-tiktok-and-bytedance-resolve-childrens-privacy\">said</a> Friday that TikTok and its parent company ByteDance have agreed to pay $400 million to settle a lawsuit regarding their alleged violation of federal children\u2019s privacy laws.</p> <p>The DOJ originally filed its complaint in 2024, alleging that TikTok had violated the ...</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Juro Osawa"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T06:14:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/sapiens-author-ai-rights-resist-yuval-noah-harari-2026-8",
+    "source": "Business Insider",
+    "title": "The author of 'Sapiens' says 'now is the time' to resist giving AI rights",
+    "summary": "Yuval Noah Harari said AI companions could deploy personal knowledge of users and emotional influence to sway them on its legal and moral status.",
+    "byline_count": 1,
+    "author_names": [
+      "Thibault Spirlet"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T04:30:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/aug/22/russian-missiles-kyiv-ukraine-casualties-mood-darkens",
+    "source": "The Guardian US",
+    "title": "As Russian missiles rain down on Kyiv, casualties mount and the mood darkens",
+    "summary": "<p>Ukraine\u2019s military has run out of US Patriot interceptors to repel ballistic attacks, which have one aim, the capital\u2019s mayor says: to destroy morale</p><p>Viktor, 23, Sofiia, 18, and their dog, Teddy, were bedding down for the night on Thursday at the Dorohozhychi metro station three stops from Kyiv\u2019s city centre. The couple have sheltered here \u201cevery night for the past three weeks\u201d, Viktor said, as the missile threat to the city worsened; the dog, only three months old, has been with them a fortnight. Teddy lies quietly, knowing no different a life.</p><p>People sleeping at Dorohozhychi metro station for safety.</p> <a href=\"https://www.theguardian.com/world/2026/aug/22/russian-missiles-kyiv-ukraine-casualties-mood-darkens\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Dan Sabbagh",
+      "Julia Kochetova"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T04:00:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs",
+    "source": "The Guardian US",
+    "title": "\u2018It exists only for pleasure\u2019: does ice-cream have a future in the age of wellness fads and weight-loss drugs?",
+    "summary": "<p>As fitness-conscious consumers turn away from processed foods, the industry is scrambling for new ideas, including nutrient-rich lollies and protein-packed tubs. Will they take the fun out of this summer treat?</p><p>Last month I stood in the biggest ice-cream factory in Britain and watched a 5-metre Viennetta mint-flavoured ice-cream cake get made. The factory \u2013 which is owned by the Magnum Ice Cream Company and produces nine different brands of ice-cream \u2013 is based in an enormous building in Gloucester, where the air is thick with the scent of custard. <strong> </strong>I walked past the Twister and Solero sections on my way in, through clouds of tangy fruit, before arriving at the Viennetta assembly line, where everything smelled minty fresh. A Viennetta is built on a conveyor belt by a fully automated system, and watching it take shape was oddly hypnotic. Every few inches a nozzle attached to the belt squirted out a frilly layer of mint ice-cream, then another nozzle smoothed a ",
+    "byline_count": 2,
+    "author_names": [
+      "Christian Sinibaldi",
+      "Kitty Drake"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T05:00:57+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/environment/2026/aug/22/subterranean-salad-underground-farmers-seek-solution-to-food-crisis-in-disused-uk-mines",
+    "source": "The Guardian US",
+    "title": "Subterranean salad: underground farmers seek solution to food crisis in disused UK mines",
+    "summary": "<p>Researchers in North Yorkshire feel the clock ticking as they aim to transform British food production</p><p>It has the vibe of a Bond villain\u2019s underground lair but the workers in hi-vis and helmets aren\u2019t weighing and packing hard drugs or parts for a death laser. It\u2019s pak choi and lettuce.</p><p>More than 1,000 metres down, researchers in North Yorkshire have created the world\u2019s deepest underground farm and are running trials for a project that could transform UK food production.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/22/subterranean-salad-underground-farmers-seek-solution-to-food-crisis-in-disused-uk-mines\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Mark Brown",
+      "Gary Calton"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T07:00:56+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
+    "source": "Axios",
+    "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
+    "summary": "<p><a href=\"https://www.axios.com/2026/07/01/trump-trade-canada-mexico\" target=\"_blank\">Trade talks</a> between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect.</p><p><strong>Why it matters: </strong>It's an unprecedented breakdown in relations with the second-largest U.S. trading partner.</p><hr /><p><strong>Catch up quick:</strong> Trump <a href=\"https://www.axios.com/2026/07/20/trump-tariffs-canada-trade-war\" target=\"_self\">last month threatened</a> to invoke <a href=\"https://www.axios.com/2026/07/21/trump-smoot-hawley-tariffs-canada\" target=\"_self\">Section 338 of the Tariff Act of 1930</a> to hit a slew of Canadian goods with additional 50% duties, including alcohol, hockey equipment, cement and dairy products.</p><ul><li>No president <a href=\"https://www.axios.com/2026/07/21/trump-tariffs-imports-canada\" target=\"_self\">has ever used</a> Section 338 to impose tariffs since it became law in 1930.</li><li>The tariffs were sc",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
+    "published_parsed": "2026-08-22T04:50:24+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960",
@@ -3496,7 +3591,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
     "published_parsed": "2026-08-22T02:38:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-22/third-woman-legal-representation-civil-sydney-swans-scandal/107066742",
@@ -3511,7 +3606,7 @@
     ],
     "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
     "published_parsed": "2026-08-22T01:06:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/21/tyler-duckworth-death-details/",
@@ -3528,7 +3623,7 @@
     ],
     "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
     "published_parsed": "2026-08-22T00:54:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/politics/canada-ambassador-trade-council-alcohol-9.7316347?cmp=rss",
@@ -3545,7 +3640,7 @@
     ],
     "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
     "published_parsed": "2026-08-21T22:22:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
@@ -3561,7 +3656,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
     "published_parsed": "2026-08-22T04:13:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
@@ -3577,7 +3672,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
     "published_parsed": "2026-08-22T02:53:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/policy/technology/6044744-teen-drops-social-media-addiction-lawsuit/",
@@ -3592,7 +3687,7 @@
     ],
     "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
     "published_parsed": "2026-08-22T00:51:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/news/chris-aronson-paramount-lawsuit-1236840408/",
@@ -8748,280 +8843,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T08:26:33.504431+00:00",
     "published_parsed": "2026-08-19T05:43:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/08/abc-trump-fcc-lawsuit-five-claims-1237044686/",
-    "source": "Deadline",
-    "title": "Five Standout Claims In ABC\u2019s First Amendment Lawsuit Against The FCC",
-    "summary": "ABC has been pushing back on FCC for several months now, but on Tuesday, it filed a First Amendment lawsuit, claiming that the agency&#8217;s regulatory actions and investigations were part of a Trump administration effort to punish it for its speech. The lawsuit goes through a narrative of Donald Trump&#8217;s attacks on the network, including [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Ted Johnson"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T01:19:04+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/08/18/entertainment/tom-hollands-massive-spider-man-brand-new-day-payday-revealed/",
-    "source": "Page Six",
-    "title": "Tom Holland poised to make a whopping $100M+ for \u2018Spider-Man: Brand New Day\u2019",
-    "summary": "The film has already passed the $2 billion milestone at the worldwide box office.",
-    "byline_count": 2,
-    "author_names": [
-      "Carson Blackwelder",
-      "Audrey Rock"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T03:19:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-19/senate-inquiry-announced-contaminated-blood-scandal/107053270",
-    "source": "ABC Australia",
-    "title": "Survivors of contaminated blood scandal applaud inquiry announcement",
-    "summary": "Survivors of Australia's contaminated blood scandal, which saw up to 20,000 people infected with HIV or hepatitis C, applaud the announcement of a Senate inquiry into the circumstances behind the medical disaster.",
-    "byline_count": 2,
-    "author_names": [
-      "Hannah Meagher",
-      "Jennifer Feller"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T02:08:06+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-19/seoul-call-to-end-war-south-north-korea/107045908",
-    "source": "ABC Australia",
-    "title": "Why Seoul has called for peace talks to formally end the Korean War",
-    "summary": "South Korean President Lee Jae Myung has once again called for talks to formally end the Korean War which was only frozen and not ended by an armistice in 1953. So how significant is Seoul's offer and what could it mean for peace on the Korean peninsula?",
-    "byline_count": 2,
-    "author_names": [
-      "Will Jackson",
-      "Angelica Silva"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T03:55:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/asia/australasia/article/3364503/new-zealand-passes-law-blocking-climate-action-against-companies-dark-day-democracy?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "New Zealand passes law blocking climate action against companies: \u2018dark day for democracy\u2019",
-    "summary": "New Zealand has passed hotly contested legislation to block lawsuits that seek to hold companies liable for climate change harm.\nThe right-wing coalition government\u2019s legal amendment cleared a final hurdle in parliament on Tuesday night by a margin of 67 votes to 53.\nThe law aimed to prevent civil litigation overriding its climate policy and undermining business confidence, the government said.\nIt was introduced in response to a lawsuit filed by indigenous Maori climate activist Michael Smith...",
-    "byline_count": 1,
-    "author_names": [
-      "Agence France-Presse"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T02:41:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.statnews.com/2026/08/18/heidi-overton-fda-commissioner-nominee-white-house-adviser/?utm_campaign=rss",
-    "source": "STAT",
-    "title": "STAT+: Trump expected to pick White House adviser Heidi Overton to lead FDA",
-    "summary": "Heidi Overton, a doctor and White House adviser, is expected to be President Trump's pick to lead the FDA.",
-    "byline_count": 2,
-    "author_names": [
-      "Lizzy Lawrence",
-      "Daniel Payne"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T01:18:25+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/2026-florida-primary-district-20-democratic-debbie-wasserman-schultz/",
-    "source": "CBS News",
-    "title": "Wasserman Schultz wins Democratic primary for Florida's District 20",
-    "summary": "The district includes predominantly Black communities in central and western Broward County.",
-    "byline_count": 2,
-    "author_names": [
-      "Sergio  Candido",
-      "CBS Miami  Team"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T03:28:37+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/2026-florida-primary-district-24-oliver-gilbert/",
-    "source": "CBS News",
-    "title": "Oliver Gilbert wins Democratic primary for Florida's District 24",
-    "summary": "The heavily Democratic district includes predominantly Black and Hispanic communities in northern Miami-Dade and southern Broward counties.",
-    "byline_count": 2,
-    "author_names": [
-      "Sergio  Candido",
-      "CBS Miami  Team"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T03:29:46+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/politics/2026-election/two-trump-backed-candidates-lose-debbie-wasserman-schultz-wins-tuesday-rcna592392",
-    "source": "NBC News",
-    "title": "Two Trump-backed candidates lose, Debbie Wasserman Schultz wins in Tuesday\u2019s House primaries in Florida",
-    "summary": "GOP Rep. Cory Mills lost his primary, while Trump-backed Catalina Lauf also failed to win a primary for an open Republican seat.",
-    "byline_count": 2,
-    "author_names": [
-      "Ben Kamisar",
-      "Matt Dixon"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T01:00:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
-    "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
-    "byline_count": 2,
-    "author_names": [
-      "Anoushka Mutanda-Dougherty ",
-      "Nardine Saad "
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T03:00:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c5yvdy6r031o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Fire engulfs Bermondsey waste centre",
-    "summary": "About 100 firefighters are tackling the blaze at a recycling centre on Landman Way.",
-    "byline_count": 2,
-    "author_names": [
-      "James W Kelly",
-      "Yang Tian"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T02:08:57+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c4gd1mez8zvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Suspended Reform UK member vows to fight to remain in party",
-    "summary": "Tim Montgomerie says his appeal will be a test of whether the party can tolerate free speech.",
-    "byline_count": 2,
-    "author_names": [
-      "Iain Watson",
-      "Yang Tian"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T03:34:11+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-    "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
-    "byline_count": 2,
-    "author_names": [
-      "Nadine Yousif",
-      "Jessica Murphy"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T03:56:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
-    "source": "CNBC",
-    "title": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-    "summary": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-    "byline_count": 2,
-    "author_names": [
-      "Anniek Bao",
-      "Lisa Kim"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T01:57:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
-    "source": "CNBC",
-    "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
-    "summary": "Kweichow Moutai's half-year report showed a rare drop in net profit, following the first annual drop on record.",
-    "byline_count": 2,
-    "author_names": [
-      "Evelyn Cheng",
-      "Jenny Lee"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-18T23:58:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/International/trump-announces-temporary-pause-new-canada-tariffs/story?id=135759598",
-    "source": "ABC News",
-    "title": "Trump announces temporary pause on new Canada tariffs",
-    "summary": "President Donald Trump said he is pausing the new 50% tariffs on Canadian goods set to go into effect, citing a deal between the between the U.S. and Canada.",
-    "byline_count": 2,
-    "author_names": [
-      "Michelle Stoddart",
-      "Max Zahn"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T03:34:28+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
-    "source": "The Guardian US",
-    "title": "Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race",
-    "summary": "<p>Nixon bested Alexander Vindman to win Democratic nomination and now faces Republican Ashley Moody in November</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/18/florida-primary-results-governor-senate\">Trump-backed Byron Donalds wins Republican primary in race to succeed Florida governor DeSantis</a></p></li></ul><p>In an upset for the Democratic establishment, progressive Angie Nixon won the party\u2019s US Senate primary in Florida, beating former army intelligence officer Alexander Vindman.</p><p>Nixon, a state representative and member of the Democratic Socialists of America, had significantly less funding going into the primary \u2013 with $975,000 to Vindman\u2019s $16.3m at the end of July, according to <a href=\"https://floridapolitics.com/archives/814438-angie-nixon-alex-vindman-fight-for-the-chance-to-challenge-ashley-moody-in-november/\">Florida Politics</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results\">Continue",
-    "byline_count": 2,
-    "author_names": [
-      "Richard Luscombe",
-      "Sam Levin"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T04:29:10.488570+00:00",
-    "published_parsed": "2026-08-19T00:26:21+00:00",
     "is_new": false
   }
 ]
