@@ -1155,6 +1155,23 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-test-series-mackay-cricket-history/107064584",
+    "source": "ABC Australia",
+    "title": "Mackay makes cricket history as day one of inaugural Test match sells out",
+    "summary": "Barry Jansen mortgaged his house to help build a cricket arena in the Queensland city of Mackay. Forty years later his club is hosting its first international Test match.",
+    "byline_count": 3,
+    "author_names": [
+      "Danielle Jesser",
+      "Jeremy Jones",
+      "Cristy-Lee Macqueen"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T12:21:27.533887+00:00",
+    "published_parsed": "2026-08-22T09:11:19+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.theguardian.com/football/2026/aug/22/fifa-general-secretary-mattias-grafstrom-could-stand-against-infantino-in-election",
     "source": "The Guardian US",
     "title": "Fifa general secretary Mattias Grafstr\u00f6m sounded out about standing against Infantino",
@@ -1170,7 +1187,7 @@
     ],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T07:00:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-22/delhi-electric-rickshaws-ev-policy-india/107055812",
@@ -2551,55 +2568,21 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/08/19/mckenna-west-sued-for-misconduct/",
-    "source": "TMZ",
-    "title": "McKenna West: Biological Parents Suing Her For 'Outrageous Conduct' Demand Six-Figure Sum",
-    "summary": "The biological parents of the child born by surrogate McKenna West are demanding a hefty sum in damages for her \"outrageous conduct\" ... TMZ has learned. We obtained the countersuit Nausheen Gilkar and Omar Ahmed filed against McKenna weeks before&hellip;",
+    "link": "https://www.scmp.com/news/world/africa/article/3364934/20-sailors-kidnapped-somali-pirates-near-yemen-us-sanctioned-ship?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "20 sailors kidnapped by Somali pirates near Yemen on US-sanctioned ship",
+    "summary": "Somali pirates hijacked an oil products tanker off Yemen, a Somali maritime security official said, the latest in a resurgence of piracy that has seen six commercial vessels seized since April across the Gulf of Aden and western Indian Ocean.\nSix armed pirates hijacked the Eritrean-flagged M.T. Sibu 1 on Thursday about 136 nautical miles (252 kilometres) east of al-Mukalla, Yemen, and took it towards Somalia\u2019s Puntland coast, the official, who has knowledge of the incident, told journalists on...",
     "byline_count": 1,
     "author_names": [
-      "TMZ Staff"
+      "Associated Press"
     ],
-    "total_score": 4,
+    "total_score": 3,
     "matched_categories": [
-      "exclusivity"
+      "sourcing_depth"
     ],
-    "first_seen_at": "2026-08-19T08:26:33.504431+00:00",
-    "published_parsed": "2026-08-19T07:00:44+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbc.ca/news/world/viral-posts-migrant-crisis-9.7311301?cmp=rss",
-    "source": "CBC News",
-    "title": "Who's behind viral online posts fuelling a crisis over migration in Europe?",
-    "summary": "<img alt=\"Composite image of social media posts including a route map, a swimmer in the sea and images of young men by the water with Spanish and Moroccan flags.\" height=\"349\" src=\"https://i.cbc.ca/ais/31db8f92-f4e8-4eee-9a8d-436c8eb2c3a9,1787076824780/full/max/0/default.jpg?im=Crop%2Crect%3D%2814%2C0%2C1499%2C843%29%3BResize%3D%28620%29\" title=\"A composite image shows Instagram posts related to the mass movement of migrants from Morocco to the Spanish territory of Ceuta in late July and earlier this month.\" width=\"620\" /><p>Viral social media posts and misinformation helped mobilize thousands of migrants toward Spain's Ceuta enclave, highlighting how online networks can exploit desperation \u2014 even as experts warn social media did not create the desire to migrate.</p>",
-    "byline_count": 3,
-    "author_names": [
-      "Nahlah Ayed",
-      "Christian Paas-Lang",
-      "Jordan Pearson"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T08:26:33.504431+00:00",
-    "published_parsed": "2026-08-19T08:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/Politics/doj-investigations-alleged-antisemitism-ivy-league-universities-predetermined/story?id=135746405",
-    "source": "ABC News",
-    "title": "DOJ college antisemitism investigations had predetermined conclusions: Whistleblower",
-    "summary": "DOJ investigations on antisemitism at Ivy League schools had predetermined conclusions: whistleblower",
-    "byline_count": 1,
-    "author_names": [
-      "Luke Barr"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-19T08:26:33.504431+00:00",
-    "published_parsed": "2026-08-18T20:10:42+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-22T12:21:27.533887+00:00",
+    "published_parsed": "2026-08-22T12:17:08+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.latimes.com/sports/dodgers/story/2026-08-21/if-dodgers-are-put-up-for-sale-patrick-soon-shiong-is-interested",
@@ -3401,21 +3384,118 @@
     "is_new": false
   },
   {
-    "link": "https://deadline.com/2026/08/paloma-cinco-ted-lasso-interview-cristo-fernandez-sister-1237044979/",
-    "source": "Deadline",
-    "title": "Paloma Cinco Breaks Down Surprise \u2018Ted Lasso\u2019 Appearance",
-    "summary": "SPOILER ALERT: The following reveals major plot points from the latest episode of Apple TV&#8217;s Ted Lasso, &#8220;Richmond&#8217;s Got Talent.&#8221; On tonight&#8217;s episode of Apple TV&#8217;s\u00a0Ted Lasso,\u00a0all hell breaks loose during a press conference where a &#8220;secret&#8221; report created by Leslie Higgins (Jeremy Swift), a risk management assessment of the Lady Greyhounds, was leaked to [&#8230;]",
+    "link": "https://www.latimes.com/california/story/2026-08-22/motorcyclist-loses-leg-28-million-lafd-firetruck-crash-verdict",
+    "source": "Los Angeles Times",
+    "title": "Motorcyclist who lost leg wins $28-million verdict after suing over L.A. firetruck crash",
+    "summary": "<p>A motorcyclist sued after he was hit by a firetruck that was driving through an East Hollywood intersection in 2021, causing injures that required his leg to be amputated below the knee.</p>",
     "byline_count": 1,
     "author_names": [
-      "Rosy Cordero"
+      "Rebecca Ellis"
     ],
-    "total_score": 3,
+    "total_score": 2,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-08-19T08:26:33.504431+00:00",
-    "published_parsed": "2026-08-19T08:00:00+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-22T12:21:27.533887+00:00",
+    "published_parsed": "2026-08-22T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-22/nsw-childcare-centre-goodstart-city-of-sydney-lifeline/107067122",
+    "source": "ABC Australia",
+    "title": "Sydney childcare centre on brink of closure offered 12-months rent free",
+    "summary": "More than 60 families rallied in Sydney's eastern suburbs to keep the doors of a local childcare centre open.",
+    "byline_count": 2,
+    "author_names": [
+      "Alexander Lewis",
+      "Miriah Davis"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T12:21:27.533887+00:00",
+    "published_parsed": "2026-08-22T08:26:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/opinion/story/2026-08-22/writers-guild-fighting-paramounts-warner-bros",
+    "source": "Los Angeles Times",
+    "title": "Contributor: Why writers are fighting Paramount's takeover of Warner Bros.",
+    "summary": "<p>When a major studio buys its competitor, it leads to lower compensation for industry workers and reduced choices and diversity for audiences.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Tom Fontana and Michele Mulroney"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-22T12:21:27.533887+00:00",
+    "published_parsed": "2026-08-22T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/news/news-quiz/hayden-panettiere-news-quiz-rcna593573",
+    "source": "NBC News",
+    "title": "A former child star\u2019s death rattles Hollywood and U.S. debt balloons: The news quiz",
+    "summary": "A drug ring headquartered at a frat house, a world leader catfished, and a classroom pet blamed for arson.",
+    "byline_count": 2,
+    "author_names": [
+      "Amina Kilpatrick",
+      "Ashley Mowreader"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T12:21:27.533887+00:00",
+    "published_parsed": "2026-08-22T09:15:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/",
+    "source": "Wired",
+    "title": "Your Expired Visa Card Could Be \u2018Zombified\u2019 to Make Contactless Payments",
+    "summary": "Plus: Apple sends out an \u201cunprecedented\u201d number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
+    "byline_count": 2,
+    "author_names": [
+      "Andy Greenberg",
+      "Lily Hay Newman"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T12:21:27.533887+00:00",
+    "published_parsed": "2026-08-22T10:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/fancy-new-business-class-suites-cause-headache-certification-delays-2026-8",
+    "source": "Business Insider",
+    "title": "Business-class fliers love sliding doors \u2014 but they\u2019re causing a nuisance for airlines and planemakers",
+    "summary": "Airlines are competing for the fanciest business class following the boom in premium travel, but new suites require rigorous certification testing.",
+    "byline_count": 2,
+    "author_names": [
+      "Pete Syme",
+      "Taylor Rains"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T12:21:27.533887+00:00",
+    "published_parsed": "2026-08-22T09:44:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.vox.com/america-actually/500153/donald-trump-cj-pearson-republicans-2026-midterms-electability",
+    "source": "Vox",
+    "title": "Is Trump dragging Republicans down?",
+    "summary": "It\u2019s the Democrats who have mostly had to answer questions about electability this midterm season, but why are there so few questions about the \u201cE\u201d word for the other side? Gas prices are still skyrocketing. A number of Republican candidates, such as Ohio Rep. Max Miller and former Texas Attorney General Ken Paxton, who\u2019s running [&#8230;]",
+    "byline_count": 2,
+    "author_names": [
+      "Katie Fossett",
+      "Astead Herndon"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T12:21:27.533887+00:00",
+    "published_parsed": "2026-08-22T12:00:00+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-22/australia-vs-bangladesh-quick-hits-day-one-starc-shoriful/107064274",
@@ -3431,7 +3511,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T08:08:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-22/margot-whinnen-leukaemia-story/107067090",
@@ -3447,7 +3527,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T05:47:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3364905/us-court-strikes-down-trump-visa-ban-affecting-south-asian-nations?utm_source=rss_feed",
@@ -3464,7 +3544,7 @@
     ],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T05:51:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
@@ -3480,7 +3560,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T05:00:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/briefings/tiktok-reaches-400-million-settlement-doj-child-privacy-lawsuit",
@@ -3497,7 +3577,7 @@
     ],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T06:14:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/sapiens-author-ai-rights-resist-yuval-noah-harari-2026-8",
@@ -3514,7 +3594,7 @@
     ],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T04:30:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/2026/aug/22/russian-missiles-kyiv-ukraine-casualties-mood-darkens",
@@ -3530,7 +3610,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T04:00:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs",
@@ -3546,7 +3626,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T05:00:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/environment/2026/aug/22/subterranean-salad-underground-farmers-seek-solution-to-food-crisis-in-disused-uk-mines",
@@ -3562,7 +3642,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T07:00:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
@@ -3575,7 +3655,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T08:19:47.255060+00:00",
     "published_parsed": "2026-08-22T04:50:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960",
@@ -8765,84 +8845,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-19T12:27:35.446706+00:00",
     "published_parsed": "2026-08-19T09:14:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-19/victorian-coalition-promises-to-scrap-vni-west-transmission-line/107053638",
-    "source": "ABC Australia",
-    "title": "Coalition vows to scrap VNI West transmission project in Victoria",
-    "summary": "The Victorian Liberal and National parties will scrap the controversial VNI West transmission project if the Coalition wins the state election in November.",
-    "byline_count": 2,
-    "author_names": [
-      "Justine Longmore",
-      "Warwick Long"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T08:26:33.504431+00:00",
-    "published_parsed": "2026-08-19T05:25:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-19/review-of-tasmanian-workers-compensation-scheme-underway/107054454",
-    "source": "ABC Australia",
-    "title": "Claims blowout hits Tasmanian workers' compensation scheme",
-    "summary": "The amount Tasmania's government has paid in workers' compensation has risen by more than $100 million in a decade, prompting a review of the scheme.",
-    "byline_count": 1,
-    "author_names": [
-      "Scout Wallen"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-19T08:26:33.504431+00:00",
-    "published_parsed": "2026-08-19T08:09:38+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/hockey/articles/czek237r51po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Even the Queen could not watch - 10 years since Olympic hockey gold",
-    "summary": "Ten years since Team GB clinched women's hockey gold at the Rio Olympics, BBC Sport looks back at the legacy of that historic win.",
-    "byline_count": 2,
-    "author_names": [
-      "Katie Falkingham",
-      "Katie Gornall"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T08:26:33.504431+00:00",
-    "published_parsed": "2026-08-18T17:43:16+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-    "summary": "More than 200 women accuse Christian N\u00e8gre of drugging them to make them urinate - two share their stories.",
-    "byline_count": 2,
-    "author_names": [
-      "Nuala McGovern & Emma Ailes",
-      "Amelia Butterly"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T08:26:33.504431+00:00",
-    "published_parsed": "2026-08-19T05:00:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/6036787-nixon-vindman-peltola-primaries/",
-    "source": "The Hill",
-    "title": "Democratic socialist\u00a0notches\u00a0surprise win in Florida Senate primary:\u00a05 takeaways",
-    "summary": "A progressive&#160;scored an unexpected upset&#160;in Florida\u2019s Democratic primary for Senate,&#160;a left-wing breakthrough in President Trump\u2019s home state that tees up a tough, GOP-favored fight this fall.&#160;&#160; Florida state Rep.&#160;Angie Nixon, who&#160;is a member of the Democratic Socialists of America (DSA)&#160;but was not endorsed by the national&#160;organization,&#160;toppled Alex Vindman, whose star rose as a witness in&#8230;",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-19T08:26:33.504431+00:00",
-    "published_parsed": "2026-08-19T05:43:30+00:00",
     "is_new": false
   }
 ]
