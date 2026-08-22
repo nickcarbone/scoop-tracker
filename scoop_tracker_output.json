@@ -184,7 +184,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T22:00:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/08/21/florida-democrats-angie-nixon-nikki-fried-socialism",
@@ -199,7 +199,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T22:46:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/20/perez-hilton-granted-supervised-visitation-see-kids/",
@@ -404,6 +404,43 @@
     "is_new": false
   },
   {
+    "link": "https://www.cbsnews.com/news/laptop-catches-fire-american-airlines-flight-dallas-atlanta/",
+    "source": "CBS News",
+    "title": "Pilot reports possible burn injuries after passenger's laptop catches fire",
+    "summary": "\"I think we have about four to five passengers that were burned by the laptop,\" a pilot can be heard saying in air traffic control audio obtained by CBS News.",
+    "byline_count": 1,
+    "author_names": [
+      "Kierra  Frazier"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
+    "published_parsed": "2026-08-22T02:19:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/trump-threatens-defamation-suit-center-american-progress/",
+    "source": "CBS News",
+    "title": "Trump threatens defamation suit against left-leaning think tank",
+    "summary": "President Trump's legal team is threatening to sue left-leaning think tank Center for American Progress for defamation over a report it issued that found \"no evidence that National Guard deployments have reduced violent crime.\"",
+    "byline_count": 2,
+    "author_names": [
+      "Arden  Farhi",
+      "Jacob  Rosen"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
+    "published_parsed": "2026-08-22T01:10:00+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.theguardian.com/us-news/video/2026/aug/21/lindsay-clancy-killed-her-children-why-do-many-women-support-her-stateside-with-kai-and-carter",
     "source": "The Guardian US",
     "title": "Lindsay Clancy killed her children. Why do many women support her? \u2013 Stateside with Kai and Carter",
@@ -420,7 +457,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:45:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/stars-and-stripes-publisher-editor-separation-notices-pentagon/",
@@ -1137,6 +1174,23 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-08-22/delhi-electric-rickshaws-ev-policy-india/107055812",
+    "source": "ABC Australia",
+    "title": "Delhi's electric tuktuk boom gets a hacking shock",
+    "summary": "Rickshaw drivers are pushing back on plans to ban all new non-electric versions of the vehicle from next January.",
+    "byline_count": 3,
+    "author_names": [
+      "Angus Mackintosh",
+      "Rachel Clayton",
+      "Som Patidar"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
+    "published_parsed": "2026-08-22T03:36:10+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://variety.com/2026/film/news/paramount-merger-warner-settlement-talks-bonta-california-1236840532/",
     "source": "Variety",
     "title": "Paramount and State A.G. to Meet Monday to Discuss Settlement of Antitrust Case",
@@ -1151,7 +1205,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-22T00:19:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/rural/2026-08-22/sydney-royal-wine-show-marks-200-years/106965776",
@@ -1168,7 +1222,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T22:25:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/21/rashod-bateman-arrested-for-family-violence/",
@@ -1185,7 +1239,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T21:20:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/21/fat-marmot-week-climate-change-colorado-titanic/",
@@ -1202,7 +1256,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:36:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/21/republicans-donald-trump-beef-import-announcement-consumers-expense/",
@@ -1219,7 +1273,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T21:27:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/21/trumps-ballroom-roberts-supreme-court/",
@@ -1236,7 +1290,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:56:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/21/exclusive-amazon-quietly-hiked-prices-echo-fire-tv-kindle-eero-significant-increases-memory-costs/",
@@ -1252,7 +1306,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T23:50:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/briefings/exclusive-openai-explored-stake-stargate-power-developer-lancium",
@@ -1270,7 +1324,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T23:32:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/politik/desinformation-landtagswahl-sachsen-anhalt-sven-schulze-russland-fake-news-doppelgaenger-matrjoschka-li.3535102",
@@ -2610,7 +2664,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T23:56:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/08/new-serendipity-movie-michael-showalter-amazon-miramax-1237047524/",
@@ -3429,6 +3483,118 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960",
+    "source": "ABC Australia",
+    "title": "Inside the libertarian city on a Caribbean island backed by Silicon Valley",
+    "summary": "It might sound like something out of a \u00a0Reddit thread \u2014 a Caribbean island where libertarians, biohackers and crypto bros are building an experimental city. In Honduras, it's real.",
+    "byline_count": 2,
+    "author_names": [
+      "Lauren Day",
+      "Matt Henry"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
+    "published_parsed": "2026-08-22T02:38:57+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-08-22/third-woman-legal-representation-civil-sydney-swans-scandal/107066742",
+    "source": "ABC Australia",
+    "title": "Third woman engages lawyer over 'incredibly traumatic' Sydney Swans scandal",
+    "summary": "A lawyer representing a third woman involved in the Sydney Swans scandal says a potential civil lawsuit is being looked at.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
+    "published_parsed": "2026-08-22T01:06:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/08/21/tyler-duckworth-death-details/",
+    "source": "TMZ",
+    "title": "'The Challenge' Star Tyler Duckworth: More Details Surface About His Death",
+    "summary": "\"The Challenge\" star Tyler Duckworth was tragically found \"up against the door\" of his bathroom when he died. A case report from the Grand Forks Police Department -- obtained by Page Six -- said that's how the 44-year-old's body was found in his&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
+    "published_parsed": "2026-08-22T00:54:16+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/politics/canada-ambassador-trade-council-alcohol-9.7316347?cmp=rss",
+    "source": "CBC News",
+    "title": "U.S. alcohol bans must end for trade deal to happen, Canada's ambassador told council: sources",
+    "summary": "<img alt=\"Two men in suits standing next to each other.\" height=\"349\" src=\"https://i.cbc.ca/ais/efc8c2e5-e0f9-4962-9f69-eea4a3cd049e,1787350146627/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C324%2C6778%2C3812%29%3BResize%3D%28620%29\" title=\"Prime Minister Mark Carney, left, talks with Mark Wiseman, Ambassador of Canada to the United States, right, as he arrives to deliver a speech and take part in an armchair discussion at the The Economic Club of New York in New York on Thursday, May 28, 2026.\" width=\"620\" /><p>Canada's ambassador to the U.S. said on a video call Thursday that putting American alcohol back on Canadian shelves is a mandatory prerequisite toward locking in a deal with the U.S. to avoid new tariffs, CBC News has learned.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Ashley Burke"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
+    "published_parsed": "2026-08-21T22:22:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+    "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+    "byline_count": 2,
+    "author_names": [
+      "Nadine Yousif",
+      "Toby Mann"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
+    "published_parsed": "2026-08-22T04:13:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Burnham economic adviser O'Neill rules out government job",
+    "summary": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
+    "byline_count": 2,
+    "author_names": [
+      "David Cornock",
+      "Ottilie Mitchell"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
+    "published_parsed": "2026-08-22T02:53:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/policy/technology/6044744-teen-drops-social-media-addiction-lawsuit/",
+    "source": "The Hill",
+    "title": "Teen drops high-profile social media addiction lawsuit",
+    "summary": "A teenager has dropped her lawsuit against Meta, YouTube and Snapchat, which was set to go to trial later this year as part of a broader series of cases accusing social media giants of designing addictive platforms. The teen, referred to as P.M.Y., previously settled with TikTok and \u201cchose to dismiss the remainder so she&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-22T04:24:58.788754+00:00",
+    "published_parsed": "2026-08-22T00:51:40+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://variety.com/2026/film/news/chris-aronson-paramount-lawsuit-1236840408/",
     "source": "Variety",
     "title": "Chris Aronson Files $4 Million Age Discrimination Suit Over Ouster at Paramount",
@@ -3443,7 +3609,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T21:19:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-22/rohingya-genocide-community-australia/107058060",
@@ -3459,7 +3625,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:59:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/21/taylor-sheridan-sued-over-yellowstone-show-idea/",
@@ -3476,7 +3642,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T22:44:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/21/gleb-savchenko-onlyfans-girlfriend-in-custody-battle/",
@@ -3493,7 +3659,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-22T00:18:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/08/21/celebrity-news/jen-shah-will-be-a-free-woman-following-8-months-of-home-confinement-33-months-in-prison-for-fraud/",
@@ -3509,7 +3675,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:34:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/politics/story/2026-08-21/supreme-court-trump-white-house-ballroom",
@@ -3525,7 +3691,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T21:44:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-21/vandenberg-space-force-base-security-holds-reporters-at-gunpoint",
@@ -3542,7 +3708,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:12:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
@@ -3559,7 +3725,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:10:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/china/diplomacy/article/3364895/tiktok-bytedance-agree-us400-million-settlement-us-over-childrens-privacy-suit?utm_source=rss_feed",
@@ -3576,7 +3742,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T21:39:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/california-appeals-court-revives-lawsuit-accusing-apple-of-blocking-iphone-repairs/",
@@ -3591,7 +3757,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T22:43:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://insideclimatenews.org/news/21082026/lawsuit-to-block-climate-research-center-closure/",
@@ -3608,7 +3774,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:59:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
@@ -3624,7 +3790,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-22T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/tiktok-settles-with-feds-over-child-safety-for-400m/",
@@ -3639,7 +3805,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T22:52:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/21/youtube-netflix-millions/",
@@ -3655,7 +3821,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:38:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/21/alex-jones-50-million-sandy-hook-families-1-25-billion/",
@@ -3671,7 +3837,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T21:36:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/reports-of-sexual-assault-military-declined-third-straight-year/",
@@ -3688,7 +3854,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T23:16:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/missing-ny-grandmother-alisa-goods-found-dead-in-las-vegas/",
@@ -3704,7 +3870,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T22:34:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/justice-department/trump-loyalist-ed-martin-leaving-justice-department-pardon-attorney-rcna593793",
@@ -3720,7 +3886,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:16:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/2026-election/trump-fans-torn-darline-graham-republican-runoff-south-carolina-primar-rcna592848",
@@ -3736,7 +3902,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-22T00:29:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/wireStory/us-plans-pay-850-million-5-billion-owes-135852101",
@@ -3752,7 +3918,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T22:12:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
@@ -3769,7 +3935,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T22:36:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
@@ -3785,7 +3951,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:37:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
@@ -3802,7 +3968,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T22:13:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
@@ -3819,7 +3985,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:25:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/aug/21/trump-lawsuit-threat-national-guard-deployment-report",
@@ -3836,7 +4002,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T23:49:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories/",
@@ -3849,7 +4015,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T23:49:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/08/21/job-seekers-ai-hiring-ghost-jobs-trust",
@@ -3864,7 +4030,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T21:04:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/08/21/trump-higher-ed-shakeup-colleges-fall-semester",
@@ -3879,7 +4045,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T20:40:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html",
@@ -3894,7 +4060,7 @@
     ],
     "first_seen_at": "2026-08-22T00:43:51.319259+00:00",
     "published_parsed": "2026-08-21T23:24:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/digital/news/tiktok-doj-lawsuit-coppa-child-safety-lawsuit-settlement-1236840365/",
