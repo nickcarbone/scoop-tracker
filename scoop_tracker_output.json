@@ -286,24 +286,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.businessinsider.com/tarriff-war-amazon-growth-canada-ecommerce-2026-8",
-    "source": "Business Insider",
-    "title": "The tariff war is colliding with Amazon's plan for growth in Canada",
-    "summary": "Internal Amazon forecasts show a major Canada expansion even as tariffs reshape cross-border commerce and supply chains.",
-    "byline_count": 1,
-    "author_names": [
-      "Eugene Kim"
-    ],
-    "total_score": 8,
-    "matched_categories": [
-      "primary_source",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T09:00:02+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.scmp.com/news/us/us-elections/article/3365509/new-us-mail-voting-rules-take-effect-states-warn-midterm-disruption?utm_source=rss_feed",
     "source": "South China Morning Post",
     "title": "Trump\u2019s new US mail voting rules take effect as states warn of midterm disruption",
@@ -412,22 +394,21 @@
     "is_new": false
   },
   {
-    "link": "https://www.latimes.com/sports/story/2026-08-26/byron-scott-lakers-player-coach-1987-sexual-assault-civil-trial-campbell-hall-settlement-hayley-dylan",
+    "link": "https://www.latimes.com/california/story/2026-08-29/meta-17-billion-settlement-social-media-harms",
     "source": "Los Angeles Times",
-    "title": "Ex-Lakers star Byron Scott's sexual assault trial nears as Campbell Hall settles with accuser",
-    "summary": "<p>Campbell Hall has reached a confidential settlement with the woman who alleges ex-Lakers guard Byron Scott sexually assaulted her on campus in 1987. Scott's trial looms.</p>",
+    "title": "What Meta's $17-billion settlement revealed about the harms of social media",
+    "summary": "<p>Evidence presented during a civil trial leading up to Meta's costly settlement with California and other states revealed that company employees had repeatedly raised concerns about young users of Facebook and Instagram being exposed to bullying, harassment and explicit content.</p>",
     "byline_count": 1,
     "author_names": [
-      "Steve Henson"
+      "Sonja Sharp"
     ],
-    "total_score": 7,
+    "total_score": 6,
     "matched_categories": [
-      "primary_source",
-      "sourcing_depth"
+      "primary_source"
     ],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T11:00:00+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T10:00:00+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.theguardian.com/culture/ng-interactive/2026/aug/29/best-music-autumn-2026-johnny-marr-phoebe-bridgers",
@@ -445,7 +426,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T04:00:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/28/adrien-broner-blames-schedule-for-missing-court-appearance/",
@@ -1067,7 +1048,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T08:00:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/28/jax-taylor-told-brittany-cartwright-shes-nothing-like-ariana-madix/",
@@ -1389,6 +1370,91 @@
     "is_new": false
   },
   {
+    "link": "https://fortune.com/2026/08/29/iran-war-hardliners-power-differences-future-path-moderates/",
+    "source": "Fortune",
+    "title": "After 6 months of war, hardliners consolidate power in Iran, but there are \u2018serious differences over the future path of the country\u2019",
+    "summary": "President Masoud Pezeshkian is one of the most prominent voices still calling for a negotiated solution.",
+    "byline_count": 3,
+    "author_names": [
+      "Lee Keath",
+      "David Rising",
+      "The Associated Press"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T14:16:13+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/rising-sun-hit-and-run-police/",
+    "source": "CBS News",
+    "title": "Video shows Philly officer leaving person in street before deadly hit-and-run",
+    "summary": "Philadelphia police are investigating an officer who failed to help a person in the street who was killed in a hit-and-run in Olney.",
+    "byline_count": 3,
+    "author_names": [
+      "Laura  Fay",
+      "Ross  DiMattei",
+      "Joe  Holden"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T14:30:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/29/baldness-drug-stocks-wall-street-goldmine-veradermics-absci-cosmo/",
+    "source": "Fortune",
+    "title": "Forget GLP-1 stocks, baldness drugs are Wall Street\u2019s next goldmine",
+    "summary": "Pattern hair loss affects an estimated 50 million men and 30 million women in the US, but there have been no new approved drugs since the late 1990s.",
+    "byline_count": 3,
+    "author_names": [
+      "Avalon Pernell",
+      "Lisa Pham",
+      "Bloomberg"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T15:11:36+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/29/trump-backlash-risks-government-stocks-intel-mp-materials-trilogy-metals/",
+    "source": "Fortune",
+    "title": "Trump backlash adds new risks to the stocks the government owns",
+    "summary": "Market strategists see rising risks of the administration\u2019s equity positions facing scrutiny in Washington and the courts.",
+    "byline_count": 3,
+    "author_names": [
+      "Norah Rami",
+      "Matthew Griffin",
+      "Bloomberg"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T15:19:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/aug/29/fbi-apllicants-sex-workers",
+    "source": "The Guardian US",
+    "title": "FBI no longer treating applicants\u2019 experience with sex workers as automatic bar against hiring",
+    "summary": "<p>Bureau will still dismiss those engaged with sex workers within past 10 years, three or more times overall, or while in public safety capacity</p><p>The <a href=\"https://www.theguardian.com/us-news/fbi\">FBI</a> is dropping a categorical hiring ban on applicants who have had sexual encounters with <a href=\"https://www.theguardian.com/society/sex-work\">sex workers</a> and will instead consider in a more holistic manner at least some candidates who have engaged in the practice in the past, according to people familiar with the matter.</p><p>The move away from an automatic disqualification falls along a continuum of evolving recruitment standards within federal law enforcement and at the buttoned-up bureau, which several years ago relaxed its approach to candidates\u2019 past marijuana use and has drawn more recent concern among some current and former agents about a perceived loosening of recruitment requirements as it seeks to replenish its ranks.</p> <a href=\"https://www.theguardian.com/u",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T14:17:26+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/08/29/dalton-memel-ntsako-mathivha-to-keep-filming-amid-divorce/",
     "source": "TMZ",
     "title": "Influencers Dalton Memel and Ntsako Mathivha To Film Content Together During Divorce",
@@ -1403,7 +1469,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T07:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-29/nepal-tibet-floods-missing-persons-search-intensifies/107092492",
@@ -1420,7 +1486,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T04:57:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/29/ai-permafrost-thaw-tracking-tool/",
@@ -1437,7 +1503,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T09:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/ex-white-house-teleprompter-operator-fined-insider-bets-kalshi-gabriel-perez/",
@@ -1452,7 +1518,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T03:37:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/news-quiz/dolly-partons-legacy-revered-trump-renames-another-body-water-news-qui-rcna594744",
@@ -1470,7 +1536,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T09:15:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/federal-judge-temporarily-blocks-trump-administrations-attempt-restrict/story?id=136021374",
@@ -1487,7 +1553,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-28T14:11:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
@@ -1504,7 +1570,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T08:03:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/administration/6058676-canada-cbc-9-11-terrorism-guidance-backlash/",
@@ -1519,7 +1585,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T01:22:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/28/michael-douglas-dad-kirk-estate-details-revealed/",
@@ -2695,38 +2761,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.scmp.com/news/china/diplomacy/article/3365318/chinas-xi-jinping-expected-visit-india-after-7-years-whats-agenda?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "China\u2019s Xi Jinping expected to visit India after 7 years. What\u2019s on the agenda?",
-    "summary": "After two years of a cautious thaw, China and India are heading towards a pivotal test: can the relationship move beyond managed optics to meaningful engagement?\nPresident Xi Jinping and Indian Prime Minister Narendra Modi are expected to cross paths next week at the Shanghai Cooperation Organisation (SCO) summit in Bishkek, Kyrgyzstan. Sources expect a short, tightly managed encounter on the sidelines of the August 31-September 1 summit that would set the stage for the main event \u2013 in...",
-    "byline_count": 1,
-    "author_names": [
-      "Khushboo Razdan"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T12:01:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.washingtonpost.com/national-security/2026/08/26/before-hegseth-fired-him-top-general-was-advised-drop-kid-rock-investigation/",
-    "source": "Washington Post Politics",
-    "title": "Before Hegseth fired him, top general was advised to drop Kid Rock probe",
-    "summary": "Gen. Randy George appeared troubled by the encounter with Gen. Chris LaNeve, the Army\u2019s No. 2 officer now favored for the service\u2019s top job, people familiar with the matter told The Post.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 4,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T11:00:00+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.tmz.com/2026/08/28/jax-taylor-lawyer-attorney-says-brittany-cartwright-is-trying-to-ruin-him/",
     "source": "TMZ",
     "title": "Jax Taylor's Lawyer Says Brittany Cartwright Is 'Weaponizing the Internet'",
@@ -3259,22 +3293,179 @@
     "is_new": false
   },
   {
-    "link": "https://deadline.com/2026/08/yash-and-lionsgate-strike-promotional-movie-partnership-1237050718/",
-    "source": "Deadline",
-    "title": "Lionsgate Strikes Promotional Partnership With Indian Action Star Yash",
-    "summary": "EXCLUSIVE: Lionsgate has struck a deal with Indian action star Yash and his production company Monster Mind Creations for the actor to promote select Lionsgate theatrical releases. The idea is to amplify campaigns, including for movies such as the upcoming John Rambo and John Wick spinoff Caine, in India&#8217;s fourth-largest global film market and to [&#8230;]",
+    "link": "https://pagesix.com/2026/08/29/celebrity-news/bachelor-clayton-echards-accuser-pleads-guilty-to-fraud-after-fake-twins-pregnancy-scheme/",
+    "source": "Page Six",
+    "title": "\u2018Bachelor\u2019 Clayton Echard\u2019s accuser pleads guilty to fraud after fake twins pregnancy scheme",
+    "summary": "The legal drama began in 2023 when the accuser filed a paternity lawsuit claiming Echard had impregnated her with twins after the two met at his Scottsdale, Arizona, home.",
+    "byline_count": 1,
+    "author_names": [
+      "Chris Rogers"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T13:55:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/business/story/2026-08-29/california-regulators-rushed-their-decision-on-driverless-trucks-teamsters-lawsuit-says",
+    "source": "Los Angeles Times",
+    "title": "California regulators rushed their decision on driverless trucks, Teamsters' lawsuit says",
+    "summary": "<p>Teamsters California, a labor union with roughly 250,000 members, filed a lawsuit against the California Department of Motor Vehicles over autonomous trucking regulations.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Caroline Petrow-Cohen"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/politics/climate-federal-court-lawsuit-motion-to-strike-9.7324601?cmp=rss",
+    "source": "CBC News",
+    "title": "Carney government asks court to strike down climate litigation",
+    "summary": "<img alt=\"A man in a suit.\" height=\"349\" src=\"https://i.cbc.ca/ais/a0bcece3-3dcb-4379-b3ae-b6ad9c38d333,1787943465025/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C376%2C7205%2C4052%29%3B\" title=\"Prime Minister Mark Carney makes a statement outside the Office of the Prime Minister and Privy Council in Ottawa, on Tuesday, July 21, 2026.\" width=\"620\" /><p>The federal government is asking a court to toss out a high-profile environmental lawsuit, arguing it has no business directing Canada's climate policy.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "David Thurton"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/29/trump-tariffs-canada-trade-war-smoot-hawley-act-1930/",
+    "source": "Fortune",
+    "title": "For his latest tariffs, Trump used a statute so obscure many lawyers didn\u2019t even know it still existed. \u2018This law is literally a blank canvas\u2019",
+    "summary": "Trump invoked Section 338 of the Tariff Act of 1930 to slap a 50% tax on $20 billion worth of Canadian imports.",
     "byline_count": 2,
     "author_names": [
-      "Andreas Wiseman",
-      "Liz Shackleton"
+      "Paul Wiseman",
+      "The Associated Press"
     ],
-    "total_score": 3,
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T14:51:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/29/applicants-fbi-experience-prostitution-automatic-disqualification-hiring/",
+    "source": "Fortune",
+    "title": "\u2018What is that saying about the applicant pool?\u2019 The FBI will no longer treat experience with prostitution as an automatic bar against hiring",
+    "summary": "The shift is being made at a time when current and former officials worry that the FBI, and the Justice Department more generally, have eased recruitment requirements.",
+    "byline_count": 2,
+    "author_names": [
+      "Eric Tucker",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T14:26:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/29/former-white-house-teleprompter-operator-profits-fine-insider-trading-settlement/",
+    "source": "Fortune",
+    "title": "Former White House teleprompter operator\u00a0must turn over more than $100,000 in profits and pay a $65,000 fine in insider trading settlement",
+    "summary": "The settlement with the Commodity Futures Trading Commission, announced Friday, also dealt Gabriel Perez a three-year trading ban.",
+    "byline_count": 2,
+    "author_names": [
+      "Collin Binkley",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T14:03:34+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/29/imax-revenue-odyssey-box-office.html",
+    "source": "CNBC",
+    "title": "We're in the midst of an 'Imax awakening,' CEO says. How the company makes millions",
+    "summary": "Christopher Nolan's \"The Odyssey\" has movie and history buffs flocking to theaters this summer. That's been great news for Imax.",
+    "byline_count": 2,
+    "author_names": [
+      "Kamaron McNair",
+      "Juhohn Lee"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T14:07:51+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/",
+    "source": "Washington Post",
+    "title": "Trump lauded low prices at Freedom Fuel. A supplier says some gas wasn\u2019t paid for.",
+    "summary": "Mansfield Oil Company of Gainesville claimed in a federal lawsuit this month that it was never paid for more than a million gallons of fuel from a terminal in Pennsylvania between late May and early July \u2014 nearly $4 million worth.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
     "matched_categories": [
-      "exclusivity"
+      "primary_source"
     ],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T09:19:24+00:00",
-    "is_new": false
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T14:33:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
+    "source": "Business Insider",
+    "title": "I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
+    "summary": "After spending $20,000 on drives in 2025, photographer Allen Cooley used Claude to organize old storage and avoid buying more.",
+    "byline_count": 2,
+    "author_names": [
+      "Jessica Orwig",
+      "Nikita Grant"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T13:05:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.vox.com/podcasts/500293/ella-langley-choosin-texas-billboard-charts-country-music",
+    "source": "Vox",
+    "title": "A sad country song about Texas could become the biggest hit ever",
+    "summary": "If you haven\u2019t yet heard about how a certain fella is choosin\u2019 a woman from Texas over Ella Langley, it\u2019s only a matter of time.&#160; Langley\u2019s massive hit, \u201cChoosin\u2019 Texas,\u201d began dominating the Billboard Hot 100 charts a few months ago \u2014 and never looked back. It\u2019s still sitting at No. 1 after 19 weeks, [&#8230;]",
+    "byline_count": 2,
+    "author_names": [
+      "Ariana Aspuru",
+      "Noel King"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T11:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/state-watch/6053265-noaa-almanacs-release-fall-weather-predictions-what-could-it-be-like-near-you/",
+    "source": "The Hill",
+    "title": "NOAA, almanacs release fall weather predictions: What could it be like near you?",
+    "summary": "Cold and wet, hot and dry - what's in store for you may depend on the forecast you look at.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-29T15:58:47.962511+00:00",
+    "published_parsed": "2026-08-29T15:00:00+00:00",
+    "is_new": true
   },
   {
     "link": "https://variety.com/2026/tv/news/bill-maher-lamest-dolly-parton-tribute-real-time-hbo-1236846445/",
@@ -3291,7 +3482,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T02:28:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/28/chris-evans-hollywood-hills-home-sold/",
@@ -3308,7 +3499,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T00:40:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/29/famous-dex-punched-and-choked-reality-star-and-broke-her-phone/",
@@ -3325,7 +3516,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T07:20:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-29/entitled-travellers-and-bad-influencers-take-a-toll-on-outback/107084674",
@@ -3341,7 +3532,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T01:42:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-08-29/iceland-referendum-on-restarting-talks-to-join-european-union/107084870",
@@ -3357,7 +3548,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T03:23:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-08-28/lapd-video-officers-beating-jail-inmate-death",
@@ -3374,7 +3565,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T03:07:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/opinion/china-opinion/article/3365300/taipeis-debt-hardball-carries-clear-warning-its-remaining-allies?utm_source=rss_feed",
@@ -3391,7 +3582,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T01:30:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
@@ -3407,7 +3598,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss",
@@ -3423,7 +3614,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T08:33:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/walmart-settles-justice-department-opioid-lawsuit/",
@@ -3440,7 +3631,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-28T16:38:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/judge-throws-out-confession-alleged-911-mastermind-khalid-sheikh-mohammad/",
@@ -3455,7 +3646,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T04:39:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/29/ai-workers-survey-job-impact-2026/",
@@ -3471,7 +3662,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/judge-throws-out-confession-of-man-accused-of-plotting-911-attack/",
@@ -3486,7 +3677,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T02:16:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/donald-trump/trump-says-ll-visit-pentagon-rather-ground-zero-911-ceremony-rcna594974",
@@ -3502,7 +3693,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T01:50:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c2el8kkz1xxo?at_medium=RSS&at_campaign=rss",
@@ -3518,7 +3709,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-23T06:19:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
@@ -3534,7 +3725,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T00:35:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
@@ -3550,7 +3741,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T00:46:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
@@ -3567,7 +3758,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T10:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/policy/defense/6058699-hegseth-blocks-army-promotions-ousted-generals/",
@@ -3582,7 +3773,7 @@
     ],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T01:12:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/campaign/6058417-harris-political-viability-concerns/",
@@ -3595,7 +3786,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/2026/aug/29/ukraine-war-family-wedding-eastern-frontline-russia",
@@ -3611,7 +3802,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-29T10:37:20.594084+00:00",
     "published_parsed": "2026-08-29T06:00:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/28/milo-yiannopoulos-detained-ice/",
@@ -7838,301 +8029,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-26T16:43:40.666769+00:00",
     "published_parsed": "2026-08-26T16:07:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/bayern/zuege-oberland-regionalbahn-bayern-sommerferien-li.3532811",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Ausfl\u00fcge mit der Bahn: \u00dcberf\u00fcllte Z\u00fcge \u2013 und man kann nichts dagegen tun?",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/08/26/f3d479f6-8672-4ddd-8596-4ec3bfa8b44a.jpg?rect=412%2C0%2C3557%2C2668&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>In vielen Ausflugsregionen vor allem im S\u00fcden M\u00fcnchens sind die Z\u00fcge in den Ferien unangenehm voll. Doch ein dichterer Takt oder l\u00e4ngere Z\u00fcge sind f\u00fcr die Bahnunternehmen keine Option. Warum eigentlich?</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Maximilian Gerl",
-      "Martin M\u00fchlfenzl"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T08:06:54+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-08-26/gun-licences-restricted-to-citizens-data-centre-carve-out/107079926",
-    "source": "ABC Australia",
-    "title": "Queensland allowed to use coal, gas for data centres despite renewable push",
-    "summary": "The state's premier says it is a \"good win\" for his state, which owns much of its own electricity infrastructure, while the federal government had previously demanded states use renewables as a standard.",
-    "byline_count": 2,
-    "author_names": [
-      "Holly Tregenza",
-      "Clare Armstrong"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T09:04:28+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.marketwatch.com/story/the-renter-generation-young-americans-shut-out-of-homeownership-brace-to-rent-forever-43be0585?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "title": "The renter generation: Young Americans, shut out of homeownership, brace to rent forever",
-    "summary": "People once believed if they worked hard, they could become homeowners, but \u2018we\u2019re coming to terms with the fact that perhaps most won\u2019t. And that\u2019s the new normal.\u2019",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T12:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/plus/news/us/diplomacy/article/3365321/us-pulls-china-punches-iran-economic-d-day-sanctions?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "US pulls China punches in Iran \u2018economic D-Day\u2019 sanctions",
-    "summary": "China warned of reprisals against possible United States sanctions as the Trump administration launched \u201ceconomic D-Day\u201d in a bid to isolate Iran following six months of military conflict.\n\u201cChina will do everything necessary to firmly safeguard its rights and interests,\u201d foreign ministry spokesman Lin Jian told reporters on Tuesday. Economic warfare would \u201conly serve to fuel tensions and lead to risk spillover\u201d, he said.\nThe US on Monday demanded countries take \u201cimmediate action\u201d to cut economic...",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T09:13:34+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "One US dollar now costs 2 million rials in Iran, and here\u2019s what it can buy",
-    "summary": "Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.",
-    "byline_count": 2,
-    "author_names": [
-      "Alia Chughtai",
-      "Maziar Motamedi"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T10:00:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/select/shopping/best-nail-strengtheners-rcna594306",
-    "source": "NBC News",
-    "title": "Taking a break from gel polish? These nail strengtheners can help repair damage",
-    "summary": "The best nail strengtheners prevent nails from splitting, breaking or cracking. Here's how to shop for them with options from OPI, CND and more.",
-    "byline_count": 2,
-    "author_names": [
-      "Lulu Chang",
-      "Ashley Morris"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-25T20:18:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Man City complete \u00a386m Bouaddi signing from Lille",
-    "summary": "Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a \u00a385.6m deal on a five-year contract.",
-    "byline_count": 2,
-    "author_names": [
-      "Paul Battison",
-      "Shamoon Hafez"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T10:30:52+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/articles/cgewvygeq8vo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Man City to make offer for \u00a3120m-rated Fernandez",
-    "summary": "Manchester City are set to make an opening offer for priority midfield target Enzo Fernandez.",
-    "byline_count": 2,
-    "author_names": [
-      "Nizaar Kinsella",
-      "Sami Mokbel"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T09:55:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/miss-usa-winners",
-    "source": "Business Insider",
-    "title": "Every woman who has won the Miss USA pageant since it began in 1952",
-    "summary": "A new Miss USA will be crowned in Miami, Florida, on August 27. Here's a look back at every Miss USA titleholder since the pageant began in 1952.",
-    "byline_count": 2,
-    "author_names": [
-      "Anneta Konstantinides",
-      "Samantha Grindell Pettyjohn"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T12:18:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/hardest-working-us-states-ranked-2026-08",
-    "source": "Business Insider",
-    "title": "The hardest-working states in the US, ranked",
-    "summary": "Americans work an average of 1,800 hours per year, but residents of some states work harder and longer than others.",
-    "byline_count": 2,
-    "author_names": [
-      "Kristine Villarroel",
-      "Talia Lakritz"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T12:00:02+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/aug/26/gaza-farmers-struggle-scraps-of-land-constant-threat",
-    "source": "The Guardian US",
-    "title": "On scraps of land and under constant threat, Gaza farmers struggle to survive",
-    "summary": "<p>Efforts to rebuild domestic food production face severe challenges and have come at deadly cost</p><p>As Gaza\u2019s population of 2.1 million has been hemmed into an ever smaller slice of the territory, farmers are using every last remaining patch of unspoiled earth, no matter how tiny, in their struggle to survive.</p><p>With severe shortages of water, fertiliser and pesticide, and with more than 80% of greenhouses ruined, it has taken inventiveness and determination to clear land of debris and coax new seedlings into life. Moreover, venturing out into the open to tend to plants can be deadly.</p> <a href=\"https://www.theguardian.com/world/2026/aug/26/gaza-farmers-struggle-scraps-of-land-constant-threat\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Seham Tantesh",
-      "Julian Borger"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T11:00:11+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/football/2026/aug/26/manchester-city-omar-marmoush-spurs-loan-obligation-buy-nico-gonzalez-newcastle",
-    "source": "The Guardian US",
-    "title": "Manchester City confirm Bouaddi signing as Marmoush and Gonz\u00e1lez head out",
-    "summary": "<ul><li><p>Spurs to take Marmoush on loan with obligation to buy</p></li><li><p>City agree \u00a352m Nico Gonz\u00e1lez sale to Newcastle</p></li></ul><p>Manchester City have confirmed the signing of Ayyoub Bouaddi from Lille for \u20ac95m (\u00a381.4m) plus \u20ac5m, with the 18-year-old midfielder agreeing a five-year contract.</p><p>Bouaddi\u2019s arrival comes after City struck deals to loan Omar Marmoush to Tottenham for the season, with an obligation to buy for an initial \u00a350m, and sell Nico Gonz\u00e1lez to Newcastle for \u00a352m.</p> <a href=\"https://www.theguardian.com/football/2026/aug/26/manchester-city-omar-marmoush-spurs-loan-obligation-buy-nico-gonzalez-newcastle\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Jamie Jackson",
-      "David Hytner"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T10:15:43+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/football/2026/aug/26/uefa-poised-lift-boycott-threat-fifa-promises-no-world-cup-sale-repeat-gianni-infantino",
-    "source": "The Guardian US",
-    "title": "Uefa poised to lift boycott threat after Fifa promises no World Cup sale repeat",
-    "summary": "<ul><li><p>Uefa has received guarantees after ill-fated Infantino plan</p></li><li><p>European teams likely to go to under-20 Women\u2019s World Cup</p></li></ul><p>Uefa is poised to drop its <a href=\"https://www.theguardian.com/football/2026/aug/06/uefa-world-cup-boycott-still-stands-gianni-infantino\">threatened boycott</a> of Fifa competitions after receiving concrete guarantees that the global governing body will never attempt a repeat of <a href=\"https://www.theguardian.com/football/2026/aug/24/aleksander-ceferin-gianni-infantino-world-cup-fifa-uefa-super-league\">Gianni Infantino\u2019s plan to sell stakes</a> in the World Cup.</p><p>The Guardian understands European teams are likely to be cleared for participation in the upcoming under-20 Women\u2019s World Cup, along with subsequent tournaments, after Fifa provided the binding assurances that no equivalent of its president\u2019s ill-fated scheme will be put on the table.</p> <a href=\"https://www.theguardian.com/football/2026/aug/26/uefa-poised-lift",
-    "byline_count": 2,
-    "author_names": [
-      "Nick Ames",
-      "Matt Hughes"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T11:16:27+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/aug/26/trump-epa-datacenter-forever-chemicals",
-    "source": "The Guardian US",
-    "title": "Groups sue Trump\u2019s EPA over fast-track approval of toxic datacenter chemicals",
-    "summary": "<p>Exposure to two compounds approved can result in \u2018sudden death\u2019 and range of other serious health risks, lawsuit warns</p><p>The Trump administration has approved two new datacenter chemicals to which exposure can result in \u201csudden death\u201d and a range of other serious health risks, like cancer, eye corrosion, neurological damage and reproductive harm, a new lawsuit warns.</p><p>The two compounds approved by the Environmental Protection Agency (EPA) for import and immediate use in facilities across the US are photoacid generators that also appear to be Pfas \u201cforever chemicals\u201d, though it is unclear because much of the EPA documents are redacted. Some Pfas are commonly used in the production of semiconductors.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/26/trump-epa-datacenter-forever-chemicals\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Tom Perkins"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T11:00:12+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/aug/26/new-york-subway-extreme-heat",
-    "source": "The Guardian US",
-    "title": "\u2018132F\u2019: meet the man calling out NYC\u2019s infernally hot subway stations",
-    "summary": "<p>Jack Klein takes heat readings, gives fans to overheated passengers and lugs big jugs of water into the stations</p><p>On a recent August day in the subterranean furnace of New York City\u2019s subway, one bearded, curly haired man was studying his phone for different reasons than the other wilting passengers \u2013 to track the soaring temperatures and ponder how underground train stations can cool down in an era of climate crisis.</p><p>Jack Klein, a 31-year-old construction site manager, has in the past two years taken it upon himself to become a sort of guerrilla subway heat operative, sticking teardrop-shaped thermometers to steel beams in seven of the hottest Manhattan stations and posting social media <a href=\"https://www.instagram.com/newyorklab.co/reel/DMnVea1OP7R/\">videos</a> of the hades-like summer temperatures that commuters have to endure.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/26/new-york-subway-extreme-heat\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Oliver Milman",
-      "Thalia Juarez"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T10:00:41+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/aug/26/record-arrests-deportations-immigrants",
-    "source": "The Guardian US",
-    "title": "New data shows record number of arrests and deportations of immigrants in the US",
-    "summary": "<p>Trump administration has moved away from high-profile, militarized raids as its deportation spree has ramped up</p><p>The <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> arrested and deported a record number of immigrants in July, according to newly released government data \u2013 apprehending an average of 1,500 people and removing 1,100 people daily.</p><p>This latest data confirms what attorneys and immigrant advocates have been seeing across the US \u2013 although the administration has moved away from the high-profile, militarized raids that came to define its immigration enforcement approach last year, it is quietly ramping up its operations.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/26/record-arrests-deportations-immigrants\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Maanvi Singh",
-      "Amy Qin"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T10:00:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.semafor.com/article/08/26/2026/american-diplomats-return-to-the-middle-east",
-    "source": "Semafor",
-    "title": "American diplomats return to the Middle East",
-    "summary": "The US is restaffing diplomatic posts across the Middle East after diplomats were evacuated because of the Iran war, sources told Semafor.",
-    "byline_count": 2,
-    "author_names": [
-      "Shelby Talcott",
-      "Kelsey Warner"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T12:14:49+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.axios.com/2026/08/26/trump-elections-defund-police",
-    "source": "Axios",
-    "title": "Trump's \"election integrity\" threat: Defunding state and local police",
-    "summary": "<p>State and cities nationwide are <a href=\"https://www.axios.com/local/nashville/2026/08/17/nashville-lawsuit-homeland-security-anti-terrorism-funding\" target=\"_blank\">rebelling</a> against the White House's push to withhold millions of dollars in police and anti-terrorism funding unless they impose new voting rules.</p><p><strong>Why it matters: </strong>President Trump's effort to impose election policies that he hasn't been able to get through Congress has now drawn two lawsuits from state and local governments that accuse the administration of threatening to defund the police unless Trump gets his way.</p><ul><li>\"They are trying to defund public safety and counterterrorism,\" Harris County (Texas) Attorney Abbie Kamin told Axios.</li><li>Harris County, which includes Houston, and the other jurisdictions stand to lose millions in public safety grants unless they impose the controversial voting rules Trump wants: a plan to transition to paper ballots, proof of citizenship verificati",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T09:10:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.axios.com/2026/08/26/hakeem-jeffries-trump-impeachment-dems-win-house",
-    "source": "Axios",
-    "title": "Jeffries faces impeachment dilemma if Democrats win back the House",
-    "summary": "<p>With just 10 weeks left until the midterms, House Minority Leader Hakeem Jeffries (D-N.Y.) gave CNN's Wolf Blitzer a preview yesterday of what to expect should Democrats regain control of the House:</p><ul><li>\"Hold every single member of the Trump cartel accountable.\"</li><li>\"Make sure that we've got people in government focused on doing the things necessary to address the affordability crisis.\"</li><li>On impeachment, \"we haven't ruled anything in and we haven't ruled anything out\", with any move guided by \"moments of accountability.\"</li></ul><hr /><p><strong>That aligns with</strong> the priorities Jeffries has been <a href=\"https://www.youtube.com/live/8BBaxuWfM7o\" target=\"_blank\">pushing on the stump</a>:</p><ol><li>Lower the cost of living.</li><li>Make health care affordable.</li><li>Take the Trump administration to task.</li></ol><p><strong>But his careful line</strong> on impeachment underscores how he could become Speaker with one wing of his caucus pushing to aggressive",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-08-26T12:34:16.990741+00:00",
-    "published_parsed": "2026-08-26T09:30:05+00:00",
     "is_new": false
   }
 ]
