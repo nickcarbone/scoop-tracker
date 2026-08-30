@@ -37,6 +37,24 @@
     "is_new": false
   },
   {
+    "link": "https://www.cbsnews.com/news/ice-deportations-afghanistan-cuba-africa/",
+    "source": "CBS News",
+    "title": "ICE sends Afghans and others to Africa, expanding \"third country\" deportations",
+    "summary": "Over a 10-day period, the Trump administration sent more than 100 deportees from Afghanistan, Cuba and other nations to eight countries across Africa, according to internal government documents obtained by CBS News.",
+    "byline_count": 1,
+    "author_names": [
+      "Camilo  Montoya-Galvez"
+    ],
+    "total_score": 10,
+    "matched_categories": [
+      "exclusivity",
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T13:46:27+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.axios.com/2026/08/28/aoc-staff-changes-2028-decision",
     "source": "Axios",
     "title": "Scoop: AOC shakes up team ahead of 2028 decision",
@@ -195,7 +213,7 @@
     ],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T07:00:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/us/us-elections/article/3365509/new-us-mail-voting-rules-take-effect-states-warn-midterm-disruption?utm_source=rss_feed",
@@ -269,6 +287,24 @@
     "first_seen_at": "2026-08-27T18:40:45.491770+00:00",
     "published_parsed": "2026-08-27T14:50:00+00:00",
     "is_new": false
+  },
+  {
+    "link": "https://www.nbcnews.com/world/asia/fears-flooding-nepal-100-americans-missing-rescue-efforts-step-rcna595093",
+    "source": "NBC News",
+    "title": "Fears of more flooding in Nepal, 100 Americans among the missing as rescue efforts step up",
+    "summary": "KATHMANDU, Nepal \u2014 Authorities in Nepal have warned of the risk of further flooding after heavy rainfall, as China sheds light on the scale of the disaster in its Tibet region.",
+    "byline_count": 4,
+    "author_names": [
+      "Janis Mackey Frayer",
+      "Dawn Liu",
+      "Sunil Pandey",
+      "Freddie Clayton"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T10:29:28+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/08/29/brittany-cartwright-breaks-silence-jax-taylor-restraining-order/",
@@ -714,7 +750,7 @@
     ],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T07:40:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/29/watch-fake-49ers-player-daejon-love-videos-to-alleged-victim/",
@@ -950,6 +986,92 @@
     "is_new": false
   },
   {
+    "link": "https://fortune.com/2026/08/30/voters-iceland-referendum-talks-european-union-membership-trump-greenland/",
+    "source": "Fortune",
+    "title": "Trump mistook it repeatedly\u00a0while speaking about his designs on Greenland, but voters in Iceland reject a proposal to restart talks to join the EU",
+    "summary": "Opponents defeated the measure by a margin of 52.8% to 47.2%.",
+    "byline_count": 3,
+    "author_names": [
+      "Kwiyeon Ha",
+      "Brian Melley",
+      "The Associated Press"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T14:19:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/select/best-personal-loans-for-bad-credit/",
+    "source": "CNBC",
+    "title": "Best personal loans for bad credit of September 2026",
+    "summary": "Avant, OneMain and Upstart are among the top lenders that work with borrowers with weak credit.",
+    "byline_count": 3,
+    "author_names": [
+      "Megan DeMatteo",
+      "Jasmin Suknanan",
+      "Trina Paul"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-27T22:48:59+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/US/mass-shootings-rock-2-us-cities-leave-3/story?id=136068840",
+    "source": "ABC News",
+    "title": "Mass shootings rock 2 US cities, leave 3 dead, 18 injured: Police",
+    "summary": "Shootings in Chicago and Trenton, N.J., over the weekend left two dead and 18 injured.",
+    "byline_count": 3,
+    "author_names": [
+      "Bill Hutchinson",
+      "Caterina Andreano",
+      "Katrina Stapleton"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T15:37:05+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
+    "source": "NPR",
+    "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
+    "summary": "Dawn was crowned fattest marmot by popular vote.",
+    "byline_count": 1,
+    "author_names": [
+      "Dhanika Pineda"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity",
+      "headline_label"
+    ],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T12:45:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate",
+    "source": "The Guardian US",
+    "title": "\u2018Grassroots will beat big money every day\u2019: can a DSA member flip a Republican Senate seat?",
+    "summary": "<p>Angie Nixon won one of the biggest upsets in US midterm primaries \u2013 and if elected, the Democrat would be the first African American senator in Florida history</p><p>The Democratic establishment had the money, the machinery and the candidate with national name recognition. Angie Nixon had a bookshop called Caf\u00e9 Resistance and a grassroots campaign for the Senate. On primary election night in <a href=\"https://www.theguardian.com/us-news/florida\">Florida</a>, <a href=\"https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results\">Nixon won</a> in arguably the biggest upset of the primary season. But at least one person was not shocked: Angie Nixon herself. \u201cWe weren\u2019t surprised,\u201d the 42-year-old reflects after overcoming a vast fundraising disadvantage to defeat <a href=\"https://www.theguardian.com/us-news/2026/mar/23/trump-whistleblower-alex-vindman-us-senator\">Alex Vindman</a>, a combat veteran who testified against Donald Trump during his first impeachmen",
+    "byline_count": 1,
+    "author_names": [
+      "David Smith"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T10:00:53+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss",
     "source": "BBC News",
     "title": "Everton call off Armstrong sale after fan backlash",
@@ -964,7 +1086,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T08:58:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026",
@@ -981,7 +1103,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T04:00:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/30/youre-at-war-when-you-get-attacked-mark-carney-shows-combative-nature-in-face-off-with-trump",
@@ -998,7 +1120,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T05:00:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/08/29/us-west-water-crisis-colorado-river-reservoirs-arizona-nevada-california/",
@@ -2045,6 +2167,40 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/news/us-news/fake-49ers-player-scam-bilked-two-dozen-women-rcna595105",
+    "source": "NBC News",
+    "title": "Man posed as San Francisco 49er to defraud women of $1.3 million in multistate romance scheme, feds say",
+    "summary": "A man was accused of pretending to be a San Francisco 49ers player to defraud women, according to the U.S. attorney\u2019s office in Oregon.",
+    "byline_count": 1,
+    "author_names": [
+      "Victoria Meza, NBC Bay Area"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T13:26:28+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/aug/30/state-department-global-engagement-center-leaked-documents-foreign-propaganda",
+    "source": "The Guardian US",
+    "title": "Documents leaked by Trump official to bolster a conspiracy show \u2018absolutely nothing\u2019",
+    "summary": "<p>Inside the US state department, critics are still attacking a shuttered office established to counter foreign propaganda. Now, some of its work is also being resumed</p><p>A botched leak of purportedly explosive government files to a prominent conservative online personality was supposed to offer proof of what the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> and its allies have long alleged: that a little-known office inside the US state department, created to fight foreign propaganda, had secretly become a tool for domestic censorship.</p><p>Two former high-ranking officials at the Global Engagement Center (GEC), a target of Republican ire that lost its funding in 2024 and was disbanded after <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>\u2019s return to office in 2025, say the documents show nothing of the kind.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/30/state-department-global-engagement-cent",
+    "byline_count": 1,
+    "author_names": [
+      "Joseph Gedeon"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T10:00:53+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.nbcnews.com/politics/2026-election/minnesota-supreme-court-rejects-mike-lindells-bid-recount-gop-gubernat-rcna595080",
     "source": "NBC News",
     "title": "Minnesota Supreme Court rejects Mike Lindell\u2019s bid to recount GOP primary",
@@ -2059,7 +2215,7 @@
     ],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T03:07:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/news/anne-hathaway-tom-cruise-days-of-thunder-sequel-1236839347/",
@@ -2492,6 +2648,249 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/08/30/keenan-allen-arrested/",
+    "source": "TMZ",
+    "title": "Colts Star Keenan Allen Arrested on DWI Charges in Indianapolis",
+    "summary": "Indianapolis Colts wide receiver Keenan Allen was arrested early Sunday morning in Indianapolis ... after cops accused the veteran NFL star of driving while intoxicated. According to jail records, Allen, 34, was booked on charges of OWI while&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T12:19:13+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/politics/story/2026-08-30/conservative-california-upbringing-paved-natalie-harps-way-to-trump",
+    "source": "Los Angeles Times",
+    "title": "A conservative California upbringing paved Natalie Harp's way to Trump",
+    "summary": "<p>The presidential aide spent much of her early life in Southern California, where she was home-schooled and attended a mega-church on Sundays, her brother said.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Ana Ceballos",
+      "Hannah Fry"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/world-nation/story/2026-08-30/frances-wildfire-nightmare-echoes-californias-hard-lessons-on-building-in-woods",
+    "source": "Los Angeles Times",
+    "title": "France's wildfire nightmare echoes California's hard lessons on building in the woods",
+    "summary": "<p>As France fights wildfires this summer, it looks to California and its experience with fighting or preventing fires.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Michael Finnegan",
+      "Noah Haggerty"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/tech/big-tech/article/3365751/cxmt-joins-growing-list-chinese-tech-firms-suing-us-pentagon-over-blacklists?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "CXMT joins growing list of Chinese tech firms suing US Pentagon over blacklists",
+    "summary": "Leading chipmaker ChangXin Memory Technologies (CXMT) has joined a growing list of Chinese technology companies suing the US government over their additions to Pentagon blacklists, as legal experts said US courts had shown a willingness to hold the Department of Defence to account.\nRecent rulings involving Chinese tech firms including lidar sensor maker Hesai Group, drone manufacturer DJI and biotech firm WuXi AppTec indicated that judges were prepared to scrutinise the US government\u2019s evidence...",
+    "byline_count": 1,
+    "author_names": [
+      "Wency Chen"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T09:46:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/tech/big-tech/article/3365770/sony-music-warner-accuse-anthropic-blatant-theft-major-new-lawsuit?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Sony Music, Warner accuse Anthropic of \u2018blatant theft\u2019 in major new lawsuit",
+    "summary": "Some of the world\u2019s biggest music publishers have launched a fresh lawsuit against Anthropic, accusing the artificial intelligence giant of conducting \u201cone of the largest and most blatant ongoing thefts of intellectual property in history\u201d.\nThe case adds to the legal challenges facing Anthropic as the firm eyes a potential blockbuster initial public offering, as the AI industry confronts growing pushback over its use of human-made material to train its models.\nSony Music Publishing, Warner...",
+    "byline_count": 1,
+    "author_names": [
+      "Wency Chen"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T13:44:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/30/iran-war-global-economy-mission-impossible-oil-prices-trump-family-defense-contracts-investments-stocks/",
+    "source": "Fortune",
+    "title": "Six months into the Iran war, the global economy has pulled off a \u2018Mission Impossible\u2019 scene, and the Trump family is among the winners",
+    "summary": "The direst predictions haven\u2019t come true even if no corner of the world's economy has been untouched.",
+    "byline_count": 2,
+    "author_names": [
+      "Matt Sedensky",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T14:31:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/30/baby-boomer-vs-gen-x-senate-race-massachusetts-markey-moulton-generational-change-us-politics/",
+    "source": "Fortune",
+    "title": "This baby boomer vs. Gen X Senate race emerges as key test of generational change in U.S. politics and what age is too old for Congress",
+    "summary": "Sen.\u00a0Ed Markey is 80, while his rival, Rep.\u00a0Seth Moulton, is 47.",
+    "byline_count": 2,
+    "author_names": [
+      "Leah Willingham",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T15:05:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/08/30/olivia-rodrigo-philanthropy-melinda-french-gates-womens-well-being-dasiy-chain-fields/",
+    "source": "Fortune",
+    "title": "Olivia Rodrigo\u00a0and philanthropist Melinda French Gates raise $20 million for women\u2019s well-being with a benefit show recalling \u201990s feminist push",
+    "summary": "Melinda French Gates\u00a0pledged $10 million through her Pivotal Ventures in a surprise appearance at the start of Rodrigo's set, praising her for \"showing a new generation how much their voices matter.\"",
+    "byline_count": 2,
+    "author_names": [
+      "James Pollard",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T14:48:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theinformation.com/articles/salesforce-overhauling-way-charges-ai",
+    "source": "The Information",
+    "title": "How Salesforce Is Overhauling the Way It Charges for AI",
+    "summary": "<p>As software firms sell more AI, they are shifting from subscription fees to charging based on how much customers use it and whether it actually helps their business. Salesforce shows how complicated this transition may be.</p>\n\n<p>A provider of software for managing customer relationships and other tasks, <a href=\"https://www.theinformation.com/org-charts/salesforce\">Salesforce</a> is starting to let businesses choose how they want to pay for its Agentforce AI. That includes negotiating custom contracts that charge businesses based on how much the AI either grows revenue by helping salespeople close more deals or cuts costs by automating more customer service interactions.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Laura Bratton",
+      "Kevin McLaughlin"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T15:00:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/08/30/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+    "source": "CNBC",
+    "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
+    "summary": "Broadcom and Palo Alto Networks report. Plus, it's jobs week.",
+    "byline_count": 2,
+    "author_names": [
+      "Kevin Stankiewicz",
+      "Zev Fima"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T14:54:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "British woman killed in stabbing at German railway station",
+    "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria.",
+    "byline_count": 2,
+    "author_names": [
+      "Tom McArthur",
+      "Bethany Bell"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T15:00:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/russia-grinds-deeper-into-donbas-ukraine-braces-for-key-battles-2026-8",
+    "source": "Business Insider",
+    "title": "Russia is slowly grinding through the Donbas as Ukraine braces for a brutal fight over its last strongholds",
+    "summary": "Russia is grinding deeper into the Donbas, where Ukrainian troops are preparing for a costly fight over the region's last major defensive bastions.",
+    "byline_count": 1,
+    "author_names": [
+      "Ibrahim Naber"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T11:39:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.vox.com/podcasts/500647/jon-ossoff-natalie-harp-viral-rally-moment-2028-speculation",
+    "source": "Vox",
+    "title": "The presidential contender successfully trolling Trump\u2019s White House",
+    "summary": "Until recently, Natalie Harp was an omnipresent but low-profile aide to President Donald Trump: always there, but rarely part of the story herself. That changed abruptly earlier this month, when Sen. Jon Ossoff (D-GA), who is currently running for reelection, name-dropped her in a speech.&#160; Trump \u201cdoesn\u2019t want to do the job. He wants to [&#8230;]",
+    "byline_count": 2,
+    "author_names": [
+      "Denise Guerra",
+      "Sean Rameswaram"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T11:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus",
+    "source": "The Guardian US",
+    "title": "At least seven dead and 23 missing after ferry capsizes off northern Cyprus",
+    "summary": "<p>Authorities say 237 people rescued and search under way for those who remain unaccounted for</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus\">Northern Cyprus ferry disaster \u2013 latest updates</a></p></li></ul><p>At least seven people have died and 23 people are missing after a ferry carrying nearly 270 passengers and crew capsized off the coast of Turkish-occupied northern Cyprus, local authorities said.</p><p>The territory\u2019s prime minister, \u00dcnal \u00dcstel, told the state-run TRT news channel on Sunday that 237 people had been rescued. A search was under way for those who remained unaccounted for.</p> <a href=\"https://www.theguardian.com/world/2026/aug/30/ferry-capsizes-northern-cyprus\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Helena Smith",
+      "Angelique Chrisafis"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T15:12:03+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/08/30/lake-america-lake-ontario-maps-trump",
+    "source": "Axios",
+    "title": "Google Maps adds 'Lake America' as Ford compares change to 'SNL' skit",
+    "summary": "<p>President <a href=\"https://www.axios.com/politics-policy/donald-trump\" target=\"_blank\">Trump</a>'s order to <a href=\"https://www.axios.com/2026/08/27/trump-lake-ontario-lake-america\" target=\"_blank\">rename</a> Lake Ontario to \"Lake America\" is stirring up more controversy, as tech companies decide whether to comply or not. </p><p><strong>The big picture:</strong> Google and other digital map providers\u2014like MapQuest and Apple\u2014have split on whether to accept the name change or keep <a href=\"https://www.axios.com/2026/08/25/trump-french-language-canada-lake-ontario\" target=\"_blank\">Lake Ontario</a> on their maps. </p><hr /><p><strong>Driving the news: </strong>An Axios review of Google and Apple Maps on Sunday showed Google now says \"Lake America\" on mobile and desktop, while Apple Maps says Lake Ontario. </p><ul><li>Google said Saturday that it had changed the maps in accordance with updates from the U.S. <a href=\"https://www.usgs.gov/tools/geographic-names-information-system-gnis\" ta",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-08-30T15:46:06.436491+00:00",
+    "published_parsed": "2026-08-30T14:50:59+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.sueddeutsche.de/politik/venezuela-usa-erdoel-deal-trump-rodriguez-li.3539062",
     "source": "Sueddeutsche Zeitung",
     "title": "USA: Trumps Erd\u00f6l-Deal mit Venezuela wirft Fragen auf",
@@ -2505,7 +2904,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T01:42:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3365717/legal-battle-over-hong-kong-tycoon-lim-por-yens-hk29b-estate-set-rumble?utm_source=rss_feed",
@@ -2522,7 +2921,7 @@
     ],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T04:00:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss",
@@ -2538,7 +2937,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-23T06:17:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/International/1-killed-5-injured-swiss-shooting-police/story?id=136067305",
@@ -2554,7 +2953,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T09:12:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
@@ -2570,7 +2969,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T04:59:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/08/29/celebrity-news/dolly-partons-niece-confirms-stars-burial/",
