@@ -15,7 +15,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:30:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/30/josh-sanders-arrested/",
@@ -90,7 +90,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:30:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/08/31/jaime-pressly-kicked-out-of-san-jose-hotel-after-unusual-behavior/",
@@ -126,7 +126,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T19:16:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/09/01/usps-whistleblower-mail-ballots-warning",
@@ -176,6 +176,59 @@
     "first_seen_at": "2026-08-30T09:36:50.688920+00:00",
     "published_parsed": "2026-08-30T07:00:44+00:00",
     "is_new": false
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/01/ben-affleck-seen-tagging-aflac-billboards-with-his-name/",
+    "source": "TMZ",
+    "title": "Ben Affleck Caught Tagging Mysterious Aflac Billboards in Los Angeles",
+    "summary": "Ben Affleck appears to be the mystery man behind the graffiti plastered across Aflac's insurance billboards in Los Angeles ... TMZ has learned. TMZ has obtained photos of Ben tagging a billboard in an L.A. alleyway Tuesday ... appearing to&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T23:30:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/01/lionel-richie-hospitalization-update/",
+    "source": "TMZ",
+    "title": "Lionel Richie In ICU For Cardiac Issues After St. Louis Concert",
+    "summary": "Lionel Richie remains hospitalized in a St. Louis intensive care unit as doctors check out his ticker ... TMZ has learned. Sources familiar with the situation tell TMZ ... Lionel is undergoing testing for cardiac-related issues. We're told he's&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T22:40:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/Politics/catastrophic-failures-whistleblower-warns-trump-proposed-usps-mail/story?id=136114901",
+    "source": "ABC News",
+    "title": "'Catastrophic failures': Whistleblower warns about USPS mail-in ballot system",
+    "summary": "Blumenthal raised concerns about \"zero percent failure rate\" which, according to the whistleblower, could see whole batches of ballots being rejected.",
+    "byline_count": 2,
+    "author_names": [
+      "Allison Pecorin",
+      "Devin Dwyer"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T19:08:14+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/01/scientology-not-upset-with-leah-remini-for-filming-real-housewives-of-beverly-hills/",
@@ -686,7 +739,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T19:50:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/world-nation/story/2026-09-01/postal-service-work-to-comply-with-trumps-executive-order-is-rushed-sloppy-whistleblower-contends",
@@ -704,7 +757,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T14:14:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/01/brittany-cartwright-wants-jax-taylor-girlfriend-away-from-their-son/",
@@ -816,6 +869,143 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/09/01/jeffrey-epstein-hairstylist-frederic-fekkai-accused-of-grooming-girls-on-his-behalf/",
+    "source": "TMZ",
+    "title": "Jeffrey Epstein\u2019s Friend & Celebrity Hairstylist Fr\u00e9d\u00e9ric Fekkai Accused of Grooming Girls for Him",
+    "summary": "Celebrity hairstylist and Jeffrey Epstein\u2019s friend Fr\u00e9d\u00e9ric Fekkai has been accused of grooming girls to look \"as young as possible\" for the billionaire and facilitate his crimes ... TMZ has learned. According to court docs, obtained by TMZ, 7&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T01:45:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3366037/trump-puts-pressure-squeezed-us-oil-refiners-ease-pump-prices?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Trump puts pressure on squeezed US oil refiners to ease pump prices",
+    "summary": "President Donald Trump pressed US oil refiners to boost domestic production of petrol and diesel during a closed-door meeting on Tuesday, as he contends with high prices and mounting cost-of-living concerns before November\u2019s midterm elections.\nTrump made clear he wanted lower prices at the pump for Americans and asked executives how to increase refining capacity, according to a White House official who provided details on condition of anonymity.\nThe official said industry representatives were...",
+    "byline_count": 1,
+    "author_names": [
+      "Bloomberg"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T23:37:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
+    "summary": "Tehran pledges &#039;severe punishment&#039; and retaliation against Washington following a new wave of US attacks.",
+    "byline_count": 3,
+    "author_names": [
+      "Enes Abuomer",
+      "Adam Hancock",
+      "Rached El-Moctar"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
+    "source": "STAT",
+    "title": "STAT+: ADA review of members\u2019 expulsion denies group censored opinions, called in police",
+    "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy.",
+    "byline_count": 1,
+    "author_names": [
+      "Elizabeth Cooney"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity",
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T23:06:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/massachusetts-primary-election-senate-markey-moulton-ballot/",
+    "source": "CBS News",
+    "title": "Markey defeats Moulton in Massachusetts' Democratic primary for Senate",
+    "summary": "Incumbent Sen. Ed Markey has won the Democratic nomination for U.S. Senate in Massachusetts.",
+    "byline_count": 3,
+    "author_names": [
+      "Neal  Riley",
+      "Aaron  Parseghian",
+      "Louisa  Moller"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T01:56:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/Politics/army-secretary-frequently-warned-white-house-hegseth-departure/story?id=136125245",
+    "source": "ABC News",
+    "title": "Army secretary frequently warned White House about Hegseth: Sources",
+    "summary": "Army Secretary Dan Driscoll resigned early last week at one of the busiest moments for the service since the height of the wars in Iraq and Afghanistan.",
+    "byline_count": 3,
+    "author_names": [
+      "Steven Beynon",
+      "Luis Martinez",
+      "Katherine Faulders"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T00:13:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns",
+    "source": "The Information",
+    "title": "OpenAI Technique in \u2018Astra\u2019 Model Sparks Security Concerns",
+    "summary": "<p><a href=\"https://www.theinformation.com/org-charts/openai\">OpenAI</a> says its forthcoming AI model Astra marks a step up in capabilities such as coding and operating applications on a computer. But an innovative technique that improved the model\u2019s performance also means that the model, and others like it, will reveal less of their \u201cthinking,\u201d making them harder to monitor for signs of bad behavior, according to a person with knowledge of Astra\u2019s development.</p>\n\n<p>While the limitation isn\u2019t necessarily a significant&nbsp;issue with Astra, the technique has triggered concerns inside OpenAI and across the industry about whether AI developers that adopt and supercharge it will struggle to guard against the kind of rogue AI that recently hacked OpenAI\u2019s own systems and those of other companies such as Hugging Face.</p>",
+    "byline_count": 3,
+    "author_names": [
+      "Amir Efrati",
+      "Stephanie Palazzolo",
+      "Rocket Drew"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T00:40:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Fofana seals \u00a330m move to Sunderland",
+    "summary": "Sunderland have beaten Crystal Palace to the signing of Malick Fofana from Lyon.",
+    "byline_count": 3,
+    "author_names": [
+      "Sami Mokbel",
+      "Nizaar Kinsella",
+      "Keifer MacDonald"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T23:34:50+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.abc.net.au/news/2026-09-02/friends-search-for-missing-mate-nepal-flood-disaster/107102184",
     "source": "ABC Australia",
     "title": "On motorbikes, four friends search for their missing mate in Nepal",
@@ -830,7 +1020,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T19:43:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/01/dennis-hof-brothel-empire-up-for-sale/",
@@ -847,7 +1037,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:00:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/01/alanis-morissette-sues-former-tour-manager/",
@@ -864,7 +1054,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:36:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/01/chevron-venezuela-oil-trump-65-billion-barrels/",
@@ -881,7 +1071,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:52:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/briefings/meta-moves-internal-chat-google-slack",
@@ -898,7 +1088,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:43:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.vox.com/today-explained-newsletter/501557/mail-in-voting",
@@ -915,7 +1105,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:10:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/whistleblower-warns-about-usps-new-mail-ballot-system/",
@@ -1866,6 +2056,68 @@
     "is_new": false
   },
   {
+    "link": "https://www.cbsnews.com/news/tyler-robinson-charlie-kirk-murder-trial-ruling/",
+    "source": "CBS News",
+    "title": "Charlie Kirk's alleged killer will stand trial for aggravated murder",
+    "summary": "Judge Tony Graf said prosecutors have enough evidence against Tyler Robinson to put the 23-year-old on trial on a charge that could see him face the death penalty.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T00:34:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/tiger-woods-change-dui-plea-florida/",
+    "source": "CBS News",
+    "title": "Tiger Woods to change not guilty plea in Florida DUI case, court records show",
+    "summary": "Court documents show that Tiger Woods plans to change his not guilty plea in a DUI case stemming from a rollover crash in Florida.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T01:13:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
+    "source": "NPR",
+    "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
+    "summary": "The censure vote drew bipartisan support, and followed an investigation by the House Ethics Committee into allegations of sexual harassment against two young female staff members.",
+    "byline_count": 1,
+    "author_names": [
+      "Claudia Grisales"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T22:18:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/policy/defense/6065013-hegseth-again-removes-army-officer-promotions/",
+    "source": "The Hill",
+    "title": "Hegseth removes 6 Army officers from promotion list",
+    "summary": "Defense Secretary Pete Hegseth spiked the names of at least six Army officers from a list for promotions to two-star generals, a person familiar with the matter, who spoke on condition of anonymity, told The Hill Tuesday.\u00a0 The removals come just days after the Pentagon chief\u00a0blocked promotions\u00a0of four Army officers selected to ascend to one-star&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 3,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T00:56:44+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://deadline.com/2026/09/pulse-remake-dave-boyle-to-direct-screen-gems-spyglass-1237064544/",
     "source": "Deadline",
     "title": "Dave Boyle To Direct Reimagining Of Japanese Horror Film \u2018Pulse\u2019 For Screen Gems, Spyglass & Parker Finn\u2019s Bad Feeling",
@@ -1880,7 +2132,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T19:59:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/01/jax-taylor-and-brittany-cartwright-allegedly-arguing-over-her-wedding-ring/",
@@ -1897,7 +2149,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:00:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.twz.com/sea/navys-sounds-like-it-now-wants-the-air-combat-drone-it-notoriously-passed-over-a-decade-ago",
@@ -1915,7 +2167,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T19:20:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/sports/nfl/tony-romo-admits-reliance-alcohol-pleading-no-contest-impaired-driving-rcna595564",
@@ -2186,6 +2438,238 @@
     "is_new": false
   },
   {
+    "link": "https://www.latimes.com/california/story/2026-09-01/coverage-for-smoke-damage-money-for-protecting-homes-passed-to-help-wildfire-victims",
+    "source": "Los Angeles Times",
+    "title": "Coverage for smoke damage, money for protecting homes passed to help wildfire victims",
+    "summary": "<p>California lawmakers passed laws that would ensure insurance companies provide better coverage for smoke-damaged homes and financing for upgrades protecting residences from future fire damage.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Nicole Nixon",
+      "Noah Haggerty"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T23:35:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-02/nt-buffalo-attack-victorian-tourist-tossed-into-the-air/107102454",
+    "source": "ABC Australia",
+    "title": "Buffalo attack in Northern Territory leaves tourist shaken",
+    "summary": "Two young tourists say they've never been more scared in their lives after 21-year-old Victorian woman Emma Hipwell was charged by a wild buffalo while holidaying in the Northern Territory.",
+    "byline_count": 2,
+    "author_names": [
+      "Oliver Chaseling",
+      "James Elton"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T00:50:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-02/afp-raid-melbourne-home-of-former-cfmeu-official/107105416",
+    "source": "ABC Australia",
+    "title": "AFP raid Melbourne home of former CFMEU official",
+    "summary": "Federal police officers have raided the home of a former senior official of the militant construction union as part of their probe into corruption in the building industry.",
+    "byline_count": 2,
+    "author_names": [
+      "Danny Tran",
+      "Jessica Longbottom"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T22:48:57+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/business/story/2026-09-01/state-lawmakers-kill-wildfire-bill-after-utility-complaints",
+    "source": "Los Angeles Times",
+    "title": "California lawmakers kill wildfire bill after utility complaints",
+    "summary": "<p>Legislation that would have helped wildfire victims receive compensation more quickly, but that utilities said didn't do enough to reduce their financial risks, died in Sacramento  after the Assembly declined to vote on it.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Melody Petersen",
+      "Dakota Smith"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T21:59:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/california/story/2026-09-01/judge-dismisses-doj-lawsuit-california-transgender-athlete-policies",
+    "source": "Los Angeles Times",
+    "title": "Judge dismisses Justice Department lawsuit challenging California transgender sports policies",
+    "summary": "<p>A federal judge threw out a U.S. Justice Department lawsuit challenging California school policies that allow transgender athletes to compete in girls' sports.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Kevin Rector"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T23:20:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.courthousenews.com/fifth-circuit-might-inject-new-life-into-texas-covid-19-vaccine-lawsuit/",
+    "source": "Courthouse News",
+    "title": "Fifth Circuit might inject new life into Texas\u2019 Covid-19 vaccine lawsuit",
+    "summary": "Texas Attorney General Ken Paxton is seeking to revive his lawsuit claiming Pfizer lied to the public about the efficacy of its Covid-19 vaccine \u2014 and Fifth Circuit judges' jurisdictional concerns could give him a boost.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T22:48:32+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "source": "Krebs on Security",
+    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+    "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T22:40:28+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.courthousenews.com/alanis-morissette-accuses-former-tour-manager-of-extortion-in-new-lawsuit/",
+    "source": "Courthouse News",
+    "title": "Alanis Morissette accuses former tour manager of extortion in new lawsuit",
+    "summary": "The singer claims she is the victim of a blackmail campaign orchestrated by her disgruntled former tour manager.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T00:48:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cvgyp2n1e75o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Families hit by long waits for dementia diagnosis",
+    "summary": "Hundreds of families say they have had to wait months or even years for a dementia diagnosis for a loved one.",
+    "byline_count": 2,
+    "author_names": [
+      "Dominic Hughes",
+      "Camilla Horrox"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T01:46:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+    "source": "TechCrunch",
+    "title": "Reliance\u2019s JioHotstar takes its streaming empire global \u2014 without sports",
+    "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+    "byline_count": 2,
+    "author_names": [
+      "Ivan Mehta",
+      "Jagmeet Singh"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T23:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/sep/01/trump-trans-athletes-california-lawsuit-dismissed",
+    "source": "The Guardian US",
+    "title": "Federal judge tosses Trump lawsuit over young trans athletes in California school sports",
+    "summary": "<p>In a major LGBTQ+ rights victory, the justice department cannot force the state to ban trans girls from women\u2019s sports</p><p>A federal judge has dismissed the Trump administration\u2019s lawsuit challenging California\u2019s policy of allowing transgender youth to play on sports teams that match their gender, a major loss for Donald Trump and the Department of Justice (DoJ).</p><p>The justice department had been fighting for a year to force California to ban trans girls from women\u2019s sports, with the president <a href=\"https://www.theguardian.com/us-news/2025/jun/05/california-ab-hernandez-trump-attacks\">directly singling out one trans track and field athlete</a> in online attacks and regularly <a href=\"https://www.reuters.com/video/watch/idRW473407012026RP1/\">mocking</a> trans athletes in his speeches.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/01/trump-trans-athletes-california-lawsuit-dismissed\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Sam Levin"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T00:33:03+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/house/6064573-house-censures-chuck-edwards/",
+    "source": "The Hill",
+    "title": "House censures North Carolina Republican over allegations of inappropriate behavior with staffers",
+    "summary": "House lawmakers in both parties came together on Tuesday to censure Rep. Chuck Edwards (R-N.C.) over allegations of inappropriate behavior with female staffers in his office, marking the latest in a string of disciplinary actions against sitting lawmakers this Congress. The vote was 413-2, fueled by a damning Ethics Committee report, released early last month,&#8230;",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T22:15:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/policy/defense/6064658-hegseth-consolidates-pentagon-power/",
+    "source": "The Hill",
+    "title": "Hegseth imposes his will on Army with Driscoll resignation",
+    "summary": "The resignation of Army Secretary Dan Driscoll underlines how Defense Secretary Pete Hegseth is increasingly imposing his will on the Pentagon after nearly 20 months in the role.&#160; Driscoll\u2019s departure, which came sooner than expected, followed months of tensions with Hegseth, who has forced out or stalled the promotions of dozens of senior military officials&#8230;",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T22:38:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/?utm_source=feed",
+    "source": "The Atlantic",
+    "title": "The Singularity Is Not What It Seems",
+    "summary": "Whatever the AI future is, we\u2019re in it right now.",
+    "byline_count": 2,
+    "author_names": [
+      "Matteo Wong",
+      "Charlie Warzel"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-02T00:16:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/09/01/us/politics/transgender-kansas-doj-lawsuit.html",
+    "source": "NYT Politics",
+    "title": "Justice Department Sues Kansas City Schools Over Gender Policy",
+    "summary": "In the first such lawsuit, the Trump administration accused the district of hiding students\u2019 gender transition from their parents against federal law.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-02T02:06:02.921410+00:00",
+    "published_parsed": "2026-09-01T23:19:17+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://variety.com/2026/music/news/jason-isbell-suno-lawsuit-ai-music-exploits-identities-1236848468/",
     "source": "Variety",
     "title": "Jason Isbell Leads New Suno Lawsuit, Claims AI Music Generator \u2018Exploits\u2019 Musicians\u2019 Identities in Models",
@@ -2200,7 +2684,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T19:30:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/hollywood-block-the-merger-new-video-paramount-warner-bros-1237064503/",
@@ -2217,7 +2701,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:21:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/01/cher-slams-daughter-in-law-in-court-battle-over-her-son/",
@@ -2234,7 +2718,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T19:30:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/politik/deutschland-russland-regierung-drohnenanschlag-li.3540410",
@@ -2250,7 +2734,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:32:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/01/jim-thornton-suspended/",
@@ -2267,7 +2751,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:05:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
@@ -2280,7 +2764,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:56:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
@@ -2293,7 +2777,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:43:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/01/bill-passed-trump-government-funding/",
@@ -2309,7 +2793,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:50:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/01/california-bill-wildfire-victims-compensation/",
@@ -2325,7 +2809,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:27:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/01/fbi-hamas-crypto-donations-seizure/",
@@ -2341,7 +2825,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:10:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/dhs-no-plans-ice-polls-midterm-elections-rcna595594",
@@ -2357,7 +2841,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:18:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
@@ -2373,7 +2857,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:40:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
@@ -2389,7 +2873,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:57:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
@@ -2405,7 +2889,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:17:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
@@ -2421,7 +2905,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T20:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/newsletters/technology/6064542-tim-cook-hands-over-reins-of-apple-keeps-political-clout/",
@@ -2434,7 +2918,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:28:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/openai-secures-major-stake-sb-energy-ipo-plans-2026-9",
@@ -2451,7 +2935,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:01:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/music/2026/sep/01/lizzo-lawsuit-dismissed",
@@ -2468,7 +2952,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T19:33:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/09/01/apple-maps-google-lake-ontario-lake-america",
@@ -2483,7 +2967,7 @@
     ],
     "first_seen_at": "2026-09-01T22:13:49.034078+00:00",
     "published_parsed": "2026-09-01T21:34:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/harry-potter-tv-series-max-release-date-cast-1235323284/",
