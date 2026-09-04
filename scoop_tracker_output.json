@@ -35,7 +35,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T01:37:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/briefings/exclusive-nscale-touts-100-billion-plus-contracted-revenue-anthropic-win",
@@ -276,6 +276,24 @@
     "is_new": false
   },
   {
+    "link": "https://www.bbc.co.uk/news/articles/c7708k363dyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Families move out of 'nightmare' new-build homes plagued by defects, damp and mould",
+    "summary": "Dozens have contacted BBC Your Voice as complaints to ombudsman have tripled in a year.",
+    "byline_count": 4,
+    "author_names": [
+      "Tarah Welsh",
+      "Naresh Puri",
+      "Jade Thompson ",
+      "Larissa Tairo"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T05:07:08+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.cbsnews.com/news/fbi-ai-identify-threats-faster-christopher-raia/",
     "source": "CBS News",
     "title": "FBI using AI to zero in on threats faster, deputy director says",
@@ -291,7 +309,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T00:02:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/federal-prosecutors-charge-ice-officer-lying-investigators-shooting-ve-rcna595975",
@@ -1254,76 +1272,22 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/08/31/aaliyah-cousin-jomo-hankerson-wants-millions-in-lawsuit/",
+    "link": "https://www.tmz.com/2026/09/04/jax-taylor-claims-brittany-cartwright-wants-him-to-relapse/",
     "source": "TMZ",
-    "title": "Aaliyah: Cousin Blamed For Death In Lawsuit Seeking 8-Figure Sum In Family War",
-    "summary": "Aaliyah\u2019s family fight over music royalties has heated up \u2026 with the late singer's cousin -- who was blamed for her death by her uncle -- seeking a $20 million payout in their ongoing litigation ... TMZ has learned. According to court docs,&hellip;",
+    "title": "Jax Taylor Believes Brittany Wants Him to Relapse, Claims She Told Him His Son 'Doesn't Want You'",
+    "summary": "Jax Taylor is calling out his estranged wife, Brittany Cartwright, claiming she told him he should move away and leave her and their son alone ... TMZ has learned. In court docs, Jax told the judge in his pending restraining order case that he has&hellip;",
     "byline_count": 1,
     "author_names": [
       "TMZ Staff"
     ],
-    "total_score": 6,
+    "total_score": 5,
     "matched_categories": [
       "exclusivity",
       "primary_source"
     ],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-08-31T23:30:20+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/31/gleb-savchenko-lists-home-during-custody-fight-with-elena-samodanova/",
-    "source": "TMZ",
-    "title": "'DWTS' Gleb Savchenko Lists California Home Amid Bitter Custody Fight With Ex",
-    "summary": "Gleb Savchenko is looking to unload his Southern California home ... putting the desert property on the market amid his ongoing legal battle with his ex-wife ... TMZ has learned. Sources familiar with the sale tell TMZ ... Gleb listed the Morongo&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "exclusivity",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T01:56:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Iran war live: Trump vows to strike Iran \u2018hard\u2019 after first clash in month",
-    "summary": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
-    "byline_count": 4,
-    "author_names": [
-      "Enes Abuomer",
-      "Rached El-Moctar",
-      "Leila Minkara",
-      "Ali Mustafa"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
-    "summary": "The verdict ends decades of mystery as to who was behind the rapper's death.",
-    "byline_count": 4,
-    "author_names": [
-      "Anoushka Mutanda-Dougherty",
-      "Christal Hayes",
-      "Shaimaa Khalil",
-      "Regan Morris"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T02:32:15+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T08:00:09+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.cbsnews.com/news/mark-sanchez-guilty-plea-stabbing-indianapolis/",
@@ -1338,7 +1302,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T22:55:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/03/jax-taylor-exposes-ex-brittany-smartwater-message/",
@@ -1522,23 +1486,55 @@
     "is_new": false
   },
   {
-    "link": "https://www.twz.com/sea/iranian-launchers-struck-by-u-s-held-exotic-and-highly-concerning-rocket-delivered-sea-mines",
-    "source": "The War Zone",
-    "title": "Iranian Launchers Struck By U.S. Held Exotic And Highly Concerning Rocket-Delivered Sea Mines",
-    "summary": "<p>Seeding mine fields at standoff distances via rockets puts the critical southern route through the strait, now a global lifeline, at great risk.</p>\n<p>The post <a href=\"https://www.twz.com/sea/iranian-launchers-struck-by-u-s-held-exotic-and-highly-concerning-rocket-delivered-sea-mines\">Iranian Launchers Struck By U.S. Held Exotic And Highly Concerning Rocket-Delivered Sea Mines</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+    "link": "https://www.abc.net.au/news/2026-09-04/causes-of-indonesian-wildfires-and-how-the-government-tackling/107113456",
+    "source": "ABC Australia",
+    "title": "Area four times size of Singapore burns in Indonesia's wildfires",
+    "summary": "A super El Ni\u00f1o is exacerbating drought and wildfire conditions in Sumatra and Kalimantan on the island of Borneo. Hazardous haze from the wildfires has spread as far as neighbouring countries across the region.",
     "byline_count": 3,
     "author_names": [
-      "Howard Altman",
-      "Joseph Trevithick",
-      "Tyler Rogoway"
+      "Erwin Renaldi",
+      "Alex Lim",
+      "Jarrod Fankhauser"
     ],
-    "total_score": 5,
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T05:09:45+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-04/billings-sentence-hearing-day-two-molly-ticehurst/107111898",
+    "source": "ABC Australia",
+    "title": "Grieving mother demands government release Molly Ticehurst report",
+    "summary": "Molly Ticehurst was killed in her home by her ex-partner. Her mother is calling for the release of a report into her daughter's interaction with the Staying Home Leaving Violence scheme.",
+    "byline_count": 3,
+    "author_names": [
+      "Xanthe Gregory",
+      "Lani Oataway",
+      "Hamish Cole"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T05:32:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/US/wireStory/ice-whistleblower-warned-unprecedented-lowering-standards-hiring-spree-136189046",
+    "source": "ABC News",
+    "title": "ICE whistleblower warned of 'unprecedented lowering of standards' during hiring spree",
+    "summary": "A supervisor overseeing background checks warned last year that Immigration and Customs Enforcement was hiring scores of new officers without basic vetting, violating federal rules and putting the agency at risk of misconduct",
+    "byline_count": 1,
+    "author_names": [
+      "RYAN J. FOLEY Associated Press"
+    ],
+    "total_score": 4,
     "matched_categories": [
-      "exclusivity"
+      "primary_source"
     ],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-08-31T23:49:15+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T06:56:04+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.cbsnews.com/video/james-walkinshaw-what-usps-whistleblower-told-house-committee-mail-voting/",
@@ -1553,7 +1549,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T22:02:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
@@ -1571,7 +1567,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T01:49:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-04/whistleblowers-need-a-one-stop-shop-for-reporting-misconduct/107110700",
@@ -2957,40 +2953,6 @@
     "is_new": false
   },
   {
-    "link": "https://abcnews.com/GMA/News/live-updates/lindsay-clancy-trial-jurors-resume-deliberations/?id=136086599",
-    "source": "ABC News",
-    "title": "Lindsay Clancy trial: Jury sent home for the day without a verdict",
-    "summary": "The trial of Lindsay Clancy, the Massachusetts mom who killed her three young children in January 2023, has reached its final stages.",
-    "byline_count": 3,
-    "author_names": [
-      "Peter Charalambous",
-      "Mason Leib",
-      "Katie Kindelan"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-08-31T20:09:14+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theatlantic.com/national-security/2026/08/driscoll-hegseth-military-resignation/688479/?utm_source=feed",
-    "source": "The Atlantic",
-    "title": "Dan Driscoll\u2019s Parting Shot",
-    "summary": "The Army secretary told Trump about problems in the Army and his friction with Hegseth, then resigned.",
-    "byline_count": 3,
-    "author_names": [
-      "Nancy A. Youssef",
-      "Missy Ryan",
-      "Michael Scherer"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T01:24:29+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.nbcnews.com/nightly-news/video/mark-sanchez-to-plead-guilty-269300293679",
     "source": "NBC News",
     "title": "Mark Sanchez to plead guilty",
@@ -3005,7 +2967,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T23:16:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/ninth-circuit-delivers-sweeping-victory-to-news-service-on-public-access/",
@@ -3020,7 +2982,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T00:23:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/missouri-candidate-allegedly-wanted-campaign-manager-plant-cocaine-opp-rcna596022",
@@ -3038,7 +3000,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T00:15:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/sep/03/thomas-ross-missouri-plotting-cocaine",
@@ -3055,7 +3017,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T01:12:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/mail-voting-rules-usps-election-officials-midterms/",
@@ -3660,6 +3622,208 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-09-04/carolina-wilga-german-backpacker-reveals-survival-ordeal-in-book/107113922",
+    "source": "ABC Australia",
+    "title": "Carolina Wilga reveals fight for survival after becoming lost in WA outback",
+    "summary": "German backpacker Carolina Wilga has detailed her extraordinary tale of struggle and survival in remote WA, revealing new details about her ordeal last winter.",
+    "byline_count": 2,
+    "author_names": [
+      "Nicolas Perpitch",
+      "Emma Wynne"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T06:31:10+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-04/human-remains-found-in-port-augusta-search-for-missing-man/107116628",
+    "source": "ABC Australia",
+    "title": "Human remains found in search for man missing since January",
+    "summary": "Human remains have been found during the search for a missing man\u00a0who was last seen near Port Augusta more than seven months ago.",
+    "byline_count": 2,
+    "author_names": [
+      "Will Hunter",
+      "Daniel Keane"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T06:11:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/economy/china-economy/article/3366322/another-chinese-ev-maker-joins-grid-europe-xiaomi-launch-sales-next-year?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Another Chinese EV maker joins grid in Europe, with Xiaomi to launch sales next year",
+    "summary": "Chinese tech firm Xiaomi will start selling electric cars in Europe next year, it announced at a consumer electronics trade show in Berlin on Thursday, adding to the growing list of Chinese carmakers expanding into the European market despite EU tariffs on China-made electric vehicles (EVs) and growing wariness across the bloc.\nXiaomi Auto, the group\u2019s EV arm, said it would enter several European markets including Germany, where it had signed agreements with eight car dealer groups to build a...",
+    "byline_count": 1,
+    "author_names": [
+      "Huizhao Huang"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T07:00:10+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/plus/economy/china-economy/article/3366300/how-china-works-author-data-economy-robots-and-ai?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "How China Works author on the data economy, robots and AI",
+    "summary": "Lan Xiaohuan is a professor of economics at China Europe International Business School. His book, How China Works: An Introduction to China\u2019s State-led Economic Development, has sold millions of copies in China and has been translated into multiple languages.\nHere, he discusses the economic realities behind China\u2019s record trade surplus, the case for a stronger social safety net, and how public data infrastructure shapes the artificial intelligence race with the United States.\nSCMP Plus readers...",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T03:33:24+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/plus/news/china/science/article/3366302/chinas-solar-wind-innovations-amid-rapid-green-power-buildout?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "China\u2019s solar, wind innovations amid rapid green power buildout",
+    "summary": "Even as China installs new solar and wind power capacity faster than the rest of the world combined, it is setting new benchmarks for the technologies through innovation.\nThis year alone, Chinese companies and researchers have generated the first electricity from high-altitude winds 4,000 metres above Earth, cleared the last hurdle to commercialising a cheaper and more efficient alternative to silicon solar panels, begun trials of the world\u2019s most powerful floating and fixed-bottom offshore wind...",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T04:00:05+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/johnny-doc-release-prison-president-trump-commutation/",
+    "source": "CBS News",
+    "title": "Trump commutes former Philadelphia labor leader \"Johnny Doc's\" prison sentence",
+    "summary": "President Trump agreed to commute the rest of former Philadelphia labor leader Johnny Doc's prison sentence, his lawyer says.",
+    "byline_count": 2,
+    "author_names": [
+      "Tom  Dougherty",
+      "Alicia  Roberts"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T03:21:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/world/asia/two-trapped-workers-rescued-alive-tunnel-nepal-rcna596050",
+    "source": "NBC News",
+    "title": "Two trapped workers are pulled alive from Nepal tunnel more than a week after deadly floods",
+    "summary": "Two workers in Nepal were pulled out alive from a hydropower tunnel on Friday, some nine days after devastating floods swept the Himalayan region and left thousands of people missing.",
+    "byline_count": 2,
+    "author_names": [
+      "Sunil Pandey",
+      "Adela Suliman"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T04:27:45+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/International/wireStory/2-trapped-workers-rescued-alive-tunnel-nepal-officials-136193461",
+    "source": "ABC News",
+    "title": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods",
+    "summary": "Rescuers in Nepal have pulled two workers alive from a hydropower tunnel, raising hopes of reaching a dozen others believed to be trapped nine days after catastrophic floods devastated towns and swept away villages",
+    "byline_count": 2,
+    "author_names": [
+      "SHRISTI KAFLE Associated Press",
+      "SHEIKH SAALIQ Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T06:50:03+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/International/wireStory/russia-shifts-tactics-round-clock-attacks-kyiv-disrupting-136194285",
+    "source": "ABC News",
+    "title": "Russia shifts tactics with round-the-clock attacks on Kyiv, disrupting daily life",
+    "summary": "Russian drone and missile attacks in Kyiv have intensified, disrupting daily life with constant air-raid sirens",
+    "byline_count": 2,
+    "author_names": [
+      "SAMYA KULLAB Associated Press",
+      "VASILISA STEPANENKO Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T06:38:41+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/what-smart-people-are-saying-about-school-ai-bans-mamdani-2026-9",
+    "source": "Business Insider",
+    "title": "What smart people in business and tech are saying about AI bans for schools",
+    "summary": "The tech world has split opinions on how they feel about the NYC Mayor banning AI use in schools.",
+    "byline_count": 2,
+    "author_names": [
+      "Lloyd Lee",
+      "Katherine Li"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T04:01:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Why Northern Ireland was the 'perfect place' for Robin Hood's death",
+    "summary": "The Death of Robin Hood, which stars Hugh Jackman and Jodie Comer, was filmed entirely in Northern Ireland.",
+    "byline_count": 2,
+    "author_names": [
+      "Daniel Logan",
+      "Adam Mandeville"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-03T23:00:34+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/sep/04/nepal-tunnel-found-alive-flood-two-workers-hydropower-rescue",
+    "source": "The Guardian US",
+    "title": "Nepal-Tibet flash flood: Two workers pulled alive from hydropower tunnel nine days after disaster",
+    "summary": "<p>Officials said the workers were safely rescued from tunnels that were at a depth of 170 metres</p><p>Two people have been pulled out alive from a hydropower tunnel in Nepal nine days after deadly flash floods buried the projects in deep mud and left them trapped.</p><p>The workers were rescued during an ongoing operation at the Trishuli 3A tunnel, a hydropower project in one of the areas worst-affected by last week\u2019s <a href=\"https://www.theguardian.com/world/nepal-tibet-flood-disaster\">deadly Nepal floods</a>, according to army spokesperson Brig Gen Raja Ram Basnet.</p> <a href=\"https://www.theguardian.com/world/2026/sep/04/nepal-tunnel-found-alive-flood-two-workers-hydropower-rescue\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Hannah Ellis-Petersen",
+      "Gaurav Pokharel"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T04:12:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/04/iran-wedding-strike-us-military-investigation",
+    "source": "Axios",
+    "title": "U.S. military reviewing deadly strike on Iranian wedding",
+    "summary": "<p>U.S. Central Command (CENTCOM) is conducting an internal review of a civilian casualty incident at a wedding during the <a href=\"https://www.axios.com/2026/09/01/hormuz-centcom-strikes-trump-iran\" target=\"_blank\">strikes</a> in Iran last Tuesday, U.S. officials say. </p><p><strong>Why it matters:</strong> While it still hasn't been confirmed that the incident was caused by the <a href=\"https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil\" target=\"_blank\">U.S. strike</a>, it is one of the more significant civilian casualty incidents since the war began six months ago. </p><hr /><ul><li>The most significant civilian casualty incident happened on the first day of the war when a U.S. strike hit a school, killing 150 people, most of them children. </li><li>The U.S. military investigation into that incident is expected to be finalized soon, according to a U.S. official. </li></ul><p><strong>Driving the news:</strong> According to the Iranian Red Crescent, a humanitarian networ",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-04T08:21:25.115499+00:00",
+    "published_parsed": "2026-09-04T02:10:23+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://pagesix.com/2026/09/03/celebrity-news/wheel-of-fortune-announcer-jim-thornton-was-questioned-by-cops-for-accidentally-visiting-inappropriate-site-on-airplane/",
     "source": "Page Six",
     "title": "\u2018Wheel of Fortune\u2019 announcer Jim Thornton was questioned by cops for accidentally visiting inappropriate site on airplane",
@@ -3673,7 +3837,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T22:26:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/03/daejon-love-audio-about-dating-women/",
@@ -3690,7 +3854,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T23:30:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-03/bass-is-asked-to-testify-before-congress-about-waste-fraud-in-l-a-s-response-to-homelessness",
@@ -3706,7 +3870,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T00:42:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/sports/story/2026-09-03/mark-sanchez-guilty-plea-truck-driver-fight-indianapolis-usc-jets",
@@ -3723,7 +3887,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T23:03:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/articles/nvidias-hugging-face-embrace-burnishes-ai-kingmaker-status",
@@ -3739,7 +3903,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T00:01:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
@@ -3755,7 +3919,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/2026-election/missouri-supreme-court-rules-gop-drawn-map-cant-used-november-election-rcna595688",
@@ -3771,7 +3935,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T22:04:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/GMA/News/lindsay-clancy-trial-guilty-lack-responsibility/story?id=136187449",
@@ -3787,7 +3951,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T00:59:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
@@ -3803,7 +3967,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T00:55:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bloomberg.com/news/articles/2026-09-03/trump-clash-with-abc-isn-t-about-free-speech-fcc-tells-judge",
@@ -3818,7 +3982,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T21:53:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit",
@@ -3835,7 +3999,7 @@
     ],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T22:19:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/campaign/6070458-missouri-supreme-court-redistricting-republicans/",
@@ -3848,7 +4012,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T22:15:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/newsletters/healthcare/6070586-what-to-know-about-respiratory-vaccine-recommendations/",
@@ -3861,7 +4025,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-03T23:03:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.semafor.com/article/09/03/2026/youtube-cracks-down-on-ghost-creators",
@@ -3877,7 +4041,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-04T02:07:40.662632+00:00",
     "published_parsed": "2026-09-04T01:09:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/wild-horse-nine-14-minutes-ovation-venice-film-festival-1237066729/",
@@ -8923,212 +9087,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-01T09:02:41.782886+00:00",
     "published_parsed": "2026-09-01T08:50:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/08/31/brian-hickerson-hiding-under-table-before-2025-arrest/",
-    "source": "TMZ",
-    "title": "See Hayden Panettiere's Boyfriend Brian Hickerson Hiding Under Table Before 2025 Arrest",
-    "summary": "Hayden Panettiere's boyfriend Brian Hickerson was seen barefoot and hunkered down under a restaurant table moments before his 2025 Los Angeles arrest ... and TMZ has obtained a photo from the bizarre scene. The pic was snapped August 2, 2025 inside&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-08-31T23:41:24+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/business/story/2026-08-31/reigning-in-big-tech-how-california-lawmakers-plan-to-regulate-ai-social-media",
-    "source": "Los Angeles Times",
-    "title": "Reining In Big Tech: How California lawmakers plan to regulate AI and social media",
-    "summary": "<p>As the legislative session moves closer to the end, California lawmakers will decide on bills that tackle issues including social media safety and AI's impact on jobs.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Queenie Wong",
-      "Dakota Smith"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T00:57:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/business/story/2026-08-31/la-county-sues-state-farm-over-its-handling-of-wildfire-claims",
-    "source": "Los Angeles Times",
-    "title": "L.A. County sues State Farm over its handling of wildfire claims",
-    "summary": "<p>L.A. County announced Monday that it had filed a lawsuit against State Farm General after hundreds of victims of last year's devastating wildfires complained that their policy claims had been delayed, denied or underpaid.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Melody Petersen"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T00:15:25+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Toxic haze from Indonesian fires chokes Malaysian Borneo",
-    "summary": "Respiratory illnesses surge as hazardous air settles over Sarawak in the region&#039;s worst haze crisis in a decade.",
-    "byline_count": 2,
-    "author_names": [
-      "Patrick Lee",
-      "Zaheena Rasheed"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T02:06:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/st-louis-ai-data-center-backlash-terrawatt/",
-    "source": "CBS News",
-    "title": "St. Louis becomes the latest battleground in fight over data centers",
-    "summary": "\"We have to be very careful about where and how we install these large data centers,\" said Kasey Fowler-Finn, a biologist at St. Louis University, who is among a group suing to halt a data center development.",
-    "byline_count": 1,
-    "author_names": [
-      "Tony  Dokoupil"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T02:16:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/grand-canyon-flash-floods-missing-hikers/",
-    "source": "CBS News",
-    "title": "3 friends went hiking in the Grand Canyon. 1 died, 2 were reported missing.",
-    "summary": "At least two people were killed after flash floods swept through parts of Grand Canyon National Park over the weekend.",
-    "byline_count": 2,
-    "author_names": [
-      "Matt  Gutman",
-      "Jordan  Freiman"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T02:39:49+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Feeling nostalgic for summer? How to beat the back-to-work blues",
-    "summary": "Going back to work after a summer holiday can be tricky - here are a few tips to make it easier.",
-    "byline_count": 2,
-    "author_names": [
-      "Kate Whannel",
-      "Nick Triggle"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-08-31T23:37:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "US army secretary resigns after months of tension",
-    "summary": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.",
-    "byline_count": 2,
-    "author_names": [
-      "Nardine Saad",
-      "Christal Hayes"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T01:01:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-    "source": "CNBC",
-    "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
-    "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
-    "byline_count": 2,
-    "author_names": [
-      "Anniek Bao",
-      "Spencer Kimball"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T01:56:53+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Summer 2026 expected to be declared UK's hottest on record",
-    "summary": "Met Office figures due on Tuesday are likely to show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
-    "byline_count": 2,
-    "author_names": [
-      "Ben Rich",
-      "Justin Rowlatt"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-08-31T23:42:55+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump",
-    "source": "The Guardian US",
-    "title": "US supreme court allows Trump to keep building $400m White House ballroom",
-    "summary": "<p>Justices\u2019 5-4 ruling permits Trump administration appeal to block lower court order halting above-ground work</p><p>A divided <a href=\"https://www.theguardian.com/us-news/us-supreme-court\">US supreme court</a> has permitted <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> to continue <a href=\"https://www.theguardian.com/us-news/2026/aug/21/white-house-ballroom-construction-scotus\">building</a> his controversial $400m White House ballroom despite legal challenges, raising the likelihood it will be completed.</p><p>In a 5-4 ruling, the justices permitted the Trump administration\u2019s request to \u2060block a lower court order that had <a href=\"https://www.theguardian.com/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project\">halted</a> above-ground construction of the project while a lawsuit by a historic preservation group seeks to block it.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump\">Continue r",
-    "byline_count": 1,
-    "author_names": [
-      "Chris Stein"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-08-31T22:13:12+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.axios.com/2026/09/01/anthropic-paused-some-ai-training-after-claude-took-unauthorized-actions",
-    "source": "Axios",
-    "title": "Anthropic paused some AI training after Claude took unauthorized  actions",
-    "summary": "<p>Anthropic temporarily paused some AI training and cybersecurity evaluations, the company said in a blog post today detailing changes made after unauthorized actions by its agents earlier this year.</p><p><strong>Why it matters:</strong> Rival OpenAI said it <a href=\"https://www.axios.com/2026/08/19/openai-astra-safety-altman-anthropic\" target=\"_blank\">had paused</a> some model work due to safety concerns. Now, we know Anthropic did the same \u2014 and they're reiterating the need for a broader pacing of frontier AI development. </p><hr /><p><strong>Driving the news:</strong> Anthropic said it paused external cyber evaluations of pre-release models after three incidents it disclosed in July, and also briefly paused its own in-house tests of pre-release models.</p><ul><li>The company also paused higher-risk reinforcement-learning environments on pre-release models for several weeks after the incidents.</li></ul><p><strong>Zoom in: </strong>Most reinforcement learning has resumed, but some ",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-09-01T01:57:14+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.axios.com/2026/08/31/republicans-house-ethics-chuck-edwards",
-    "source": "Axios",
-    "title": "Johnson's unavoidable, uncomfortable September problem",
-    "summary": "<p>With the House back in session after a five-week break, Speaker <a href=\"https://www.axios.com/2026/07/21/mike-johnson-ban-lawmaker-staff-sexual-relations\" target=\"_blank\">Mike Johnson</a> can no longer avoid an issue he's skirted all summer: allegations of sexual misconduct in the GOP.</p><p><strong>Why it matters:</strong> The House will vote Tuesday on censuring Rep. <a href=\"https://www.axios.com/2026/05/04/chuck-edwards-letter-house-ethics\" target=\"_blank\">Chuck Edwards</a> (R-N.C.), putting Johnson and his Republican colleagues in an uncomfortable \u2014 and unavoidable \u2014 position nine weeks from Election Day.</p><hr /><ul><li>Edwards is demanding an opportunity to defend himself, ensuring that the House's first full day back after its summer break will be about sexual harassment and a hostile work environment \u2014 not the legislative accomplishments Johnson wants his members to tout.</li><li>Since <a href=\"https://www.axios.com/2026/05/04/chuck-edwards-letter-house-ethics\" target=\"_b",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-01T02:45:33.058678+00:00",
-    "published_parsed": "2026-08-31T23:54:44+00:00",
     "is_new": false
   }
 ]
