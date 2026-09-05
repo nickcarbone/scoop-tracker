@@ -37,7 +37,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:36:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/top-military-officials-polygraphs-leaks-pentagon-weapons-hegseth-trump/",
@@ -57,7 +57,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T01:44:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/04/perez-hilton-said-he-wanted-the-cops-to-shoot-him/",
@@ -189,7 +189,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T23:50:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/03/greg-biffle-ex-wife-wants-millions-from-estate-over-daughters-death/",
@@ -410,7 +410,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T01:36:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/american-airlines-passenger-duct-taped-to-seat/",
@@ -1282,7 +1282,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:25:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-04/billionaire-was-accused-of-stealing-malibu-sand-now-hes-donating-new-beach-to-public",
@@ -1300,7 +1300,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T21:47:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://documentedny.com/2026/09/04/ice-hiring-whistleblower/",
@@ -1463,6 +1463,58 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/09/05/mckenna-west-sued-by-baby-daddy-of-her-biological-kid/",
+    "source": "TMZ",
+    "title": "McKenna West Sued By The Father of Her Biological Child Alleges She\u2019s Not \u2018Mentally Stable\u2019",
+    "summary": "McKenna West is being dragged to court by her biological son\u2019s baby daddy as she continues to fight the biological parents of the baby she gave birth as a surrogate ... TMZ has learned. According to court docs, obtained by TMZ, Robert Gross sued&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-05T07:00:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/john-fetterman-texts-reluctance-performing-basic-constituent-service-duties/",
+    "source": "CBS News",
+    "title": "Fetterman texts reveal impatience with constituent duties",
+    "summary": "A former staffer confirmed that Sen. John Fetterman has routinely dismissed and at times refused to do core aspects of the job.",
+    "byline_count": 2,
+    "author_names": [
+      "Caitlin  Huey-Burns",
+      "Alan  He"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-05T03:16:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+    "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+    "byline_count": 3,
+    "author_names": [
+      "Ana Faguy",
+      "Brandon Drenon",
+      "Sheila Flynn"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-05T06:37:46+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/09/04/jack-doherty-arrested/",
     "source": "TMZ",
     "title": "Influencer Jack Doherty Arrested In Florida",
@@ -1477,7 +1529,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:01:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/04/shia-labeouf-stalker-pleads-guilty/",
@@ -1494,7 +1546,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T23:00:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-05/bogie-triple-murder-darryl-young-convicted-cattle-thief/107110488",
@@ -1511,7 +1563,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:24:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/04/jim-thornton-facebook-page-gone-after-wheel-of-fortune-firing/",
@@ -1528,7 +1580,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T00:53:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/politics/story/2026-09-04/judge-again-halts-usps-mail-ballot-plan-citing",
@@ -1545,7 +1597,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:58:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/trump-administration/judge-orders-trump-officials-disclose-names-anti-weaponization-fund-rcna596183",
@@ -1563,7 +1615,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T23:34:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/judge-allows-pentagon-fire-stars-stripes-journalists/",
@@ -1581,7 +1633,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:27:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
@@ -1598,7 +1650,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:48:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/ice-whistleblower-alleged-agency-shortcutting-vetting-process-new/story?id=136210462",
@@ -1615,7 +1667,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T00:27:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-05/nepal-tibet-crossing-area-crucial-in-search-for-survivors/107115458",
@@ -2864,6 +2916,53 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/news/us-news/illinois-mother-charged-murder-killing-2-year-old-attempting-harm-rcna596197",
+    "source": "NBC News",
+    "title": "Illinois mother charged with murder after killing 2-year-old, attempting to harm herself",
+    "summary": "A suburban Illinois mother, who had become interested in the Lindsay Clancy case, has been charged with murder after she allegedly killed her 2-year-old son then attempted to harm herself, according to police and court records.",
+    "byline_count": 1,
+    "author_names": [
+      "Marlene Lenthang"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-05T03:20:55+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/administration/6072826-labor-secretary-chavez-deremer-workplace-misconduct-report/",
+    "source": "The Hill",
+    "title": "Watchdog issues scathing report on Trump\u2019s former labor secretary",
+    "summary": "Former Labor Secretary Lori Chavez-DeRemer allegedly fostered a \u201ctoxic, intimidating and humiliating\u201d workplace when she led the department, a scathing watchdog report released Thursday found. An investigation by the Labor Department\u2019s Office of Inspector General said Chavez-DeRemer, who resigned in April, regularly drank alcohol during the workday, failed to properly report expensive gifts she had&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 3,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-05T03:26:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/administration/6072808-veterans-trump-arch-excavation-restraining-order/",
+    "source": "The Hill",
+    "title": "Vietnam veterans suing over Trump\u2019s arch seek court block ahead of groundbreaking",
+    "summary": "The Vietnam War veterans suing over President Trump\u2019s proposed triumphal arch are seeking an emergency court order to block the administration from pursuing its imminent plans to break ground in the Washington D.C. area. Veterans Michael Lemmon, Shaun Byrnes, Jon Gundersen \u2014 along with architectural historian Calder Loth \u2014 filed their temporary restraining order request&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-05T02:29:57+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.twz.com/air/chinas-huge-wz-x-stealth-drones-strange-wing-configuration-confirmed",
     "source": "The War Zone",
     "title": "China\u2019s Huge WZ-X Stealth Drone\u2019s Strange Wing Configuration Confirmed",
@@ -2879,7 +2978,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:42:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/2026-election/judge-blocks-trump-effort-restrict-voting-mail-ballots-start-going-rcna596097",
@@ -2896,7 +2995,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:11:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-04/man-charged-in-socal-mosque-threat-had-ar-15-ammo-stockpile",
@@ -3494,6 +3593,87 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-09-05/rasuwa-nepali-engineer-flood-survivor-rabindra-hamal/107113726",
+    "source": "ABC Australia",
+    "title": "'Please run': Nepali engineer reveals steps that saved him from floods",
+    "summary": "An engineer working by the river in Nepal's Rasuwa region has recalled the moment he and his colleagues miraculously escaped a tsunami of mud.",
+    "byline_count": 2,
+    "author_names": [
+      "Ethan Rix",
+      "Natalie Whiting"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-05T02:09:16+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-05/harley-reid-eagles-star-opens-up-on-hype/107118394",
+    "source": "ABC Australia",
+    "title": "Harley Reid opens up on celebrity, free kicks and the AFL's 'WA tax'",
+    "summary": "Harley Reid was in the spotlight even before he was an AFL player and now, at the ripe old age of 21, the Geoff Christian medallist is still the centre of attention everywhere he goes.",
+    "byline_count": 2,
+    "author_names": [
+      "Tom Wildie",
+      "Mitch Turner"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-05T03:30:28+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3366464/trump-sends-witkoff-kushner-moscow-and-kyiv-new-ukraine-peace-plan?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Trump sends Witkoff, Kushner to Moscow and Kyiv with new Ukraine peace plan",
+    "summary": "US President Donald Trump said on Friday he was sending envoys Steve Witkoff and Jared Kushner to Moscow and Kyiv with a plan to end more than four years of war in Ukraine.\nThe move marks Washington\u2019s latest bid to break a diplomatic stalemate in Europe\u2019s deadliest conflict since World War II, which began with Russia\u2019s full-scale invasion of Ukraine in 2022.\nA senior Ukrainian official said the envoys were due in Kyiv on Sunday.\nUS outlet Axios reported they would meet Russian President Vladimir...",
+    "byline_count": 1,
+    "author_names": [
+      "Agence France-Presse"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-05T06:31:27+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Prue Leith: 'You come into your own growing old'",
+    "summary": "The former Great British Bake Off star says ageing is something to celebrate.",
+    "byline_count": 2,
+    "author_names": [
+      "Maisie Lillywhite",
+      "Jon Smith"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-04T05:23:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Reform promises to increase tax-free personal allowance to \u00a315,000",
+    "summary": "The party says the tax cut will be paid for by reducing public spending by \u00a380bn.",
+    "byline_count": 2,
+    "author_names": [
+      "Kate Whannel",
+      "Chris Mason"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-05T07:57:47.893008+00:00",
+    "published_parsed": "2026-09-05T07:41:42+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://pagesix.com/2026/09/04/celebrity-news/influencer-jack-doherty-22-arrested-for-domestic-battery/",
     "source": "Page Six",
     "title": "Influencer Jack Doherty, 22, arrested for domestic battery in Florida",
@@ -3507,7 +3687,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T02:06:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/09/04/entertainment/inside-phaedra-parks-and-chris-ct-tamburellos-really-sweet-new-relationship/",
@@ -3523,7 +3703,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T01:17:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-05/how-labor-lost-heartland-secret-harbour-seat-to-one-nation/107115062",
@@ -3539,7 +3719,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T00:00:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-05/country-pub-veteran-jim-pohl-wa/107080328",
@@ -3555,7 +3735,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T23:19:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-05/blood-sucking-lampreys-not-sighted-south-australia-two-years/107115068",
@@ -3571,7 +3751,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T00:15:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-04/record-high-diesel-fuel-prices-slam-california-economy",
@@ -3587,7 +3767,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T21:56:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-04/former-abc-news-employee-drops-harassment-charge-against-cbs-correspondent-matt-gutman",
@@ -3604,7 +3784,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T00:40:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://feeds.texastribune.org/link/16799/17440185/texas-medicaid-hospitals-ken-paxton-trump-biden-lawsuit",
@@ -3621,7 +3801,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T23:24:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
@@ -3637,7 +3817,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/alina-habba-gets-newark-mayors-defamation-false-arrest-lawsuit-dismissed/",
@@ -3652,7 +3832,7 @@
     ],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T23:38:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cvgyqpmy01po?at_medium=RSS&at_campaign=rss",
@@ -3668,7 +3848,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T00:14:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/big-piece-hearts-left-earth-military-families-reflect/story?id=136125152",
@@ -3684,7 +3864,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T16:03:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
@@ -3700,7 +3880,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:02:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/GMA/News/lindsay-clancy-trial-puts-spotlight-defense-attorneys-prosecutors/story?id=136206646",
@@ -3716,7 +3896,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T01:51:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
@@ -3732,7 +3912,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-05T01:03:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/newsletters/healthcare/6072630-pennsylvania-infants-death-confirmed-to-have-been-caused-by-measles/",
@@ -3745,7 +3925,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T22:36:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/newsletters/technology/6072688-how-are-ai-chatbots-answering-voting-questions/",
@@ -3758,7 +3938,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T02:08:27.747639+00:00",
     "published_parsed": "2026-09-04T23:00:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-05/fred-hollows-outback-eye-service-clinic-funding-crisis/106447280",
