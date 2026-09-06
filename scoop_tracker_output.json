@@ -174,25 +174,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.latimes.com/california/story/2026-09-03/christian-podcaster-charged-with-allegedly-threatening-president-trump",
-    "source": "Los Angeles Times",
-    "title": "Christian podcaster arrested in Los Angeles on suspicion of threatening President Trump",
-    "summary": "<p>Los Angeles-based podcaster Benjamin Azariah Southworth was arrested at his home Thursday morning on suspicion of threatening to kill President Trump.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Karen Garcia"
-    ],
-    "total_score": 9,
-    "matched_categories": [
-      "exclusivity",
-      "primary_source",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T16:28:57+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.tmz.com/2026/09/04/aaron-donald-court-battle-with-ex-jaelynn-over-dog-danger-to-kids/",
     "source": "TMZ",
     "title": "L.A. Rams\u2019 Aaron Donald Alleges Ex Warned Their Kids Not To \u2018Run Their Mouths\u2019 About Dog",
@@ -226,24 +207,6 @@
     ],
     "first_seen_at": "2026-09-03T22:02:55.128513+00:00",
     "published_parsed": "2026-09-03T19:58:34+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-    "source": "Wired",
-    "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-    "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk\u2019s SpaceX acquired the AI coding startup.",
-    "byline_count": 1,
-    "author_names": [
-      "Maxwell Zeff"
-    ],
-    "total_score": 8,
-    "matched_categories": [
-      "exclusivity",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T16:42:40+00:00",
     "is_new": false
   },
   {
@@ -337,6 +300,78 @@
     "first_seen_at": "2026-09-03T22:02:55.128513+00:00",
     "published_parsed": "2026-09-03T21:07:28+00:00",
     "is_new": false
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/06/amazon-plane-crash-miami-international-airport/",
+    "source": "TMZ",
+    "title": "Amazon Cargo Plane Crashes at Miami International Airport, Bursts Into Flames",
+    "summary": "1:20 PM PT -- Amazon said in a statement posted to X ... \"We can confirm that an Amazon Air plane operated by 21 Air experienced an incident while attempting to land at Miami International Airport today. This is a fast-moving situation and we're&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T19:34:02+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/06/miami-amazon-cargo-plane-crash-death-toll/",
+    "source": "TMZ",
+    "title": "5 People Are Dead After Amazon Cargo Plane Crash in Miami",
+    "summary": "2:40 PM PT -- The death toll has climbed in the Amazon cargo plane crash at Miami International Airport ... with Mayor Eileen Higgins saying 5 people are dead and 5 others were injured. Higgins says the plane overshot the runway and struck vehicles&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T20:56:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtagswahl-cdu-afd-li.3541799",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Sachsen-Anhalt: \u201eSelbstverst\u00e4ndlich haben wir einen Regierungsauftrag\u201c",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/06/67b63ac9-0fbb-4b57-93d1-0d3c0cfd25c8.jpg?rect=0%2C0%2C3556%2C2667&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die AfD jubelt \u00fcber ein Rekordergebnis in Sachsen-Anhalt. Ihren Spitzenkandidaten Ulrich Siegmund sieht die Partei schon als neuen Ministerpr\u00e4sidenten\u00a0\u2013 selbst wenn es nicht f\u00fcr eine absolute Mehrheit reichen sollte.</p>",
+    "byline_count": 4,
+    "author_names": [
+      "Tim Frehler",
+      "Iris Mayer",
+      "Dominik F\u00fcrst",
+      "Nicolas Richter"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T16:10:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/news/us-news/amazon-plane-crash-miami-rcna596369",
+    "source": "NBC News",
+    "title": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport, striking multiple vehicles",
+    "summary": "Multiple people were also taken to hospitals with unknown injuries, the Miami-Dade Sheriff\u2019s Office said.",
+    "byline_count": 4,
+    "author_names": [
+      "Doha Madani",
+      "Jay Blackman",
+      "Juliette Arcodia",
+      "Marlene Lenthang"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T19:07:32+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.theguardian.com/news/audio/2026/sep/06/introducing-black-box-the-chatbots",
@@ -609,78 +644,23 @@
     "is_new": false
   },
   {
-    "link": "https://www.abc.net.au/news/2026-09-04/best-albums-august-phoebe-bridgers-womack-king-gizzard-mastodon/107086404",
-    "source": "ABC Australia",
-    "title": "We can't stop listening to these 10 albums from August",
-    "summary": "August was a month of long-awaited comebacks and powerful new voices: these were the 10 best albums of the month.",
-    "byline_count": 4,
-    "author_names": [
-      "James Brennan",
-      "Dan Condon",
-      "Courtney Fry",
-      "Al Newstead"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T18:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/ice-officer-charged-doj-christian-castro-minnesota/",
-    "source": "CBS News",
-    "title": "DOJ charges ICE officer who shot immigrant with lying to investigators",
-    "summary": "Federal prosecutors have charged an ICE officer who shot a Venezuelan immigrant in Minnesota with making false statements about the incident, sources said.",
-    "byline_count": 2,
-    "author_names": [
-      "Nicole  Sganga",
-      "Sarah N. Lynch"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:10:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/postal-service-mail-voting-rules-block/",
-    "source": "CBS News",
-    "title": "Postal Service mail voting rules face extended block as judge presses DOJ",
-    "summary": "A federal judge is considering whether to continue blocking a U.S. Postal Service rule imposing new requirements for mail voting.",
+    "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
+    "source": "The Guardian US",
+    "title": "The US now has access to more than half Australia\u2019s military bases \u2013 could it drag the country unwillingly into war?",
+    "summary": "<p><strong>Exclusive:</strong> US-controlled weapons corporations and forces have control or access to more than 100 facilities across the continent, which some analysts describe as a \u2018colonisation\u2019 of Australia\u2019s military. Find a map of them here</p><ul><li><p><a href=\"https://www.theguardian.com/global/video/2026/sep/07/us-military-presence-in-australia-mapped-video\">US military presence in Australia, mapped \u2013 video</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/audio/2026/sep/07/why-can-the-us-access-so-many-australian-military-bases-and-could-they-drag-us-unwillingly-into-war-podcast\">Why can the US access so many Australian military bases? \u2013 podcast</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/us-military\">US military</a> interests control or have access to more than 100 defence facilities on Australian soil, in what some analysts describe as a \u201csaturation\u201d \u2013 even a \u201ccolonisation\u201d \u2013 of the Australian continent.</p><p>New data compiled by",
     "byline_count": 3,
     "author_names": [
-      "Katrina  Kaufman",
-      "Melissa  Quinn",
-      "Jacob  Rosen"
+      "Ben Doherty",
+      "Andy Ball",
+      "Nick Evershed"
     ],
-    "total_score": 6,
+    "total_score": 5,
     "matched_categories": [
-      "primary_source"
+      "exclusivity"
     ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:52:34+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/news/video/2026/sep/03/godzilla-level-el-nino-could-cause-hottest-year-on-record-the-latest",
-    "source": "The Guardian US",
-    "title": "\u2018Godzilla-level\u2019 El Ni\u00f1o could cause hottest year on record - The Latest",
-    "summary": "<p>The UN has warned that the El Ni\u00f1o climate phenomenon is \u2018supersizing before our eyes\u2019. The event is forecast to be the largest in at least 1,000 years and will almost certainly shatter temperature records. After a summer of record-breaking heatwaves and extreme weather due to global heating, El Ni\u00f1o means 2027 is almost certain to be the hottest year ever recorded. Lucy Hough speaks to environment correspondent Damien Gayle <strong>\u2013 </strong><a href=\"https://www.youtube.com/@todayinfocuspodcast\"><strong>watch on YouTube</strong></a></p> <a href=\"https://www.theguardian.com/news/video/2026/sep/03/godzilla-level-el-nino-could-cause-hottest-year-on-record-the-latest\">Continue reading...</a>",
-    "byline_count": 5,
-    "author_names": [
-      "Zoe Hitch",
-      "Lucy Hough",
-      "Damien Gayle",
-      "Ryan Ramgobin",
-      "Angus Neale"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T16:46:30+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T20:00:14+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/04/big-tigger-wont-be-prosecuted-after-domestic-violence-allegations/",
@@ -823,41 +803,38 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/09/03/jax-taylor-repeatedly-called-brittany-the-r-word-during-fight/",
-    "source": "TMZ",
-    "title": "Jax Taylor Repeatedly Dropped R-Word Slur During Fight With Ex Brittany",
-    "summary": "Vanderpump Rules alum Jax Taylor berated his ex Brittany Cartwright during a 2022 argument where he repeatedly dropped the R-word slur, TMZ has learned.&nbsp; TMZ obtained a transcript of an August 28, 2022, video recording submitted by Brittany in&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 5,
-    "matched_categories": [
-      "exclusivity",
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T16:40:33+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theinformation.com/articles/thinking-machines-lab-talks-raise-billions-roughly-40-billion-valuation",
-    "source": "The Information",
-    "title": "Thinking Machines Lab In Talks to Raise Billions at Roughly $40 Billion Valuation",
-    "summary": "<p>Thinking Machines Lab, the AI developer led by ex-OpenAI chief technology officer Mira Murati, is in talks to raise at least $1 billion at a valuation of at least $40 billion before the investment, according to a person with knowledge of the fundraise.</p>\n\n<p>Existing investor Accel is in talks to lead the round, which follows the July release of Thinking Machines\u2019 first model, Inkling, according to that person and another. Nvidia has been in talks to participate, according to one of the people. The proposed valuation would be lower than the valuation the company sought late last year, when it <a href=\"https://www.theinformation.com/briefings/exclusive-muratis-thinking-machines-aims-raise-5-billion\">discussed raising</a> between $4 billion and $5 billion from investors at a $50 billion-plus valuation.</p>",
+    "link": "https://www.abc.net.au/news/2026-09-07/edmund-rice-catholic-schools-split-from-christian-brothers/107107312",
+    "source": "ABC Australia",
+    "title": "'Seminal moment': Catholic schools body moves to cut ties with Christian Brothers",
+    "summary": "A national organisation set up by the Christian Brothers that runs 61 Catholic schools across Australia is considering severing its ties with the order amid mounting tensions over abuse payouts.",
     "byline_count": 3,
     "author_names": [
-      "Phoebe Liu",
-      "Stephanie Palazzolo",
-      "Julia Hornstein"
+      "Louise Milligan",
+      "Elise Potaka",
+      "Lara Sonnenschein"
     ],
-    "total_score": 5,
-    "matched_categories": [
-      "exclusivity"
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T18:39:52+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/09/06/afd-alternative-for-germany-party-saxony-anhalt-regional-election-far-right-state-government-world-war-ii/",
+    "source": "Fortune",
+    "title": "Alternative for Germany party set for regional election triumph and could form the country\u2019s first far-right state government since World War II",
+    "summary": "AfD's regional branch in Saxony-Anhalt is one of several classified as a proven right-wing extremist group by the domestic intelligence agency.",
+    "byline_count": 3,
+    "author_names": [
+      "Geir Moulson",
+      "Kerstin Sopke",
+      "The Associated Press"
     ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:43:01+00:00",
-    "is_new": false
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T20:24:07+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/06/andy-the-butcher-williams-death-911-audio/",
@@ -874,7 +851,7 @@
     ],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T15:31:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/06/first-mail-ballots-midterm-election-trump-supreme-court-appeal/",
@@ -891,7 +868,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T15:29:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/2026-election/trump-data-centers-voters-key-midterm-races-rcna594914",
@@ -1982,107 +1959,54 @@
     "is_new": false
   },
   {
-    "link": "https://fortune.com/2026/09/03/uss-abraham-lincoln-thailand-pattaya-264-days-sea/",
-    "source": "Fortune",
-    "title": "USS Lincoln sailors finally hit dry land in Thailand after a record 264 straight days at sea",
-    "summary": "The carrier\u2019s lengthy Middle East deployment raised concerns about crew mental health and food shortages.",
-    "byline_count": 3,
+    "link": "https://www.cbsnews.com/news/max-miller-house-republican-conference-chair-lisa-mcclain-face-the-nation-09-06-2026/",
+    "source": "CBS News",
+    "title": "GOP conference chair says Miller is \"our nominee right now\" despite allegations",
+    "summary": "House Republican Conference Chair Lisa McClain said she is supporting Rep. Max Miller's reelection bid for a third term because \"I will support anyone with an R behind their name.\"",
+    "byline_count": 1,
     "author_names": [
-      "Jintamas Saksornchai",
-      "Anton L. Delgado",
-      "The Associated Press"
+      "Sophia  Vlahakis"
     ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T15:57:27+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/politics/congress/billionaire-leon-black-sues-house-oversight-epstein-probe-subpoenas-rcna595887",
-    "source": "NBC News",
-    "title": "Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas",
-    "summary": "Leon Black, a former Wall Street private equity investor, sued the House Oversight Committee, seeking to stop the panel from enforcing its subpoenas against him in an ongoing Epstein probe.",
-    "byline_count": 2,
-    "author_names": [
-      "Alexandra Marquez",
-      "Raquel Coronell Uribe"
-    ],
-    "total_score": 4,
+    "total_score": 3,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T18:44:55+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T19:02:12+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.nbcnews.com/business/media/fox-news-maria-bartiromo-rcna595954",
-    "source": "NBC News",
-    "title": "Fox News parts ways with Maria Bartiromo",
-    "summary": "Fox News Media, the parent of Fox News Channel and Fox Business Network, said Thursday that it had parted ways with longtime anchor Maria Bartiromo.",
-    "byline_count": 2,
-    "author_names": [
-      "Steve Kopack",
-      "Daniel Arkin"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:20:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/administration/6069572-ice-hiring-whistleblower-dhs-oig/",
-    "source": "The Hill",
-    "title": "ICE whistleblower: Agency cut corners to fill ranks",
-    "summary": "A U.S. Immigration and Customs Enforcement (ICE) official warned the agency about cutting corners in vetting officer candidates as the agency surged its hiring under the Trump administration. The whistleblower report filed in August 2025 cited significant issues in how the department was reviewing its new hires, including making offers to candidates who had not&#8230;",
+    "link": "https://www.cbsnews.com/news/former-cuban-president-raul-castro-appears-military-event-after-hospitalization/",
+    "source": "CBS News",
+    "title": "Former Cuban President Ra\u00fal Castro appears publicly after hospitalization",
+    "summary": "Former Cuban President Ra\u00fal Castro has reappeared in public at a military event celebrating an army branch's anniversary.",
     "byline_count": 1,
     "author_names": [],
-    "total_score": 4,
+    "total_score": 3,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:29:12+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T18:39:20+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.theguardian.com/football/2026/sep/03/summer-transfer-window-2026-trends-premier-league-la-liga-serie-a-bundesliga-ligue-1",
-    "source": "The Guardian US",
-    "title": "World Cup wishlists, early movers, big clearouts: 2026 summer transfer window trends",
-    "summary": "<p>At the end of a busy transfer window which spanned the World Cup, here are some of the subplots of the summer</p><p>The World Cup is always a good shop window. Yan Diomande was already a rising star at RB Leipzig but shining for C\u00f4te d\u2019Ivoire in the US helped push up his price tag before a \u00a3115.7m move to Real Madrid. There were other breakout stars: Switzerland\u2019s Johan Manzambi, whose signature Aston Villa pipped Newcastle to; Bosnia and Herzegovina\u2019s Kerim Alajbegovic, who went to Juventus; and Ghana\u2019s Caleb Yirenkyi, who is now in the Premier League with Coventry. Cape Verde\u2019s cult hero Vozinha now keeps net for the Chilean giants Colo-Colo and Morocco\u2019s attacking dynamo, Ismael Saibari, has rocked up at Bayern. <strong>Billy Munday</strong></p> <a href=\"https://www.theguardian.com/football/2026/sep/03/summer-transfer-window-2026-trends-premier-league-la-liga-serie-a-bundesliga-ligue-1\">Continue reading...</a>",
-    "byline_count": 3,
-    "author_names": [
-      "Billy Munday",
-      "Will Magee",
-      "Marcus Christenson"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T16:00:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/sep/03/jeffrey-epstein-leon-black-congress-deposition",
-    "source": "The Guardian US",
-    "title": "Leon Black fails to appear for US House deposition about Epstein ties",
-    "summary": "<p>Billionaire financier, who previously walked out of a deposition, instead launches lawsuit against the committee</p><p>The billionaire financier Leon Black did not appear on Thursday in front of the House oversight committee for a scheduled deposition about his ties to <a href=\"https://www.theguardian.com/us-news/jeffrey-epstein\">Jeffrey Epstein</a>, and has instead launched a lawsuit against the committee arguing that it does not have the authority to compel him to turn over non-disclosure agreements.</p><p>Black was a top Epstein client over several years, and the committee is investigating the men\u2019s relationship as well as the existence of any NDAs to which Black is a party.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/03/jeffrey-epstein-leon-black-congress-deposition\">Continue reading...</a>",
+    "link": "https://www.twz.com/space/mysterious-black-jet-that-emerged-at-long-beach-airport-identified",
+    "source": "The War Zone",
+    "title": "Mysterious Black Jet That Emerged At Long Beach Airport Identified",
+    "summary": "<p>With a sleek airframe the size of an A-5 Vigilante, its silhouette drew immediate attention from local aviation photographers who had never seen anything like it there.</p>\n<p>The post <a href=\"https://www.twz.com/space/mysterious-black-jet-that-emerged-at-long-beach-airport-identified\">Mysterious Black Jet That Emerged At Long Beach Airport Identified</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
     "byline_count": 2,
     "author_names": [
-      "Victoria Bekiempis",
-      "Anna Betts"
+      "Howard Altman",
+      "Tyler Rogoway"
     ],
-    "total_score": 4,
+    "total_score": 3,
     "matched_categories": [
-      "primary_source"
+      "exclusivity"
     ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T14:08:26+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T18:06:36+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/06/lindsay-clancy-copycat-was-allegedly-in-psychotic-episode/",
@@ -2099,7 +2023,7 @@
     ],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T16:39:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/trump-supreme-court-appeal-us-postal-service-mail-ballot-fight/",
@@ -2114,7 +2038,7 @@
     ],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T15:25:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/jason-crow-colorado-democrat-face-the-nation-09-06-2026/",
@@ -2129,7 +2053,7 @@
     ],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T16:08:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/europe/article/3366544/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-putin-moscow?utm_source=rss_feed",
@@ -2505,51 +2429,149 @@
     "is_new": false
   },
   {
-    "link": "https://www.scmp.com/news/world/united-states-canada/article/3366280/ice-officer-charged-lying-investigators-shooting-venezuelan-man?utm_source=rss_feed",
+    "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-cdu-afd-merz-li.3541792",
+    "source": "Sueddeutsche Zeitung",
+    "title": "CDU: Nach der Niederlage: Der Kanzlerpartei droht jede Menge \u00c4rger",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/06/36045d0f-bf21-47f5-a2fc-f682ba86d88d.jpg?rect=222%2C0%2C3556%2C2667&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die dramatischen Verluste der CDU in Sachsen-Anhalt machen klar, dass Friedrich Merz und seiner Partei schwere Zeiten bevorstehen. Hinzu kommt: Die Lage ist auch anderswo vertrackt.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Henrike Ro\u00dfbach",
+      "Robert Ro\u00dfmann"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T16:13:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-landtag-afd-cdu-li.3529834",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Datenanalyse zur Landtagswahl: Die AfD liegt in fast allen W\u00e4hlergruppen vorn",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/03/18/02f04025-17f5-497e-a800-769e3d45ffb7.jpg?rect=250%2C0%2C1500%2C1125&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die AfD gewinnt die Sachsen-Anhalt-Wahl deutlich vor der CDU. Mit einem gro\u00dfen Vorsprung war zu rechnen, aber welche W\u00e4hler sind daf\u00fcr verantwortlich? Wie w\u00e4hlten Frauen und M\u00e4nner, Junge und Alte? Eine erste Datenanalyse.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Anna Bolten",
+      "Oliver Schnuck"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T18:07:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-07/spring-showers-possible-for-parts-of-queensland/107119836",
+    "source": "ABC Australia",
+    "title": "Spring showers forecast for Queensland as dozens of fires burn",
+    "summary": "Showers are expected across the east coast on Tuesday as fire crews continue to monitor and contain a number of blazes in parts of the state.",
+    "byline_count": 2,
+    "author_names": [
+      "Dan McCray",
+      "Jacob Gamble"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T19:44:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-07/outback-amateur-astronomer-part-of-saturn-decagon-wave-discovery/107112590",
+    "source": "ABC Australia",
+    "title": "Backyard astronomer contributes to world-first Saturn discovery",
+    "summary": "An amateur astronomer helps discover a mysterious decagon on Saturn's south pole, which he tracked from his homemade backyard observatory.",
+    "byline_count": 2,
+    "author_names": [
+      "Soofia Tariq",
+      "Patrick Reincke"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T21:37:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/europe/article/3366565/eu-commission-chief-von-der-leyen-visits-greenland-sign-new-partnership-deal?utm_source=rss_feed",
     "source": "South China Morning Post",
-    "title": "ICE officer charged with lying to investigators in shooting of Venezuelan man",
-    "summary": "Federal prosecutors have charged a US Immigration and Customs Enforcement officer with lying to investigators about the events leading up to the shooting of a Venezuelan man during the Minneapolis immigration crackdown earlier this year, according to a person familiar with the matter.\nThe person was not authorised to publicly discuss the investigation and spoke on condition of anonymity. The person said Christian Castro, the officer who authorities say shot Julio Cesar Sosa-Celis in the leg in...",
+    "title": "EU Commission chief Von der Leyen visits Greenland to sign new partnership deal",
+    "summary": "The EU plans to deepen its cooperation with Greenland despite US President Donald Trump\u2019s claims of control over the Arctic island, as European Commission President Ursula von der Leyen arrived on Sunday for a two-day visit.\nVon der Leyen travelled to the resource-rich island, where a new EU-Greenland declaration is to be signed on Monday. Investment pledges running into the hundreds of millions are also expected.\nOn her arrival, von der Leyen said the visit was about further cementing a unique...",
     "byline_count": 1,
     "author_names": [
-      "Associated Press"
+      "dpa"
     ],
-    "total_score": 3,
+    "total_score": 2,
     "matched_categories": [
       "sourcing_depth"
     ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T18:34:28+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T18:44:34+00:00",
+    "is_new": true
   },
   {
-    "link": "https://thehill.com/policy/energy-environment/6069104-texas-cbp-trump-border-wall-big-bend/",
-    "source": "The Hill",
-    "title": "CBP extends pause of some border construction, including in Texas national park",
-    "summary": "The federal government is extending a pause on some construction of President Trump\u2019s signature border wall, as well as additional border construction in a national park in Texas\u2019s Big Bend region, according to court documents. The pause is expected to run though the end of the month. Federal District Judge Jason Pulliam\u00a0wrote Wednesday\u00a0that Customs and&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 3,
-    "matched_categories": [
-      "primary_source"
+    "link": "https://www.cbsnews.com/news/miami-airport-plane-disabled-9-6-2026/",
+    "source": "CBS News",
+    "title": "At least 5 dead, multiple people injured after Amazon cargo plane overruns runway near Miami International Airport, officials say",
+    "summary": "Details about what caused the plane to become disabled were not immediately known.",
+    "byline_count": 2,
+    "author_names": [
+      "Matthew  Ablon",
+      "S.E.  Jenkins"
     ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T15:34:55+00:00",
-    "is_new": false
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T21:47:08+00:00",
+    "is_new": true
   },
   {
-    "link": "https://thehill.com/policy/cybersecurity/6069692-fbi-leaked-drivers-licenses-dark-web/",
-    "source": "The Hill",
-    "title": "FBI investigating report of millions of driver\u2019s licenses being leaked on dark web",
-    "summary": "A report earlier this week said millions of driver's licenses, including that of Defense Secretary Pete Hegseth, may have been leaked on the dark web.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 3,
-    "matched_categories": [
-      "primary_source"
+    "link": "https://www.businessinsider.com/amazon-prime-cargo-plane-crash-miami-airport-2026-9",
+    "source": "Business Insider",
+    "title": "An Amazon Prime Air cargo plane crashed after it overshot a runway at Miami International Airport",
+    "summary": "Videos from the scene showed thick black smoke after an Amazon Prime Air plane overshot a runway and crashed into multiple vehicles on Sunday.",
+    "byline_count": 2,
+    "author_names": [
+      "Truman Dickerson",
+      "Lauren Edmonds"
     ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T18:01:17+00:00",
-    "is_new": false
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T20:15:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/Business/wireStory/german-party-set-regional-election-triumph-uncertain-governing-136241694",
+    "source": "ABC News",
+    "title": "German far-right party set for regional election win but uncertain of governing",
+    "summary": "It could form the country&rsquo;s first far-right state government since World War II.",
+    "byline_count": 2,
+    "author_names": [
+      "GEIR MOULSON Associated Press",
+      "KERSTIN SOPKE Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T20:42:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/US/cargo-plane-overruns-runway-miami-international-airport-faa/story?id=136242081",
+    "source": "ABC News",
+    "title": "Amazon cargo plane overruns runway at Miami International Airport",
+    "summary": "An Amazon Air cargo plane overran the runway at Miami International Airport, Amazon confirmed.",
+    "byline_count": 2,
+    "author_names": [
+      "Ayesha Ali",
+      "Christopher Watson"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
+    "published_parsed": "2026-09-06T20:08:01+00:00",
+    "is_new": true
   },
   {
     "link": "https://deadline.com/2026/09/audible-jonathan-bailey-seductive-dracula-venice-preview-1237069408/",
@@ -2565,7 +2587,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T16:10:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/politik/afd-landtagswahl-sachsen-anhalt-ergebnisse-folgen-li.3541778",
@@ -2581,7 +2603,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T16:33:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/06/ostrich-meat-alpha-gal-syndrome-allergy-beef-substitute/",
@@ -2597,7 +2619,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T14:39:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/06/trump-tariffs-trade-war-canada-tourists-loonie-dollar-equivalent/",
@@ -2613,7 +2635,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T14:09:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/06/gavin-newsom-california-derangement-syndrome-2028-presidential-run/",
@@ -2629,7 +2651,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T15:20:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/trump-administration/trump-administration-supreme-court-mail-ballot-restrictions-appeal-rcna596346",
@@ -2645,7 +2667,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T16:11:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
@@ -2661,7 +2683,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T16:28:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
@@ -2677,7 +2699,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-06T17:54:46.549338+00:00",
     "published_parsed": "2026-09-06T17:42:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/susan-sarandon-narrative-us-israel-studio-roles-1237069412/",
@@ -5903,312 +5925,6 @@
     ],
     "first_seen_at": "2026-09-03T22:02:55.128513+00:00",
     "published_parsed": "2026-09-03T19:06:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/03/carla-jeffery-family-says-she-was-not-using-drugs/",
-    "source": "TMZ",
-    "title": "Disney Star Carla Jeffery's Family Denies Drug Rumors After Tragic Death",
-    "summary": "Disney star Carla Jeffery's family is pushing back against rumors surrounding the Disney star's death, denying that she abused substances ... TMZ has learned. Jeffery, best known for playing Bree in Disney's \u201cZ-O-M-B-I-E-S\u201d franchise, died in&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:31:29+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/medien/dmitry-glukhovsky-russland-drohnen-leipzig-li.3541395",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Russland: \u201eMan sollte alles versuchen, um zu verhindern, dass sich Russland weiter bereichert\u201c",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/03/7d59e5a0-8f0c-41d4-88b7-3111ca8cf44b.jpg?rect=223%2C0%2C3555%2C2666&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Drohnen am Leipziger Flughafen, Desinformation im Netz. Welcher Strategie folgen diese Angriffe? Der russische Schriftsteller und Journalist Dmitry Glukhovsky \u00fcber die Destabilisierung von Demokratien.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Nicolas Freund",
-      "Aurelie von Blazekovic"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T14:14:34+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/california/story/2026-09-03/trump-has-new-scheme-to-surpress-california-vote-this-november-threat-is-real",
-    "source": "Los Angeles Times",
-    "title": "Chabria: Trump has a new scheme to suppress the California vote this November. The threat is real",
-    "summary": "<p>The Voting Rights Project at UCLA files a lawsuit to stop Americans' personal data from being swept up by the federal government to further Trump's false conspiracy about illegal immigrants voting in elections.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Anita Chabria"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T16:51:17+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-04/leon-black-jeffrey-epstein-deposition/107114552",
-    "source": "ABC Australia",
-    "title": "Billionaire Leon Black skips US congressional deposition over Epstein ties",
-    "summary": "The billionaire investor instead files a lawsuit challenging the subpoenas from the US congressional committee, which is looking into Jeffrey Epstein's links to the rich and powerful.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:19:24+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/politics/trump-administration/trump-administration-threatens-smithsonian-support-rcna595873",
-    "source": "NBC News",
-    "title": "Trump admin threatens to cut Smithsonian support in latest claim of ideological bias",
-    "summary": "The Trump administration is threatening to withdraw support for the Smithsonian Institution, accusing its leadership of presenting a \u201cradical ideology\u201d that weakens \u201cshared American identity\u201d in the latest effort to pressure the institution to change its presentations and practices.",
-    "byline_count": 1,
-    "author_names": [
-      "Megan Brand"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T15:30:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/politics/2026-election/elon-musk-super-pac-midterms-republicans-rcna595909",
-    "source": "NBC News",
-    "title": "Elon Musk\u2019s super PAC dives into the midterms to bolster Republicans in battleground races",
-    "summary": "Elon Musk\u2019s super PAC has funneled about $800,000 into battleground races across the country to boost Republican candidates.",
-    "byline_count": 2,
-    "author_names": [
-      "Ben Kamisar",
-      "Megan Brand"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T15:26:41+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/Politics/battleground-republicans-set-skip-gop-midterm-convention-week/story?id=136172232",
-    "source": "ABC News",
-    "title": "Some battleground Republicans set to skip GOP midterm convention next week",
-    "summary": "Several battleground Republicans told ABC News they either weren't going to the convention or were still undecided.",
-    "byline_count": 2,
-    "author_names": [
-      "Hannah Demissie",
-      "Benjamin Siegel"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T16:49:06+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/US/billionaire-leon-black-sues-house-oversight-committee-subpoena/story?id=136172853",
-    "source": "ABC News",
-    "title": "Leon Black sues House Oversight Committee over subpoena in Epstein probe",
-    "summary": "Billionaire Leon Black filed a lawsuit against the House Oversight Committee before failing to appear under subpoena for a deposition in the panel's Epstein probe.",
-    "byline_count": 1,
-    "author_names": [
-      "John Parkinson"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T18:10:11+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-    "summary": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
-    "byline_count": 2,
-    "author_names": [
-      "Dan Roan",
-      "Michael Race"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T18:48:13+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "US billionaire Leon Black defies summons and sues Epstein panel",
-    "summary": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\".",
-    "byline_count": 1,
-    "author_names": [
-      "Brandon Drenon"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T18:14:57+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/czxz4dl1plwo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Reform UK promises \u00a380bn cuts to public spending",
-    "summary": "Speaking at the party's conference, economy spokesman Robert Jenrick says Reform will be the \"party of fiscal responsibility\".",
-    "byline_count": 2,
-    "author_names": [
-      "Kate Whannel",
-      "Harry Farley"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T18:49:34+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theinformation.com/articles/anthropics-ipo-investors-want-know",
-    "source": "The Information",
-    "title": "What Anthropic's IPO Investors Want to Know",
-    "summary": "<p>We\u2019re getting ready for Anthropic to make its initial public offering prospectus public <a href=\"https://www.theinformation.com/articles/anthropic-considers-letting-shareholders-sell-ipo-departing-spacex-playbook\">sometime after Labor Day</a>. Though the company\u2019s private investors have had a window into its torrid growth and <a href=\"https://www.theinformation.com/articles/anthropic-hikes-2026-revenue-forecast-20-delays-will-go-cash-flow-positive?rc=zjctrx\">projections</a>, this will be the first time public investors are getting a full financial picture of the Claude maker.&nbsp;</p><p>Just how complete a picture remains a big question, though. We\u2019re hearing that investors want a <i>lot</i> more from Anthropic than the financial statements that securities regulators generally require companies to report.&nbsp;</p><p>In a series of meetings, executives at Anthropic have been going back and forth with potential large investors on whether the company can provide other business- or pe",
-    "byline_count": 2,
-    "author_names": [
-      "Valida Pau",
-      "Cory Weinberg"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:00:49+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html",
-    "source": "CNBC",
-    "title": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
-    "summary": "Options traders are kicking off the historically worst month for stocks by piling on bullish bets on a handful of retail trading favorites.",
-    "byline_count": 2,
-    "author_names": [
-      "Tyler Bailey",
-      "Oliver Renick"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:56:53+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/opinion/finance/6067136-cdfi-fund-lawsuit-small-businesses/",
-    "source": "The Hill",
-    "title": "Why we\u2019re suing to release small business funds Congress already approved",
-    "summary": "Two small business support organization leaders filed a lawsuit against the Trump administration to compel the release of hundreds of millions of dollars in congressional appropriations for the Community Development Financial Institutions Fund.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T15:30:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/healthcare/6068925-ama-vip-vaccine-recommendations/",
-    "source": "The Hill",
-    "title": "Leading medical groups update flu, COVID vaccine recommendations amid confusion",
-    "summary": "A coalition of leading medical groups has released its own vaccine recommendations for the 2026-27 respiratory viral season based on their independent evidence review of existing data. The Vaccine Integrity Project and American Medical Association (AMA) collaborated on evidence reviews for the vaccines targeting COVID-19, respiratory syncytial virus (RSV) and the flu. &#8220;The newest evidence&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T18:28:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/airlink-2-planes-flew-shockingly-close-to-stadium-roof-2026-9",
-    "source": "Business Insider",
-    "title": "2 planes came shockingly close to crashing into a stadium on live TV. Now investigators are probing the incident.",
-    "summary": "Videos from inside the stadium show just how close two Airlink planes came to a potential disaster in South Africa.",
-    "byline_count": 2,
-    "author_names": [
-      "Pete Syme",
-      "Taylor Rains"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T16:14:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/maria-bartiromo-leaving-fox-news-business-president-donald-trump-2026-9",
-    "source": "Business Insider",
-    "title": "Maria Bartiromo is out at Fox after more than 12 years",
-    "summary": "Fox News is parting ways with star anchor Maria Bartiromo and said it would \"wish her all the best on her next chapter.\"",
-    "byline_count": 1,
-    "author_names": [
-      "James Faris"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:55:51+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal",
-    "source": "The Guardian US",
-    "title": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in \u00a360m deal",
-    "summary": "<ul><li><p>Forward follows Gabriel Jesus out of champions</p></li><li><p>Richarlison not in Tottenham\u2019s Premier League squad</p></li></ul><p>Arsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for \u00a360m. It is understood the deal for Brazil forward includes a sell-on clause.</p><p>Martinelli, who joined Arsenal from Ituano in 2019, has fallen down the pecking order at the Emirates despite being part of the squad that won the Premier League title last season. His fee surpasses the previous record \u00a340m received by Arsenal when they sold Alex Oxlade-Chamberlain to Liverpool in 2017.</p> <a href=\"https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Ed Aarons",
-      "David Hytner"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T17:26:25+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html",
-    "source": "NYT Politics",
-    "title": "Judge Presses for Clarity in Lawsuit Over Mail-In Voting Rules",
-    "summary": "Judge Indira Talwani said the Postal Service appeared to be carrying out a haphazard \u201cexperiment\u201d with a new rule that could lead to \u201cmajor disenfranchisement.\u201d",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-03T19:00:35.419267+00:00",
-    "published_parsed": "2026-09-03T18:35:38+00:00",
     "is_new": false
   }
 ]
