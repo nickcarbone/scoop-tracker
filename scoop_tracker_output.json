@@ -174,26 +174,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.theinformation.com/briefings/exclusive-nscale-touts-100-billion-plus-contracted-revenue-anthropic-win",
-    "source": "The Information",
-    "title": "Exclusive: Nscale Touts $100 Billion-Plus in Contracted Revenue After Anthropic Win",
-    "summary": "<p>Nscale is telling prospective investors it has about $103 billion of total contracted revenue after clinching a $45 billion computing deal with Anthropic, ahead of an initial public offering for the neocloud that could take place as soon as this month, according to documents shared with ...</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Cory Weinberg",
-      "Valida Pau"
-    ],
-    "total_score": 10,
-    "matched_categories": [
-      "exclusivity",
-      "headline_label",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:21:24+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.latimes.com/california/story/2026-09-03/christian-podcaster-charged-with-allegedly-threatening-president-trump",
     "source": "Los Angeles Times",
     "title": "Christian podcaster arrested in Los Angeles on suspicion of threatening President Trump",
@@ -432,6 +412,24 @@
     "first_seen_at": "2026-09-03T15:32:14.080611+00:00",
     "published_parsed": "2026-09-03T13:20:00+00:00",
     "is_new": false
+  },
+  {
+    "link": "https://www.axios.com/2026/09/05/republican-convention-dallas-trump-midterms",
+    "source": "Axios",
+    "title": "Scoop: Republican midterms convention speakers revealed",
+    "summary": "<p>President Trump and his top allies will share the stage with Republican candidates in some of the nation's most competitive races at next week's GOP midterm convention in Dallas, according to a preliminary list of speakers obtained by Axios.</p><p><strong>Why it matters:</strong> The lineup underscores a central purpose of the convention: firing up Trump voters and getting them to turn out in November, even though the president isn't on the ballot.</p><p><strong>Driving the news:</strong> Trump will speak both nights of the Sept. 9-10 convention, while Vice President Vance will deliver a keynote address on the second night.</p><ul><li>The lineup also includes Treasury Secretary Scott Bessent, Health Secretary Robert F. Kennedy Jr., former White House press secretary Karoline Leavitt and Donald Trump Jr.</li><li>House Speaker Mike Johnson, Senate Majority Whip John Barrasso and National Republican Senatorial Committee Chair Tim Scott are among the congressional leaders who will appea",
+    "byline_count": 1,
+    "author_names": [
+      "Alex Isenstadt"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "headline_label"
+    ],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-05T22:28:12+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.sueddeutsche.de/politik/magdeburg-sachsen-anhalt-landtagswahl-afd-cdu-li.3542706",
@@ -829,97 +827,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/09/02/lionel-richie-home-from-hospital/",
-    "source": "TMZ",
-    "title": "Lionel Richie Headed Back Home After 3-Day Hospital Stint",
-    "summary": "Lionel Richie is heading home to recover after a stint in the hospital for cardiac-related issues ... TMZ has learned.&nbsp; Sources familiar with the situation tell TMZ ... the legendary singer checked out of the hospital in St. Louis Wednesday&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "exclusivity",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:23:58+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-03/qld-spring-weather-forecast-unusually-warm-temperatures/107103554",
-    "source": "ABC Australia",
-    "title": "Queensland to heat up during first weekend of spring",
-    "summary": "The weather bureau predicts parts of Queensland are expected to receive above-average temperatures during the first weekend of spring.",
-    "byline_count": 4,
-    "author_names": [
-      "Olivia Nunes-Malek",
-      "Jay Carstens",
-      "Mark Rigby",
-      "Megan Hughes"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:27:37+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/02/ariana-grande-promoting-meet-the-fockers-sequel-during-planned-break/",
-    "source": "TMZ",
-    "title": "Ariana Grande Ready to Promote 'Meet The Fockers' Sequel Despite Planned Break",
-    "summary": "Ariana Grande will still be taking time for herself \u2026 but after she wraps up promoting her next film, \"Focker-In-Law\" ... TMZ has learned.&nbsp; Sources familiar with the situation tell TMZ ... before the pop star announced her plan to take a&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "exclusivity",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:30:29+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/california/story/2026-09-02/why-was-knife-so-necessary-new-details-emerge-in-case-of-beverly-hills-fatal-stabbing",
-    "source": "Los Angeles Times",
-    "title": "Beverly Hills alley fight left one man dead. Resident, 19, charged with murder",
-    "summary": "<p>The Los Angeles County District Attorney's office has filed murder charges against 19-year-old Conoray Lawantara, who is accused of fatally stabbing a man in a Beverly Hills alleyway.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Clara Harter"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "exclusivity",
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:48:11+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/09/02/scams-record-highs-us-victims/",
-    "source": "Fortune",
-    "title": "\u2018What a fool I was\u2019: Reported scams reach record high of $15.9 billion, and estimates reach upwards of $500 billion annually",
-    "summary": "According to former prosecutor and founder of nonprofit Operation Shamrock Erin West, \"what happens after the scam might even be worse than the scam itself.\"",
-    "byline_count": 5,
-    "author_names": [
-      "The Associated Press",
-      "Martha Mendoza",
-      "Juliet Linderman",
-      "Erika Kinetz",
-      "FRONTLINE"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:31:20+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.tmz.com/2026/09/04/big-tigger-wont-be-prosecuted-after-domestic-violence-allegations/",
     "source": "TMZ",
     "title": "Big Tigger Off The Hook After Wife's Domestic Violence Allegations",
@@ -1115,6 +1022,74 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-09-06/wa-section-of-outback-way-remains-in-limbo/107112428",
+    "source": "ABC Australia",
+    "title": "Negotiations over 'Australia's biggest shortcut' near an end",
+    "summary": "Years of complex land access negotiations with multiple traditional owner groups appear to be nearing an end, paving the way for the sealing of an outback highway dubbed \"Australia's biggest shortcut\".",
+    "byline_count": 3,
+    "author_names": [
+      "Jarrod Lucas",
+      "Nicholas R Ward",
+      "Ivo da Silva"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-06T00:31:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/09/05/asean-can-still-hedge-between-america-and-china-on-ai-it-needs-to-get-its-act-together-first/",
+    "source": "Fortune",
+    "title": "ASEAN can still hedge between America and China on AI. It needs to get its act together first",
+    "summary": "Can ASEAN members draw from both the Chinese and Western ecosystems in pursuit of their own interests?",
+    "byline_count": 3,
+    "author_names": [
+      "Brian Wong",
+      "Boris Babic",
+      "Nikola Ilovski"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-06T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/09/05/metropolitan-opera-snake-handler-animal-auditions-mozart/",
+    "source": "Fortune",
+    "title": "Meet the carnival performer-turned-opera actor in charge of auditioning snakes for a Mozart adaptation. \u2018We will be moving forward with Princess\u2019",
+    "summary": "Pretty much everyone on stage at the\u00a0Metropolitan Opera\u00a0in New York must audition \u2014 even the snake who will briefly take center stage in an upcoming adaptation of a Mozart classic.",
+    "byline_count": 3,
+    "author_names": [
+      "David R. Martin",
+      "Jeffrey Collins",
+      "The Associated Press"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-05T22:32:41+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
+    "summary": "IRGC launches new strikes after firing missiles at US warships as standoff in Strait of Hormuz intensifies.",
+    "byline_count": 3,
+    "author_names": [
+      "Yashraj Sharma",
+      "Tracy J. Jawad",
+      "Kristina Harazim"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-06T00:00:00+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/09/05/aubrey-plaza-sells-marital-home-after-husbands-death/",
     "source": "TMZ",
     "title": "Aubrey Plaza Sells Marital Home for $4.4 Million After Husband's Death",
@@ -1129,7 +1104,7 @@
     ],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T17:56:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/2026-election/trump-aligned-super-pac-ads-spend-10-million-texas-senate-race-paxton-rcna596261",
@@ -1146,7 +1121,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T19:30:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/white-house-launches-arcade-computer-game-lets-players/story?id=136214362",
@@ -1163,7 +1138,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T00:12:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://wisconsinwatch.org/2026/09/family-of-milwaukee-man-falsely-accused-of-threatening-trump-plans-to-sue-dhs/",
@@ -2430,126 +2405,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/09/02/selena-quintanillas-brother-ab-criticizes-sister-suzette-regarding-lawsuit/",
-    "source": "TMZ",
-    "title": "Selena Quintanilla's Brother Slams Sister As Family War Ramps Up",
-    "summary": "Late singer Selena Quintanilla's brother fired back at his sister Suzette\u2019s claim that she has no idea about him taking legal action against her, TMZ has learned. A.B. Quintanilla III, Selena\u2019s brother, wrote a scathing social media post after&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "exclusivity",
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:07:27+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/02/christy-knowings-cause-of-death-revealed/",
-    "source": "TMZ",
-    "title": "'All That' Star Christy Knowings Cause of Death Revealed",
-    "summary": "Christy Knowings' cause of death has been revealed ... the former \"All That\" star died after suffering cardiac arrest ... TMZ has learned. According to a death certificate obtained by PEOPLE, the certificate identifies asthma as the underlying&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:54:11+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-03/kpmg-whistleblower-asic-misconduct-probe/107107112",
-    "source": "ABC Australia",
-    "title": "KPMG whistleblower says watchdog has to be 'dragged kicking and screaming'",
-    "summary": "A KPMG whistleblower says the watchdog has to be \"dragged kicking and screaming\" to investigate alleged misconduct disclosures at the firm.",
-    "byline_count": 1,
-    "author_names": [
-      "Nassim Khadem"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:44:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-03/accused-russian-spies-kira-korolev-igor-korolev-in-prison-audio/107096868",
-    "source": "ABC Australia",
-    "title": "Alleged Russian spies purportedly speak out in prison recordings",
-    "summary": "ABC Investigations has discovered audio published by a Kremlin-controlled TV network that claims to capture a couple accused of spying for Russia speaking from behind bars about their arrest, the criminal case and what they really think of Australian life.",
-    "byline_count": 3,
-    "author_names": [
-      "Grace Tobin",
-      "Kate McKenna",
-      "Daryna Zadvirna"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:51:58+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/09/02/senators-scrapping-army-drone-unit/",
-    "source": "Fortune",
-    "title": "Senators say scrapping specialized Army drone unit ignored the fact that \u2018the character of warfare is changing\u2019",
-    "summary": "Lawmakers say they are keen to understand the reasoning behind ordering the unit to stop specializing in drone warfare, and if it was based on Pentagon or Army orders.",
-    "byline_count": 3,
-    "author_names": [
-      "The Associated Press",
-      "Konstantin Toropin",
-      "Ben Finley"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:21:27+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/09/02/iran-war-oil-prices-gulf-strait-hormuz/",
-    "source": "Fortune",
-    "title": "Iran fires on U.S. allies in Gulf after night of American strikes it claims killed four at a wedding",
-    "summary": "Brent crude climbed to around $95 a barrel as Iran attacked U.S. allies following a new round of American strikes.",
-    "byline_count": 3,
-    "author_names": [
-      "David Rising",
-      "Samy Magdy",
-      "The Associated Press"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:20:51+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
-    "source": "NPR",
-    "title": "The IRS slashed its staff. One result? More taxes going uncollected",
-    "summary": "The IRS slashed its auditing staff last year \u2014 but the move may have backfired as tax collections from enforcement efforts plummeted, an Inspector General report shows.",
-    "byline_count": 1,
-    "author_names": [
-      "Scott Horsley"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "institutional_record"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:56:58+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.wired.com/story/the-watch-world-went-crazy-this-week-here-are-the-10-you-need-to-see/",
     "source": "Wired",
     "title": "The Watch World Went Crazy This Week. Here Are the 10 You Need to See",
@@ -3056,38 +2911,164 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/09/02/denise-richards-ex-aaron-phypers-claims-financial-problems-in-divorce/",
-    "source": "TMZ",
-    "title": "Denise Richards' Ex Aaron Says His Car Repossessed And Couldn't Afford Gas After Eviction Drama",
-    "summary": "\"The Real Housewives of Beverly Hills\" star Denise Richards\u2019 estranged husband, Aaron Phypers, claims he's been in an increasingly dire financial situation since their bitter split. Aaron filed a declaration in court claiming Denise still owes&hellip;",
-    "byline_count": 1,
+    "link": "https://www.abc.net.au/news/2026-09-06/mundaring-weir-overflows-consigned-to-history-low-rainfall/107117214",
+    "source": "ABC Australia",
+    "title": "Perth looks back to the day when Mundaring Weir last overflowed",
+    "summary": "Thirty years ago, Perth's Mundaring Weir overflowed following good winter rains. The visitors who flocked to see the spectacle had no idea it would never happen again.",
+    "byline_count": 2,
     "author_names": [
-      "TMZ Staff"
+      "Emma Wynne",
+      "Natalie Jones"
     ],
-    "total_score": 3,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:00:28+00:00",
-    "is_new": false
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-05T23:17:28+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.nbcnews.com/news/us-news/judge-sets-250000-bail-accused-penn-state-cocaine-ringleader-rcna595732",
-    "source": "NBC News",
-    "title": "Judge sets $250,000 bail for accused Penn State cocaine trafficking ringleader",
-    "summary": "A judge set bail on Wednesday for the former Penn State fraternity brother at the center of an alleged cocaine trafficking ring.",
-    "byline_count": 1,
+    "link": "https://www.abc.net.au/news/2026-09-06/coral-killing-drupella-snails-culled-from-great-barrier-reef/107102814",
+    "source": "ABC Australia",
+    "title": "It doesn't look dangerous, but this sneaky snail causes enormous damage",
+    "summary": "The Drupella snail doesn't look threatening, but it is such a danger to Queensland's reefs that tourism operators have helped cull hundreds of thousands of them as part of a management plan.",
+    "byline_count": 2,
     "author_names": [
-      "Matt Lavietes"
+      "Johanna Marie",
+      "Grace Whiteside"
     ],
-    "total_score": 3,
-    "matched_categories": [
-      "primary_source"
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-05T22:28:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/rural/2026-09-06/meet-the-rural-women-of-the-year-finalists-2026/107090860",
+    "source": "ABC Australia",
+    "title": "Meet the Rural Women's Award finalists for 2026",
+    "summary": "Australia's Rural Woman of the Year will be announced in Canberra on Tuesday, September 8.",
+    "byline_count": 2,
+    "author_names": [
+      "Justine Longmore",
+      "Annie Brown"
     ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:56:16+00:00",
-    "is_new": false
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-06T00:01:50+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/hannah-pettey-brian-mann-alabama-lead-poisoning-attempted-murder-48-hours/",
+    "source": "CBS News",
+    "title": "A young mom was near death from lead poisoning. Who was trying to kill her?",
+    "summary": "Hannah Pettey, 22, a married mother of two from Alabama, suffered debilitating pain and lost more than 45 pounds as her health rapidly declined. Doctors suspected either her mother or her husband were trying to poison her.",
+    "byline_count": 2,
+    "author_names": [
+      "Anne-Marie  Green",
+      "Paul  LaRosa"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-06T01:58:03+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/trump-vance-to-speak-rnc-midterm-convention-dallas/",
+    "source": "CBS News",
+    "title": "Trump, Vance to speak at RNC Midterm Convention in Dallas",
+    "summary": "Republican National Committee Midterm Convention is a rare mid-cycle gathering of party leaders and delegates President Trump has called as a way to rally the party faithful ahead of November's contests.",
+    "byline_count": 2,
+    "author_names": [
+      "Ed  O'Keefe",
+      "Gabrielle  Ake"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-05T23:57:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c24j1r45r49o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Why more women carry the 'mental load' - and how couples can share it",
+    "summary": "Planning, organising and remembering household tasks falls disproportionately to mothers - here are some tips to help.",
+    "byline_count": 2,
+    "author_names": [
+      "Grace Dean",
+      "Mallory Moench"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-05T23:31:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cp30121n24xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "I brushed off my sore throat as a hangover, but it turned into sepsis",
+    "summary": "Doctors told Elle Black if she had gone to hospital later the outcome could have been quite different.",
+    "byline_count": 2,
+    "author_names": [
+      "Catriona Aitken",
+      "Nelli Bird"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-05T20:47:59+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+    "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
+    "byline_count": 2,
+    "author_names": [
+      "Tim Whewell",
+      "Serhiy Solodko"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-05T23:54:07+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/US/severe-weather-impact-millions-labor-day-weekend/story?id=136227429",
+    "source": "ABC News",
+    "title": "Severe weather to impact parts of US over Labor Day weekend",
+    "summary": "Severe thunderstorms are targeting parts of the Southeast on Saturday afternoon, with portions of Virginia and the Carolinas on alert.",
+    "byline_count": 2,
+    "author_names": [
+      "Kyle Reiman",
+      "Nadine El-Bawab"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-05T20:53:44+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/International/witkoff-kushner-meet-putin-discuss-ukraine-war/story?id=136231643",
+    "source": "ABC News",
+    "title": "Witkoff, Kushner meet with Putin to discuss Ukraine war",
+    "summary": "Russian President Vladimir Putin spoke with U.S. special envoys Steve Witkoff and Jared Kushner for three hours Saturday about the war with Ukraine.",
+    "byline_count": 2,
+    "author_names": [
+      "Jamie Dorrington",
+      "Tanya Stukalova"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-06T02:03:17.975666+00:00",
+    "published_parsed": "2026-09-05T23:00:21+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-06/journalist-cheng-lei-prison-warns-dig-deeper-on-china/107072376",
@@ -3103,7 +3084,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T18:41:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-06/september-11-legacy-911-terrorism-twin-towers-new-york-trump/107101064",
@@ -3119,7 +3100,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T18:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-06/unprecedented-el-ni%C3%B1o-will-drive-global-weather/107106624",
@@ -3135,7 +3116,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T18:41:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/health/2026-09-06/when-meditation-goes-wrong/106692856",
@@ -3151,7 +3132,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T19:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/05/americas-got-talent-star-deshundre-vinson-arrested/",
@@ -3168,7 +3149,7 @@
     ],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T21:28:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-06/nsw-icac-inside-reformers-conservative-nsw-liberal-party-faction/107113986",
@@ -3184,7 +3165,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T21:31:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-06/frv-response-times-not-keeping-up-with-melbourne-population/107097632",
@@ -3200,7 +3181,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T21:12:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-06/bogong-moths-tagged-kosciuszko-national-park/107110974",
@@ -3216,7 +3197,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T21:17:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/guyana-third-country-us-deportees/",
@@ -3232,7 +3213,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T18:35:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/05/maga-inc-10-million-texas-senate-race-trump-james-talarico-ken-paxton/",
@@ -3248,7 +3229,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T20:01:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/05/mexican-drug-cartels-bomb-laden-drones-improvised-explosive-devices-jalisco-new-generation-sinaloa-zacatecas/",
@@ -3264,7 +3245,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T20:28:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
@@ -3280,7 +3261,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T18:36:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
@@ -3296,7 +3277,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T19:40:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/media/6073267-stars-stripes-staffers-pentagon-lawsuit/",
@@ -3311,7 +3292,7 @@
     ],
     "first_seen_at": "2026-09-05T21:49:59.522152+00:00",
     "published_parsed": "2026-09-05T18:18:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/matt-gutman-lawsuit-abc-field-producer-1237042227/",
@@ -7258,510 +7239,6 @@
     ],
     "first_seen_at": "2026-09-03T02:11:32.121182+00:00",
     "published_parsed": "2026-09-02T22:23:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/09/danny-boyle-ink-ovation-venice-world-premiere-1237065170/",
-    "source": "Deadline",
-    "title": "Danny Boyle\u2019s \u2018Ink\u2019 Earns Five-Minute\u00a0Ovation At Venice World Premiere",
-    "summary": "Danny Boyle\u2019s Ink received a five-minute standing ovation this evening at the Venice Film Festival.&#160; The film, starring Jack O\u2019Connell, Guy Pearce and Claire Foy, screened in Competition this evening with the actors and and filmmakers in attendance.&#160; Boyle directs the feature from a screenplay written by James Graham (Dear England), based on his Tony-nominated [&#8230;]",
-    "byline_count": 2,
-    "author_names": [
-      "Zac Ntim",
-      "Nada Aboul Kheir"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:03:57+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://deadline.com/2026/09/tim-curry-cause-of-death-1237066028/",
-    "source": "Deadline",
-    "title": "Tim Curry\u2019s Cause Of Death Revealed",
-    "summary": "We now have a cause of death for Rocky Horror Picture Show actor Tim Curry. Documents from the Los Angeles County Department of Public Health obtained by People reveal Curry died of coronary artery disease. A history of stroke and kidney cancer were listed as other significant conditions that contributed to his death, but did [&#8230;]",
-    "byline_count": 1,
-    "author_names": [
-      "Denise Petski"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:41:52+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/02/dolly-parton-walk-of-fame-star-fixed-by-friday/",
-    "source": "TMZ",
-    "title": "Dolly Parton\u2019s Repaired Walk of Fame Star Will Be Unveiled Friday After Vandalism",
-    "summary": "Dolly Parton's vandalized Hollywood Walk of Fame star will be fixed by Friday ... TMZ has learned. Ana Martinez, a spokesperson for the Hollywood Chamber of Commerce, tells TMZ ... the star needs to cure for three days before crews return to polish&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:20:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/02/peter-cullen-cause-of-death/",
-    "source": "TMZ",
-    "title": "'Transformers' Voice Actor Peter Cullen Cause of Death Revealed",
-    "summary": "Transformers star Peter Cullen died from cardiac arrest ... TMZ has learned. TMZ obtained the death certificate for Peter, who died on August 26, 2026, at his Los Angeles home in the Toluca Lake neighborhood. The immediate cause was cardiac arrest&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:01:44+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/09/02/entertainment/eyewitness-gives-the-most-detailed-account-of-travis-and-taylors-wedding-yet/",
-    "source": "Page Six",
-    "title": "Eyewitness gives the most detailed account of Travis and Taylor\u2019s wedding yet: Cocktails, \u2018castle\u2019 and who did karaoke",
-    "summary": "During the reception, Swift took to the stage and called some of her famous friends up for karaoke. Ed Sheeran declined the invitation, but Stevie Nicks, Avril Lavigne and Paul McCartney all took their turns at the mic.",
-    "byline_count": 2,
-    "author_names": [
-      "Martha Williams",
-      "Sara Nathan"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:42:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/02/max-miller-avoids-questions-about-opponent/",
-    "source": "TMZ",
-    "title": "Congressman Max Miller Mum on Opponent's Family Focused Campaign Ad",
-    "summary": "Congressman Max Miller doesn't want to talk about his congressional opponent ... dodging questions about his new political ad and focusing on his legislative successes. TMZ DC tried to catch up with the representative from Ohio on Wednesday ... but&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:52:52+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-03/forever-renters-entering-retirement-need-larger-nest-egg/107090618",
-    "source": "ABC Australia",
-    "title": "Australia is facing a 'looming crisis' as people enter retirement as lifelong renters",
-    "summary": "More people are edging towards retirement as \"forever renters\". They are making tough decisions about work, where to live and how they will afford to retire.",
-    "byline_count": 2,
-    "author_names": [
-      "Cindy Wockner",
-      "Kathryn Robinson"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:07:41+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/02/alphonso-smith-jr-dead/",
-    "source": "TMZ",
-    "title": "Former NFL Player Alphonso Smith Jr. Dead at 40",
-    "summary": "Alphonso Smith Jr. -- a former NFL player and standout cornerback at Wake Forest University -- has died ... TMZ has learned. Sources with direct knowledge tell TMZ ... the former cornerback died by suicide on Wednesday at a housing community in&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:46:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-03/whyalla-steelworks-sale-faces-potential-delay/107107410",
-    "source": "ABC Australia",
-    "title": "Whyalla nervously waits for steelworks sale, blast furnace fix",
-    "summary": "South Australia's treasurer has hinted Whyalla may have to wait longer for the identity of its steelworks buyer, as locals tell the ABC recent events are bringing back old memories.",
-    "byline_count": 2,
-    "author_names": [
-      "James Wakelin",
-      "Stephanie Richards"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:21:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-03/one-third-of-lesson-time-lost-to-misbehaviour-teachers-say/107101894",
-    "source": "ABC Australia",
-    "title": "Student misbehaviour damaging teacher health, teachers say",
-    "summary": "A survey of about 400 teachers finds classroom disruption has a significant negative effect on the health of teachers, with female teachers the most affected.",
-    "byline_count": 2,
-    "author_names": [
-      "Miwa Blumer ",
-      "Conor Duffy"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:43:19+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-03/rabbits-plague-albany-golf-course-biocontrol-resistant/107089352",
-    "source": "ABC Australia",
-    "title": "Golfers despair as rabbits damage one of Australia's best courses",
-    "summary": "There are fears out-of-control rabbits and the unexpected holes they keep adding to the greens will threaten the legacy of one of the oldest golf courses in Western Australia.",
-    "byline_count": 2,
-    "author_names": [
-      "Will Corbett",
-      "Rachel Jennings"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T22:05:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-    "source": "Ars Technica",
-    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-    "summary": "Trump\u2019s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-    "byline_count": 1,
-    "author_names": [
-      "Ashley Belanger"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T17:58:33+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbc.ca/news/canada/nova-scotia/hilroy-leaves-newfoundland-cape-breton-off-notebooks-9.7329778?cmp=rss",
-    "source": "CBC News",
-    "title": "Hilroy says sorry for leaving Newfoundland, Cape Breton off notebooks' Canadian map",
-    "summary": "<img alt=\"A few exercise books with a map of Canada on the colorful covers\" height=\"349\" src=\"https://i.cbc.ca/ais/217a1b08-697f-416b-9add-f9eaa5aa2780,1788373331083/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C5139%2C2890%29%3B\" title=\"Hilroy\u2019s 40-page exercise book with a copyright year of 2025 shows a map of Canada that appears to be missing Newfoundland and a part of Nova Scotia, pictured in a Walmart in Fredericton on Sept. 2, 2026. THE CANADIAN PRESS/Eli Ridder\" width=\"620\" /><p>Hilroy has apologized for leaving Newfoundland and Cape Breton off the Canadian map on its glossy notebooks, after the mistake led to backlash online.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Lyndsay Armstrong",
-      "Eli Ridder"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:30:17+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "title": "Snowflake\u2019s stock soars as the company blows away estimates with its AI-fueled forecast",
-    "summary": "Companies looking to build AI tools on top of their data are turning to Snowflake, driving robust revenue growth.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:14:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "title": "Nvidia\u2019s stock is climbing as investors get more confidence in an expanding base of AI customers",
-    "summary": "Dell\u2019s earnings showed that demand for AI hardware extends beyond major cloud providers.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:38:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/select/shopping/50-best-oral-care-products-rcna347423",
-    "source": "NBC News",
-    "title": "We\u2019ve tested hundreds of oral care products \u2014 these 50 are the most effective",
-    "summary": "We tested popular and lesser known toothpastes, whitening strips, water flossers and other oral care products to find the 50 best of the year.",
-    "byline_count": 2,
-    "author_names": [
-      "Shalwah Evans",
-      "NBC Selected Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-05-29T20:15:40+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.courthousenews.com/investors-sue-hims-hers-after-ftc-lawsuit-plummets-stock-price/",
-    "source": "Courthouse News",
-    "title": "Investors sue Hims & Hers after FTC lawsuit plummets stock price",
-    "summary": "Stock prices dropped 15% after the FTC sued the online wellness company in July, accusing it of sharing health information with advertisers like Meta and Snap.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:50:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.courthousenews.com/fifth-circuit-questions-baton-rouges-ejection-of-public-speakers/",
-    "source": "Courthouse News",
-    "title": "Fifth Circuit questions Baton Rouge\u2019s ejection of public speakers",
-    "summary": "City lawyers say the mayor pro tem was enforcing on-topic rules and dismissing the city \u201cwith prejudice\u201d wiped out the lawsuit. The men who won at trial want the judgment to stand.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:58:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/09/02/china-soft-power-egypt-visit/",
-    "source": "Fortune",
-    "title": "China builds \u2018soft power\u2019 with Egypt as Jinping cultivates relationships with Middle East allies",
-    "summary": "The Chinese president arrived in Egypt to present as a stabilizer in the region\u2014and contrast itself with the United States.",
-    "byline_count": 2,
-    "author_names": [
-      "The Associated Press",
-      "Samy Magdy"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:26:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/09/02/trump-one-dollar-coin-us-mint/",
-    "source": "Fortune",
-    "title": "Head\u2019s up: The $1 coin showing the president\u2019s face is officially on sale",
-    "summary": "The coin celebrates America\u2019s 250th birthday, though federal law generally bars living presidents from appearing on U.S. currency.",
-    "byline_count": 2,
-    "author_names": [
-      "Jesse Bedayn",
-      "The Associated Press"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:34:38+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/09/02/china-ice-custody-death-lianyong-wei/",
-    "source": "Fortune",
-    "title": "China demands answers after a man dies hours after entering ICE custody\u2014the fifth Chinese national to die in U.S. immigration custody since 2025",
-    "summary": "At least 57 ICE detainees have died since Trump returned to office, a death rate that has alarmed public health experts.",
-    "byline_count": 2,
-    "author_names": [
-      "Ryan J. Foley",
-      "The Associated Press"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:24:18+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/09/02/tiger-woods-drivers-license-reckless-driving/",
-    "source": "Fortune",
-    "title": "Tiger Woods pleads no-contest to a reckless driving charge and loses his driver\u2019s license for five years",
-    "summary": "Prosecutors reduced the DUI charge after toxicologists said Woods developed a \u201cpharmacological\u201d tolerance to pain pills and was thus not impaired",
-    "byline_count": 2,
-    "author_names": [
-      "The Associated Press",
-      "Daniel Kozin"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:22:46+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/politics/congress/house-democrats-block-constitutional-amendment-supreme-court-justices-rcna595736",
-    "source": "NBC News",
-    "title": "House Democrats block constitutional amendment to lock Supreme Court at 9 justices",
-    "summary": "The Republican-led resolution, which requires two-thirds support in the House and the Senate, is a response to increasing openness among Democrats to expand the court.",
-    "byline_count": 2,
-    "author_names": [
-      "Sahil Kapur",
-      "Kyle Stewart"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:38:43+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/news/us-news/doj-says-states-report-undocumented-immigrants-get-federal-funding-rcna595767",
-    "source": "NBC News",
-    "title": "DOJ says states have to report undocumented immigrants to get federal funding",
-    "summary": "The Justice Department issued a new legal interpretation on Wednesday in an attempt to push every state in the country to report undocumented immigrants living in their communities and advance President Donald Trump\u2019s mass deportation plan.",
-    "byline_count": 2,
-    "author_names": [
-      "Nicole Acevedo ",
-      "Ryan J. Reilly"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:06:12+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/US/coast-guard-plane-carrying-dhs-secretary-mullin-makes/story?id=136155543",
-    "source": "ABC News",
-    "title": "Coast Guard plane carrying DHS Secretary Mullin makes emergency landing",
-    "summary": "The Coast Guard plane made an emergency landing at Ronald Reagan Washington National Airport, multiple sources told ABC News.",
-    "byline_count": 2,
-    "author_names": [
-      "Luke Barr",
-      "Sam Sweeney"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:32:28+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/Politics/trump-1-coins-circulation-us-mint/story?id=136142051",
-    "source": "ABC News",
-    "title": "Trump's face is now on money, with $1 coins going into circulation",
-    "summary": "Trump is the first living president to be on a circulating coin in 100 years.",
-    "byline_count": 2,
-    "author_names": [
-      "Michelle Stoddart",
-      "Catherine Bouvet"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:55:14+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/regulation/court-battles/6067092-doj-kansas-school-district-transgender-lawsuit/",
-    "source": "The Hill",
-    "title": "DOJ sues Kansas school district over transgender student policies",
-    "summary": "The Justice Department announced Monday a \u201cfirst-of-its-kind lawsuit\u201d against a school district in Kansas over transgender student policies.\u00a0 The Justice Department&#8217;s complaint was filed \u201cto stop it from facilitating the secret \u2018transitioning\u2019 of children\u2019s \u2018gender identity\u2019 at school without their parents\u2019 knowledge or consent.\u201d It argued the \u201cTransgender and Gender Non-Conforming Students Internal Guidance Document\u201d&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:26:14+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/energy-environment/6067549-lutnick-ai-data-centers-water/",
-    "source": "The Hill",
-    "title": "Lutnick claims that data centers, known for water consumption, \u2018don\u2019t use water\u2019",
-    "summary": "Commerce Secretary Howard Lutnick claimed Wednesday that data centers \u201cdon\u2019t use water\u201d despite the facilities\u2019 significant water usage raising concerns for communities that may host them.\u00a0 In an interview with CNBC, Lutnick said, \u201cOne of my favorite things is when people talk about data centers using water. The No. 1 product in America that uses&#8230;",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:15:19+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/house/6067506-house-supreme-court-packing-amendment/",
-    "source": "The Hill",
-    "title": "Democrats block proposed constitutional amendment to keep Supreme Court justices to nine",
-    "summary": "A Republican proposal to amend the Constitution to prevent expanding the number of justices on the Supreme Court failed on the House floor.&#160; Like all constitutional amendments, the measure needed a two-thirds majority of the House to pass, which it did not get: The vote was along party lines at 212-206. Democrats have never supported&#8230;",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T21:20:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.vox.com/podcasts/501732/meta-trial-settlement-children-social-media-mental-health-tiktok-youtube-snap",
-    "source": "Vox",
-    "title": "Meta suddenly cares about kids",
-    "summary": "For years, parents across the country have been calling on Congress to do something about social media\u2019s harmful effects on children. And typically, when something does happen, it follows a familiar pattern.&#160; The billionaire tech CEOs are summoned to Congress. The grieving parents of children who have self-harmed bring old photos of their children, some [&#8230;]",
-    "byline_count": 2,
-    "author_names": [
-      "Hady Mawajdeh",
-      "Sean Rameswaram"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T19:40:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/sep/02/trump-patagonia-lawsuit-utah-national-monuments",
-    "source": "The Guardian US",
-    "title": "Patagonia sues Trump over slashing of protected areas in Utah",
-    "summary": "<p>President\u2019s order strips nearly 3m acres of Bears Ears and Grand Staircase-Escalante, sacred tribal sites, of safeguards</p><p>Patagonia, the outdoor clothing and gear company, has joined a lawsuit challenging Donald Trump\u2019s decision to significantly reduce the Bears Ears and Grand Staircase-Escalante national monuments in Utah, removing protections from nearly 3m acres.</p><p>In July, the president <a href=\"https://www.theguardian.com/us-news/2026/jul/13/trump-cuts-national-monuments-utah\">approved</a> the reduction of the sites by 90%, clearing the way to open the land to oil and gas companies. He argued in his proclamations that doing so would allow lands to be \u201cput to a higher-priority use\u201d and that they contained critical minerals important to \u201c resource independence \u2026[and] national security\u201d.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/02/trump-patagonia-lawsuit-utah-national-monuments\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Dani Anguiano"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T20:51:54+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.semafor.com/article/09/02/2026/parnell-emerging-as-top-contender-for-army-secretary",
-    "source": "Semafor",
-    "title": "Parnell emerging as top contender for Army secretary",
-    "summary": "The Pentagon\u2019s current chief spokesman is an ally of Defense Secretary Pete Hegseth, though GOP Rep. Brian Mast is also getting a look.",
-    "byline_count": 2,
-    "author_names": [
-      "Shelby Talcott",
-      "Nicholas Wu"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-02T22:12:05.409682+00:00",
-    "published_parsed": "2026-09-02T22:05:46+00:00",
     "is_new": false
   }
 ]
