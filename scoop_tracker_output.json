@@ -18,7 +18,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T08:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/canada/cbc-investigates-vietnamese-firm-targets-canadians-fake-ai-9.7318612?cmp=rss",
@@ -42,6 +42,24 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/politics/justice-department/trump-administration-fires-prosecutor-dropped-case-politically-linked-rcna596848",
+    "source": "NBC News",
+    "title": "Trump admin fires prosecutor in dropped case against politically linked billionaire",
+    "summary": "A federal prosecutor who had been assigned to the now-defunct case against a politically-linked Indian billionaire has been fired by the Trump administration, two people familiar with the firing tell NBC News.",
+    "byline_count": 2,
+    "author_names": [
+      "Ryan J. Reilly",
+      "Chloe Atkins"
+    ],
+    "total_score": 8,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T19:29:27+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.latimes.com/california/story/2026-09-08/gov-gavin-newsoms-former-chief-of-staff-seeks-to-delay-sentencing-because-of-health-issues",
     "source": "Los Angeles Times",
     "title": "Gov. Gavin Newsom's former chief of staff seeks to delay sentencing because of health issues",
@@ -60,6 +78,24 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/09/09/christine-quinn-lists-mansion-amid-divorce/",
+    "source": "TMZ",
+    "title": "'Selling Sunset' Christine Quinn's Estranged Husband Lists Mansion Amid Divorce",
+    "summary": "Christine Quinn and Christian Dumontet's multimillion-dollar Los Angeles mansion is officially on the market amid their nasty divorce battle ... TMZ has learned. Sources familiar with the sale tell TMZ ... the gated contemporary home hit the market&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 7,
+    "matched_categories": [
+      "exclusivity",
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:00:54+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/09/09/marcellus-wiley-and-ex-court-battle/",
     "source": "TMZ",
     "title": "Marcellus Wiley & Estranged Wife Face Off in Court",
@@ -75,7 +111,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:30:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/tv/story/2026-09-09/the-secret-lives-of-mormon-wives-what-to-know-season-5",
@@ -92,7 +128,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/world-nation/story/2026-09-09/inside-trumps-push-for-zero-migrants-tunnels-defying-it",
@@ -130,6 +166,60 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/09/09/tyler-herro-was-not-living-with-baby-mama-before-court-battle/",
+    "source": "TMZ",
+    "title": "NBA Star Tyler Herro Was Living Separate From Baby Mama Katya Months Before Court Battle",
+    "summary": "NBA star Tyler Herro and his baby mama, Katya Henry, stopped living together more than a year before filing dueling legal actions over custody ... according to court docs obtained by TMZ Sports. Katya filed legal docs that appear to show she moved&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:30:36+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/nyc-after-911-25-years-of-remembering-and-rebuilding/",
+    "source": "CBS News",
+    "title": "NYC after 9/11: 25 years of remembering and rebuilding",
+    "summary": "A look back at how 9/11 has changed Lower Manhattan and beyond, 25 years after the World Trade Center attacks.",
+    "byline_count": 4,
+    "author_names": [
+      "Name here",
+      "Name here",
+      "Name here",
+      "Name here"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T22:00:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/salesforce-acquire-ai-startup-listen-labs-2026-9",
+    "source": "Business Insider",
+    "title": "Salesforce has held talks to buy Listen Labs, an AI customer research platform, for around $2 billion",
+    "summary": "Salesforce has had talks to acquire Listen Labs, an AI startup that provides marketing research to brands, for around $2 billion.",
+    "byline_count": 2,
+    "author_names": [
+      "Katie Roof",
+      "Ben Bergman"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T19:01:53+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/09/09/malcolm-jamal-warner-widow-and-mother-legal-fight-over-sold-home/",
     "source": "TMZ",
     "title": "Malcolm-Jamal Warner's Widow Claims His Mom Sold Off L.A. Mansion Amid Family Feud",
@@ -145,7 +235,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:35:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-10979-6",
@@ -158,7 +248,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-10468-w",
@@ -171,7 +261,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-11003-7",
@@ -184,7 +274,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-11002-8",
@@ -197,7 +287,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-10993-8",
@@ -210,7 +300,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-10998-3",
@@ -223,7 +313,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-11005-5",
@@ -236,7 +326,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-10976-9",
@@ -249,7 +339,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-10954-1",
@@ -262,7 +352,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-10876-y",
@@ -275,7 +365,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-11008-2",
@@ -288,7 +378,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-10997-4",
@@ -301,7 +391,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/d41586-026-02700-4",
@@ -314,7 +404,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-11039-9",
@@ -327,7 +417,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-10990-x",
@@ -340,7 +430,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-11004-6",
@@ -353,7 +443,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-11001-9",
@@ -366,7 +456,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-10968-9",
@@ -379,7 +469,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-11025-1",
@@ -392,7 +482,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-11118-x",
@@ -405,7 +495,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/news/video/2026/sep/09/why-is-trump-silent-on-uk-sanctions-against-israeli-west-bank-settlements-the-latest",
@@ -424,7 +514,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T17:02:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/video/2026/sep/09/how-the-deadly-amazon-cargo-plane-crash-unfolded-deconstructed",
@@ -442,7 +532,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T16:26:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/politik/airbnb-mietpreise-protest-barcelona-florenz-berlin-li.3544275",
@@ -997,78 +1087,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/09/06/amazon-plane-crash-miami-international-airport/",
-    "source": "TMZ",
-    "title": "Amazon Cargo Plane Crashes at Miami International Airport, Bursts Into Flames",
-    "summary": "1:20 PM PT -- Amazon said in a statement posted to X ... \"We can confirm that an Amazon Air plane operated by 21 Air experienced an incident while attempting to land at Miami International Airport today. This is a fast-moving situation and we're&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "exclusivity",
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T19:34:02+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/06/miami-amazon-cargo-plane-crash-death-toll/",
-    "source": "TMZ",
-    "title": "5 People Are Dead After Amazon Cargo Plane Crash in Miami",
-    "summary": "2:40 PM PT -- The death toll has climbed in the Amazon cargo plane crash at Miami International Airport ... with Mayor Eileen Higgins saying 5 people are dead and 5 others were injured. Higgins says the plane overshot the runway and struck vehicles&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "exclusivity",
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T20:56:23+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-landtagswahl-cdu-afd-li.3541799",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Sachsen-Anhalt: \u201eSelbstverst\u00e4ndlich haben wir einen Regierungsauftrag\u201c",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/06/67b63ac9-0fbb-4b57-93d1-0d3c0cfd25c8.jpg?rect=0%2C0%2C3556%2C2667&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die AfD jubelt \u00fcber ein Rekordergebnis in Sachsen-Anhalt. Ihren Spitzenkandidaten Ulrich Siegmund sieht die Partei schon als neuen Ministerpr\u00e4sidenten\u00a0\u2013 selbst wenn es nicht f\u00fcr eine absolute Mehrheit reichen sollte.</p>",
-    "byline_count": 4,
-    "author_names": [
-      "Tim Frehler",
-      "Iris Mayer",
-      "Dominik F\u00fcrst",
-      "Nicolas Richter"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T16:10:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/news/us-news/amazon-plane-crash-miami-rcna596369",
-    "source": "NBC News",
-    "title": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport, striking multiple vehicles",
-    "summary": "Multiple people were also taken to hospitals with unknown injuries, the Miami-Dade Sheriff\u2019s Office said.",
-    "byline_count": 4,
-    "author_names": [
-      "Doha Madani",
-      "Jay Blackman",
-      "Juliette Arcodia",
-      "Marlene Lenthang"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T19:07:32+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.cbsnews.com/news/dolly-parton-sister-stella-parton-cancer-battle-private/",
     "source": "CBS News",
     "title": "Dolly Parton's sister shares why the country music star kept her cancer battle private",
@@ -1085,7 +1103,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T12:31:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/08/wheel-of-fortune-back-to-normal-after-jim-thornton-firing/",
@@ -1196,23 +1214,124 @@
     "is_new": false
   },
   {
-    "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
-    "source": "The Guardian US",
-    "title": "The US now has access to more than half Australia\u2019s military bases \u2013 could it drag the country unwillingly into war?",
-    "summary": "<p><strong>Exclusive:</strong> US-controlled weapons corporations and forces have control or access to more than 100 facilities across the continent, which some analysts describe as a \u2018colonisation\u2019 of Australia\u2019s military. Find a map of them here</p><ul><li><p><a href=\"https://www.theguardian.com/global/video/2026/sep/07/us-military-presence-in-australia-mapped-video\">US military presence in Australia, mapped \u2013 video</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/audio/2026/sep/07/why-can-the-us-access-so-many-australian-military-bases-and-could-they-drag-us-unwillingly-into-war-podcast\">Why can the US access so many Australian military bases? \u2013 podcast</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/us-military\">US military</a> interests control or have access to more than 100 defence facilities on Australian soil, in what some analysts describe as a \u201csaturation\u201d \u2013 even a \u201ccolonisation\u201d \u2013 of the Australian continent.</p><p>New data compiled by",
-    "byline_count": 3,
+    "link": "https://www.tmz.com/2026/09/09/louisville-woman-granted-restraining-order-against-man-after-beating-goes-viral/",
+    "source": "TMZ",
+    "title": "Kentucky Woman Gets Court-Ordered Protection From Ex After Viral Assault Video",
+    "summary": "A Kentucky woman -- who says she is the woman who suffered a violent beating in shocking surveillance footage -- is getting court-ordered protection against the man she claims attacked her ... TMZ has learned. According to court docs, obtained by&hellip;",
+    "byline_count": 1,
     "author_names": [
-      "Ben Doherty",
-      "Andy Ball",
-      "Nick Evershed"
+      "TMZ Staff"
     ],
-    "total_score": 5,
+    "total_score": 4,
     "matched_categories": [
       "exclusivity"
     ],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T20:00:14+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:05:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/09/bryan-kohberger-family-still-supports-him-amid-murder-conviction/",
+    "source": "TMZ",
+    "title": "Bryan Kohberger's Parents, Sisters Support Him Despite Quadruple Murder Conviction",
+    "summary": "Bryan Kohberger's family has his back as the convicted killer wages a legal battle to withdraw his guilty plea in a quadruple murder. Kohberger's family attorney, Jason Goldman, tells TMZ ... Bryan has the support of several members of his family,&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:25:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-10/wild-child-laboratories-sued-over-pulled-sunscreens/107097510",
+    "source": "ABC Australia",
+    "title": "Company behind pulled sunscreens sued for 'misleading' conduct",
+    "summary": "The manufacturer of the base formula used by 20 sunscreens pulled from sale for failing to meet their SPF claims is being sued for misleading and deceptive conduct.",
+    "byline_count": 3,
+    "author_names": [
+      "Rachel Carbonell",
+      "Pat McGrath",
+      "Ninah Kopel"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T19:16:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/china/diplomacy/article/3366918/once-sidelined-china-stands-ready-broker-fourth-trump-kim-handshake?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Once sidelined, China stands ready to broker a fourth Trump-Kim handshake",
+    "summary": "China is willing to help broker a possible meeting between US President Donald Trump and North Korean leader Kim Jong-un, sources have said just weeks before Chinese President Xi Jinping is expected in Washington for a bilateral summit.\nMultiple people familiar with the matter told the South China Morning Post that Beijing was stepping up to play an \u201cactive\u201d and \u201cconstructive\u201d role in reviving US-North Korea diplomacy, underscoring its resolve to remain a central player in negotiations on the...",
+    "byline_count": 1,
+    "author_names": [
+      "Nayan Seth"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T22:00:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/air-force-one-slide-trump-tarmac-joint-base-andrews/",
+    "source": "CBS News",
+    "title": "Trump's trip delayed after emergency slide deploys on new Air Force One",
+    "summary": "President Trump's departure to Texas was delayed after an emergency slide on the new Air Force One deployed on the tarmac before he boarded.",
+    "byline_count": 1,
+    "author_names": [
+      "Kathryn  Watson"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:20:21+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/football/2026/sep/09/gianni-infantino-loyalist-caribbean-fifa-split-gelson-fernandes",
+    "source": "The Guardian US",
+    "title": "Infantino installs loyalist to oversee Caribbean as he splits Fifa management",
+    "summary": "<ul><li><p>Critics view Fernandes job as move to shore up position</p></li><li><p>Fifa says change is designed to make sport \u2018truly global\u2019</p></li></ul><p>Gianni Infantino has separated Fifa\u2019s management of the Caribbean countries from the rest of Concacaf in a move widely regarded by his opponents as an attempt to split the alliance to remove him from office.</p><p>Concacaf covers North and Central America as well as the Caribbean and was previously managed as one bloc. But<strong> </strong>the Guardian has learned that the former Switzerland midfielder Gelson Fernandes, an Infantino loyalist, has been appointed as the director of member associations for the Caribbean, in addition to his position looking after Fifa\u2019s African members.</p> <a href=\"https://www.theguardian.com/football/2026/sep/09/gianni-infantino-loyalist-caribbean-fifa-split-gelson-fernandes\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Matt Hughes",
+      "Nick Ames"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T17:17:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/09/trump-midterm-election-mess-courts",
+    "source": "Axios",
+    "title": "Trump's midterm mess collides with a courtroom time crunch",
+    "summary": "<p>The <a href=\"https://www.axios.com/politics-policy/2026-midterm-elections\" target=\"_blank\">nation's election system</a> is in a messy legal limbo, with fights over <a href=\"https://www.axios.com/2026/09/01/usps-whistleblower-mail-ballots-warning\" target=\"_blank\">mail-in voting</a>, <a href=\"https://www.axios.com/local/kansas-city/2026/09/04/missouri-supreme-court-blocks-new-congressional-map\" target=\"_blank\">electoral maps</a> and <a href=\"https://www.axios.com/2026/08/05/trump-doj-voter-roll-lawsuits-fail\" target=\"_blank\">voter records</a> still locked in court.</p><p><strong>Why it matters:</strong> Americans are in the eye of the storm, with over half saying they don't think the 2026 midterms will be conducted fairly or are unsure, according to a new poll.</p><hr /><ul><li>President <a href=\"https://www.axios.com/politics-policy/donald-trump\" target=\"_blank\">Trump</a> insists his push to reform America's elections will protect the sanctity of votes. But the administration's overh",
+    "byline_count": 1,
+    "author_names": [
+      "Avery Lotz"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T20:21:20+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/09/kris-jenner-stalking-suspect-caught-by-security/",
@@ -1229,7 +1348,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:38:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-10/september-11-surviving-families-anniversary-terrorist-attack/107089528",
@@ -1246,7 +1365,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:52:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/news/disclosure-day-peacock-release-date-streaming-how-to-watch-1236806947/",
@@ -2108,38 +2227,56 @@
     "is_new": false
   },
   {
-    "link": "https://www.abc.net.au/news/2026-09-07/edmund-rice-catholic-schools-split-from-christian-brothers/107107312",
-    "source": "ABC Australia",
-    "title": "'Seminal moment': Catholic schools body moves to cut ties with Christian Brothers",
-    "summary": "A national organisation set up by the Christian Brothers that runs 61 Catholic schools across Australia is considering severing its ties with the order amid mounting tensions over abuse payouts.",
-    "byline_count": 3,
+    "link": "https://deadline.com/2026/09/mike-epps-joins-my-fathers-son-netflix-1237072803/",
+    "source": "Deadline",
+    "title": "Mike Epps Set For \u2018My Father\u2019s Son\u2019 Comedy Series In Development At Netflix",
+    "summary": "EXCLUSIVE:&#160;Mike Epps, one of Netflix&#8217;s most popular stand-ups and star of its sitcom&#160;The Upshaws, is expanding his relationship with the streamer via&#160;My Father&#8217;s Son, a new comedy series he&#8217;ll star in and exec produce, sources tell Deadline. Reps for Netflix declined to comment. We&#8217;re told this is a father-son story, inspired by the life of [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Louise Milligan",
-      "Elise Potaka",
-      "Lara Sonnenschein"
+      "Matt Grobar"
     ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T18:39:52+00:00",
-    "is_new": false
+    "total_score": 3,
+    "matched_categories": [
+      "exclusivity",
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:15:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://fortune.com/2026/09/06/afd-alternative-for-germany-party-saxony-anhalt-regional-election-far-right-state-government-world-war-ii/",
-    "source": "Fortune",
-    "title": "Alternative for Germany party set for regional election triumph and could form the country\u2019s first far-right state government since World War II",
-    "summary": "AfD's regional branch in Saxony-Anhalt is one of several classified as a proven right-wing extremist group by the domestic intelligence agency.",
-    "byline_count": 3,
+    "link": "https://www.latimes.com/california/story/2026-09-09/la-gang-intervention-worker-body-armor-possession-case-dismissed",
+    "source": "Los Angeles Times",
+    "title": "L.A. gang intervention worker charged for having body armor gets case dismissed",
+    "summary": "<p>A federal judge threw out charges Wednesday against an L.A. gang intervention worker charged with being a felon in possession of body armor after determining he did not actually have a prior felony conviction.</p>",
+    "byline_count": 1,
     "author_names": [
-      "Geir Moulson",
-      "Kerstin Sopke",
-      "The Associated Press"
+      "James Queally"
     ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T20:24:07+00:00",
-    "is_new": false
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T18:54:50+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3366978/tate-brothers-lose-bid-release-us-jail-pending-extradition-fight?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Tate brothers lose bid for release from US jail pending extradition fight",
+    "summary": "Social media influencers Andrew and Tristan Tate lost their bid for release from a Miami jail on Wednesday as they contest extradition to Britain, where they are wanted on rape charges.\nIn denying bail for the Tate brothers, Miami-based US Magistrate Judge Lauren Louis said the brothers\u2019 wealth and frequent international travel made them \u201cquintessential flight risks\u201d.\n\u201cWhile [the brothers] may not \u200cin fact possess what extravagant holdings they portray themselves as possessing online, the record...",
+    "byline_count": 1,
+    "author_names": [
+      "Reuters"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T22:04:27+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.scmp.com/news/world/middle-east/article/3366971/un-nuclear-watchdog-board-reports-iran-security-council-first-time-20-years?utm_source=rss_feed",
@@ -2156,7 +2293,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:09:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.twz.com/air/first-look-at-general-atomics-wildfire-its-successor-to-the-mq-9-reaper",
@@ -2174,7 +2311,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T17:26:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/rosalia-in-talks-join-javier-bardem-connor-storrie-wet-1237071522/",
@@ -2636,54 +2773,432 @@
     "is_new": false
   },
   {
-    "link": "https://www.cbsnews.com/news/max-miller-house-republican-conference-chair-lisa-mcclain-face-the-nation-09-06-2026/",
-    "source": "CBS News",
-    "title": "GOP conference chair says Miller is \"our nominee right now\" despite allegations",
-    "summary": "House Republican Conference Chair Lisa McClain said she is supporting Rep. Max Miller's reelection bid for a third term because \"I will support anyone with an R behind their name.\"",
-    "byline_count": 1,
-    "author_names": [
-      "Sophia  Vlahakis"
-    ],
-    "total_score": 3,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T19:02:12+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/former-cuban-president-raul-castro-appears-military-event-after-hospitalization/",
-    "source": "CBS News",
-    "title": "Former Cuban President Ra\u00fal Castro appears publicly after hospitalization",
-    "summary": "Former Cuban President Ra\u00fal Castro has reappeared in public at a military event celebrating an army branch's anniversary.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 3,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T18:39:20+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.twz.com/space/mysterious-black-jet-that-emerged-at-long-beach-airport-identified",
-    "source": "The War Zone",
-    "title": "Mysterious Black Jet That Emerged At Long Beach Airport Identified",
-    "summary": "<p>With a sleek airframe the size of an A-5 Vigilante, its silhouette drew immediate attention from local aviation photographers who had never seen anything like it there.</p>\n<p>The post <a href=\"https://www.twz.com/space/mysterious-black-jet-that-emerged-at-long-beach-airport-identified\">Mysterious Black Jet That Emerged At Long Beach Airport Identified</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+    "link": "https://deadline.com/2026/09/federal-tax-incentives-hollywood-trump-1237072430/",
+    "source": "Deadline",
+    "title": "Trump & Other Major Hurdles Ahead For Federal Film & TV Tax Incentive Bill Becoming Reality",
+    "summary": "Among many D.C. lobbyists, when the bet is on whether a piece of legislation will pass Congress or not, the rule of thumb always is to take the latter. Yet, a long-desired federal film and television tax incentive that&#8217;s suddenly coming to life with the recent backing of Donald Trump could prove the exception. Maybe. [&#8230;]",
     "byline_count": 2,
     "author_names": [
-      "Howard Altman",
-      "Tyler Rogoway"
+      "Ted Johnson",
+      "Dominic Patten"
     ],
-    "total_score": 3,
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:00:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/09/pit-bull-brutally-attacks-san-francisco-woman/",
+    "source": "TMZ",
+    "title": "Pit Bull Drenched with Blood After Mauling Woman in San Francisco",
+    "summary": "A pit bull's vicious attack has left a San Francisco woman with life-threatening injuries ... and video of the aftermath shows the dog drenched in her blood. The attack went down in the city's Tenderloin neighborhood Tuesday morning before&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
     "matched_categories": [
       "exclusivity"
     ],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T18:06:36+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T19:10:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/09/kid-cudi-claims-first-amendment-right-in-mia-tour-firing/",
+    "source": "TMZ",
+    "title": "Kid Cudi Claims First Amendment Protects His Decision to Fire M.I.A. From Tour",
+    "summary": "Kid Cudi says the First Amendment protects his decision to fire M.I.A. from his tour ... making the bombshell constitutional assertion in response to her recent legal filing. Here's the deal ... M.I.A. filed a lawsuit against Kid Cudi -- claiming&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T19:40:07+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/09/youtuber-assaults-autistic-college-student-on-campus/",
+    "source": "TMZ",
+    "title": "YouTuber Allegedly Assaults Autistic College Student",
+    "summary": "A Georgia man has been charged with abusing a disabled adult after cops say he put an autistic college student in a headlock ... before allegedly issuing a chilling threat. According to the police report, obtained by TMZ, Jack Tyler Laroche is&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:50:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/09/fake-49er-daejon-love-sued-in-small-claims-court/",
+    "source": "TMZ",
+    "title": "Fake 49er Daejon Love Sued for $10K, Accuser Built Facebook Group to Find Him",
+    "summary": "Daejon Love allegedly couldn't be pinned down by one woman trying to sue him ... so she says she built a Facebook group to help track him down ... and relied on his other alleged victims for help. According to Oregon court docs, obtained by TMZ, a&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T22:00:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-10/nsw-floodplain-harvesting-legal-concerns/107083438",
+    "source": "ABC Australia",
+    "title": "Watchdog's floodplain admission sparks call for immediate embargo",
+    "summary": "Calls to halt floodplain harvesting are mounting after NSW's chief water regulator revealed uncertainty around enforcing the state's water laws.",
+    "byline_count": 2,
+    "author_names": [
+      "Michael Condon",
+      "Cara Jeffery"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T19:22:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-10/lead-found-in-broken-hill-childcare-centres/107062500",
+    "source": "ABC Australia",
+    "title": "Anger as lead found at 10 Broken Hill childcare centres",
+    "summary": "The NSW Environment Protection Agency faces criticism after finding high lead contamination at 10 of Broken Hill's 13 childcare facilities.",
+    "byline_count": 2,
+    "author_names": [
+      "Em Jensen",
+      "Bill Ormonde"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T20:25:38+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-10/fremantle-docker-isaiah-dudley-reflects-on-improbable-afl-rise/107128738",
+    "source": "ABC Australia",
+    "title": "Overlooked by the whole AFL, Isaiah Dudley used disappointment as fuel",
+    "summary": "As his Fremantle Dockers look to bounce back against Geelong in an AFL semifinal tomorrow night, Isaiah Dudley hopes his story encourages other footballers to overcome setbacks and never give up on their dreams.",
+    "byline_count": 2,
+    "author_names": [
+      "Blake Kagi",
+      "Sophie Holder"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:13:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-10/greyhound-trainer-gets-lifetime-ban-over-undisclosed-fracture/107133432",
+    "source": "ABC Australia",
+    "title": "Greyhound trainer handed lifetime ban for 'egregious' actions",
+    "summary": "SA greyhound trainer Jack Clayton Trengove has been found \"entirely unfit\" to participate in the industry, with the state's governing body issuing him with a lifetime disqualification and a $5,000 fine.",
+    "byline_count": 2,
+    "author_names": [
+      "Evelyn Leckie",
+      "George Yankovich"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T20:24:31+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-09/doj-seeks-more-information-on-22-billion-roku-deal-after-trump-blasts-ouster-of-fox-news-host",
+    "source": "Los Angeles Times",
+    "title": "Justice Department seeks more information on $22-billion Roku deal after Trump blasts ouster of Fox News host",
+    "summary": "<p>The Department of Justice requested additional information from Fox about its planned acquisition of Roku, which operates its own ad-supported streaming service and sells hardware such as Internet-connected TV devices.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Wendy Lee"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:10:13+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+    "source": "Ars Technica",
+    "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+    "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
+    "byline_count": 1,
+    "author_names": [
+      "Jon Brodkin"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T19:09:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "The bull market\u2019s biggest enemy right now could be Bessent\u2019s interventions",
+    "summary": "A stronger yen and higher Treasury yields could become a toxic combination for the bull market in stocks.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:17:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/09/09/hollywood-new-business-model-gen-z-movie-tickets/",
+    "source": "Fortune",
+    "title": "Hollywood\u2019s \u2018new business model\u2019 comes into view as Gen Z shows a moviegoing taste that combines \u2018fast food and fine dining\u2019",
+    "summary": "Theaters sold nearly 249 million fewer tickets than in 2019 but still set a $4.7 billion summer record. It\u2019s not 2019 anymore.",
+    "byline_count": 2,
+    "author_names": [
+      "Tatiana Sataua",
+      "Nick Lichtenberg"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T20:56:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/911-poll-2026-cbs-news/",
+    "source": "CBS News",
+    "title": "CBS News poll finds that 25 years after 9/11 most see changed country",
+    "summary": "A big majority say it's very important that Americans remember the 9/11 attacks.",
+    "byline_count": 2,
+    "author_names": [
+      "Jennifer  De Pinto",
+      "Fred  Backus"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:00:02+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/news/us-news/lindsay-clancys-attorney-details-mental-state-mistrial-rcna596776",
+    "source": "NBC News",
+    "title": "Lindsay Clancy rejects conspiracy theories accusing her ex of their children\u2019s deaths, lawyer says",
+    "summary": "Lindsay Clancy rejects the internet conspiracy theories accusing her ex-husband of killing their three children in 2023 and believes he has been unfairly targeted by online sleuths since her murder trial, her defense attorney Kevin Reddington told NBC News on Wednesday in a wide-ranging interview.",
+    "byline_count": 2,
+    "author_names": [
+      "Laura Jarrett",
+      "Rebecca Cohen"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T18:39:55+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.washingtonpost.com/nation/2026/09/09/widow-amazon-cargo-plane-crash-victim-files-lawsuit/",
+    "source": "Washington Post",
+    "title": "Wife of man killed in Amazon cargo plane crash files lawsuit",
+    "summary": "The lawsuit claims the accident, which killed five and injured five others, was \u201cforeseeable and preventable.\u201d",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:03:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/ai-superintelligence-anthropic-jacob-coxon/",
+    "source": "CBS News",
+    "title": "Humans \"close to being outsmarted\" by superintelligence, AI expert says",
+    "summary": "Rapid developments in AI are prompting concerns about \"superintelligence.\" Here's why some experts are worried.",
+    "byline_count": 2,
+    "author_names": [
+      "Mary  Cunningham",
+      "Aimee  Picchi"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:47:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/Politics/trump-claims-firefighters-carried-ground-zero-after-911/story?id=136306942",
+    "source": "ABC News",
+    "title": "Trump claims firefighters carried him from ground zero after 9/11 attack",
+    "summary": "The White House shared no proof the incident occurred.",
+    "byline_count": 2,
+    "author_names": [
+      "Fritz Farrow",
+      "Nicholas Kerr"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:33:38+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/secret-afghan-girls-school-handwritten-letters-to-the-world/",
+    "source": "CBS News",
+    "title": "Afghan girls who study in secret want you to read their \"letters to the world\"",
+    "summary": "21 Afghan girls, bravely defying the Taliban by continuing to study, handed CBS News letters containing their stifled, often humble dreams \"for an ordinary life.\"",
+    "byline_count": 2,
+    "author_names": [
+      "Imtiaz Tyab",
+      "Mukhtar Ahmad"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T20:25:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/09/09/trump-gop-convention-dallas-speakers.html",
+    "source": "CNBC",
+    "title": "Fewer than half of vulnerable congressional candidates have speaking roles at GOP convention",
+    "summary": "Republicans hope to build momentum as they sag in the polls ahead of November's midterm election, but some vulnerable candidates skip the event.",
+    "byline_count": 2,
+    "author_names": [
+      "Garrett Downs",
+      "Megan Cassella"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:28:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+    "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+    "byline_count": 2,
+    "author_names": [
+      "Kali Hays",
+      "Lily Jamali"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T20:00:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Iran referred to UN Security Council for nuclear non-compliance",
+    "summary": "Tehran condemns the resolution, blaming US and Israeli strikes on its nuclear facilities for disrupting inspections.",
+    "byline_count": 2,
+    "author_names": [
+      "Ghoncheh Habibiazad ",
+      "Jaroslav Lukiv"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T20:22:51+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event",
+    "source": "The Verge",
+    "title": "iPhone 18 Pro and Pro Max: Our first hands-on impressions",
+    "summary": "We've just gotten our hands on the iPhone 18 Pro and Pro Max at Apple Park following the company's \"Surprise and shine\" presentation. The new phones look quite similar to the previous iPhone 17 Pro lineup, keeping the same general design, aluminum body, and screen sizes. The 18 Pro lineup comes in four colors - [&#8230;]",
+    "byline_count": 2,
+    "author_names": [
+      "Allison Johnson",
+      "Jay Peters"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T19:26:36+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/apple-announcement-recap-foldable-iphone-duo-watch-airpods-siri-ai-2026-9",
+    "source": "Business Insider",
+    "title": "The 8 biggest Apple announcements from its launch event",
+    "summary": "Apple's new CEO, John Ternus, unveiled the next generation of iPhones, Apple Watches, and AirPods during Wednesday's Surprise and Shine event.",
+    "byline_count": 2,
+    "author_names": [
+      "Truman Dickerson",
+      "Ben Shimkus"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:38:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/policy/defense/6080200-trump-threatens-more-iranian-attacks/",
+    "source": "The Hill",
+    "title": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
+    "summary": "Iran appears ready to fight back against growing U.S. leverage in the Strait of Hormuz, and the threat of renewed war is causing oil prices to rise even as more ships are making it through the vital waterway with the help of the U.S. Navy. The Trump administration has worked to open passageways through the&#8230;",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:25:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/newsletters/healthcare/6080173-trumps-health-nominees-set-to-move-forward-with-senate-return/",
+    "source": "The Hill",
+    "title": "Trump\u2019s health nominees set to move forward with Senate return",
+    "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story&#160; Trump\u2019s health nominees set to move forward with Senate return Several of President Trump\u2019s health nominees will get a confirmation hearing next week in the Senate Health, Education, Labor and Pensions Committee, including surgeon general nominee Nicole Saphier. &#160; John&#8230;",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:29:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.semafor.com/article/09/09/2026/we-all-agree-that-big-government-is-bad-but-white-house-shrugs-off-republican-clashes-over-childcare",
+    "source": "Semafor",
+    "title": "\u2019We all agree that big government is bad, but\u2026\u2019: White House shrugs off Republican clashes over childcare",
+    "summary": "The still-unreleased plan has opened a divide over the party's philosophy and raised questions about its effectiveness.",
+    "byline_count": 2,
+    "author_names": [
+      "Shelby Talcott",
+      "Eleanor Mueller"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-09T22:08:33.539036+00:00",
+    "published_parsed": "2026-09-09T21:23:07+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/09/tiktok-dad-says-wife-mimicking-breathing-lead-to-altercation/",
@@ -2700,7 +3215,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T17:30:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/09/lady-gaga-michael-polansky-are-not-married/",
@@ -2717,7 +3232,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T17:30:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/09/09/celebrity-news/kj-biermann-15-too-immature-to-face-adult-charges-and-25-year-prison-sentence-without-parole-for-sodomy-sexual-battery-charges/",
@@ -2733,7 +3248,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:33:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/sports/story/2026-09-09/byron-scott-files-bankruptcy-sexual-assault-trial",
@@ -2750,7 +3265,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T17:01:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/wirtschaft/raiffeisenbank-plankstetten-finanzaufsicht-vorstaende-amtsenthebung-li.3544698",
@@ -2766,7 +3281,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T11:59:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/wirtschaft/revolut-fintech-lizenz-frankreich-li.3544222",
@@ -2782,7 +3297,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T14:16:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/wirtschaft/porsche-se-millionenverguetung-ex-vorstand-lutz-meschke-li.3544752",
@@ -2798,7 +3313,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T12:46:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/d41586-026-02472-x",
@@ -2811,7 +3326,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/9/live-liverpool-vs-atletico-madrid-champions-league?traffic_source=rss",
@@ -2827,7 +3342,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T16:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://therecord.media/grindr-settles-privacy-lawsuit-hiv-status-35-million",
@@ -2844,7 +3359,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:11:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/d41586-026-02840-7",
@@ -2857,7 +3372,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/tsa-precheck-travelers-full-water-bottles-airport-security/",
@@ -2873,7 +3388,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T16:15:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/netanyahu-october-7-uae-warning-malicious-libel-2023-attack-election-furor/",
@@ -2890,7 +3405,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T15:50:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/donald-trump-jr-venture-capital-firm-denies-raskin-accusations/",
@@ -2907,7 +3422,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:28:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/john-malkovich-cancels-tel-aviv-show-promoter-fabricates-statement-isr-rcna596824",
@@ -2924,7 +3439,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:37:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/wife-man-killed-amazon-branded-plane-overran-runway-files-wrongful-dea-rcna596783",
@@ -2941,7 +3456,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T16:47:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/tech/apple/apple-foldable-phone-new-fold-18-launch-ceo-john-ternus-rcna596652",
@@ -2957,7 +3472,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T17:18:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/tate-brothers-denied-bail-miami-judge-fight-extradition-uk-sex-crime-c-rcna594680",
@@ -2973,7 +3488,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T17:32:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/dangerous-heat-humidity-hits-west-latest-forecast/story?id=136300140",
@@ -2989,7 +3504,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T15:49:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c4gk6lre2g7o?at_medium=RSS&at_campaign=rss",
@@ -3005,7 +3520,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T16:24:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
@@ -3021,7 +3536,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T16:46:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.washingtonpost.com/politics/2026/09/09/newsoms-defamation-lawsuit-against-fox-news-is-set-march-2028-trial/",
@@ -3036,7 +3551,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions",
@@ -3052,7 +3567,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:38:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
@@ -3068,7 +3583,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:53:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/resy-suspends-vcs-account-ai-agent-reservation-attempt-2026-9",
@@ -3085,7 +3600,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T16:44:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/youtube-golfer-rick-shiels-owed-liv-golf-saudi-arabia-2026-9",
@@ -3102,7 +3617,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T17:35:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/apple-iphone-duo-foldable-2026-9",
@@ -3119,7 +3634,7 @@
     ],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:31:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/business/2026/sep/09/baggage-reclaim-was-pandemonium-passengers-hit-by-airport-it-chaos-recount-their-ordeals",
@@ -3135,7 +3650,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:31:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/09/09/trump-germany-afd-antisemitism",
@@ -3148,7 +3663,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T18:58:12.022481+00:00",
     "published_parsed": "2026-09-09T18:03:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/tv/news/martin-herlihy-leaves-snl-1236855736/",
@@ -6605,151 +7120,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-07T02:01:02.190103+00:00",
     "published_parsed": "2026-09-06T22:09:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/politik/landtagswahl-sachsen-anhalt-cdu-afd-merz-li.3541792",
-    "source": "Sueddeutsche Zeitung",
-    "title": "CDU: Nach der Niederlage: Der Kanzlerpartei droht jede Menge \u00c4rger",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/06/36045d0f-bf21-47f5-a2fc-f682ba86d88d.jpg?rect=222%2C0%2C3556%2C2667&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die dramatischen Verluste der CDU in Sachsen-Anhalt machen klar, dass Friedrich Merz und seiner Partei schwere Zeiten bevorstehen. Hinzu kommt: Die Lage ist auch anderswo vertrackt.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Henrike Ro\u00dfbach",
-      "Robert Ro\u00dfmann"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T16:13:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/politik/sachsen-anhalt-wahl-landtag-afd-cdu-li.3529834",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Datenanalyse zur Landtagswahl: Die AfD liegt in fast allen W\u00e4hlergruppen vorn",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/03/18/02f04025-17f5-497e-a800-769e3d45ffb7.jpg?rect=250%2C0%2C1500%2C1125&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die AfD gewinnt die Sachsen-Anhalt-Wahl deutlich vor der CDU. Mit einem gro\u00dfen Vorsprung war zu rechnen, aber welche W\u00e4hler sind daf\u00fcr verantwortlich? Wie w\u00e4hlten Frauen und M\u00e4nner, Junge und Alte? Eine erste Datenanalyse.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Anna Bolten",
-      "Oliver Schnuck"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T18:07:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-07/spring-showers-possible-for-parts-of-queensland/107119836",
-    "source": "ABC Australia",
-    "title": "Spring showers forecast for Queensland as dozens of fires burn",
-    "summary": "Showers are expected across the east coast on Tuesday as fire crews continue to monitor and contain a number of blazes in parts of the state.",
-    "byline_count": 2,
-    "author_names": [
-      "Dan McCray",
-      "Jacob Gamble"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T19:44:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-07/outback-amateur-astronomer-part-of-saturn-decagon-wave-discovery/107112590",
-    "source": "ABC Australia",
-    "title": "Backyard astronomer contributes to world-first Saturn discovery",
-    "summary": "An amateur astronomer helps discover a mysterious decagon on Saturn's south pole, which he tracked from his homemade backyard observatory.",
-    "byline_count": 2,
-    "author_names": [
-      "Soofia Tariq",
-      "Patrick Reincke"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T21:37:20+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/world/europe/article/3366565/eu-commission-chief-von-der-leyen-visits-greenland-sign-new-partnership-deal?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "EU Commission chief Von der Leyen visits Greenland to sign new partnership deal",
-    "summary": "The EU plans to deepen its cooperation with Greenland despite US President Donald Trump\u2019s claims of control over the Arctic island, as European Commission President Ursula von der Leyen arrived on Sunday for a two-day visit.\nVon der Leyen travelled to the resource-rich island, where a new EU-Greenland declaration is to be signed on Monday. Investment pledges running into the hundreds of millions are also expected.\nOn her arrival, von der Leyen said the visit was about further cementing a unique...",
-    "byline_count": 1,
-    "author_names": [
-      "dpa"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T18:44:34+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/miami-airport-plane-disabled-9-6-2026/",
-    "source": "CBS News",
-    "title": "At least 5 dead, multiple people injured after Amazon cargo plane overruns runway near Miami International Airport, officials say",
-    "summary": "Details about what caused the plane to become disabled were not immediately known.",
-    "byline_count": 2,
-    "author_names": [
-      "Matthew  Ablon",
-      "S.E.  Jenkins"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T21:47:08+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/amazon-prime-cargo-plane-crash-miami-airport-2026-9",
-    "source": "Business Insider",
-    "title": "An Amazon Prime Air cargo plane crashed after it overshot a runway at Miami International Airport",
-    "summary": "Videos from the scene showed thick black smoke after an Amazon Prime Air plane overshot a runway and crashed into multiple vehicles on Sunday.",
-    "byline_count": 2,
-    "author_names": [
-      "Truman Dickerson",
-      "Lauren Edmonds"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T20:15:33+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/Business/wireStory/german-party-set-regional-election-triumph-uncertain-governing-136241694",
-    "source": "ABC News",
-    "title": "German far-right party set for regional election win but uncertain of governing",
-    "summary": "It could form the country&rsquo;s first far-right state government since World War II.",
-    "byline_count": 2,
-    "author_names": [
-      "GEIR MOULSON Associated Press",
-      "KERSTIN SOPKE Associated Press"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T20:42:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/US/cargo-plane-overruns-runway-miami-international-airport-faa/story?id=136242081",
-    "source": "ABC News",
-    "title": "Amazon cargo plane overruns runway at Miami International Airport",
-    "summary": "An Amazon Air cargo plane overran the runway at Miami International Airport, Amazon confirmed.",
-    "byline_count": 2,
-    "author_names": [
-      "Ayesha Ali",
-      "Christopher Watson"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-06T21:52:37.547853+00:00",
-    "published_parsed": "2026-09-06T20:08:01+00:00",
     "is_new": false
   }
 ]
