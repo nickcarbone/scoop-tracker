@@ -14,6 +14,24 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T22:17:00+00:00",
+    "is_new": false
+  },
+  {
+    "link": "https://www.latimes.com/entertainment-arts/story/2026-09-09/police-investigating-prowler-at-quentin-tarantinos-hollywood-home",
+    "source": "Los Angeles Times",
+    "title": "Police are looking for a man in black who prowled Quentin Tarantino's Hollywood Hills home",
+    "summary": "<p>Police are looking for a prowler who trespassed at filmmaker Quentin Tarantino's Hollywood Hills home on Wednesday.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Emily St. Martin",
+      "Richard Winton"
+    ],
+    "total_score": 9,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T03:01:13+00:00",
     "is_new": true
   },
   {
@@ -73,7 +91,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T23:14:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/justice-department/trump-administration-fires-prosecutor-dropped-case-politically-linked-rcna596848",
@@ -200,6 +218,24 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/politics/national-security/trump-military-personnel-air-force-one-inflatable-emergency-slide-rcna596932",
+    "source": "NBC News",
+    "title": "Emergency slide accidentally deploys on Qatari-gifted Air Force One, delaying Trump",
+    "summary": "The incident occurred on the Qatari-donated jet as President Donald Trump was about to fly to Dallas for the GOP midterm convention.",
+    "byline_count": 2,
+    "author_names": [
+      "Monica Alba",
+      "Kyla Guilfoil"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T03:14:10+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.nbcnews.com/news/us-news/man-pulled-gun-ex-wife-ohio-restaurant-convicted-attempted-murder-rcna596907",
     "source": "NBC News",
     "title": "Former lawyer who pulled gun on ex-wife in Ohio restaurant is convicted of attempted murder",
@@ -215,7 +251,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T23:37:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/09/09/trump-obamacare-rebates-election",
@@ -231,7 +267,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T23:30:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/09/tyler-herro-was-not-living-with-baby-mama-before-court-battle/",
@@ -1155,6 +1191,24 @@
     "is_new": false
   },
   {
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3366994/toddler-heart-and-brain-conditions-dies-after-being-found-unresponsive-bed?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Toddler with heart and brain conditions dies after being found unresponsive in bed",
+    "summary": "A 23-month-old girl born with heart and brain conditions has died after her parents found her unresponsive in their Hong Kong flat, the South China Morning Post has learned.\nPolice said they received a report from the infant\u2019s mother at 5.30am, saying her daughter had passed out at their public housing flat at 20 Olympic Avenue in Kai Tak.\nParamedics arrived shortly afterwards and found the girl unconscious, with no pulse.\nShe was taken to Kwong Wah Hospital in Yau Ma Tei, where she was...",
+    "byline_count": 1,
+    "author_names": [
+      "Theodora Yu"
+    ],
+    "total_score": 5,
+    "matched_categories": [
+      "exclusivity",
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T03:50:16+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.cbsnews.com/news/dolly-parton-sister-stella-parton-cancer-battle-private/",
     "source": "CBS News",
     "title": "Dolly Parton's sister shares why the country music star kept her cancer battle private",
@@ -1282,6 +1336,40 @@
     "is_new": false
   },
   {
+    "link": "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
+    "summary": "Chinese artificial intelligence start-up Moonshot AI, developer of the popular Kimi K3 model, may explore options for dual listings in Hong Kong and Shanghai in pursuit of greater capital and exposure, according to two people familiar with the matter.\nSince a meeting with its financial backers in July, when the Beijing-based company negotiated detailed arrangements for an initial public offering in Hong Kong, it has hinted at options to also list on a mainland bourse afterwards, one source...",
+    "byline_count": 1,
+    "author_names": [
+      "Coco Feng"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T07:50:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "England's mayors to be given power to introduce tourist tax",
+    "summary": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
+    "byline_count": 3,
+    "author_names": [
+      "Jack Fenwick",
+      "Ewan Somerville",
+      "Chris Graham"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T07:17:03+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/09/09/rapper-n-o-r-e-sued-for-sexual-assault/",
     "source": "TMZ",
     "title": "Rapper N.O.R.E. Sued for Sexual Assault by Carmen Bryan",
@@ -1297,7 +1385,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T23:59:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
@@ -1314,7 +1402,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/fought-terrorism-fbi-agent-now-fighting-cancer-health/story?id=136314659",
@@ -1331,7 +1419,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T01:44:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/09/louisville-woman-granted-restraining-order-against-man-after-beating-goes-viral/",
@@ -2244,6 +2332,23 @@
     "is_new": false
   },
   {
+    "link": "https://www.scmp.com/news/china/science/article/3367010/j-50-designers-reveal-leapfrog-tech-chinas-next-gen-stealth-fighters?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "J-50 designers reveal leapfrog tech for China\u2019s next-gen stealth fighters",
+    "summary": "China\u2019s next-generation combat aircraft will be able to fly by themselves if a pilot loses consciousness, navigate without satellite signals and operate in self-reorganising large drone formations.\nThat is the plan laid out by researchers from the Shenyang Aircraft Design & Research Institute, a top Chinese military aircraft design organisation, in a paper last month.\nThe institute is associated with the development of the Chinese next-generation aircraft commonly referred to as the J-50, which...",
+    "byline_count": 1,
+    "author_names": [
+      "Chao Kong"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T06:58:13+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://deadline.com/2026/09/fox-corp-roku-merger-doj-review-1237072899/",
     "source": "Deadline",
     "title": "Fox Corp. COO John Nallen Says Roku Deal On Track To Close Despite \u201cEntirely Expected\u201d DOJ Scrutiny",
@@ -2258,7 +2363,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T23:02:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/mike-epps-joins-my-fathers-son-netflix-1237072803/",
@@ -2807,6 +2912,199 @@
     "is_new": false
   },
   {
+    "link": "https://www.sueddeutsche.de/politik/berlin-spd-krach-ermittlung-li.3544994",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Abgeordnetenhauswahl: Ermittlungen gegen Berliner SPD-Spitzenkandidaten Krach",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/10/69587c1d-f93e-4ec5-997b-a0262d661e94.jpg?rect=222%2C0%2C3556%2C2667&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Objekte in Hannover und Berlin seien durchsucht worden, best\u00e4tigt die Staatsanwaltschaft Hannover. Es geht um den Vorwurf der Bestechlichkeit. Krach weist das scharf zur\u00fcck, und die SPD \u00e4u\u00dfert einen Verdacht.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Meredith Haaf",
+      "Georg Ismar"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-09T17:50:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-10/qld-credit-rating-downgrade/107139976",
+    "source": "ABC Australia",
+    "title": "Queensland on the brink of a credit rating downgrade",
+    "summary": "The ABC understands a downgrade is imminent, sparking a blame game between Canberra and the LNP state government.",
+    "byline_count": 2,
+    "author_names": [
+      "Alex Brewster",
+      "Lottie Twyford"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T07:49:16+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-10/openai-navier-stokes-millennium-problem-claims/107132242",
+    "source": "ABC Australia",
+    "title": "'Uproar' unleashed after OpenAI says it solved major maths mystery",
+    "summary": "The subject of the controversy may be extremely complex, but experts say it boils down to simple issues of trust and ethics.",
+    "byline_count": 2,
+    "author_names": [
+      "Dannielle Maguire",
+      "Jacinta Bowler"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T05:31:25+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/california/story/2026-09-09/killing-of-catalina-islands-mule-deer-has-begun-official-confirms",
+    "source": "Los Angeles Times",
+    "title": "Killing of Catalina Island's mule deer has begun, official confirms",
+    "summary": "<p>The controversial shooting and culling of roughly 200 members of Catalina Island's invasive mule deer species \"is underway,\" local officials confirmed to The Times on Wednesday afternoon.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Andrew J. Campa",
+      "Alex Wigglesworth"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T03:23:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-10/medicare-rebate-review-longer-gp-consultations/107124446",
+    "source": "ABC Australia",
+    "title": "Long-awaited Medicare review says rebates should be increased",
+    "summary": "Inadequate Medicare rebates for longer GP appointments have been penalising patients who need more time and should be boosted, according to a major new government report.",
+    "byline_count": 2,
+    "author_names": [
+      "Stephanie Dalzell",
+      "Paige Cockburn"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T05:50:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/2026-election/trump-says-war-iran-will-end-after-election-day-rcna596950",
+    "source": "NBC News",
+    "title": "Trump says the war in Iran will end after Election Day",
+    "summary": "During his speech at the Republicans\u2019 midterm convention, President Donald Trump reinforced his commitment to ensuring Iran doesn\u2019t possess a nuclear weapon.",
+    "byline_count": 2,
+    "author_names": [
+      "Henry J. Gomez",
+      "Matt Dixon"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T03:02:24+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/?utm_campaign=rss",
+    "source": "STAT",
+    "title": "Opinion: John Fetterman\u2019s post-stroke, politically problematic behaviors offer lessons about brain health on Capitol Hill",
+    "summary": "\u201cNothing in the recent reporting about John Fetterman is medically surprising,\u201d write Michael P.H. Stanley and Isaiah Kletenik.",
+    "byline_count": 2,
+    "author_names": [
+      "Michael P.H. Stanley",
+      "Isaiah Kletenik"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T08:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
+    "summary": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+    "byline_count": 2,
+    "author_names": [
+      " Benedict Garman ",
+      "Matt Murphy"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T04:43:54+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "RNLI reviews security after volunteers targeted online",
+    "summary": "Volunteers were targeted online after it assisted in the rescue of people crossing the Channel on Sunday.",
+    "byline_count": 2,
+    "author_names": [
+      "Simon Jones",
+      "Michael Sheils McNamee"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T08:08:56+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
+    "summary": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
+    "byline_count": 2,
+    "author_names": [
+      "Chloe Hayward",
+      "Hugh Pym"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T04:52:21+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/10/daphne-caruana-galizia-murder-malta-eu",
+    "source": "The Guardian US",
+    "title": "Nine years after Daphne Caruana Galizia\u2019s murder, Europe must finally address Malta\u2019s culture of impunity | Pieter Omtzigt and Emanuel Delia",
+    "summary": "<p>Much of the corruption exposed by this brave woman remains unpunished. Brussels must carry on her work and demand reform</p><p>Nine years ago, Daphne Caruana Galizia, Malta\u2019s foremost investigative journalist, was <a href=\"https://www.theguardian.com/world/2026/sep/03/sabotage-leaks-and-political-ties-the-story-of-the-daphne-caruana-galizia-trial\">assassinated by a car bomb</a> outside her home. The men who carried out the killing have been convicted or admitted their involvement. Nobody has been convicted of commissioning her murder.</p><p>Last week, a jury acquitted Yorgen Fenech, one of Malta\u2019s most prominent businessmen, of complicity in the assassination and criminal association.</p> <a href=\"https://www.theguardian.com/commentisfree/2026/sep/10/daphne-caruana-galizia-murder-malta-eu\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Emanuel Delia",
+      "Pieter Omtzigt"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T08:00:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+    "source": "The Guardian US",
+    "title": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
+    "summary": "<p>Dow Jones convicted of one count of deterring Selina Cheng from role at Hong Kong Journalist Association but cleared of second charge</p><p>A Hong Kong court has convicted the publisher of the Wall Street Journal of deterring a reporter from taking up a trade union role, in a case that raised concerns about press freedom in the city.</p><p>The newspaper <a href=\"https://www.theguardian.com/media/article/2024/jul/17/wall-street-journal-fires-new-chair-of-hong-kong-journalists-association\">dismissed Selina Cheng</a> just weeks after she was appointed chair of the Hong Kong Journalist Association (HKJA) in 2024. She was told at the time her termination was officially due to restructuring.</p> <a href=\"https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Danny Vincent"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-10T08:32:35.444362+00:00",
+    "published_parsed": "2026-09-10T05:57:31+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://pagesix.com/2026/09/09/celebrity-news/amanda-kloots-and-tennis-player-justin-gimelstob-break-up/",
     "source": "Page Six",
     "title": "Amanda Kloots and former tennis player Justin Gimelstob break up after a year of dating",
@@ -2820,7 +3118,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T22:36:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/09/lulu-lovebottom-died-by-apparent-suicide/",
@@ -2837,7 +3135,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T22:54:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-10/concerns-about-ghost-store-port-fairy-glass-blower-ai/107128302",
@@ -2853,7 +3151,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T22:26:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/09/lori-loughlin-initiated-divorce-from-mossimo-giannulli/",
@@ -2870,7 +3168,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T00:15:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-10/former-vicroads-workers-privatisation-pothole-problems/107128578",
@@ -2886,7 +3184,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T23:28:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-10/kalgoorlie-tourism-accommodation-challenges-gold-boom/107126004",
@@ -2902,7 +3200,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T00:31:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-09/cesar-chavez-sexual-assault-lawsuit",
@@ -2919,7 +3217,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T22:02:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-10/dead-whale-to-be-tested-for-bird-flu-victor-harbor/107136636",
@@ -2935,7 +3233,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T01:38:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-10/federal-politics-lambie-blasts-hanson-over-hastie-cartoon/107137036",
@@ -2951,7 +3249,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T01:33:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-09/bel-air-brush-fire-off-405-threatens-homes-getty-center",
@@ -2967,7 +3265,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T00:08:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-10/high-end-homes-leading-housing-market-downturn/107132116",
@@ -2983,7 +3281,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T02:00:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-09/l-a-s-homeless-authority-is-put-on-notice-it-will-have-to-compete-to-save-itself",
@@ -2999,7 +3297,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T00:22:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-10/widow-sues-amazon-over-miami-cargo-plane-crash/107136804",
@@ -3014,7 +3312,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T02:05:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/people-culture/trending-china/article/3366981/china-wife-exposes-husbands-us15-million-insurance-buying-affair-involving-180-hotel-stays?utm_source=rss_feed",
@@ -3031,7 +3329,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T01:25:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/hong-kong/politics/article/3366967/softer-focus-national-security-hong-kongs-5-year-plan-why-it-wont-happen?utm_source=rss_feed",
@@ -3048,7 +3346,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T00:30:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/appeals-court-has-99-problems-with-jay-zs-extortion-lawsuit-against-attorney/",
@@ -3063,7 +3361,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T23:35:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/weather/hurricanes/hurricane-lowell-flooding-destruction-hawaii-kauai-rcna596804",
@@ -3079,7 +3377,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T22:43:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/2026-election/sen-john-fetterman-surprise-cameo-praising-republicans-gop-convention-rcna596913",
@@ -3095,7 +3393,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T23:19:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/rhode-island-governor-race-results-helena-foulkes-dan-mckee/",
@@ -3111,7 +3409,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T00:35:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c8e3deyrjkno?at_medium=RSS&at_campaign=rss",
@@ -3128,7 +3426,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T00:46:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/anthropic-job-posting-450000-for-a-sales-job-meta-2026-9",
@@ -3145,7 +3443,7 @@
     ],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T23:22:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
@@ -3161,7 +3459,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-09T23:14:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/campaign/6079278-rhode-island-primary-mckee-smiley-takeaways/",
@@ -3174,7 +3472,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T02:14:28.329154+00:00",
     "published_parsed": "2026-09-10T01:10:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/federal-tax-incentives-hollywood-trump-1237072430/",
