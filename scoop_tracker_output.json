@@ -111,6 +111,25 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/news/us-news/15-year-old-boy-survives-days-sea-boat-capsizes-alaska-killing-2-other-rcna596782",
+    "source": "NBC News",
+    "title": "15-year-old boy survives days at sea after boat capsizes off Alaska, killing 2 others",
+    "summary": "A 15-year-old boy survived days at sea after a fishing boat capsized off Alaska, killing his older brother and cousin.",
+    "byline_count": 2,
+    "author_names": [
+      "Minyvonne Burke",
+      "Steven Romo"
+    ],
+    "total_score": 8,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:09:31+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview",
     "source": "Axios",
     "title": "Scoop: Anthropic whistleblower gave up his equity to leave the company",
@@ -234,6 +253,25 @@
     "is_new": false
   },
   {
+    "link": "https://www.businessinsider.com/meta-asks-some-ai-employees-to-become-managers-again-2026-9",
+    "source": "Business Insider",
+    "title": "Meta is asking some of its employees to become managers again in a new reorg",
+    "summary": "Meta is asking some Applied AI staff to move from individual contributor roles back into management after the company flattened teams.",
+    "byline_count": 3,
+    "author_names": [
+      "Hugh Langley",
+      "Charles Rollet",
+      "Pranav Dixit"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:39:51+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.nature.com/articles/s41586-026-11079-1",
     "source": "Nature News",
     "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
@@ -244,7 +282,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/jd-vance/vance-battleground-state-republicans-nationalize-midterms-rcna597070",
@@ -262,7 +300,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:06:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/news/video/2026/sep/10/is-trumps-5000-midterm-pledge-a-new-low-the-latest",
@@ -281,7 +319,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:56:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3367047/china-ready-help-trump-meet-north-koreas-kim?utm_source=rss_feed",
@@ -1295,6 +1333,57 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/09/10/brian-hickerson-talking-to-dea-amid-hayden-panettiere-death-investigation/",
+    "source": "TMZ",
+    "title": "Hayden Panettiere BF Brian Hickerson Talking to DEA",
+    "summary": "Big update in the Hayden Panettiere death investigation ... her boyfriend is talking to the DEA as it looks into the actress' suspected overdose, and TMZ has learned investigators are making progress.&nbsp; Sources with direct knowledge of the&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 5,
+    "matched_categories": [
+      "exclusivity",
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/americas/article/3367109/maduro-trial-ex-venezuela-first-lady-seeks-release-us-jail-citing-heart-problems?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Maduro trial: ex-Venezuela first lady seeks release from US jail, citing heart problems",
+    "summary": "Venezuela\u2019s former first lady wants to be let out of jail while she and her husband await trial on US drug-trafficking charges.\nCilia Flores, the wife of ex-Venezuelan President Nicolas Maduro, \u201cdeserves the opportunity to await her trial while on home confinement\u201d while dealing with a heart condition that has only got worse since she\u2019s been in jail, her lawyers wrote in court papers filed on Wednesday.\nThe lawyers, Mark Donnelly and Andres Sanchez, asked a judge to allow her to leave a Brooklyn...",
+    "byline_count": 1,
+    "author_names": [
+      "Reuters"
+    ],
+    "total_score": 5,
+    "matched_categories": [
+      "primary_source",
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T22:03:51+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/regulation/court-battles/6083046-spacex-lawsuit-ken-paxton-grimes-county/",
+    "source": "The Hill",
+    "title": "SpaceX sues Paxton, Texas county over public records",
+    "summary": "SpaceX filed a lawsuit Tuesday against Texas Attorney General Ken Paxton (R) and Grimes County to block the release of the company\u2019s public records, according to court records.&#160; The lawsuit requested a temporary restraining order be issued to prevent Grimes County from releasing records to two of the county&#8217;s residents, Marie Egyed and Vanessa Burzynski,&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 5,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:48:04+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.cbsnews.com/news/stella-parton-sister-dolly-parton-prepared-at-peace-when-she-died/",
     "source": "CBS News",
     "title": "Stella Parton says her sister Dolly was prepared and at peace when she died",
@@ -1441,6 +1530,163 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/09/10/ohio-lawyer-impersonated-cop-to-buy-gun-before-attempted-murder/",
+    "source": "TMZ",
+    "title": "Ohio Lawyer Who Tried to Shoot Ex-Wife in Restaurant Allegedly Faked Being Cop to Buy Gun",
+    "summary": "The Ohio lawyer convicted of attempted murder after he was caught on camera trying to shoot his ex-wife in a restaurant allegedly lied and said he was a police officer in order to secure a firearm ... TMZ has learned. We obtained court docs filed&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T19:30:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/10/b2k-tour-will-continue-after-raz-b-son-dies/",
+    "source": "TMZ",
+    "title": "B2K's Tour Moving Forward After Raz B's Infant Son's Death",
+    "summary": "B2K's tour is still scheduled to move forward in December ... despite the fact Raz B and his wife, Mona Li, just lost their 3-month-old son, Astro Monte Thornton. Music industry sources familiar with the plans tell TMZ ... B2K will proceed with its&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T19:45:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/california/story/2026-09-10/boyle-heights-warehouse-lineage-fire-lawsuit",
+    "source": "Los Angeles Times",
+    "title": "Boyle Heights warehouse fire result of 'shoddy work' by solar panel company, lawsuit claims",
+    "summary": "<p>Lineage filed suit against Altus Power on Thursday, accusing the solar panel company of being to blame for the massive Boyle Heights warehouse fire that burned for a week in June.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Salvador Hernandez",
+      "Roger Vincent"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:32:52+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/business/investment-summit-prospectus-pitches-9.7339224?cmp=rss",
+    "source": "CBC News",
+    "title": "From pipelines, to railways and AI: Ottawa pitches 167 projects ahead of Carney's investment summit",
+    "summary": "<img alt=\"a man with grey hair and a suit speaks at a podium\" height=\"349\" src=\"https://i.cbc.ca/ais/5a301435-97fd-4cf2-b475-aff90c767c74,1789068844539/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C4072%2C2290%29%3B\" title=\"Mark Carney takes part in a press conference at the Davie shipyard in L\u00e9vis, QC. August 24, 2026.\" width=\"620\" /><p>CBC News has obtained the federal government's \"prospectus\" detailing investment opportunities ahead of next week's Canada Investment Summit in Toronto, which includes various plans across eight areas of investment.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Abby Hughes",
+      "Jeff Lagerquist"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:20:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/ai-model-framework-white-house/",
+    "source": "CBS News",
+    "title": "White House framework for testing new AI models remains hidden as concerns mount",
+    "summary": "The White House has not publicly released the voluntary framework for testing frontier AI models that it finalized in August.",
+    "byline_count": 2,
+    "author_names": [
+      "Kathryn  Watson",
+      "Olivia  Rinaldi"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T19:07:57+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/joe-digenova-resigns-doj-grand-conspiracy-investigation-trump-obama-biden/",
+    "source": "CBS News",
+    "title": "Joe DiGenova resigns from DOJ after overseeing \"grand conspiracy\" probe",
+    "summary": "Joe DiGenova, the prosecutor who was tapped by Attorney General Todd Blanche to supervise the \"grand conspiracy\" investigation targeting Obama and Biden-era officials, told CBS News he has resigned.",
+    "byline_count": 2,
+    "author_names": [
+      "Sarah N. Lynch",
+      "Jacob  Rosen"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:55:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/GMA/News/lindsay-clancys-attorney-asks-judge-force-guilty-finding/story?id=136345786",
+    "source": "ABC News",
+    "title": "Lindsay Clancy's attorney asks judge to throw out her case",
+    "summary": "Clancy's trial ended in a mistrial after jurors failed to reach a unanimous verdict following seven days of deliberation.",
+    "byline_count": 3,
+    "author_names": [
+      "Peter Charalambous",
+      "Katie Kindelan",
+      "Vera Drymon"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:23:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+    "source": "Wired",
+    "title": "Is AI Actually Going to Kill Us All?",
+    "summary": "This week on \u201cUncanny Valley,\u201d we dig into a former Anthropic researcher\u2019s AI doomsday warning, the latest upgrades from Apple\u2019s event, and the census report that claimed Trump won the 2020 election.",
+    "byline_count": 3,
+    "author_names": [
+      "Brian Barrett",
+      "Leah Feiger",
+      "Will Knight"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:30:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/uber-price-cuts-ceo-dara-layoffs-savings-2026-9",
+    "source": "Business Insider",
+    "title": "Uber's CEO says you could see lower ride prices as a result of its layoffs",
+    "summary": "Uber CEO Dara Khosrowshahi plans lower ride prices as savings from layoffs and reduced insurance costs are reinvested back into the business.",
+    "byline_count": 1,
+    "author_names": [
+      "Alex Bitter"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "institutional_record"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:59:53+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://pagesix.com/2026/09/10/celebrity-news/gwyneth-paltrows-daughter-apple-martins-boyfriend-revealed-as-college-athlete-turned-international-philanthropist/",
     "source": "Page Six",
     "title": "Gwyneth Paltrow\u2019s daughter Apple Martin\u2019s boyfriend revealed as college athlete-turned-international philanthropist",
@@ -1455,7 +1701,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:44:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-11/what-to-watch-on-tv-in-september/107136492",
@@ -1472,7 +1718,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss",
@@ -1489,7 +1735,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:29:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/spacex-terafab-tax-break-records-ai-transparency-texas-2026-9",
@@ -1507,7 +1753,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:35:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/10/trey-parker-matt-stone-kendrick-lamar-movie-on-hold/",
@@ -2489,6 +2735,41 @@
     "is_new": false
   },
   {
+    "link": "https://www.scmp.com/news/china/diplomacy/article/3367094/tech-ev-and-aerospace-executives-likely-join-xis-us-trip-mirror-trump-team?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Tech, EV and aerospace executives likely to join Xi\u2019s US trip to mirror Trump team",
+    "summary": "Beijing is weighing plans to send a group of top tech, electric vehicle and aerospace executives to accompany Chinese President Xi Jinping to Washington later this month, as the two sides race to finalise details for the closely watched visit.\nThe South China Morning Post first reported on August 28 that Chinese and US officials were negotiating whether business leaders would join Xi\u2019s delegation to the US. However, details about who might be included have not been previously reported.\nAccording...",
+    "byline_count": 1,
+    "author_names": [
+      "Dewey Sim"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T22:00:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/president-donald-trump-dallas-texas-republican-midterm-convention-interview/",
+    "source": "CBS News",
+    "title": "Trump shares more details on $5,000 dividends in exclusive interview",
+    "summary": "CBS News Texas political reporter Jack Fink sat down with President Trump for an exclusive interview during the president's visit to North Texas.",
+    "byline_count": 2,
+    "author_names": [
+      "Briauna  Brown",
+      "Jack  Fink"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:28:00+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://deadline.com/2026/09/golf-trip-pitch-mortal-media-sells-sony-max-searle-1237073640/",
     "source": "Deadline",
     "title": "Sony Buys R-Rated Buddy Comedy Pitch \u2018Golf Trip\u2019 From Mortal Media; Max Searle Scripting",
@@ -2504,7 +2785,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:18:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/things-we-never-got-over-show-cast-lead-trio-prime-video-1237073406/",
@@ -3121,6 +3402,422 @@
     "is_new": false
   },
   {
+    "link": "https://pagesix.com/2026/09/10/celebrity-news/stressed-kim-zolciak-and-somber-kroy-biermann-spotted-ahead-of-kjs-hearing-in-sexual-battery-case/",
+    "source": "Page Six",
+    "title": "\u2018Stressed\u2019 Kim Zolciak and \u2018somber\u2019 Kroy Biermann spotted ahead of son KJ\u2019s bond hearing in sexual battery case",
+    "summary": "The estranged couple appeared visibly shaken ahead of their son\u2019s crucial bond hearing, as his legal battle takes a serious turn.",
+    "byline_count": 2,
+    "author_names": [
+      "Alex Diaz",
+      "Nate Grant"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:10:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/10/cassie-rare-public-appearance-at-london-premiere/",
+    "source": "TMZ",
+    "title": "Cassie and Husband Alex Fine Make Rare Public Appearance After Leaving USA",
+    "summary": "Cassie's mostly kept to herself since testifying against Diddy during his sex trafficking trial ... but she did make a rare public appearance recently -- showing up to a classy London premiere. The singer-songwriter attended the \"Mobland\" showing&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:31:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-11/afl-fremantle-vs-geelong-analysis-key-stats-preview/107137866",
+    "source": "ABC Australia",
+    "title": "Recent finals history is against Freo, but these numbers could save them",
+    "summary": "After topping the AFL ladder for the majority of this season, Fremantle finds itself on the canvas and must overturn recent history to keep its premiership dream alive.",
+    "byline_count": 2,
+    "author_names": [
+      "Cody Atkinson",
+      "Sean Lawson"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T19:00:51+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-11/warragul-mosque-incident-condemned-by-muslim-leaders/107138222",
+    "source": "ABC Australia",
+    "title": "Bacon thrown at Victorian mosque in act condemned by Muslim leaders",
+    "summary": "Police confirm they are investigating an incident at the Warragul Mosque earlier this week.",
+    "byline_count": 2,
+    "author_names": [
+      "James Oaten",
+      "Michael Workman"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T19:08:59+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/10/rex-heuermann-caught-with-drugs-in-prison/",
+    "source": "TMZ",
+    "title": "Gilgo Beach Serial Killer Rex Heuermann Busted With Drugs in Prison, Report",
+    "summary": "The Gilgo Beach serial killer, Rex Heuermann, doesn't sound like a model inmate ... because he was reportedly caught with drugs and disciplined for smuggling a package into prison. The convicted murderer allegedly tried to smuggle a package into&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:08:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-11/koala-park-carbon-credits-vote-divides-greens/107140178",
+    "source": "ABC Australia",
+    "title": "Greens co-founder weighs in on party split over koala park carbon credits",
+    "summary": "Australian Greens founding figure Bob Brown has backed the three senators who took the rare step of crossing the floor to vote against the party on plans to develop the Great Koala Park in NSW.",
+    "byline_count": 2,
+    "author_names": [
+      "Evelyn Manfield",
+      "Lexie Jeuniewic"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T19:56:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-11/high-frequency-pingers-to-deter-humpback-whales/107136796",
+    "source": "ABC Australia",
+    "title": "High-frequency 'pingers' trial to keep whales out of shark nets",
+    "summary": "Authorities hope that changing the frequency of acoustic alarms will be more effective at scaring off migratory mammals.",
+    "byline_count": 2,
+    "author_names": [
+      "Jessica Ross",
+      "Nykayla Dux"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:03:28+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/world-nation/story/2026-09-10/trump-midterms-5000-pledge",
+    "source": "Los Angeles Times",
+    "title": "Questions swirl over Trump's pledge to give $5,000 payouts if GOP wins",
+    "summary": "<p>The promise would likely cost more than $1 trillion and require congressional approval, and would further exacerbate the country's nearly $1.8-trillion annual budget deficit and concerns about inflation.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Ana Ceballos",
+      "Michael Wilner"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T11:31:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-11/nsw-police-trespass-case-settlement-aboriginal-families/107137630",
+    "source": "ABC Australia",
+    "title": "Mothers settle trespass case over 'distressing' bail checks by NSW Police",
+    "summary": "Two mothers reach a confidential settlement with the police after alleging that visits to check on their sons amounted to trespass.",
+    "byline_count": 1,
+    "author_names": [
+      "Tahnee Jash"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:52:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/business/story/2026-09-10/newsom-signs-bills-that-aim-to-make-social-media-ai-chatbots-safer-for-young-people",
+    "source": "Los Angeles Times",
+    "title": "Newsom signs bills that aim to make social media, AI chatbots safer for young people",
+    "summary": "<p>Newsom signed a slew of new bills, including one that would bar certain online platforms from providing an 'addictive feature' to users under 16 years old.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Queenie Wong"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:16:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "Apple is walking a \u2018tightrope\u2019 when it comes to the prices of its new iPhones",
+    "summary": "The company raised prices on its phone but might still have to eat costs itself, analysts say.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:40:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/mexico-fraud-play-del-carmen-9.7338103?cmp=rss",
+    "source": "CBC News",
+    "title": "Man accused in Mexican condo scheme claims he was a victim, too",
+    "summary": "<img alt=\"A man in a red-shirt looks into the camera.\" height=\"349\" src=\"https://i.cbc.ca/ais/b1771e07-3b28-4a21-b0fa-1750152581b1,1789074967139/full/max/0/default.jpg?im=Crop%2Crect%3D%28626%2C364%2C3274%2C1841%29%3B\" title=\"UK national Harry Robinson, 66, says he is not a con-conspirator, but a victim in alleged Mexican fraud of Canadian couple.\" width=\"620\" /><p>A U.K. man facing accusations he took part in a scheme that wiped out a Canadian couple's retirement savings says he's provided proof to Mexican authorities probing the case that he never touched a dime of the vanished funds, and that he's also a victim of his co-accused.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Jorge Barrera",
+      "Tania Miranda Perez"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:22:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "Adobe\u2019s latest earnings leave Wall Street wanting more",
+    "summary": "\u201cIn this environment you can\u2019t just meet\u201d expectations, an analyst says",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:53:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/edmonton/edmonton-oilers-mama-stanley-9.7338651?cmp=rss",
+    "source": "CBC News",
+    "title": "Edmonton Oilers facing online backlash after signing Alex Formenton",
+    "summary": "<img alt=\"A woman dressed in glittery silver laughs in a crowd of cheering people. \" height=\"349\" src=\"https://i.cbc.ca/ais/1.7239274,1718803101000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C157%2C1500%2C843%29%3B\" title=\"Superfan Mary Loewen, also known as \u201cMama Stanley,\u201d celebrates with the crowd in the Edmonton Ice District after the Oilers won Game 5 against the Florida Panthers. \" width=\"620\" /><p>The Edmonton Oilers decision to sign a hockey player who was acquitted last year of sexual assault has sparked a wave of disappointment and calls to \"do better\" among hockey fans and non-fans alike.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "CBC News",
+      "The Canadian Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:32:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
+    "source": "STAT",
+    "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
+    "summary": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
+    "byline_count": 2,
+    "author_names": [
+      "Bob Herman",
+      "Tara Bannow"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T19:57:28+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/republican-midterm-convention-live-trump-headlines-day-2-of-dallas-rally?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Republican midterm convention live: Trump, Vance headline day two in Dallas",
+    "summary": "US Republicans return to the stage to close their midterm convention, still betting on Trump&#039;s political magnetism.",
+    "byline_count": 2,
+    "author_names": [
+      "Tamara Khandaker",
+      "Evan Semones"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:31:03+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/health/health-news/rabies-exposure-cdc-warns-summer-spike-rcna597084",
+    "source": "NBC News",
+    "title": "CDC warns of a summer spike in rabies exposures",
+    "summary": "A spike in exposures to rabies across the U.S. this summer has prompted the CDC to issue a health alert.",
+    "byline_count": 2,
+    "author_names": [
+      "Aria Bendix ",
+      "Doha Madani"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:14:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/politics-news/hillary-clinton-terrorism-warning-9-11-rcna597051",
+    "source": "NBC News",
+    "title": "Hillary Clinton warns the U.S. has let its guard down on terrorism 25 years after 9/11",
+    "summary": "Former Secretary of State Hillary Clinton warned Thursday that the Trump administration isn\u2019t doing enough to monitor and thwart terrorists who still pose a threat to the U.S., 25 years after the 9/11 attacks.",
+    "byline_count": 2,
+    "author_names": [
+      "Andrea Mitchell",
+      "Rebecca Shabad"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:20:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/US/students-president-george-bush-911-reflect-day-face/story?id=136308678",
+    "source": "ABC News",
+    "title": "Students with President Bush on 9/11 look back on day: 'You could see it on his face'",
+    "summary": "Students of Emma E. Booker Elementary School in 2001 remember watching President George W. Bush react to 9/11.",
+    "byline_count": 2,
+    "author_names": [
+      "Mason Leib",
+      "Nidhi Singh"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T19:30:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/us-open-tennis-tournament-fashion-status-symbols-2026-9",
+    "source": "Business Insider",
+    "title": "We went status-symbol spotting at the US Open. Here's what we found.",
+    "summary": "From Rolex watches to designer bags, check out the biggest fashion status symbols we saw at the 2026 US Open.",
+    "byline_count": 2,
+    "author_names": [
+      "Amanda Krause",
+      "Samantha Grindell Pettyjohn"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T18:50:31+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "More than 20 children killed in DR Congo school fire",
+    "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+    "byline_count": 2,
+    "author_names": [
+      "Emery Makumeno",
+      "Robert Greenall"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T19:16:24+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
+    "source": "NPR",
+    "title": "Lawsuit challenges intimidation of DHS observers across the country",
+    "summary": "The sweeping lawsuit brought by Common Cause argues federal agencies are illegally surveilling and intimidating people who try to peacefully observe federal immigration enforcement activity.<br /><br />",
+    "byline_count": 1,
+    "author_names": [
+      "Jude Joffe-Block"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T21:07:38+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theinformation.com/articles/inside-blackstones-bid-rule-ai-financing",
+    "source": "The Information",
+    "title": "Inside Blackstone\u2019s Bid to Rule Over AI Financing",
+    "summary": "<p>In May, Blackstone unveiled a new joint venture with Google that revolved around a big number: The Wall Street giant was promising to spend $5 billion to buy 500 megawatts\u2019 worth of Google\u2019s tensor processing units, and it said it would use the chips in a new company that would deliver computing power to leading AI firms.</p>\n\n<p>Four months later, Blackstone\u2019s plans have only gotten larger, according to a person with knowledge of the effort. Blackstone actually anticipates buying many more TPUs&mdash;several \u201cmultiples\u201d beyond the originally announced figure, the person said.</p>\n\n<p>In other words, Blackstone is likely to commit tens of billions of dollars to securing multiple gigawatts of AI chips. Blackstone declined to comment on exactly how many more TPUs it\u2019ll buy.</p>\n\n<p>Jas Khaira, the leader of a Blackstone team dubbed N1 that is leading the company\u2019s push into AI investments, said in an interview that the firm\u2019s \u201cbiggest conviction bet continues to be compute.\u201d The compa",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T19:54:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/sep/10/james-talarico-ken-paxton-epstein-survivors",
+    "source": "The Guardian US",
+    "title": "James Talarico accuses Ken Paxton of \u2018ignoring\u2019 Epstein survivors",
+    "summary": "<p>Democrats are targeting Trump\u2019s relationship with Epstein as part of strategy ahead of midterm elections</p><p><a href=\"https://www.theguardian.com/us-news/2026/mar/04/texas-primaries-democrats-texas\">James Talarico</a>, the Democratic candidate for Senate in Texas, accused his rival Ken Paxton of \u201cignoring\u201d survivors of Jeffrey Epstein\u2019s sexual abuse, as Democrats seek to increase pressure on Republicans ahead of November\u2019s midterm elections.</p><p>Speaking in Dallas, where Republicans are holding a midterm convention this week, Talarico appeared alongside one of Epstein\u2019s victims at <a href=\"https://www.cbsnews.com/texas/news/dallas-epstein-files-exhibit-trump-relationship-rnc-convention-september-2026/\">an exhibit</a> that featured about 3.5m pages of Department of Justice\u2019s files related to Epstein.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/10/james-talarico-ken-paxton-epstein-survivors\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Adam Gabbatt",
+      "David Smith"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T18:49:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/sep/10/florida-sues-netflix-minor-data-collection",
+    "source": "The Guardian US",
+    "title": "Florida sues Netflix over misleading parents over minors\u2019 data collection",
+    "summary": "<p>Lawsuit brought by James Uthmeier, the attorney general, marks latest action by the state against big tech companies </p><p>Florida officials filed a lawsuit against Netflix, accusing the streaming giant of misleading parents about its collection of minors\u2019 data and using features that encourage children to \u201cbinge watch\u201d content.</p><p>The lawsuit, filed Wednesday and led by James Uthmeier, the Republican Florida attorney general, marks the latest action by Florida against major technology companies. The red-leaning state has taken an increasingly aggressive approach toward big tech, particularly during the rise of artificial intelligence (AI).</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/10/florida-sues-netflix-minor-data-collection\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Marina Dunbar"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:11:55+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/sep/10/former-hockey-players-sue-michigan-university-sexual-hazing",
+    "source": "The Guardian US",
+    "title": "Former University of Michigan hockey players say they were sexually hazed decades ago",
+    "summary": "<p>More than a dozen ex-players are suing the University of Michigan, alleging coach and staff were aware of abuse</p><p>More than a dozen former hockey players are suing the University of Michigan, alleging their coach and other staff were aware of sexual hazing that included the forced shaving of their genitals and other abuse by teammates decades ago.</p><p>\u201cThe abuse was ritualized, meticulously planned and sadistic \u2026 Enduring sexual abuse was required to be a member of the Michigan men\u2019s ice hockey team,\u201d attorney Michael Pitt said in a sex discrimination lawsuit filed on Wednesday in federal court in Detroit.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/10/former-hockey-players-sue-michigan-university-sexual-hazing\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-10T22:07:42.121521+00:00",
+    "published_parsed": "2026-09-10T20:46:48+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://deadline.com/2026/09/naza-record-ovation-25-minutes-venice-film-festival-1237073241/",
     "source": "Deadline",
     "title": "Gaza Doc \u2018NAZA\u2019 Gets 25-Minute Venice Ovation, Setting New A-List Festival Record As Palestinian Flags Fly In Sala Grande",
@@ -3134,7 +3831,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:16:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/10/massachusetts-mom-accused-of-killing-her-kids-wants-case-dismissed/",
@@ -3151,7 +3848,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:04:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/10/linsday-clancy-wants-judge-to-find-her-not-guilty-of-murder/",
@@ -3168,7 +3865,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:42:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/10/diddy-legal-victory-in-defamation-case/",
@@ -3185,7 +3882,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:20:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/10/santos-salazar-arrested-for-domestic-battery/",
@@ -3202,7 +3899,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:07:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/10/brian-mcknight-ex-wife-responds-to-defamation-lawsuit/",
@@ -3219,7 +3916,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:30:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-10/jimmy-kimmel-interview-with-senate-candidate-talarico-wont-air-on-abc",
@@ -3236,7 +3933,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:56:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-11/9-11-still-claiming-victims-25-years-later/107103812",
@@ -3252,7 +3949,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:47:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
@@ -3265,7 +3962,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:24:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/sports/liveblog/2026/9/10/live-manchester-united-vs-sabah-uefa-champions-league?traffic_source=rss",
@@ -3281,7 +3978,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:04:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scotusblog.com/2026/09/a-quick-update-on-the-missouri-congressional-districting-case/",
@@ -3297,7 +3994,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:40:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.twz.com/air/operational-f-15exs-drop-live-bombs-for-the-first-time",
@@ -3314,7 +4011,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:49:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://wisconsinwatch.org/2026/09/wisconsin-democratic-primary-data-center-politics-voters-crowley-hong-opinion/",
@@ -3330,7 +4027,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/10/trump-5000-dividend-voter-bribe-bond-yields-national-debt/",
@@ -3346,7 +4043,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:34:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/10/ai-writing-debate-ancient-greece-euripides-aristotle-nietzsche/",
@@ -3362,7 +4059,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/appeals-court-trump-usps-mail-ballots-first-circuit/",
@@ -3378,7 +4075,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:19:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/florida-attorney-general-sues-netflix-bait-switch-privacy-kids-rcna597046",
@@ -3395,7 +4092,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:50:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://mississippitoday.org/2026/09/10/hinds-county-jail-inmate-beaten-lawsuit/?utm_medium=rss",
@@ -3410,7 +4107,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/lawsuit-seeks-order-to-prevent-ice-agents-from-being-deployed-to-voting-sites-for-the-midterms/",
@@ -3425,7 +4122,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:04:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/GMA/News/remembering-hero-search-rescue-dogs-911-25-years/story?id=136309285",
@@ -3441,7 +4138,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:38:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/GMA/News/clancy-juror-holdout-show-single-piece-evidence-explaining/story?id=136312798",
@@ -3457,7 +4154,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:05:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/articles/cpwl1rlx17po?at_medium=RSS&at_campaign=rss",
@@ -3473,7 +4170,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:29:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c1e5j1pvv4yo?at_medium=RSS&at_campaign=rss",
@@ -3489,7 +4186,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T11:41:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
@@ -3505,7 +4202,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:01:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
@@ -3521,7 +4218,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:15:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/10/stocks-making-the-biggest-moves-midday-orcl-avav-aeo-mu-m.html",
@@ -3537,7 +4234,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:22:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cde0rk4r5jjo?at_medium=RSS&at_campaign=rss",
@@ -3554,7 +4251,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:03:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.washingtonpost.com/politics/2026/09/10/sending-armed-ice-agents-polling-places-would-be-federal-crime-lawsuit-says/",
@@ -3569,7 +4266,7 @@
     ],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:41:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/manhattan-skyline-changed-after-september-11-attacks",
@@ -3585,7 +4282,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T15:35:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/trump-checks-free-money-status-doge-tariff-rebate-warrior-dividend-2025-12",
@@ -3601,7 +4298,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:16:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/top-party-schools-colleges-2027",
@@ -3617,7 +4314,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:48:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/how-ai-could-kill-humanity-chatbot-responses-2026-9",
@@ -3633,7 +4330,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T15:54:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/",
@@ -3646,7 +4343,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T17:41:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/americans-paying-4-gallon-gas-2026-3",
@@ -3662,7 +4359,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T16:57:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/business/2026/sep/10/global-bond-selloff-oil-prices-inflation-middle-east-conflict-government-borrowing",
@@ -3678,7 +4375,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:05:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/football/2026/sep/10/bromley-stabbing-reports-south-east-london",
@@ -3694,7 +4391,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-10T18:51:20.598161+00:00",
     "published_parsed": "2026-09-10T18:07:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/sacha-baron-cohen-quentin-tarantino-popinjay-cavalier-london-1237073438/",
