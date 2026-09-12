@@ -164,27 +164,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.cbc.ca/news/canada/cbc-investigates-vietnamese-firm-targets-canadians-fake-ai-9.7318612?cmp=rss",
-    "source": "CBC News",
-    "title": "Vietnamese firm targets Canadians with fake AI news for profit, CBC/Rad-Can investigation reveals",
-    "summary": "<img alt=\"A composite image shows the Facebook logo, a man, and an AI-generated post.\" height=\"349\" src=\"https://i.cbc.ca/ais/87abb97b-25ce-4b9b-afe4-c656cc969689,1787759644830/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B\" title=\"A CBC/Radio-Canada investigation found hundreds of Facebook pages and website creating misleading and fake content originating from Vietnam.\" width=\"620\" /><p>An investigation by CBC's visual investigations team and Radio-Canada's D\u00e9crypteurs has discovered a Vietnamese company is linked to a network of Facebook pages and websites sharing misleading, sensationalist or outright false news headlines.</p>",
-    "byline_count": 5,
-    "author_names": [
-      "Eric Szeto",
-      "Jeff Yates",
-      "Christian Paas-Lang",
-      "Jordan Pearson",
-      "Ivan Angelovski"
-    ],
-    "total_score": 9,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T08:00:00+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.tmz.com/2026/09/12/steve-burton-says-ex-wife-talked-bad-about-new-wife-to-daughter/",
     "source": "TMZ",
     "title": "General Hospital's Steve Burton Claims Ex Trashed New Wife To Their Daughter",
@@ -200,7 +179,7 @@
     ],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T08:00:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/china/diplomacy/article/3367242/ai-fight-shadows-final-preparations-xi-jinpings-white-house-visit?utm_source=rss_feed",
@@ -413,6 +392,25 @@
     "first_seen_at": "2026-09-09T15:37:41.424547+00:00",
     "published_parsed": "2026-09-09T10:00:00+00:00",
     "is_new": false
+  },
+  {
+    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+    "source": "Wired",
+    "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+    "summary": "Plus: The US disrupts the internet\u2019s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+    "byline_count": 3,
+    "author_names": [
+      "Andy Greenberg",
+      "Lily Hay Newman",
+      "Dell Cameron"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T10:30:00+00:00",
+    "is_new": true
   },
   {
     "link": "https://pagesix.com/2026/09/11/society/anna-wintour-talks-tennis-and-more-items-from-the-column/",
@@ -1362,42 +1360,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
-    "summary": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
-    "byline_count": 4,
-    "author_names": [
-      "Alessia Camoirano",
-      "Ben Milne",
-      "Mike Radford",
-      "Jamie Tahsin"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T04:59:08+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/sport/2026/sep/09/nfl-2026-season-predictions-which-teams-can-bring-down-the-rams-juggernaut",
-    "source": "The Guardian US",
-    "title": "NFL 2026 season predictions: which teams can bring down the Rams juggernaut?",
-    "summary": "<p>The new season kicks off on Wednesday night. Our writers have their say on the MVP, rookies to watch and the disasters waiting to happen</p><p><strong>Quarterbacks living under center.</strong> The NFL has developed into a shotgun league, where most quarterbacks take the majority of their snaps three to seven yards away from the center. <a href=\"https://athlonsports.com/nfl/lamar-jackson-sean-mcvay-fernando-mendoza-under-center-efficiency\">But the increase in efficiency</a> when it comes to snaps taken right behind the center should have coaches directing their quarterbacks to do more of it. Matthew Stafford, Caleb Williams, and Sam Darnold led the way in 2025, and others will follow. <strong>DF</strong></p> <a href=\"https://www.theguardian.com/sport/2026/sep/09/nfl-2026-season-predictions-which-teams-can-bring-down-the-rams-juggernaut\">Continue reading...</a>",
-    "byline_count": 4,
-    "author_names": [
-      "Doug Farrar",
-      "Bryan Armen Graham",
-      "Andrew Lawrence",
-      "Graham Searles"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T08:00:04+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.scmp.com/news/hong-kong/politics/article/3367278/state-funeral-hong-kongs-first-leader-tung-chee-hwa-set-september-20?utm_source=rss_feed",
     "source": "South China Morning Post",
     "title": "State funeral for Hong Kong\u2019s first chief executive Tung Chee-hwa set for September 20",
@@ -1413,7 +1375,7 @@
     ],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T04:22:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/11/jax-taylor-reveals-alleged-email-evidence-in-court-battle-with-brittany/",
@@ -1558,6 +1520,40 @@
     "is_new": false
   },
   {
+    "link": "https://pagesix.com/2026/09/12/entertainment/love-island-usa-star-jen-terry-weighs-in-on-kayda-bosse-shading-ariana-madix-at-season-8-reunion/",
+    "source": "Page Six",
+    "title": "\u2018Love Island USA\u2019 star Jen Terry weighs in on Kayda Bosse shading Ariana Madix at Season 8 reunion",
+    "summary": "The model spoke exclusively to Page Six's \"Virtual Reali-Tea\" about the reunion moment that went viral.",
+    "byline_count": 3,
+    "author_names": [
+      "Samantha Nungesser",
+      "Evan Real",
+      "Danny Murphy"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T12:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/sep/12/fired-showdown-donald-trump-us-president-interview-stories",
+    "source": "The Guardian US",
+    "title": "\u2018I said, if you want to fire me, just fire me. And so he did\u2019: my showdown with Donald Trump",
+    "summary": "<p>What\u2019s it like to be shown the door by the US president? A former national security adviser, an Apprentice contestant and more share their stories</p><p>\u2022 Plus: <a href=\"https://www.theguardian.com/us-news/2026/sep/12/anthony-scaramucci-11-days-white-house-fired-donald-trump-book\">The truth about my 11 days in the White House, by Anthony Scaramucci</a></p><p><em>Gene Folkes</em><em>, 62, based in Manhattan, was a contestant on </em><em>season 10 of The Apprentice</em><em>, which aired i</em><em>n 2010</em><em>. A&nbsp;former </em><em>air </em><em>force recruiter until 1991, he retrained as an investment banker, then launched his own business before appearing on the reality show. He was fired by Trump </em><em>in episode 5</em><em>. He now runs the technology consulting firm </em><em>OshunX</em><em> and hosts a </em><em>podcast, <a href=\"https://open.spotify.com/show/1jdlDV44UzfDvfemWe9W1A\">Folkes Unfettered</a></em><em>.</em></p><p>I didn\u2019t audition to be on The Apprentice. I receiv",
+    "byline_count": 3,
+    "author_names": [
+      "Kate Lloyd",
+      "Julian Borger",
+      "David Smith"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T11:00:32+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.latimes.com/california/story/2026-09-11/union-leader-behind-billionaire-tax-measure-alleges-smear-campaign-against-him",
     "source": "Los Angeles Times",
     "title": "Union leader behind billionaire tax measure alleges 'smear' campaign against him",
@@ -1572,7 +1568,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T02:52:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-12/floating-wetlands-slash-wastewater-greenhouse-gas-emissions/107075464",
@@ -1589,7 +1585,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T05:31:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/09/11/parents/lady-gaga-welcomes-first-baby-with-fiance-michael-polansky/",
@@ -2861,104 +2857,19 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/09/09/sophie-rain-alleged-stalker-concerning-comments-at-crisis-center/",
-    "source": "TMZ",
-    "title": "Sophie Rain: Man Who Broke Into Her Florida Home Goes MIA After 'Blood Oath' Claim",
-    "summary": "Sophie Rain's alleged burglar made some concerning statements about the OnlyFans model at a crisis center \u2026 only months after cops say he tried to break into her home ... TMZ has learned. According to court docs, obtained by TMZ, the man, Connor&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T08:00:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/09/anna-kepner-stepbrothers-parents-fight-in-court/",
-    "source": "TMZ",
-    "title": "Anna Kepner\u2019s Stepbrother's Parents Duke It Out In Court Ahead Of Murder Trial",
-    "summary": "The parents of Anna Kepner\u2019s stepbrother Timothy Hudson are calling each other out in court \u2026 as they prepare for their son to go to trial for murder ... TMZ has learned. According to court docs, obtained by TMZ, Timothy\u2019s mom, Shauntel&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 4,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T07:00:46+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/miami-amazon-cargo-plane-crash-ntsb-investigation-9-8-2026/",
+    "link": "https://www.cbsnews.com/news/france-normandy-train-derailment-sabotage/",
     "source": "CBS News",
-    "title": "NTSB set to interview pilots of Amazon cargo plane that crashed in Miami",
-    "summary": "NTSB investigators are set to interview the pilots of the Amazon cargo plane that crashed Sunday after overshooting a runway at Miami International Airport and killing five people on the ground.",
-    "byline_count": 3,
-    "author_names": [
-      "Manuel  Bojorquez",
-      "Larry  Seward",
-      "Ana Maria  Soler"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T03:17:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/politics/donald-trump/firefighters-ground-zero-right-after-september-11-attacks-rcna596723",
-    "source": "NBC News",
-    "title": "Trump says firefighters near ground zero carried him to safety \u2018right after\u2019 9/11 attacks",
-    "summary": "Trump, who said that he was \u201cdown there right after this happened,\u201d later said on Truth Social that he wasn\u2019t at the World Trade Center \u201con the same day as the collapse, but shortly thereafter.\u201d",
-    "byline_count": 3,
-    "author_names": [
-      "Tara Prindiville",
-      "Alexandra Bacallao",
-      "Raquel Coronell Uribe"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T03:31:51+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-09-09/najib-said-to-seek-1mdb-pardon-as-anwar-s-coalition-pushes-back",
-    "source": "Bloomberg",
-    "title": "Najib Said to Seek 1MDB Pardon as Anwar\u2019s Coalition Resists",
-    "summary": "Malaysia\u2019s jailed former premier Najib Razak is seeking another royal intervention in his corruption conviction linked to the multibillion dollar 1MDB scandal, according to people familiar with the matter, a move that\u2019s drawn opposition from Prime Minister Anwar Ibrahim\u2019s coalition.",
+    "title": "Train derailment in France injures 44, police suspect sabotage",
+    "summary": "The regional train was carrying 186 passengers from Rouen to Caen when it derailed Friday evening in Cleon.",
     "byline_count": 1,
     "author_names": [],
-    "total_score": 4,
+    "total_score": 3,
     "matched_categories": [
       "sourcing_depth"
     ],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T03:55:36+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c70lqll4zk2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Divorcing abusive husband cost woman \u00a3105k",
-    "summary": "Annabelle Boucher wants the law changed after she paid thousands to divorce her coercive ex-husband.",
-    "byline_count": 3,
-    "author_names": [
-      "Laura Jones",
-      "Beth Cruse",
-      "Rachel Andrews"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T05:24:31+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T13:24:29+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/11/shailene-woodley-friends-alarmed-by-aaron-rodgers-relationship-comments/",
@@ -3543,37 +3454,197 @@
     "is_new": false
   },
   {
-    "link": "https://www.aljazeera.com/sports/2026/9/9/asian-games-athletes-forced-to-evacuate-amid-record-rainfall-in-japan?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Asian Games athletes forced to evacuate amid record rainfall in Japan",
-    "summary": "Rainwater leaked into competition venues a day before some preopening ceremony competitions beginning on Thursday.",
+    "link": "https://pagesix.com/2026/09/12/celebrity-news/inside-nick-reiners-first-birthday-behind-bars-after-parents-stabbed-to-death-no-special-treatment/",
+    "source": "Page Six",
+    "title": "Inside Nick Reiner\u2019s first birthday behind bars after parents stabbed to death: \u2018No special treatment\u2019",
+    "summary": "Nick, who turns 33 on Monday, is currently being held without bail at Los Angeles' Twin Towers Correctional Facility, where his first birthday in custody will be treated just like any ordinary day.",
+    "byline_count": 2,
+    "author_names": [
+      "Sarah Jones",
+      "Nate Grant"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T11:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/russia-ukraine-strikes-putin-warning-9.7341677?cmp=rss",
+    "source": "CBC News",
+    "title": "Deadly Russian strikes hit Ukraine after Putin's warning to European leaders",
+    "summary": "<img alt=\"Firefighters work at a site of a gas station hit by a Russian drone strike\" height=\"349\" src=\"https://i.cbc.ca/ais/c285b4e6-d378-4740-a889-24875bee076d,1789206572465/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C5693%2C3202%29%3B\" title=\"Firefighters work at a site of a gas station hit by a Russian drone strike, amid Russia&apos;s attack on Ukraine, in Kyiv, Ukraine Sept. 11, 2026.\" width=\"620\" /><p>Russian strikes killed three civilians and wounded dozens in Ukraine, local officials said Saturday, after Russian President Vladimir Putin warned that sending European troops into Ukraine would amount to direct conflict with Russia.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Volodymyr Yurchuk",
+      "Elise Morton"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T12:16:18+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/iraq-saudi-pipeline-9.7341679?cmp=rss",
+    "source": "CBC News",
+    "title": "Iraq scrambles to address fallout from alleged militia attack on Saudi oil pipeline",
+    "summary": "<img alt=\"Fighters loyal to the Houthi authorities shout slogans during a rally\" height=\"349\" src=\"https://i.cbc.ca/ais/d7761efe-808c-46a3-8f91-07faa570370b,1789206669293/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C147%2C2827%2C1590%29%3B\" title=\"Fighters loyal to the Houthi authorities, shout slogans during a rally to recruit more fighters, in Sanaa on Sept. 10. The country relapsed into war in July after years of calm, drawn into the regional conflict triggered by the U.S.-Israeli offensive against Iran that began at the end of February.\" width=\"620\" /><p>Iraq\u2019s government was racing Saturday to contain the fallout after local Iran-backed militias were accused of attacking and shuttering a key Saudi pipeline.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Julia Frankel",
+      "Qassim Abdul-Zahra"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T12:40:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/09/12/business-missing-american-high-schools-chamber-commerce-college-board/",
+    "source": "Fortune",
+    "title": "The Chamber of Commerce and the College Board on the missing subject in American high schools: business",
+    "summary": "Students are graduating from high school without a clear understanding of how organizations function, how money flows, and how ideas become opportunities.",
+    "byline_count": 2,
+    "author_names": [
+      "Neil Bradley",
+      "Greg Walker"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T12:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/business/ceo-interviews/llbean-maine-roots-catalog-ai-stores-rcna596849",
+    "source": "NBC News",
+    "title": "L.L.Bean embraces its old-school roots with brick-and-mortar stores, print catalogs, no AI",
+    "summary": "L.L.Bean is embracing its rugged roots in Freeport, Maine, shunning AI and adding more brick-and-mortar stores.",
+    "byline_count": 2,
+    "author_names": [
+      "Allie Canal",
+      "Savannah Sellers"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T13:11:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/news/news-quiz/apple-iphone-duo-news-quiz-rcna597233",
+    "source": "NBC News",
+    "title": "Apple unveils a foldable iPhone, and American men look to end a U.S. Open drought: The news quiz",
+    "summary": "OpenAI claims to solve a longstanding math puzzle, a Hollywood legend is awarded a posthumous Emmy, and a comedy show takes a dig at the White House.",
+    "byline_count": 2,
+    "author_names": [
+      "Tom Gottlieb",
+      "Joe Murphy"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T09:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.wired.com/gallery/best-standing-desks/",
+    "source": "Wired",
+    "title": "10 Best Standing Desks Worth Buying in 2026",
+    "summary": "Take your home office to new heights with our favorite motorized standing desks.",
+    "byline_count": 2,
+    "author_names": [
+      "Nicole Kinning",
+      "Matthew Korfhage"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T11:08:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Rival protests in Portsmouth as face masks banned",
+    "summary": "Rival demonstrators march through Portsmouth as new police powers come into force.",
+    "byline_count": 2,
+    "author_names": [
+      "Stephen Stafford",
+      "Curtis Lancaster"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T14:04:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
+    "source": "Wired",
+    "title": "You Don\u2019t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules",
+    "summary": "And if your tap water is undrinkable, you have no \u201cconstitutional right to truthful information\u201d about it.",
     "byline_count": 1,
-    "author_names": [],
-    "total_score": 3,
+    "author_names": [
+      "Sophie Hurwitz"
+    ],
+    "total_score": 2,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T06:14:33+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T09:30:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.nbcnews.com/sports/tennis/ben-shelton-carlos-alcaraz-latest-ever-us-open-quarter-final-rcna596746",
-    "source": "NBC News",
-    "title": "American Ben Shelton outduels defending champ Alcaraz in U.S. Open\u2019s latest-ever finish",
-    "summary": "There\u2019s leaving it late, and then there\u2019s what Ben Shelton and Carlos Alcaraz just served up at the U.S.",
+    "link": "https://www.vox.com/podcasts/502167/youth-sports-cost-private-equity-travel-rec-leagues",
+    "source": "Vox",
+    "title": "The cost of youth sports is out of control",
+    "summary": "In the last decade, the cost of youth sports has skyrocketed. Cheaper, more local rec leagues have lost out premium travel leagues funded by private equity. The Covid-19 pandemic made things worse. As a result, some families are now paying thousands of dollars to keep their kid in a sport that they love. Caitlin Moscatello [&#8230;]",
     "byline_count": 2,
     "author_names": [
-      "Max Burman",
-      "Mark Hodge"
+      "Danielle Hewitt",
+      "Noel King"
     ],
-    "total_score": 3,
-    "matched_categories": [
-      "exclusivity"
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T11:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/tv-and-radio/2026/sep/12/emmys-2026-predictions-winners-pluribus-hacks-the-pitt",
+    "source": "The Guardian US",
+    "title": "Emmys 2026 predictions: who will win and who should win?",
+    "summary": "<p>The year\u2019s biggest night in television includes plenty of nominations for Pluribus, The Pitt and Hacks \u2013 but who will win?</p><p>And just like that, the summer of catching up on TV is over. The Emmys are back, this year on a (non-football competing) Monday night with a healthy mix of lauded veterans and buzzy newcomers. Will <a href=\"https://www.theguardian.com/tv-and-radio/the-pitt\">The Pitt</a>, leading the night with 25 nominations, once again sweep the drama awards? Will breakout horror-comedy <a href=\"https://www.theguardian.com/tv-and-radio/2026/apr/29/widows-bay-review-matthew-rhys-intoxicating-comedy-horror-is-an-absolute-blast\">Widow\u2019s Bay</a> spoil the party for the fifth and final season of <a href=\"https://www.theguardian.com/tv-and-radio/hacks\">Hacks</a>? Here are our picks for the night:</p> <a href=\"https://www.theguardian.com/tv-and-radio/2026/sep/12/emmys-2026-predictions-winners-pluribus-hacks-the-pitt\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Adrian Horton",
+      "Owen Myers"
     ],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T07:36:04+00:00",
-    "is_new": false
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T09:00:30+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theatlantic.com/newsletters/2026/09/white-house-arcade-games-parody/688602/?utm_source=feed",
+    "source": "The Atlantic",
+    "title": "<em>Mario-a-Lago Kart</em>, Anyone?",
+    "summary": "The White House made a bunch of parody video games. We have more suggestions.<strong> </strong>",
+    "byline_count": 2,
+    "author_names": [
+      "Emily Bressler",
+      "Kelley Greene"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-12T14:41:47.223357+00:00",
+    "published_parsed": "2026-09-12T13:00:00+00:00",
+    "is_new": true
   },
   {
     "link": "https://variety.com/2026/film/news/paramount-answer-antitrust-case-1236859363/",
@@ -3590,7 +3661,7 @@
     ],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T04:16:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-12/tiwi-island-teenagers-northern-territory-government-changes/107128062",
@@ -3606,7 +3677,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T02:44:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-12/mary-kostakidis-lawsuit-discontinued/107146666",
@@ -3623,7 +3694,7 @@
     ],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T06:01:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/asia/east-asia/article/3367279/foie-gras-puppies-water-parks-north-korea-gets-glow?utm_source=rss_feed",
@@ -3640,7 +3711,7 @@
     ],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T05:09:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/middle-east/article/3367282/alarm-syria-plans-private-jet-hub-former-torture-site?utm_source=rss_feed",
@@ -3657,7 +3728,7 @@
     ],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T06:08:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss",
@@ -3673,7 +3744,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T04:46:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
@@ -3689,7 +3760,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T05:55:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/11/ex-male-escort-reveals-photos-in-lawsuit-against-diddy-and-cassie/",
@@ -9354,134 +9425,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-09T15:37:41.424547+00:00",
     "published_parsed": "2026-09-09T09:55:44+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-09/karara-mining-mid-west-ports-license-dust-pollution-geraldton/107133164",
-    "source": "ABC Australia",
-    "title": "Black dust pollution sparks push to change Chinese-owned miner's licence",
-    "summary": "An investigation into dust pollution around Geraldton has found magnetite from industrial activities is directly contributing to the levels of dust throughout the community.",
-    "byline_count": 2,
-    "author_names": [
-      "Joanna Prendergast",
-      "Chris Lewis"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T04:26:58+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/rural/2026-09-09/senate-to-scrutinise-apvma-paraquat-decision/107132358",
-    "source": "ABC Australia",
-    "title": "Senate inquiry will scrutinse APVMA decision to allow paraquat use",
-    "summary": "Independent Senator David Pocock has used support from the Greens and the Coalition to launch an inquiry into the regulator's decision to allow the continued use of the controversial weedkiller.",
-    "byline_count": 2,
-    "author_names": [
-      "Kallee Buchanan",
-      "Kate Forrester"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T05:43:07+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-09/canberra-midwifery-trial-aims-to-provide-consistent-care/107103006",
-    "source": "ABC Australia",
-    "title": "Pregnancy involves many appointments, but this trial aims to change that",
-    "summary": "One of the consistent obstacles faced by pregnant patients is the number of appointments they must attend while also managing the daily demands of their lives and families.",
-    "byline_count": 2,
-    "author_names": [
-      "Niki Burnside",
-      "Lish  Fejer"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T07:59:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-09/perth-resident-to-cut-down-20m-tree-before-red-tape-introduced-/107134374",
-    "source": "ABC Australia",
-    "title": "Susan's chopping down her giant tree while she still can, ahead of rule change",
-    "summary": "A home owner in Perth\u2019s south plans to cut down a \u201cbeast\u201d of a tree, a 20-metre-tall Norfolk Pine, in order to beat the introduction of the council's policy to protect large trees amid a dwindling tree canopy.",
-    "byline_count": 2,
-    "author_names": [
-      "Samantha Goerling",
-      "Nadia Mitsopoulos"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T06:53:47+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-09/jury-hears-woman-told-footballers-no-before-alleged-rape/107131872",
-    "source": "ABC Australia",
-    "title": "Trial hears woman repeated 'no' to footballers before alleged rape",
-    "summary": "A District Court jury has been told a woman was allegedly raped by two amateur footballers in the NSW Hunter Valley in 2023.",
-    "byline_count": 2,
-    "author_names": [
-      "Giselle Wakatama",
-      "Courtney Yeandle"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T06:48:04+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Why US-Iran war over Hormuz is threatening the Gulf\u2019s waters",
-    "summary": "US-Iran attacks on tankers around Hormuz are raising fears of devastating oil spills across the Gulf.",
-    "byline_count": 2,
-    "author_names": [
-      "Alia Chughtai",
-      "Marium Ali"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T05:47:58+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/US/ntsb-release-readout-cockpit-voice-recorder-amazon-cargo/story?id=136292103",
-    "source": "ABC News",
-    "title": "NTSB to release readout from cockpit recorder after deadly Amazon cargo plane crash",
-    "summary": "The National Transportation Safety Board expects to interview the two pilots who were in the cockpit of an Amazon Air cargo plane that overran a runway.",
-    "byline_count": 2,
-    "author_names": [
-      "Darren Reynolds",
-      "Jack Moore"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T04:43:31+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
-    "source": "CNBC",
-    "title": "China's EV makers shift gears to focus on humanoids as car market slows",
-    "summary": "As Chinese electric car sales slow and share prices tumble, several of the automakers are ramping up humanoid robotics development.",
-    "byline_count": 2,
-    "author_names": [
-      "Jenny Lee",
-      "Evelyn Cheng"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-09T08:30:21.236562+00:00",
-    "published_parsed": "2026-09-09T04:12:51+00:00",
     "is_new": false
   }
 ]
