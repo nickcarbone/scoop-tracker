@@ -16,7 +16,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T18:29:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/13/hayden-panettiere-boyfriend-brian-hickerson-heckled-over-her-death/",
@@ -53,6 +53,38 @@
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T08:00:01+00:00",
     "is_new": false
+  },
+  {
+    "link": "https://www.cbsnews.com/news/trump-epa-power-plants-climate-pollution/",
+    "source": "CBS News",
+    "title": "EPA to eliminate limits on climate pollution from power plants",
+    "summary": "The rule, which is expected to face immediate legal challenges, also could prevent future administrations from regulating greenhouse gas emissions from power plants, sources said.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 7,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:50:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/sep/14/dhs-voter-data-whistleblower",
+    "source": "The Guardian US",
+    "title": "DHS officers raise concerns over potentially illegal voter searches and unreliable data, whistleblower says",
+    "summary": "<p>Officers were instructed to search state voter databases and create federal records on suspected non-citizen voters despite concerns over the process</p><p>Department of Homeland Security (DHS) lawyers told officers investigating voter fraud they would not be held responsible for violating state laws around accessing voter registration information, an anonymous whistleblower<a href=\"https://www.democrats.senate.gov/imo/media/doc/091326_-_senate_whistleblower_letter_dhs_uscis_combined_signedpdf.pdf\"> revealed on Monday</a>. DHS officers also<strong> </strong>had concerns about the reliability of the data they were working with, the whistleblower said.</p><p>The Trump administration has ramped up its investigation into noncitizen voting ahead of the midterm elections. Noncitizen voting is extremely rare and the effort has only turned up <a href=\"https://www.ms.now/news/aggressive-dhs-hunt-for-voter-fraud-only-finding-a-handful-of-possible-noncitizen-cases\">a handful of cases</a> so fa",
+    "byline_count": 1,
+    "author_names": [
+      "Sam Levine"
+    ],
+    "total_score": 7,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T22:55:19+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
@@ -92,21 +124,40 @@
     "is_new": false
   },
   {
-    "link": "https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9",
-    "source": "Business Insider",
-    "title": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation",
-    "summary": "Jeff Dean, former Google chief scientist, is raising another round of funding at a valuation of around $50 billion.",
+    "link": "https://www.tmz.com/2026/09/14/takeoffs-alleged-murderer-requests-to-examine-bullets-that-killed-rapper/",
+    "source": "TMZ",
+    "title": "Late Migos Rapper Takeoff's Alleged Murderer Wants to Examine Bullets From Fatal Shooting",
+    "summary": "Late Migos rapper Takeoff's alleged murderer, Patrick Xavier Clark, is making moves to examine evidence, including the supposed bullets from his fatal shooting ... TMZ has learned. According to court docs, obtained by TMZ, Clark wants permission to&hellip;",
     "byline_count": 1,
     "author_names": [
-      "Ben Bergman"
+      "TMZ Staff"
     ],
-    "total_score": 7,
+    "total_score": 6,
     "matched_categories": [
-      "sourcing_depth"
+      "exclusivity",
+      "primary_source"
     ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T22:42:11+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:00:50+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/politics-news/donald-trump-jr-russian-oligarch-umar-kremlev-ties-putin-wedding-celeb-rcna597735",
+    "source": "NBC News",
+    "title": "Donald Trump Jr. acknowledges Russian oligarch with ties to Putin hosted his lavish island wedding celebration",
+    "summary": "The president\u2019s eldest son and his wife, Bettina Trump, said Umar Kremlev \u201cvery generously hosted two incredible nights of celebrations\u201d after their wedding.",
+    "byline_count": 4,
+    "author_names": [
+      "Dareh Gregorian",
+      "Tom Winter",
+      "Gabe Gutierrez",
+      "Tara Prindiville"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:07:18+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-14/stalker-shoots-california-woman",
@@ -123,7 +174,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T18:28:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/s41586-026-11124-z",
@@ -136,7 +187,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/cia-john-brennan-subpoenaed-grand-conspiracy-probe-trump/",
@@ -154,7 +205,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:28:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nature.com/articles/d41586-026-02852-3",
@@ -262,42 +313,6 @@
     "is_new": false
   },
   {
-    "link": "https://pagesix.com/2026/09/11/society/anna-wintour-talks-tennis-and-more-items-from-the-column/",
-    "source": "Page Six",
-    "title": "Anna Wintour talks tennis, and more items from the column",
-    "summary": "Catch up with this week&#8217;s items from Page Six in the New York Post. Roger and out Anna Wintour has been making the rounds at this year\u2019s US Open \u2014 even as the Met Gala scandal continues to swirl around her. And while the Vogue legend has taken in plenty of tennis\u2019 biggest stars, she...",
-    "byline_count": 4,
-    "author_names": [
-      "Oli Coleman",
-      "Mara Siegler",
-      "Carlos Greer",
-      "Martha Williams"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T23:59:48+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/Politics/trump-administration-plans-strike-houthis-now-2-us/story?id=136375380",
-    "source": "ABC News",
-    "title": "Trump administration has no plans to strike Houthis for now, 2 US officials say",
-    "summary": "The U.S. is offering intel and targeting assistance to Saudi Arabia, they say.",
-    "byline_count": 4,
-    "author_names": [
-      "Shannon K. Kingston",
-      "Cindy Smith",
-      "Steven Beynon",
-      "Isabella Murray"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T22:44:42+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.tmz.com/2026/09/14/hayden-panettiere-neighbors-saw-alleged-drug-dealer-weeks-before-death/",
     "source": "TMZ",
     "title": "Hayden Panettiere's L.A. Neighbors Saw 'Shady' Alleged Drug Dealer One Week Before Death",
@@ -313,7 +328,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:14:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/david-sacks-ai-developers-safety-regulation/",
@@ -332,7 +347,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:47:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/13/hayden-panettiere-boyfriend-brian-hickerson-detained-by-police-in-south-carolina/",
@@ -371,22 +386,113 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/09/11/jax-taylor-reveals-alleged-email-evidence-in-court-battle-with-brittany/",
-    "source": "TMZ",
-    "title": "'Vanderpump Rules\u2019 Jax Taylor Reveals Alleged Email Evidence in Court Battle With Brittany",
-    "summary": "Jax Taylor presented evidence in court to back up his claims that his estranged wife, Brittany Cartwright, is costing him business deals by running around telling lies about him ... TMZ has learned. TMZ obtained an email Jax submitted in court as&hellip;",
+    "link": "https://fortune.com/2026/09/14/saudi-arabia-east-west-pipeline-iran-hormuz-militias-iraq-oil-prices/",
+    "source": "Fortune",
+    "title": "Saudi Arabia built the East-West pipeline in the 1980s in case Iran closed Hormuz. Tehran-backed militias still blasted it, sending oil prices up",
+    "summary": "Two regional officials\u00a0told The Associated Press that repairs could take three to five weeks.",
+    "byline_count": 3,
+    "author_names": [
+      "Wyatte Grantham-Philips",
+      "Mae Anderson",
+      "The Associated Press"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:09:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/09/14/pentagon-damage-report-iran-war-hundreds-buildings-us-bases-aircraft/",
+    "source": "Fortune",
+    "title": "The Pentagon admits that\u00a0Iranian strikes damaged\u00a0and destroyed hundreds of buildings at U.S. bases across the Middle East",
+    "summary": "The report noted that the U.S. war with Iran \u201chas resulted in strategic inventory shortfalls and revealed industrial base bottlenecks for munitions resupply.\u201d",
+    "byline_count": 3,
+    "author_names": [
+      "Ben Finley",
+      "Farnoush Amiri",
+      "The Associated Press"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:18:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/democrats-pledge-investigation-trump-pardon-brokers/",
+    "source": "CBS News",
+    "title": "Democrats vow to investigate Trump pardon brokers if party controls Congress",
+    "summary": "Senior Democratic lawmakers vowed to investigate the new market that has sprung up around President Trump's pardons, citing CBS News video that aired in a 60 Minutes report.",
+    "byline_count": 3,
+    "author_names": [
+      "Daniel  Klaidman",
+      "Gabe  Kaminsky",
+      "Alan  He"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:45:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/venezuela-s-acting-leader-rodriguez-is-said-to-plan-un-visit",
+    "source": "Bloomberg",
+    "title": "Venezuela\u2019s Acting Leader Rodr\u00edguez Is Said to Plan UN Visit",
+    "summary": "Venezuela\u2019s acting President Delcy Rodr\u00edguez is planning to attend the United Nations General Assembly in New York next week, a visit that would mark a major step in the rapid normalization of relations between Caracas and the Trump administration, according to people familiar with the plans.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:17:24+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/microsoft-satya-nadella-ai-safety-debate-internal-warning-2026-9",
+    "source": "Business Insider",
+    "title": "Microsoft CEO Satya Nadella posts an internal warning to employees about AI safety",
+    "summary": "Satya Nadella urged the AI industry to prioritize safety and maintain human control over the technology.",
     "byline_count": 1,
     "author_names": [
-      "TMZ Staff"
+      "Ashley Stewart"
     ],
-    "total_score": 5,
+    "total_score": 4,
     "matched_categories": [
-      "exclusivity",
       "primary_source"
     ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T01:00:24+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:01:29+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress",
+    "source": "Axios",
+    "title": "Thune sees role for Congress on AI \u2014 Trump does not",
+    "summary": "<p>Majority Leader John Thune is asserting Congress' prerogative to <a href=\"https://www.axios.com/2026/09/14/trump-ai-safety-regulations-congress\" target=\"_blank\">act on AI</a> \u2014 but he's urging a \"light touch\" even in the face of \"consequential risks.\"</p><p><strong>Why it matters:</strong> On his first day back after a five-week break, Thune (R-S.D.) outlined his vision for congressional action on an issue <a href=\"https://www.axios.com/politics-policy/donald-trump\" target=\"_blank\">President Trump</a> has dismissed as a \"<a href=\"https://apnews.com/article/trump-ai-guardrails-data-centers-b85df16775ff7e9611a456b061a0e4b9\" target=\"_blank\">hoax</a>.\"</p><hr /><ul><li>\"Congress has a job to do,\" Thune said.</li><li>\"I think there are some potential consequential risks associated with AI,\" Thune told reporters when asked if he believes AI poses an <a href=\"https://www.axios.com/2026/09/13/ai-labs-regulation-safety\" target=\"_blank\">existential threat</a> to humanity. He added, \"Guardrail",
+    "byline_count": 3,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:49:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/14/trump-republicans-5000-checks-mike-johnson-midterms",
+    "source": "Axios",
+    "title": "Trump's $5,000 checks get chilly Senate GOP reception",
+    "summary": "<div>Data: <a href=\"https://urldefense.com/v3/__https%3A//www.whitehouse.gov/omb/information-resources/budget/historical-tables__;!!Al82Z4c!yO-XJT3_99ICmEufmbSsHMrjpVv6RoUSIxfV08oDvx8B2SRCKmOttlGk7T5Yf6-TVp99imenHk-F7buT5KqGiiwbAg$\" target=\"_blank\">OMB</a>;\u00a0Chart: Erin Davis/Axios Visuals</div><p>Senate Republicans are doubtful \u2014 and, in some cases, dismissive \u2014 of President Trump's proposal to give Americans <a href=\"https://www.axios.com/2026/09/13/trumps-5000-5k-checks-congress\" target=\"_blank\">$5,000 checks</a> if Republicans keep control of Congress.</p><p><strong>Why it matters:</strong> Trump's proposal isn't dead on arrival. But Republicans aren't exactly lining up behind it either.</p><hr /><ul><li>\"I am withholding judgment on the bill until I see their list of pay-fors,\" Sen. John Kennedy (R-La.) said. \"I don't support going and borrowing $1.2 trillion to be able to write the checks.\"</li><li>\"I would need to see details on it,\" Sen. Ted Budd (R-N.C.) said.</li><li>Sen. Stev",
+    "byline_count": 3,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:49:20+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/14/floyd-mayweather-daughter-iyanna-ordered-to-pay-millions-over-stabbing/",
@@ -403,7 +509,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T19:45:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/14/max-ehrich-arrested-for-possession-of-nitrous/",
@@ -420,7 +526,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:00:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-14/hayden-panettiere-death-probe-focusing-on-illegal-pills-from-la-dealer",
@@ -437,7 +543,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:04:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/08/dell-earnings-reveal-ai-buildout-on-premise/",
@@ -454,7 +560,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-08T12:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/GMA/Culture/live-updates/emmys-2026/?id=136378304",
@@ -471,7 +577,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:43:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
@@ -488,7 +594,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:05:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9",
@@ -505,7 +611,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:35:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/09/14/trump-dhs-voter-data-false-statements",
@@ -520,7 +626,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:23:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/congress/warnings-ai-danger-congress-action-unlikely-election-rcna597230",
@@ -1133,104 +1239,39 @@
     "is_new": false
   },
   {
-    "link": "https://pagesix.com/2026/09/11/parents/lady-gaga-welcomes-first-baby-with-fiance-michael-polansky/",
-    "source": "Page Six",
-    "title": "Lady Gaga welcomes first baby with fianc\u00e9 Michael Polansky",
-    "summary": "The singer previously spoke about wanting to become a mom someday.",
-    "byline_count": 3,
-    "author_names": [
-      "Mara Siegler",
-      "Carlos Greer",
-      "Eric Todisco"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T00:20:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-12/australian-grain-harvest-underway-with-soaring-diesel-costs/107132406",
-    "source": "ABC Australia",
-    "title": "Diesel price 'deja vu' for grain farmers nearing harvest",
-    "summary": "Farmers are embarking on the fourth largest winter harvest on record as the diesel price rises again.",
-    "byline_count": 3,
-    "author_names": [
-      "Justine Longmore",
-      "Petra Oates",
-      "Warwick Long"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T22:30:16+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-12/mildura-base-hospital-patient-dies-forgotten-referral/107141512",
-    "source": "ABC Australia",
-    "title": "Forgotten referral led to patient's death, Victorian shadow minister says",
-    "summary": "A Mildura hospital that relies on paper records is undertaking a review after reports of fatal delays in patient triage.",
-    "byline_count": 3,
-    "author_names": [
-      "Sarah Buchecker",
-      "Tamara Clark",
-      "Grace Marshall"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T00:32:59+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
-    "summary": "Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
-    "byline_count": 3,
-    "author_names": [
-      "Enes Abuomer",
-      "Ali Mustafa",
-      "Noor Kareem"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/US/911-families-call-trump-hold-saudis-accountable-ground/story?id=136367465",
-    "source": "ABC News",
-    "title": "Some 9/11 families call on Trump to hold Saudis accountable during NYC ceremony",
-    "summary": "Some family members of 9/11 victims used the 25th anniversary ceremonies to openly call on the president to hold Saudi Arabia accountable for the attacks.",
-    "byline_count": 3,
-    "author_names": [
-      "Lucien Bruggeman",
-      "Aaron Katersky",
-      "Ivan Pereira"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T22:20:23+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/doj-ramps-up-controversial-probe-of-trump-s-perceived-enemies",
-    "source": "Bloomberg",
-    "title": "DOJ Ramps Up Controversial Probe of Trump\u2019s Perceived Enemies",
-    "summary": "The US Justice Department is ramping up a controversial investigation into whether former government officials years ago conspired to undermine President Donald Trump, according to people familiar with the matter.",
+    "link": "https://www.scmp.com/news/asia/southeast-asia/article/3367522/singapore-jails-armed-malaysian-gang-us39-million-lightning-heist-bungalow?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Singapore jails armed Malaysian gang for US$3.9 million \u2018lightning heist\u2019 at bungalow",
+    "summary": "After learning that a woman regularly hosted high-stakes poker games at her home in Singapore\u2019s affluent Bukit Timah area, two men plotted to rob the house, recruiting a group of people from Malaysia and conducting surveillance before carrying out the plan.\nProsecutors said seven men entered the King Albert Park good class bungalow in the early hours of April 18, 2024, in a \u201clightning heist\u201d, some of them armed with machetes and baseball bats. They tied up the people inside and stole about S$4.9...",
     "byline_count": 1,
-    "author_names": [],
-    "total_score": 4,
-    "matched_categories": [
-      "sourcing_depth"
+    "author_names": [
+      "CNA"
     ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T22:44:21+00:00",
-    "is_new": false
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T02:01:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.twz.com/space/u-s-admits-it-has-weapons-in-orbit",
+    "source": "The War Zone",
+    "title": "U.S. Admits It Has Weapons In Orbit",
+    "summary": "<p>Space Force has finally confirmed it has weapons in space and has also shared details about its \"space control\" mission set.</p>\n<p>The post <a href=\"https://www.twz.com/space/u-s-admits-it-has-weapons-in-orbit\">U.S. Admits It Has Weapons In Orbit</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Joseph Trevithick",
+      "Howard Altman"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:40:40+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3367511/un-security-council-hold-meeting-ai-next-week-amid-international-concern?utm_source=rss_feed",
@@ -1247,7 +1288,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:21:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://documentedny.com/2026/09/14/mamdani-new-york-lawsuit-trump-public-charge-rule/",
@@ -1265,7 +1306,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:57:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/white-house/trump-vowed-identify-donors-ballroom-project-hasnt-happened-yet-rcna596852",
@@ -1282,7 +1323,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:42:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/todd-blanche-911-documents/",
@@ -1300,7 +1341,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:49:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/kennedy-center-bankruptcy-trump-1237101778/",
@@ -1522,87 +1563,446 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/09/11/shailene-woodley-friends-alarmed-by-aaron-rodgers-relationship-comments/",
+    "link": "https://deadline.com/2026/09/emmys-reba-mcentire-dolly-parton-emmys-2026-1237102443/",
+    "source": "Deadline",
+    "title": "Reba McEntire & Sally Field Honor Dolly Parton At Emmys: \u201cIf There Are Truly Angels On Earth, We Have Just Lost One\u201d",
+    "summary": "Nearly three weeks after the death of Dolly Parton at the age of 80, the Emmys on Monday paid tribute to the beloved music icon. As Deadline reported Sunday, the segment featured another country star and longtime friend of Parton&#8217;s, Reba McEntire, along with Sally Field, who starred with Parton in the 1989 film Steel [&#8230;]",
+    "byline_count": 2,
+    "author_names": [
+      "Dade Hayes",
+      "Nellie Andreeva"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T02:24:25+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://pagesix.com/2026/09/14/entertainment/knicks-star-jalen-brunson-crashes-bff-mariska-hargitays-emmys-2026-opener/",
+    "source": "Page Six",
+    "title": "Knicks star Jalen Brunson crashes BFF Mariska Hargitay\u2019s Emmys 2026 opener",
+    "summary": "The 30-year-old point guard appeared alongside the actress while steaming his New York Knicks jersey.",
+    "byline_count": 2,
+    "author_names": [
+      "Riley Cardoza",
+      "Vanessa Serna"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:30:16+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://pagesix.com/2026/09/14/royal-family/prince-harry-and-meghan-markle-choosing-the-wrong-school-another-example-of-bad-planning/",
+    "source": "Page Six",
+    "title": "Prince Harry and Meghan Markle choosing the wrong school for their kids \u2018another example\u2019 of bad planning",
+    "summary": "The Sussexes\u2019 latest move for their children is raising questions about whether they planned their UK return as carefully as they could have.",
+    "byline_count": 2,
+    "author_names": [
+      "Leah Bitsky",
+      "Nate Grant"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:48:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-15/muslim-girl-verbally-abused-on-sydney-bus-nsw-police-investigate/107150144",
+    "source": "ABC Australia",
+    "title": "NSW Police investigating after 13yo Muslim girl verbally abused on bus",
+    "summary": "A video shows Janna, 13, being verbally abused and called racist and Islamophobic names on a bus on her way home from school in Sydney.",
+    "byline_count": 2,
+    "author_names": [
+      "Zena Chamas",
+      "Nabil Al-Nashar"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T22:58:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/14/weed-gummies-found-at-scene-of-cheerleader-mother-daughter-murder-suicide/",
     "source": "TMZ",
-    "title": "Shailene Woodley's Friends Alarmed by Aaron Rodgers' Comments About Ex-Fianc\u00e9e",
-    "summary": "Shailene Woodley's friends are alarmed Aaron Rodgers is publicly discussing their past relationship ... and they say the married NFL star hasn't spoken with his ex-fianc\u00e9e in more than two years. Sources close to Shailene tell TMZ ... Aaron knew&hellip;",
+    "title": "Cheerleader Mother-Daughter Murder-Suicide: Weed Gummies, Prescription Bottles Found at Scene",
+    "summary": "Tawnia McGeehan, who allegedly killed her daughter Addi Smith in a murder-suicide while in Vegas for a cheer competition, had several medications in her system at the time she took her and her daughter\u2019s lives, TMZ has learned.&nbsp; TMZ obtained&hellip;",
     "byline_count": 1,
     "author_names": [
       "TMZ Staff"
     ],
-    "total_score": 3,
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:18:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://pagesix.com/2026/09/14/entertainment/taylor-swift-hangs-with-tom-cruise-as-she-supports-travis-kelce-at-first-chiefs-game-since-wedding/",
+    "source": "Page Six",
+    "title": "Taylor Swift hangs with Tom Cruise as she supports Travis Kelce at first Chiefs game since wedding",
+    "summary": "Swift was a loyal wife on Monday night, arriving at Arrowhead Stadium to root for the Chiefs against the Denver Broncos.",
+    "byline_count": 2,
+    "author_names": [
+      "Eric Todisco",
+      "Vanessa Serna"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T01:09:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/14/brian-hickerson-was-allegedly-blamed-for-hayden-panettiere-death/",
+    "source": "TMZ",
+    "title": "Hayden Panettiere's BF Brian Hickerson Bar Fight Triggered by Smack Talk on Her Death",
+    "summary": "Hayden Panettiere\u2019s boyfriend Brian Hickerson was being heckled for the late actress\u2019 death moments before his bar altercation that led to his brother Zach\u2019s arrest, TMZ has learned. Sources close to the brothers tell TMZ \u2026 Brian, who has&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T01:22:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-15/mexico-murder-trial-told-suspect-boasted-about-australian-deaths/107152224",
+    "source": "ABC Australia",
+    "title": "Man accused of killing Australian surfers was an assassin, court told",
+    "summary": "One of the men accused of killing Australian brothers Jake and Callum Robinson and their American friend in Mexico was an assassin with a list of targets, a court has heard.",
+    "byline_count": 2,
+    "author_names": [
+      "Cason Ho",
+      "Lucia Stein"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:54:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/politics/story/2026-09-14/supreme-court-halts-trumps-proposed-limits-on-mail-ballots-for-this-years-elections",
+    "source": "Los Angeles Times",
+    "title": "Supreme Court halts Trump's proposed limits on mail ballots for this year's elections",
+    "summary": "<p>The justices turned down an emergency appeal from Trump's lawyers, who argued the government needed a new and untested system of unique bar codes to track millions of mailed ballots.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "David G. Savage",
+      "Kevin Rector"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:54:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/politics/story/2026-09-14/newsom-says-he-wont-run-for-president-if-harris-does",
+    "source": "Los Angeles Times",
+    "title": "Newsom says he won't run for president if Harris does",
+    "summary": "<p>Newsom's effective yield to Harris diminishes the possibility of a 2028 showdown between two of California's most powerful political figures.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Justine McDaniel"
+    ],
+    "total_score": 2,
     "matched_categories": [
       "sourcing_depth"
     ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T22:45:09+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T22:58:21+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.tmz.com/2026/09/11/ron-desantis-defends-lindsay-clancy-holdout-juror/",
-    "source": "TMZ",
-    "title": "Ron DeSantis Accuses Media of Smear Campaign Against Lindsay Clancy Holdout Juror",
-    "summary": "Ron DeSantis is defending the Lindsay Clancy holdout in the wake of a bombshell report that revealed a history of alleged domestic violence and an active restraining order. The Florida governor took to X on Friday to accuse the media of launching a&hellip;",
+    "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here\u2019s what to know.",
+    "summary": "Analysts don\u2019t expect the push for more responsible AI development to derail data-center spending.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T20:56:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/politics/article/3367502/hong-kongs-next-policy-address-just-around-corner-heres-what-expect?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hong Kong\u2019s next policy address is just around the corner. Here\u2019s what to expect",
+    "summary": "Hong Kong leader John Lee Ka-chiu\u2019s coming policy address will introduce measures to remove hurdles for businesses setting up shop in the Northern Metropolis and include proactive initiatives to strengthen innovation hubs, research efforts and tech applications, the South China Morning Post has learned.\nGovernment sources said measures supporting the megaproject in the northern New Territories and backing innovation were expected to be major highlights of the chief executive\u2019s policy address on...",
     "byline_count": 1,
     "author_names": [
-      "TMZ Staff"
+      "Olga Wong"
     ],
-    "total_score": 3,
+    "total_score": 2,
     "matched_categories": [
-      "primary_source"
+      "exclusivity"
     ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T01:00:20+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:30:05+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.nbcnews.com/video/holdout-juror-in-clancy-trial-faced-domestic-violence-allegations-in-the-past-269743685517",
-    "source": "NBC News",
-    "title": "Holdout juror in Clancy trial faced domestic violence allegations in the past",
-    "summary": "The holdout juror in the Lindsay Clancy murder trial that ended in a mistrial has a history of domestic violence allegations, according to court documents seen by NBC Boston.",
-    "byline_count": 1,
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Iran war live: CENTCOM disputes IRGC claim supertanker struck by Hormuz nav",
+    "summary": "CENTCOM disputes the IRGC claim that the Panama-flagged oil tanker El Gaia hit naval mines in the Strait of Hormuz.",
+    "byline_count": 2,
     "author_names": [
-      "NBC News"
+      "Faisal Aziz Khan",
+      "Kristina Harazim"
     ],
-    "total_score": 3,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T21:25:58+00:00",
-    "is_new": false
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:00:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.theguardian.com/us-news/2026/sep/11/cia-officer-gold-bars-tentative-plea-deal",
-    "source": "The Guardian US",
-    "title": "Ex-CIA officer accused of stealing gold bars reaches tentative plea deal",
-    "summary": "<p>David Rush accused of stealing hundreds of gold bars worth over $40m and hiding them in his basement</p><p>Federal prosecutors have reached a tentative plea agreement with a former <a href=\"https://www.theguardian.com/us-news/cia\">CIA</a> officer accused of stealing hundreds of gold bars worth more than $40m from the US spy agency and hiding them in his basement, court records show.</p><p>David Rush and federal justice department prosecutors have a \u201cplea agreement in principle\u201d, the parties said <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.vaed.596235/gov.uscourts.vaed.596235.31.0.pdf\">in a Friday court filing</a>. The parties also asked a judge to extend the 17 September deadline for three weeks through 8 October to allow them time to \u201cresolve the matter prior to an indictment\u201d.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/11/cia-officer-gold-bars-tentative-plea-deal\">Continue reading...</a>",
-    "byline_count": 1,
+    "link": "https://fortune.com/2026/09/14/mark-carney-canada-global-investors-summit-trump-tariffs-trade-war-rule-of-law/",
+    "source": "Fortune",
+    "title": "Mark Carney pitches Canada to global investors as \u2018much more than being next to the United States\u2019 and a reliable partner that \u2018respects rule of law\u2019",
+    "summary": "\u201cThey are coming because of Canada,\u201d he said. \u201cIf they wanted to go to the United States, they would go to the United States.\u201d",
+    "byline_count": 2,
     "author_names": [
-      "Lucy Campbell"
+      "Rob Gillies",
+      "The Associated Press"
     ],
-    "total_score": 3,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T22:30:55+00:00",
-    "is_new": false
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T22:50:01+00:00",
+    "is_new": true
   },
   {
-    "link": "https://thehill.com/homenews/state-watch/6085748-florida-offers-asylum-holdout-juror/",
-    "source": "The Hill",
-    "title": "DeSantis: \u2018Florida will provide asylum\u2019 to holdout juror in Lindsay Clancy case",
-    "summary": "Florida Gov. Ron DeSantis (R) on Friday accused the media of launching a smear campaign against the lone holdout juror in the Lindsay Clancy murder trial, after a report revealed that the juror had a history of alleged domestic violence and an active restraining order. \u201cA man objected to allowing a woman to kill her&#8230;",
+    "link": "https://www.courthousenews.com/hud-flails-in-push-for-dei-limits-to-housing/",
+    "source": "Courthouse News",
+    "title": "HUD flails in push for DEI limits to housing",
+    "summary": "A federal judge in Oakland declined the Trump administration's motion to dismiss the lawsuit, filed by several cities' housing authorities.",
     "byline_count": 1,
     "author_names": [],
-    "total_score": 3,
+    "total_score": 2,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T01:43:37+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:00:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-says-trump-cannot-enforce-new-mail-ballot-regulation-rcna596088",
+    "source": "NBC News",
+    "title": "Supreme Court says Trump can\u2019t enforce new mail-in ballot regulation",
+    "summary": "The decision means a Postal Service measure that could lead to ballots not being sent to voters won\u2019t be in effect for this November\u2019s midterm elections.",
+    "byline_count": 2,
+    "author_names": [
+      "Lawrence Hurley",
+      "Jane C. Timm "
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:36:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/live-updates/2026-emmy-awards-winners-list/",
+    "source": "CBS News",
+    "title": "Emmy Awards winners list for 2026: Live updates",
+    "summary": "The 78th Primetime Emmy Awards are celebrating the best in television and streaming. See the full list of winners and nominees.",
+    "byline_count": 2,
+    "author_names": [
+      "Jordan  Freiman",
+      "Faris  Tanyos"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T02:03:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/trump-nominates-kimberly-greenwood-ambassador-barbados/",
+    "source": "CBS News",
+    "title": "Trump nominates Lee Greenwood's wife to serve as ambassador to Barbados",
+    "summary": "President Trump on Monday nominated Kimberly Greenwood, the wife of \"God Bless the USA\" singer Lee Greenwood, to serve as ambassador to Barbados and several other Caribbean countries.",
+    "byline_count": 2,
+    "author_names": [
+      "Joe  Walsh",
+      "Kristin  Brown"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T01:27:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/supreme-court-blocks-new-postal-service-mail-ballots-trump/",
+    "source": "CBS News",
+    "title": "Supreme Court blocks new Postal Service rules for mail ballots in blow to Trump",
+    "summary": "The Supreme Court left intact a ruling that blocked the U.S. Postal Service from enforcing new regulations for mail voting, rejecting the Trump administration's effort to move forward with the rules in the midterms.",
+    "byline_count": 2,
+    "author_names": [
+      "Melissa  Quinn",
+      "Jacob  Rosen"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T01:35:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/09/14/cnbcs-the-china-connection-newsletter-tech-controls-employees.html",
+    "source": "CNBC",
+    "title": "CNBC's The China Connection newsletter: Tech controls expand to employees",
+    "summary": "As the U.S.-China tech rivalry simmers, Beijing is increasing restrictions on how its companies can deploy their tech talent overseas.",
+    "byline_count": 2,
+    "author_names": [
+      "Evelyn Cheng",
+      "Anniek Bao"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:00:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Legendary costume designer Bob Mackie who designed for Cher and Dolly Parton dies aged 87",
+    "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+    "byline_count": 2,
+    "author_names": [
+      "Tiffany Wertheimer",
+      "Jack Burgess"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T21:29:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+    "source": "CNBC",
+    "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+    "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
+    "byline_count": 2,
+    "author_names": [
+      "Anniek Bao",
+      "Evelyn Cheng"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T02:12:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/emmys-red-carpet-best-dressed-celebrities-2026-9",
+    "source": "Business Insider",
+    "title": "The best-dressed celebrities at the 2026 Emmy Awards",
+    "summary": "Celebrities like Selena Gomez and Mariska Hargitay wore some of the best looks at the 2026 Emmys Awards, held in Los Angeles on Monday.",
+    "byline_count": 2,
+    "author_names": [
+      "Samantha Grindell Pettyjohn",
+      "Amanda Krause"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T01:52:31+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "US has deployed a space weapon, air force secretary says",
+    "summary": "It is the first time the US has acknowledged having a weapon in space, which it says is necessary to defend the country against enemy action.",
+    "byline_count": 2,
+    "author_names": [
+      "Bernd Debusmann Jr",
+      "Chris Graham"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T01:52:02+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/emmys-worst-dressed-celebrities-red-carpet-2026-9",
+    "source": "Business Insider",
+    "title": "9 celebrity looks that missed the mark at the 2026 Emmys",
+    "summary": "Some celebrities pulled out all the stops at the 2026 Emmys with their fashion, while others didn't wear their best red-carpet looks.",
+    "byline_count": 2,
+    "author_names": [
+      "Samantha Grindell Pettyjohn",
+      "Amanda Krause"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T01:36:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/policy/defense/6089324-iranian-strikes-us-diplomatic-damage/",
+    "source": "The Hill",
+    "title": "Iran strikes on US diplomatic facilities in 4 Gulf countries cost $184M: IG report",
+    "summary": "U.S. diplomatic facilities in four Gulf countries suffered around $184 million in estimated damages from Iranian military strikes, according to a new report from the Pentagon\u2019s watchdog made public on Monday.\u00a0 The posts are located in Iraq, Kuwait, Saudi Arabia and the United Arab Emirates (UAE), the Pentagon watchdog said in the 44-page&#160;report, the first&#8230;",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T23:20:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theatlantic.com/politics/2026/09/trump-ai-policy-anthropic/688620/?utm_source=feed",
+    "source": "The Atlantic",
+    "title": "Trump\u2019s See-No-Evil AI Policy",
+    "summary": "Lawmakers from both parties are worried. But the president isn\u2019t listening.",
+    "byline_count": 2,
+    "author_names": [
+      "Jonathan Lemire",
+      "Toluse Olorunnipa"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-15T00:53:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/14/mitch-mcconnell-senate-republicans-capitol-vote-fall-hospital",
+    "source": "Axios",
+    "title": "McConnell returns to Capitol after 3-month absence",
+    "summary": "<p>Sen. <a href=\"https://www.axios.com/2026/07/12/mitch-mcconnell-hospitalization-fall-pneumonia\" target=\"_blank\">Mitch McConnell</a> voted at the U.S. Capitol on Monday for the first time in three months after being hospitalized in June.</p><p><strong>Why it matters: </strong>The Kentucky Republican's return could finally unjam the farm bill \u2014 and put some <a href=\"https://www.axios.com/2026/07/07/mitch-mcconnell-health-senate-gop-leaders\" target=\"_blank\">MAGA world rumors</a> to rest about his ability to do the job.</p><hr /><ul><li>McConnell arrived in a wheelchair and spoke briefly to reporters, joking that after years of avoiding their questions, he \"wasn't sure how many of you would be here today. But I'm glad to see you. It's time to get back to work.\"</li><li>He did not take questions but cast a vote Monday evening in favor of Matthew Byrne's nomination to be a district judge in Ohio. '</li><li>McConnell said he was ready to work on the farm bill, as well as on supporting NATO ",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-15T02:35:38.304862+00:00",
+    "published_parsed": "2026-09-14T22:10:33+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/14/angelina-jolie-and-brad-pitt-son-maddox-officially-changes-name/",
@@ -1619,7 +2019,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T19:24:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/14/mary-jo-buttafuoco-fighting-breast-cancer/",
@@ -1636,7 +2036,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:00:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/14/prince-harry-and-meghan-markle-remove-their-kids-kids-from-school-in-london/",
@@ -1653,7 +2053,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:35:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-uebernahme-bundesregierung-unicredit-gespraeche-berlin-li.3547170",
@@ -1669,7 +2069,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T17:14:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-15/migrants-on-life-in-booming-outer-suburbs-melbourne/107132328",
@@ -1685,7 +2085,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T19:22:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-15/suburban-rail-loop-box-hill-planning-shift/107151308",
@@ -1701,7 +2101,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T19:13:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-15/us-apples-closer-to-australian-shelves-import-biosecurity/107150424",
@@ -1717,7 +2117,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:29:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/environment/story/2026-09-14/epa-scraps-power-plant-emissions-limits-in-sweeping-rollback",
@@ -1733,7 +2133,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:44:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-14/charles-manson-right-hand-man-bruce-davis-dies",
@@ -1749,7 +2149,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T17:41:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/canada/hamilton/niagara-wineries-react-to-import-ban-9.7340531?cmp=rss",
@@ -1765,7 +2165,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-11T19:23:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/middle-east/article/3367509/israeli-army-chief-orders-legal-review-gaza-war-documentary-naza?utm_source=rss_feed",
@@ -1782,7 +2182,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T18:34:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss",
@@ -1799,7 +2199,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T19:59:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/columbia-did-not-care-mahmoud-khalil-files-discrimination-lawsuit?traffic_source=rss",
@@ -1814,7 +2214,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:23:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.statnews.com/2026/09/14/court-halts-dhs-visa-limits-foreign-scholars/?utm_campaign=rss",
@@ -1830,7 +2230,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:20:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.icij.org/investigations/china-capital/faqs-icbc-china-capital-bank/",
@@ -1847,7 +2247,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:40:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.icij.org/investigations/china-capital/china-banking-icbc-oligarchs-sanctions-london/",
@@ -1864,7 +2264,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:41:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.icij.org/investigations/china-capital/zhang-hongli-icbc-executive-corruption-employee-misconduct/",
@@ -1881,7 +2281,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:41:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/texas-landowners-sue-trump-administration-border-big-bend-construction-rcna597734",
@@ -1898,7 +2298,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:04:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/national-security/pentagon-watchdog-says-iran-war-led-munitions-shortfall-rcna597019",
@@ -1914,7 +2314,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:28:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/man-pleads-not-guilty-denied-bond-charges-tasia-fortunes-murder-rcna597669",
@@ -1930,7 +2330,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T18:21:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/congress/mitch-mcconnell-returns-senate-three-month-absence-rcna597815",
@@ -1946,7 +2346,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:14:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/ice-deports-service-members-families-pentagon-turns-immigrant/story?id=136375571",
@@ -1962,7 +2362,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T09:21:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/russian-oligarch-paid-parts-donald-trump-jrs-wedding/story?id=136425474",
@@ -1978,7 +2378,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:09:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/kennedy-center-warns-bankruptcy-trumps-added-building-court/story?id=136428259",
@@ -1994,7 +2394,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:05:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
@@ -2010,7 +2410,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:56:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/articles/defense-startup-shield-ai-talks-valuation-least-20-billion",
@@ -2026,7 +2426,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:44:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
@@ -2042,7 +2442,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:34:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
@@ -2058,7 +2458,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:10:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/videos/cq98692g6xxdo?at_medium=RSS&at_campaign=rss",
@@ -2073,7 +2473,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:15:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/education/6088960-mahmoud-khalil-columbia-lawsuit-palestine/",
@@ -2088,7 +2488,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T20:31:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/administration/6089123-trump-resists-ai-regulation-warnings/",
@@ -2101,7 +2501,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T21:45:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/disney-calls-more-remote-employees-back-into-the-office-rto-2026-9",
@@ -2118,7 +2518,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T22:36:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/sep/14/mahmoud-khalil-columbia-university-lawsuit",
@@ -2135,7 +2535,7 @@
     ],
     "first_seen_at": "2026-09-14T22:53:22.514316+00:00",
     "published_parsed": "2026-09-14T19:34:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/tv/news/this-summer-will-be-different-series-cast-malin-akerman-1236861257/",
@@ -4404,207 +4804,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-12T08:15:22.919060+00:00",
     "published_parsed": "2026-09-12T05:55:15+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/11/ex-male-escort-reveals-photos-in-lawsuit-against-diddy-and-cassie/",
-    "source": "TMZ",
-    "title": "Diddy and Cassie: Ex Male Escort Says New Photo Evidence In Lawsuit Shows Freak-Off Prep",
-    "summary": "The former male escort suing Diddy and Cassie over alleged trauma from their freak-offs says he's got photos that will help prove his case ... claiming the images show him being flown out and put up in hotels for marathon sex sessions. TMZ obtained&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T00:00:36+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-11/former-employee-sues-activision-blizzard-claiming-sexual-harassment-discrimination",
-    "source": "Los Angeles Times",
-    "title": "Former employee sues Activision Blizzard, claiming sexual harassment and discrimination",
-    "summary": "<p>Activision Blizzard previously agreed to pay about $50 million to settle a California employment discrimination and equal pay lawsuit.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Stacy Perman"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T10:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-12/aukus-already-testing-rockingham-resources/107145172",
-    "source": "ABC Australia",
-    "title": "Growing pains in Rockingham before AUKUS subs even arrive",
-    "summary": "With the WA city of Rockingham set to experience growth equivalent to hosting 10 Olympic Games, community leaders are questioning how the region south of Perth will cope and who will foot the bill.",
-    "byline_count": 2,
-    "author_names": [
-      "Nadia Mitsopoulos",
-      "Emma Wynne"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T23:08:40+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-12/bendigo-geelong-urged-to-join-light-rail-revolution/107139112",
-    "source": "ABC Australia",
-    "title": "Bendigo, Geelong urged to join light rail revolution",
-    "summary": "Almost 20 years ago, transport expert Peter Newman called for Bendigo's trams to be used as public transport. Now, Bendigo and Geelong are among several cities across Australia looking to adopt light rail as a potential transport solution.",
-    "byline_count": 2,
-    "author_names": [
-      "Tyrone Dalton",
-      "Jonathon Kendall"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T00:34:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-12/cyclists-ride-to-honour-palmerston-double-fatal-crash-victims/107130832",
-    "source": "ABC Australia",
-    "title": "'Worst possible news': Hundreds gather to remember fatal crash victims",
-    "summary": "A crowd of Canberra cyclists rides to remember Bridie Lee and Ryan Riethmuller, who were cycling with three others when they were struck by a car on August 27 in Palmerston.",
-    "byline_count": 2,
-    "author_names": [
-      "Niki Burnside",
-      "James Vyver"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T01:29:07+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/hong-kong/society/article/3367266/senior-official-asked-resign-over-defective-lifts-queen-mary-hospital?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Senior official asked to resign over defective lifts at Queen Mary Hospital",
-    "summary": "A senior Hong Kong government official who oversaw faulty lift installation work that stalled the launch of a new block at Queen Mary Hospital was asked to resign and left her post last month to take responsibility for the defects and delays on other projects, the South China Morning Post has learned.\nBut experts criticised the authorities\u2019 handling of civil service management missteps, which bypassed the established disciplinary mechanism, saying it lacked transparency.\nMultiple sources said...",
-    "byline_count": 1,
-    "author_names": [
-      "Vivian Au"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T00:30:06+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbc.ca/news/canada/calgary/banff-mark-carney-thomas-lukaszuk-foreever-canadian-9.7341348?cmp=rss",
-    "source": "CBC News",
-    "title": "'Canada is everyone, for everyone': Carney meets with Alberta remain campaigners",
-    "summary": "<img alt=\"Two men fist bump in front of a group of people holding red and white signs and standing in front of an RV decorated with red maple leafs.\" height=\"349\" src=\"https://i.cbc.ca/ais/abc2b9a8-90e3-4d26-842f-42c3d7e47a88,1789166732420/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C591%2C5443%2C3061%29%3B\" title=\"Prime Minister Mark Carney, centre left, and Forever Canadian founder Thomas Lukaszuk, centre right, bump fists after posing for a group photo with volunteers following a cabinet retreat in Banff, Alta., Friday, Sept. 11, 2026.\" width=\"620\" /><p>The head of the Forever Canadian group campaigning for Alberta to remain in the federation said Friday Prime Minister Mark Carney has been a \"calm\" and \"reassuring\" presence for Albertans.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Kyle Duggan",
-      "Bill Graveland"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T23:20:16+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/dan-caine-response-9-11-experience/",
-    "source": "CBS News",
-    "title": "Gen. Dan Caine reflects on responding to 9/11: \"No doubt\" nation was at war",
-    "summary": "Now the chairman of the Joint Chiefs of Staff, Gen. Dan Caine was a young fighter pilot mobilized in the response on Sept. 11, 2001.",
-    "byline_count": 2,
-    "author_names": [
-      "Norah  O'Donnell",
-      "Kerry  Breen"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T01:19:55+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Reform receives record \u00a336m donation from crypto billionaire",
-    "summary": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
-    "byline_count": 2,
-    "author_names": [
-      "Ben Wright",
-      "Doug Faulkner"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T23:27:18+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/policy/defense/6085660-houthis-takeover-port-saudi-gas-pipeline/",
-    "source": "The Hill",
-    "title": "Proxy fight in Yemen heats up, risking new front in US-Iran war",
-    "summary": "The Iranian-backed Houthi rebel group\u2019s reported takeover of a Yemen port city is raising the stakes in Tehran\u2019s war with the U.S. Saudi Arabia, which backs Yemen\u2019s military, is reportedly urging President Trump to strike the rebels, while the U.S. has sent more than 100 advisors to aid its Saudi allies in the fight. In&#8230;",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T22:45:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-library-legal-action.html",
-    "source": "NYT",
-    "title": "Federal Judge Poised to Dismiss Lawsuit Challenging Trump\u2019s Library",
-    "summary": "The judge, in halting the pretrial fact-finding process, said President Trump\u2019s claim of immunity could \u201cdispose of the entire case\u201d involving the library to be built in Miami.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-12T01:16:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/newsletters/technology/6085640-the-debate-over-ai-doomsday-warnings/",
-    "source": "The Hill",
-    "title": "The debate over AI \u2018doomsday\u2019 warnings",
-    "summary": "{beacon} Technology Technology &#8202; The Big Story&#160; Debate explodes over AI &#8216;doomsday&#8217; warnings&#160; A former Anthropic researcher\u2019s&#160;warning&#160;that AI could soon destroy humanity broke past the typical tech circles last week, setting off a new firestorm of debate over the technology\u2019s rapid development.&#160; \u00a9 Envato Researchers have warned of AI\u2019s potential danger for years, but nothing&#8230;",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T22:26:43+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/newsletters/healthcare/6085623-cdc-declares-cyclospora-outbreak-over/",
-    "source": "The Hill",
-    "title": "CDC declares cyclospora outbreak over",
-    "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story&#160; CDC declares cyclospora outbreak over&#160; After nearly 13,000 cases and more than 500 hospitalizations, the Centers for Disease Control and Prevention (CDC) said there is no longer any risk of contracting cyclosporiasis from the source linked to the outbreak.&#160; David&#8230;",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-12T02:16:28.230213+00:00",
-    "published_parsed": "2026-09-11T22:17:03+00:00",
     "is_new": false
   }
 ]
