@@ -16,7 +16,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:45:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/15/ice-detention-miscarriages-pregnancy",
@@ -273,7 +273,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:08:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-16/nbc4-helicopter-crash-recording-holds-vital-details-ntsb-investigation",
@@ -1148,6 +1148,75 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/09/17/jimmy-buffett-wife-jane-alleged-drug-use-questioned-in-estate-battle/",
+    "source": "TMZ",
+    "title": "Jimmy Buffett's Kids Grilled About Mom's Alleged Ketamine Use In $275M Legal War",
+    "summary": "The legal war over Jimmy Buffett's estate is turning ugly \u2026 with the late singer's children fielding questions about their mom's alleged drug use ... TMZ has learned. According to court docs, obtained by TMZ, Jimmy's son Cameron and daughter&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T08:00:51+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/17/nicki-minaj-problems-with-low-album-promo-budget-revealed/",
+    "source": "TMZ",
+    "title": "Nicki Minaj: Issues With \u2018Extremely Low\u2019 'Pink Friday 2' Promo Budget Revealed in Court",
+    "summary": "Nicki Minaj\u2019s team apparently took issue with the budget proposed for promotion for her \"Pink Friday 2\" album ... TMZ has learned. TMZ obtained evidence submitted as part of the ongoing legal battle between 24/7 Productions and Nicki Minaj. The&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T07:00:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-17/class-splitting-collapsing-teacher-shortage-education-union/107161270",
+    "source": "ABC Australia",
+    "title": "Schools grappling with class 'splitting' as union flags industrial action",
+    "summary": "A nationwide teacher shortage affecting the ACT is causing huge teacher workloads and disrupting learning, as the union calls on the government to step up its pay and conditions offer.",
+    "byline_count": 3,
+    "author_names": [
+      "Madeleine Rojahn",
+      "Peter Lusted",
+      "Adam Shirley"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T07:26:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/asia/southeast-asia/article/3367845/malaysia-seizes-3-israeli-bound-containers-anwar-pledges-stop-shipments-gaza-war?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Malaysia seizes 3 Israeli-bound containers as Anwar pledges to stop shipments for Gaza war",
+    "summary": "Authorities in Malaysia have seized several more Israel-bound shipments at one of the country\u2019s biggest ports, according to people familiar with the matter, an apparently new level of scrutiny in a nation where anti-Israeli sentiment runs high.\nThree containers bound for Ashdod Port south of Tel Aviv were detained at Malaysia\u2019s Tanjung Pelepas port in mid-August and to date had not been released as authorities investigate their contents, the people familiar with the matter said, asking not to be...",
+    "byline_count": 1,
+    "author_names": [
+      "Bloomberg"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T07:44:11+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
     "source": "Al Jazeera English",
     "title": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
@@ -1162,7 +1231,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/travis-kelce-victim-multi-million-dollar-ponzi-scheme-rcna598243",
@@ -1180,7 +1249,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T00:06:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/women-sue-epsteins-estate-saying-photos-found-vast-child-porn-collecti-rcna598154",
@@ -1198,7 +1267,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:25:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/gonna-americans-face-tough-decisions-diesel-gas-prices/story?id=136503928",
@@ -1215,7 +1284,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T19:43:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/trump-kennedy-center-ripped-recognition/story?id=136513298",
@@ -1232,7 +1301,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T01:24:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/09/16/trump-iran-talks-gulf-leaders-un",
@@ -1248,7 +1317,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T23:40:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/09/16/entertainment/rhony-star-jessel-taank-doubles-down-on-shocking-carolyn-bessette-bitch-comment/",
@@ -2850,6 +2919,42 @@
     "is_new": false
   },
   {
+    "link": "https://deadline.com/2026/09/two-birds-jacki-weaver-replacing-judy-davis-itv-stan-1237105053/",
+    "source": "Deadline",
+    "title": "Jacki Weaver Replacing Judy Davis In ITV & Stan Drama \u2018Two Birds\u2019",
+    "summary": "EXCLUSIVE: Two-time Oscar nominee Jacki Weaver has replaced Judy Davis in Two Birds, the upcoming thriller from the UK&#8217;s ITV and Australia&#8217;s Stan. First look images are above and below. Davis has dropped out due to scheduling conflicts, we understand. Her place playing the formidable Mrs Baxter is taken by Weaver, who has starred in [&#8230;]",
+    "byline_count": 2,
+    "author_names": [
+      "Max Goldbart",
+      "Jesse Whittock"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T07:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://deadline.com/2026/09/stan-mcleods-daughters-revival-angourie-rice-stuck-up-stupid-1237104979/",
+    "source": "Deadline",
+    "title": "Stan Sets \u2018McLeod\u2019s Daughters\u2019 Revival, Rachel Griffiths-Starrer \u2018Slander\u2019 & Angourie Rice\u2019s \u2018Pride & Prejudice\u2019 Reimagining",
+    "summary": "EXCLUSIVE: Australia&#8217;s Stan is remaking iconic rural series McLeod&#8217;s Daughters and has greenlit shows starring Rachel Griffiths, Angourie Rice and Anna Friel. The revival of Nine Network&#8217;s McLeod&#8217;s Daughters comes 25 years after the original, an early 2000s drama about sisters who take over a cattle ranch in South Australia. A lot has happened since [&#8230;]",
+    "byline_count": 2,
+    "author_names": [
+      "Jesse Whittock",
+      "Max Goldbart"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T06:00:00+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://pagesix.com/2026/09/16/society/legendary-club-1oak-makes-comeback-with-nyfw-bash-rumored-new-home/",
     "source": "Page Six",
     "title": "Legendary club 1OAK makes comeback with NYFW bash as buzz of rumored new home revealed",
@@ -2864,7 +2969,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T00:13:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/middle-east/article/3367777/saudis-seek-allies-help-missile-defences-run-low-fight-houthis?utm_source=rss_feed",
@@ -3414,6 +3519,358 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-09-17/federal-labor-2022-election-promise-mandatory-income-management/107159732",
+    "source": "ABC Australia",
+    "title": "Concern over federal Labor's quiet extension of mandatory income management",
+    "summary": "The federal Labor government has extended its compulsory income management scheme which affects 30,000 Territorians, despite many experts claiming the practice is discriminatory.",
+    "byline_count": 2,
+    "author_names": [
+      "Elsie Lange",
+      "Jacqueline Breen"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T04:59:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/16/ed-sheeran-tour-palestine-protest-planned-for-philadelphia-show/",
+    "source": "TMZ",
+    "title": "Ed Sheeran Tour: Pro-Palestine Group Plans Protest for Philly Show",
+    "summary": "The backlash over Macklemore being dropped from Ed Sheeran\u2019s tour continues \u2026 with a prominent Pro-Palestine group in Philly announcing a protest outside his show this weekend, TMZ has learned. The group, Philly Palestine Coalition, and another&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T02:33:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-17/universities-students-respond-to-move-to-bar-student-families/107163192",
+    "source": "ABC Australia",
+    "title": "Universities and students alarmed by immigration crackdown on families",
+    "summary": "Higher education stakeholders say sweeping migration changes will jeopardise an export industry worth $55 billion, with international students likely to choose other destinations.",
+    "byline_count": 2,
+    "author_names": [
+      "Mikaela Ortolan",
+      "Max Walden"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T06:32:16+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/entertainment-arts/awards/story/2026-09-14/emmys-2026-live-chat",
+    "source": "Los Angeles Times",
+    "title": "Top takeaways from 2026 Emmys: Mariska's 'madness,' emotional moments, 'Widow's Bay' reigns",
+    "summary": "<p>Columnists Mary McNamara and Glenn Whipp broke down the 2026 Emmy Awards as they happened. Here were the night's biggest storylines.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Mary McNamara",
+      "Glenn Whipp"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-14T23:45:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-17/queensland-data-centre-politicians-responses/107164154",
+    "source": "ABC Australia",
+    "title": "Coal-fired power needed to bolster $32bn Qld data centre, Nationals MP says",
+    "summary": "Nationals MP David Littleproud is backing more coal-fired power stations and nuclear energy to underpin the enormous energy requirements of a $32bn data centre.",
+    "byline_count": 2,
+    "author_names": [
+      "Stephen Clarke",
+      "Liz Gwynn"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T06:03:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-17/grandmother-says-system-failing-south-hedland/107163896",
+    "source": "ABC Australia",
+    "title": "Grandmother says system failing despite WA child protection minister's flying visit",
+    "summary": "On the anniversary of her grandchildren's burial, Dorothy Papertalk is leading calls for change in South Hedland as a political firestorm grows over Western Australia's child protection failures.",
+    "byline_count": 2,
+    "author_names": [
+      "Alistair Bates",
+      "Amy Rossbach"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T08:24:54+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-17/farming-tourism-backpacker-concerns-federal-immigration-changes/107150350",
+    "source": "ABC Australia",
+    "title": "Farming, tourism leaders slam federal government's backpacker cuts",
+    "summary": "Farming and tourism industry leaders say cuts to backpacker numbers will slash the available workforce across regional Australia.",
+    "byline_count": 2,
+    "author_names": [
+      "Andrew Chounding",
+      "Gian De Poloni"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T08:33:27+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/pierre-damas-bel-ice-ankle-monitor-haiti-tps-9.7346603?cmp=rss",
+    "source": "CBC News",
+    "title": "'Blood is on our hands': Haitian honour student's death sparks outcry over ICE ankle monitors",
+    "summary": "<img alt=\"A high school student smiles as he holds up certificates and a medal.\" height=\"349\" src=\"https://i.cbc.ca/ais/41f27a6a-76ad-4d51-bac8-274531606b3d,1789583283026/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C112%2C2028%2C1140%29%3B\" title=\"Pierre Damas Bel was a proud member of the Junior Reserve Officers&apos; Training Corps at Springfield High School, earning the rank of lieutenant.\" width=\"620\" /><p>Pierre Damas Bel fled Haiti and came to the U.S. with a dream of becoming a neurosurgeon. But after U.S. immigration authorities fitted the 20-year-old university student with an ankle monitor, he felt he was \"treated like an animal\" \u2014 and died weeks later when he walked into highway traffic.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Aloysius Wong",
+      "Idil Mussa"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T08:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/business/banking-finance/article/3367810/hong-kong-support-rocket-satellite-ipos-spacex-led-sector-takes?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hong Kong to support rocket, satellite IPOs as SpaceX-led sector takes off",
+    "summary": "Hong Kong aims to adjust listing rules to grab a share of initial public offerings by mainland China\u2019s space companies, in line with Beijing\u2019s priorities and heightened activity in the sector following the blockbuster June listing by Elon Musk\u2019s SpaceX.\nThat could lead to more head-to-head competition between the Hong Kong stock exchange and the Shanghai Stock Exchange, which is now drawing a majority of applications, including commercial space launch providers and reusable rocket makers CAS...",
+    "byline_count": 1,
+    "author_names": [
+      "Zoe SL Chan"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T05:00:07+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3367837/hong-kong-police-officer-left-paralysed-2005-knife-attack-dies?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hong Kong police officer left paralysed in 2005 knife attack dies",
+    "summary": "A former Hong Kong police constable who was left paralysed and bedridden for 21 years following a knife attack during a stop-and-search has died, the South China Morning Post has learned.\nA source said Jacky Chu Chun-kwok who was in his fifties, died on Wednesday.\nFrankie Leung Chun-kit, chairman of the Junior Police Officers\u2019 Association, said on Thursday that the force\u2019s management supported burying Chu in Gallant Garden, a dedicated site at Wo Hop Shek Public Cemetery for public servants who...",
+    "byline_count": 1,
+    "author_names": [
+      "Danny Mok"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T06:56:04+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/snl-season-52-cast-rcna588129",
+    "source": "NBC News",
+    "title": "Here\u2019s who\u2019ll be on \u2018SNL\u2019 when Season 52 starts next week",
+    "summary": "Saidah Belo-Osagie and Grace Reiter will join \u201cSaturday Night Live,\u201d the show announced, while Chloe Fineman previously said she was leaving.",
+    "byline_count": 2,
+    "author_names": [
+      "Dennis Romero",
+      "Phil Helsel"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T03:31:44+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+    "source": "CNBC",
+    "title": "Trump says U.S. \u2018hopefully\u2019 nearing end of Iran war as Saudi Arabia-Houthis trade strikes",
+    "summary": "Trump says the U.S. may be nearing the end of its nearly seven-month war with Iran, as he signals Tehran is open to a deal.",
+    "byline_count": 2,
+    "author_names": [
+      "Anniek Bao",
+      "Sam Meredith"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T07:56:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/09/16/investors-react-to-fed-hike-market-sell-off-brace-for-higher-rates-for-longer.html",
+    "source": "CNBC",
+    "title": "Investors react to Fed hike and market sell-off: Brace for 'higher for longer' rates",
+    "summary": "The 12-0 decision to raise rates Wednesday signaled to investors that the Fed is now in complete alignment in tackling inflation.",
+    "byline_count": 2,
+    "author_names": [
+      "Sarah Min",
+      "Paulina Likos"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-16T21:22:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+    "source": "CNBC",
+    "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+    "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+    "byline_count": 2,
+    "author_names": [
+      "Anniek Bao",
+      "Priyanka Salve"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T08:46:04+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
+    "summary": "It comes after Macklemore pledged $1m to Palestinian causes, challenging the tycoon to match the sum.",
+    "byline_count": 2,
+    "author_names": [
+      "Nardine Saad",
+      "Ian Youngs & Mark Savage"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T08:44:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cqzrz03pvd43o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "'Everybody was as one': Reverend reflects on search effort for Noah Woods",
+    "summary": "The Reverend Chris Willis says the public reaction has been a \"thread of positivity\" in the sadness.",
+    "byline_count": 2,
+    "author_names": [
+      "Luke Deal",
+      "Rachael McMenemy"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T08:13:34+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Real Madrid keen on Man Utd forward Gabriel, 15",
+    "summary": "Real Madrid have a strong interest in signing 15-year-old Manchester United forward JJ Gabriel.",
+    "byline_count": 2,
+    "author_names": [
+      "Sami Mokbel",
+      "Simon Stone"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T07:52:32+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+    "source": "CNBC",
+    "title": "Putin braces for election stress test as Russians \u2018feel the pain\u2019 of struggling economy",
+    "summary": "Russia\u2019s upcoming election is expected to cement United Russia\u2019s dominance, but voter turnout and its margin of victory could offer clues to public discontent.",
+    "byline_count": 2,
+    "author_names": [
+      "Sam Meredith",
+      "Anniek Bao"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T05:00:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
+    "summary": "Austin Tice\u2019s abduction was approved by Syria\u2019s former leader Bashar al-Assad, a source claims.",
+    "byline_count": 2,
+    "author_names": [
+      "Josh Baker",
+      "Sara Obeidat"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T05:00:18+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/environment/2026/sep/17/2025-driest-years-worlds-rivers-study-finds",
+    "source": "The Guardian US",
+    "title": "2025 was among driest years on record for world\u2019s rivers, study finds",
+    "summary": "<p>Analysis of global resources reveals depletion in world\u2019s water savings bank to 42% below normal levels last year</p><p>Rivers across the world experienced one of their driest years in more than three decades in 2025, a comprehensive study of global water resources has found.</p><p>The assessment of the global water cycle by the World Meteorological Organisation (WMO) reveals a depletion in the world\u2019s water savings bank: the amount of freshwater held on or under the ground, including groundwater, lakes, rivers, snow, ice moisture in the soil and inside plants and trees, was 42% below normal across the world last year.</p> <a href=\"https://www.theguardian.com/environment/2026/sep/17/2025-driest-years-worlds-rivers-study-finds\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Sandra Laville",
+      "Carmen Aguilar Garc\u00eda"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T04:00:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.semafor.com/article/09/16/2026/trumps-saudi-ambassador-pick-wesley-hunt-faces-early-hurdles",
+    "source": "Semafor",
+    "title": "Trump\u2019s Saudi ambassador pick faces early hurdles",
+    "summary": "Sen. Thom Tillis and other Republicans expressed uncertainty about Rep. Wesley Hunt\u2019s nomination.",
+    "byline_count": 2,
+    "author_names": [
+      "Lauren Morganbesser",
+      "Eleanor Mueller"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T08:56:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/17/ai-cyber-doomsday-hacking-threats",
+    "source": "Axios",
+    "title": "AI's imminent hacking threat is hiding in plain sight",
+    "summary": "<p>An unprecedented wave of AI-powered, human-driven cyberattacks is coming, security experts say \u2014 and it's a far more <a href=\"https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning\" target=\"_blank\">urgent risk</a> than theoretical conversations about AI wiping out humanity.</p><p><strong>Why it matters:</strong> The great September AI panic \u2014 which spread from boardrooms to Congress to American households in the last week \u2014 may have missed the point.</p><hr /><ul><li>Powerful models with advanced cybersecurity capabilities are <a href=\"https://www.axios.com/2026/09/10/anthropic-claude-government-surveillance-threats\" target=\"_blank\">already</a> allowing attackers to bypass the human bottleneck that has long prevented most hacking campaigns from reaching industrial scale.</li><li>Executives and former officials have <a href=\"https://www.axios.com/2026/02/24/cyberattack-risk-scenarios-experts\" target=\"_blank\">told Axios</a> they fear automated cyberattacks t",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-17T09:03:39.494071+00:00",
+    "published_parsed": "2026-09-17T09:00:05+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/09/16/jay-manuel-selling-connecticut-mansion/",
     "source": "TMZ",
     "title": "'America\u2019s Next Top Model' Star Jay Manuel Lists Connecticut Home for $4.65M",
@@ -3428,7 +3885,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T00:00:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/16/clavicular-lily-snyder-break-up/",
@@ -3445,7 +3902,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:30:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/16/lamar-odom-girlfriend-claims-estranged-husband-said-he-will-give-up-son/",
@@ -3462,7 +3919,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T01:00:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/16/duncan-sheik-hospitalized/",
@@ -3479,7 +3936,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T01:32:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/16/paramount-negotiations-are-ongoing/",
@@ -3496,7 +3953,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:47:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-16/ed-sheeran-continue-loop-tour-macklemore-fallout-explained",
@@ -3513,7 +3970,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T23:03:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-17/manjumup-police-20-dollar-voucher-sober-drivers/107152548",
@@ -3529,7 +3986,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T23:03:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-16/ed-sheeran-macklemore-finneas-tour-explainer",
@@ -3545,7 +4002,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:51:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-17/johno-kathleen-reilly-johnston-book-child-migrants/107055326",
@@ -3561,7 +4018,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T00:12:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/sports/usc/story/2026-09-16/usc-trojans-football-trent-mosley-injured",
@@ -3577,7 +4034,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T01:21:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-16/southern-california-federal-judge-immigration-arrest-warrant-order",
@@ -3594,7 +4051,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T23:46:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.statnews.com/2026/09/16/lawsuit-argues-nih-violated-researcher-first-amendment-rights-aclu/?utm_campaign=rss",
@@ -3611,7 +4068,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T00:39:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/outlet-mall-owners-ask-texas-supreme-court-to-axe-mass-shooting-lawsuit/",
@@ -3626,7 +4083,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:28:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/illinois-winery-chugs-forward-in-california-alcohol-sales-lawsuit/",
@@ -3641,7 +4098,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T01:07:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/kennedy-niece-trump-holding-kennedy-center-hostage-amid/story?id=136488973",
@@ -3657,7 +4114,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T18:20:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
@@ -3673,7 +4130,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T01:43:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cq8je1n70xwo?at_medium=RSS&at_campaign=rss",
@@ -3689,7 +4146,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:01:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
@@ -3705,7 +4162,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T23:05:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/fed-hiked-interest-rates-what-economic-experts-say-comes-next-2026-9",
@@ -3721,7 +4178,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:30:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
@@ -3737,7 +4194,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T23:50:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/sep/16/trump-north-carolina-campaign-rally-republicans",
@@ -3753,7 +4210,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-17T01:51:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/house/6093976-house-russia-sanctions-bill-passes-trump/",
@@ -3766,7 +4223,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:32:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/state-watch/6094214-texas-woman-family-suing-paxton/",
@@ -3781,7 +4238,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T22:38:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/09/16/us/family-of-woman-who-died-while-pregnant-sues-texas-over-abortion-ban.html",
@@ -3796,7 +4253,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T21:18:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/09/16/upshot/trump-arch-washington.html",
@@ -3811,7 +4268,7 @@
     ],
     "first_seen_at": "2026-09-17T02:34:03.868394+00:00",
     "published_parsed": "2026-09-16T23:09:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/tv/news/snl-new-cast-members-grace-reiter-saidah-belo-osagie-1236864319/",
