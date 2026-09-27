@@ -263,6 +263,22 @@
     "is_new": false
   },
   {
+    "link": "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite",
+    "source": "Axios",
+    "title": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump",
+    "summary": "<p>President Trump plans to host <a href=\"https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei\" target=\"_blank\">Anthropic CEO Dario Amodei</a> at a private White House dinner on Sunday evening, sources familiar told Axios.</p><p><strong>Why it matters: </strong>The dinner \u2014the first one-on-one meeting between the two\u2014 is an indication of thawing relations between Anthropic and the administration, whose officials and allies have had longstanding tensions.</p><hr /><p><strong>Driving the news:  </strong>Trump and House Speaker Mike Johnson plan to meet top  AI CEOs Tuesday at the White House, and this friendly dinner serves as an appetizer.</p><ul><li>Top tech CEOs from OpenAI's Sam Altman to Google's Sundar Pichai flanked Trump during a state dinner last week but there was one notable exception \u2014Amodei, who had a scheduling conflict.</li><li>Afterward, Trump personally invited Amodei to the dinner, one of the sources said.</li></ul><p><strong>The big picture:</stro",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "headline_label"
+    ],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T15:26:12+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.theguardian.com/lifeandstyle/2026/sep/27/apologies-wish-made-repent-past-bads-behaviour-six-writers",
     "source": "The Guardian US",
     "title": "\u2018I\u2019d like to explain why I was such a monster back then\u2019: six writers on the apologies they wish they\u2019d made",
@@ -278,7 +294,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-27T09:41:36.751903+00:00",
     "published_parsed": "2026-09-27T05:00:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-27/brisbane-festival-2026-reviews/107118406",
@@ -734,6 +750,57 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646",
+    "source": "NBC News",
+    "title": "Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiations",
+    "summary": "Bill Gates called on the U.S. to lead in the global regulation of AI growth but warned agreeing on a global AI regulation could be \u201cmore difficult\u201d than Cold War-era nuclear negotiations.",
+    "byline_count": 1,
+    "author_names": [
+      "Alexandra Marquez"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T13:00:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba",
+    "source": "The Information",
+    "title": "China Weighs Allowing Purchases of New Nvidia Chips by ByteDance, Alibaba",
+    "summary": "<p>China\u2019s government has signaled it could allow some domestic companies to buy a new <a href=\"https://www.theinformation.com/org-charts/nvidia\">Nvidia</a> chip built for high-end professional computers, according to two people familiar with the matter, as the country\u2019s AI firms strain for enough computing power to run their chatbots and agents.</p>\n\n<p>The Ministry of Industry and Information Technology, which oversees China\u2019s tech sector, recently asked companies including Alibaba Group and ByteDance to report on their plans to buy Nvidia\u2019s RTX Pro 5500 chips, released this month&mdash;specifically how many they want to buy and what they\u2019ll use them for, the people said. The ministry has told some Chinese companies the government intends to approve the purchases, they said. Even if that happens, though, it\u2019s unclear when the approvals would come, how many chips officials would allow and what standards they would use to decide.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Qianer Liu"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T15:00:59+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+    "source": "CNBC",
+    "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+    "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+    "byline_count": 3,
+    "author_names": [
+      "Kif Leswing",
+      "Isabel O'Brien",
+      "Seema Mody"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T15:35:34+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.sueddeutsche.de/wirtschaft/reformen-bundesregierung-merz-linke-afd-li.3552926",
     "source": "Sueddeutsche Zeitung",
     "title": "Streit um Reformen: So k\u00f6nnte das noch was werden mit Deutschland",
@@ -748,7 +815,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-27T09:41:36.751903+00:00",
     "published_parsed": "2026-09-27T07:22:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-27/bird-flu-campaign/107201366",
@@ -765,7 +832,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-27T09:41:36.751903+00:00",
     "published_parsed": "2026-09-27T07:02:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/world/china/american-teachers-5000-donation-helped-turn-chinese-desert-lush-green-rcna598074",
@@ -782,7 +849,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-27T09:41:36.751903+00:00",
     "published_parsed": "2026-09-27T09:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/26/87-year-old-woman-eviction-madrid-apartment-protest-spain-housing-crisis/",
@@ -2445,6 +2512,207 @@
     "is_new": false
   },
   {
+    "link": "https://www.sueddeutsche.de/politik/berlin-rot-gruen-rot-sondierung-linke-elif-erlap-li.3554023",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Sondierungsgespr\u00e4che in Berlin: F\u00fcnf hohe H\u00fcrden f\u00fcr Rot-Gr\u00fcn-Rot",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/27/def0747b-ffae-4814-828f-b9bae8525de9.jpg?rect=222%2C0%2C3556%2C2667&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Linke, Gr\u00fcne und SPD starten Sondierungsgespr\u00e4che f\u00fcr eine Regierungskoalition in Berlin. Ob sie zusammenfinden, h\u00e4ngt von sehr komplizierten Streitthemen ab \u2013 und den eigenen Mitgliedern.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Meredith Haaf",
+      "Georg Ismar"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T10:08:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/california/story/2026-09-27/wrightwood-fights-century-long-mine-it-never-saw-coming",
+    "source": "Los Angeles Times",
+    "title": "Wrightwood residents fight a quarry they never saw coming",
+    "summary": "<p>By the time residents learned about the quarry, it had long ago received a key approval.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Alex Wigglesworth"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "Look closer, and Wall Street\u2019s rally is showing cracks",
+    "summary": "Major stock indexes hovering near records are masking a market straining under elevated oil prices, rising Treasury yields and a Federal Reserve bracing for additional interest-rate hikes.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T13:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+    "summary": "Micron is increasingly important to the S&amp;P 500, and its earnings report has become \u201ca market event in and of itself.\u201d",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T14:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/article/baby-boomers-millennials-mortgage-rates-aging-in-place-renovations/",
+    "source": "Fortune",
+    "title": "Baby boomers are setting up a showdown with millennials, aging in place and plunking down hundreds of thousands on renovating their homes",
+    "summary": "Millennials need homes, but because of high home prices and mortgage rates, baby boomers have little reason to sell.",
+    "byline_count": 2,
+    "author_names": [
+      "Sydney Lake",
+      "Alena Botros"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T13:16:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/09/27/ai-giants-openai-sam-altman-anthropic-dario-amodei-existential-risk-humanity-competitive-moat-safety/",
+    "source": "Fortune",
+    "title": "As AI giants warn of existential risk, they can also build a competitive moat via safety. \u2018It\u2019s genius and they\u2019re all going to make a lot of money\u2019",
+    "summary": "AI giants can block smaller competitors' growth by positioning themselves as the safest bet for investors, according to Harrison Rolfes, a Pitchbook senior research analyst.",
+    "byline_count": 2,
+    "author_names": [
+      "Garance Burke",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T14:04:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/09/27/energy-prices-businesses-france-500-million-aid-package-commuting-heating-costs/",
+    "source": "Fortune",
+    "title": "As soaring energy prices crush businesses, France rolls out a new $500 million aid package, including help with commuting and heating costs",
+    "summary": "Fuel prices that have spiked\u00a0since the start of the\u00a0Iran war\u00a0on Feb. 28 are dealing a hard blow to small businesses across Europe.",
+    "byline_count": 2,
+    "author_names": [
+      "John Leicester",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T14:31:31+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/09/27/alaska-politics-lower-48-insult-us-senate-race-dan-sullivan-mary-peltola/",
+    "source": "Fortune",
+    "title": "One of the most biting insults in Alaska politics is hitting someone with the \u2018Lower 48\u2019 label \u2014 and it\u2019s central to the U.S. Senate race",
+    "summary": "The pejorative label reflects a mystique about Alaska, which outsiders often refer to as \u201cThe Last Frontier.\"",
+    "byline_count": 2,
+    "author_names": [
+      "Becky Bohrer",
+      "The Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T14:21:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/death-clock-ceo-slow-failure-longevity-2026-9",
+    "source": "Business Insider",
+    "title": "The startup trap that kept this longevity app founder stuck",
+    "summary": "Death Clock CEO Brent Franson says the most dangerous startups can be the ones that seem \"pretty good.\"",
+    "byline_count": 1,
+    "author_names": [
+      "Tim Paradis"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T09:57:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/environment/2026/sep/27/burham-dodges-questions-heathrow-third-runway-delay",
+    "source": "The Guardian US",
+    "title": "Burnham dodges questions on Heathrow third runway as project faces four-year delay",
+    "summary": "<p>Airport chiefs say 2035 operations deadline unachievable as critics say new delay makes case for project \u2018even more dubious\u2019</p><p>Plans for a third runway at Heathrow are once again up in the air after the prime minister refused to say whether he backs the \u201ccontested\u201d project which is delayed by up to four years.</p><p>Over the weekend it emerged that \u200bHeathrow no longer expects to meet the original 2035 deadline. Instead, the airport hopes to secure planning permission by 2029 and then open the runway \u201cwithin a decade\u201d, meaning it would not be operational until 2039.</p> <a href=\"https://www.theguardian.com/environment/2026/sep/27/burham-dodges-questions-heathrow-third-runway-delay\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Sarah Butler",
+      "Alexandra Topping"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T15:47:04+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/stage/2026/sep/27/stage-designer-es-devlin-design-museum-london-lehman-trilogy",
+    "source": "The Guardian US",
+    "title": "\u2018I\u2019m an everythingist\u2019: How Es Devlin became the go-to for Beyonc\u00e9 gigs, fashion runways and the Olympics",
+    "summary": "<p>The Londoner is the set designer big names turn to for eye-popping spectacle. As a new retrospective opens, she gives the Guardian a glimpse at her studio</p><p>Four years ago, the V&amp;A East Storehouse in east London got in touch with Es Devlin. The museum\u2019s curators wanted to invite the British artist and designer to respond to a 100-year-old theatrical backdrop by the Russian artist and designer Natalia Goncharova. For a 1926 London production of The Firebird by the Ballets Russes, Goncharova had painted a fortified Muscovite cityscape festooned with onion domes and spires, rust-red and golden against a deep-blue sky. Devlin didn\u2019t know much about Goncharova. But alighting on the term she had favoured for describing her kaleidoscopic approach to art-making, Devlin realised she\u2019d found a kindred spirit. \u201cShe called herself an \u2018everythingist\u2019,\u201d Devlin says, a smile in her eyes.</p><p>Works in progress in Devlin\u2019s studio</p> <a href=\"https://www.theguardian.com/stage/2026/sep/27/s",
+    "byline_count": 2,
+    "author_names": [
+      "Dale Berning Sawa",
+      "Kate Peters"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T09:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky",
+    "source": "The Guardian US",
+    "title": "\u2018Hell on earth\u2019: last residents eat weeds to survive in Russian-occupied Oleshky",
+    "summary": "<p>Ukrainian forces airdrop supplies to city where bodies are left to be eaten by dogs because of deadly risk from drones</p><p>The phone message sent out of Russian-occupied Oleshky was grimly matter-of-fact: food had finally run out for the 2,000 or so civilians, including 50 children, remaining in the city and its surrounding villages.</p><p>\u201cWe\u2019re in Oleshky [and] we can\u2019t get out. We\u2019re going hungry \u2026 Right now, I\u2019ve got absolutely nothing to eat,\u201d read the message from a woman in the besieged city who was waiting to be evacuated by the occupying forces.</p> <a href=\"https://www.theguardian.com/world/2026/sep/27/hell-on-earth-last-residents-eat-weeds-to-survive-in-russian-occupied-oleshky\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Peter Beaumont",
+      "Artem Mazhulin"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T11:00:04+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theatlantic.com/international/2026/09/ukraine-war-russia-occupation-construction/688739/?utm_source=feed",
+    "source": "The Atlantic",
+    "title": "The Hidden State Russia Is Building Inside Ukraine",
+    "summary": "Russian occupation authorities are doing everything possible to make Ukrainian lands unrecoverable.",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-27T16:05:33.124000+00:00",
+    "published_parsed": "2026-09-27T11:00:00+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.abc.net.au/news/2026-09-27/nsw-rfs-temporarily-lose-control-of-hazard-reduction-burn/107200568",
     "source": "ABC Australia",
     "title": "Firefighters 'shook up' after planned burn destroys fire tanker",
@@ -2458,7 +2726,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-27T09:41:36.751903+00:00",
     "published_parsed": "2026-09-27T03:37:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/health/trump-pharmaceutical-drug-pricing-canada-9.7359387?cmp=rss",
@@ -2474,7 +2742,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-27T09:41:36.751903+00:00",
     "published_parsed": "2026-09-27T08:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/hong-kong/society/article/3368913/hong-kong-delays-ai-copyright-law-focus-guidelines-first?utm_source=rss_feed",
@@ -2491,7 +2759,7 @@
     ],
     "first_seen_at": "2026-09-27T09:41:36.751903+00:00",
     "published_parsed": "2026-09-27T08:00:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cwly5ggy30j4o?at_medium=RSS&at_campaign=rss",
@@ -2507,7 +2775,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-27T09:41:36.751903+00:00",
     "published_parsed": "2026-09-21T05:16:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/tiny-house-adu-caregiving-retirement-multigenerational-living-medicare-senior-living-2026-9",
@@ -2523,7 +2791,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-27T09:41:36.751903+00:00",
     "published_parsed": "2026-09-27T09:01:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
@@ -2539,7 +2807,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-27T09:41:36.751903+00:00",
     "published_parsed": "2026-09-27T08:28:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-27/australia-heritage-buildings-stonemason-shortage/107159304",
