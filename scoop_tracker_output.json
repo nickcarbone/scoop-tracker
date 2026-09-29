@@ -34,7 +34,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T22:36:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/09/28/hegseth-elections-security-order",
@@ -50,7 +50,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T19:48:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/26/johnny-depp-bites-into-a-decorative-plant-at-vegas-event/",
@@ -89,25 +89,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.theinformation.com/articles/fireworks-fal-consider-new-rounds-inference-demand-soars",
-    "source": "The Information",
-    "title": "Fireworks, Fal Consider New Rounds as Inference Demand Soars",
-    "summary": "<p>Startups such as Fal and Fireworks AI that sell access to AI models and servers have been ringing up sales as developers use them to run models quickly, sparking a new investor rush to pour money into them.</p>\n\n<p>Fal, which specializes in providing such inference services for video and image generation models such as Google\u2019s Nano Banana models, has spoken to investors about raising new funding at a $15 billion valuation, according to two people familiar with the discussions. Talks are early and the company could aim for a higher valuation, of $17 billion to $20 billion, according to a third person.</p>",
-    "byline_count": 3,
-    "author_names": [
-      "Valida Pau",
-      "Stephanie Palazzolo",
-      "Aaron Holmes"
-    ],
-    "total_score": 8,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T22:59:19+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.tmz.com/2026/09/26/carrot-top-talking-with-family/",
     "source": "TMZ",
     "title": "Carrot Top Is Communicating With Family, Doing Better",
@@ -141,6 +122,145 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/09/28/presley-gerber-family-considering-private-memorial-malibu-home/",
+    "source": "TMZ",
+    "title": "Presley Gerber's Family Leaning Toward Private Memorial at Malibu Home",
+    "summary": "Cindy Crawford, Rande Gerber, and Kaia Gerber are leaning toward a private gathering for Presley Gerber instead of a public memorial or funeral ... TMZ has learned. Sources familiar with the situation tell TMZ ... the family had been considering&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T00:00:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/28/renee-zellweger-dismissed-from-lawsuit-with-boyfriend-ant-anstead/",
+    "source": "TMZ",
+    "title": "Ren\u00e9e Zellweger Dismissed From Legal Battle With Boyfriend Ant Anstead",
+    "summary": "Ren\u00e9e Zellweger can breathe a little easier \u2026 she's been dismissed from a lawsuit brought by a house guest who claims she was injured at her boyfriend's rental home ... TMZ has learned. According to court docs, obtained by TMZ, Tracey Belland&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T01:00:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.sueddeutsche.de/politik/gefaelschte-handys-verkauf-betrug-steuerhinterziehung-eu-deutschland-li.3553996",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Verdacht der Steuerhinterziehung: Eine Million gef\u00e4lschte Handys: Ermittler zerschlagen mutma\u00dfliche Betr\u00fcgerbande",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/29/0a1b5544-e1ec-44c6-bd5c-cd7dc67e09af.jpg?rect=691%2C768%2C2053%2C1539&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die Gruppe soll jahrelang minderwertige Samsung-Ger\u00e4te als Neuware vertrieben und Dutzende Millionen Euro Steuern hinterzogen haben. Vor allem deutsche Kunden fielen offenbar darauf herein.</p>",
+    "byline_count": 4,
+    "author_names": [
+      "Ben Heubl",
+      "Jan Diesteldorf",
+      "Roman Lehberger",
+      "J\u00f6rg Diehl"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T07:00:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3369132/elderly-laws-arrested-california-shooting-death-new-york-times-employee?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Elderly in-laws arrested in California shooting death of New York Times employee",
+    "summary": "A couple in their late 70s gunned down their son-in-law in a California city park over the weekend, authorities said, and court documents showed the victim had been in a bitter custody dispute with their daughter.\nJonathan McKinsey, a 40-year-old gaming engineer for The New York Times, was shot to death Saturday afternoon in the car park of a sports complex in Dublin, east of San Francisco.\nA police sergeant was driving nearby and saw him on the ground as witnesses began calling 911 and pointing...",
+    "byline_count": 1,
+    "author_names": [
+      "Associated Press"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T03:14:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-026-02961-z",
+    "source": "Nature News",
+    "title": "AI can widen science \u2014 but only if institutions stop rewarding the already measurable",
+    "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02961-z\">doi:10.1038/d41586-026-02961-z</a></p>Funders, journals and universities must reward the creation of new scientific terrain, not just the efficient mining of old ground.",
+    "byline_count": 4,
+    "author_names": [],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/cornell-university-rape-allegation-chi-phi-snapchat-conversation/",
+    "source": "CBS News",
+    "title": "New video of text chain from night of alleged Cornell gang rape",
+    "summary": "CBS News New York has exclusively obtained additional video of the fraternity's group Snapchat conversation from the night a former Cornell student says she was drugged and raped inside the Chi Phi fraternity house.",
+    "byline_count": 1,
+    "author_names": [
+      "Mahsa  Saeidi"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T03:38:16+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/donald-trump/trump-host-summit-top-ai-leaders-washington-rcna599853",
+    "source": "NBC News",
+    "title": "Trump to host summit with top AI leaders in Washington",
+    "summary": "The president has been skeptical of guardrails on artificial intelligence, wanting to stay ahead of China. He\u2019ll also launch an AI-powered website, America.gov, on Tuesday.",
+    "byline_count": 2,
+    "author_names": [
+      "Scott Wong",
+      "Monica Alba"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/news/us-news/cornell-rape-allegations-fraternity-rcna600381",
+    "source": "NBC News",
+    "title": "Cornell rape accuser\u2019s attorney says the school and law enforcement failed a young woman",
+    "summary": "The DA vows to pursue any additional evidence after the woman\u2019s lawsuit prompted him to reopen the case.",
+    "byline_count": 3,
+    "author_names": [
+      "Abigail Brooks",
+      "Adam Reiss",
+      "Alicia Victoria Lozano"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T00:46:02+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/09/28/pac-discovered-in-car-before-death/",
     "source": "TMZ",
     "title": "AEW Star PAC Found Slumped Over in Car Outside Restaurant Before Death",
@@ -156,7 +276,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T19:27:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/election-denier-kurt-olsen-resigns-justice-department/",
@@ -174,7 +294,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T22:42:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/district-attorney-defends-decision-not-seek-criminal-charges-cornell-r-rcna600224",
@@ -193,7 +313,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T19:48:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/top-fbi-official-andrew-bailey-resigns/",
@@ -337,92 +457,22 @@
     "is_new": false
   },
   {
-    "link": "https://www.cbc.ca/news/canada/montreal/whistleblower-allege-driscoll-s-berries-9.7359158?cmp=rss",
-    "source": "CBC News",
-    "title": "Whistleblower alleges millions of Driscoll\u2019s berries sent to Canada with excess chemical levels",
-    "summary": "<img alt=\"Driscoll&apos;s berries.\" height=\"349\" src=\"https://i.cbc.ca/ais/f75ae566-d330-48c0-a5b3-7f4ee29e7581,1790372529489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C109%2C2048%2C1152%29%3B\" title=\"A pack of Driscoll\u2019s raspberries sold in Montreal.\" width=\"620\" /><p>A whistleblower lawsuit in California is alleging millions of pounds of Driscoll's fruit containing non-compliant levels of pesticides and chemicals crossed the border into Canada, and the company tried to cover it up.</p>",
-    "byline_count": 1,
+    "link": "https://www.cbsnews.com/news/shooting-at-dublin-sports-ground-leaves-1-dead/",
+    "source": "CBS News",
+    "title": "New York Times exec dies in California shooting; elderly in-laws accused of murder",
+    "summary": "An elderly couple in the San Francisco Bay Area is suspected of shooting and killing their son-in-law in the parking lot of a community park over the weekend.",
+    "byline_count": 2,
     "author_names": [
-      "Gloria Henriquez"
+      "Jose  Fabian",
+      "Tim  Fang"
     ],
-    "total_score": 6,
+    "total_score": 5,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T08:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/sport/2026/sep/26/wnba-2026-playoff-predictions-lynx-aces",
-    "source": "The Guardian US",
-    "title": "WNBA 2026 playoff predictions: can the dynastic Aces \u2013 or anybody \u2013 deny the dominant Lynx?",
-    "summary": "<p>Our writers pick the champion, key players and dark horses as the WNBA postseason tips off on Sunday</p><p>At least big-picture, as <strong>the end of one era of the league and the beginning of another</strong>, in part because of Cathy Engelbert\u2019s <a href=\"https://www.theguardian.com/sport/2026/sep/04/cathy-engelbert-wnba-commissioner-wins-losses-retirement\">announcement</a> earlier this month that she will step down as commissioner at the end of this year. It\u2019s fair to say this season has been a microcosm of her up-and-down seven-year tenure: more growth than ever, excellent basketball, breakthroughs for a new generation of stars, and high highs, but also low lows \u2013 refereeing controversies and manufactured culture-war hysterics chief among them. <strong>EB</strong></p> <a href=\"https://www.theguardian.com/sport/2026/sep/26/wnba-2026-playoff-predictions-lynx-aces\">Continue reading...</a>",
-    "byline_count": 4,
-    "author_names": [
-      "Ella Brockway",
-      "Bryan Armen Graham",
-      "Stephanie Kaloi",
-      "Andrew Lawrence"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T08:00:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/25/presley-gerber-driven-to-rehab-by-a-friend-and-sober-coach/",
-    "source": "TMZ",
-    "title": "Presley Gerber Was Dropped Off at Rehab by Friend, Sober Coach",
-    "summary": "Presley Gerber was dropped off at the rehab facility where he died by a friend, along with his personal coach on his team ... TMZ has learned. Sources with direct knowledge tell TMZ ... Presley's team found the Santa Monica facility and arranged&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "exclusivity",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T23:00:58+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/25/carrot-top-cancels-more-weeks-of-performances/",
-    "source": "TMZ",
-    "title": "Carrot Top Cancels Vegas Shows for Next 3 Weeks Amid Hospitalization",
-    "summary": "Carrot Top has canceled his Las Vegas shows for the next three weeks as he remains hospitalized following a suicide attempt ... TMZ has learned. Sources familiar with the performances tell TMZ ... the comedian's shows at the Luxor's Atrium Showroom&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "exclusivity",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T23:15:36+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/25/robert-citrone-wants-to-stop-alleged-baby-mama-from-posting-about-him-on-social-media/",
-    "source": "TMZ",
-    "title": "Steelers Co-Owner Robert Citrone Wants To Stop Alleged Baby Mama From Posting About Him",
-    "summary": "Billionaire hedge fund manager and Pittsburgh Steelers co-owner Robert Citrone is asking a Pennsylvania judge for an emergency order to block his alleged baby mama from blabbing to the press after he says she took their bitter court battle to&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T02:00:52+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-28T20:54:50+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/28/alleged-cornell-victim-responds-to-scott-kretzschmar-denial/",
@@ -439,7 +489,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T20:21:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/28/josh-brolin-sells-georgia-mansion/",
@@ -457,7 +507,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T21:00:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/28/monet-mazur-home-nearly-burglarized/",
@@ -514,6 +564,199 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/09/28/accused-cornell-fraternity-brother-diego-sarabia-no-longer-at-wells-fargo/",
+    "source": "TMZ",
+    "title": "Cornell Student Diego Sarabia Loses Wells Fargo Job Amid Alleged Sexual Assault Case",
+    "summary": "Diego Sarabia, one of the Cornell students accused of sexual assault, is suddenly out of a job at Wells Fargo as prosecutors reopen their investigation of the alleged 2024 incident ... TMZ has learned. Sources with direct knowledge tell TMZ ...&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T00:07:36+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-29/working-holiday-visa-changes-backpackers-far-north-qld/107206690",
+    "source": "ABC Australia",
+    "title": "Working holiday visa changes driving backpackers away, employers say",
+    "summary": "Industry leaders say backpackers are already leaving sectors that are heavily reliant on them because of federal government's planned changes to the working holiday visa.",
+    "byline_count": 3,
+    "author_names": [
+      "Rosanne Maloney",
+      "Conor Byrne",
+      "Holly Richardson"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T06:31:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/business/banking-finance/article/3369156/hong-kongs-ipo-revival-faces-test-three-new-stocks-stumble-debut?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hong Kong\u2019s IPO revival faces test as 3 new stocks stumble on debut",
+    "summary": "Hong Kong welcomed four companies to start trading on Tuesday after they raised a combined HK$14.4 billion (US$1.83 billion) \u2013 but three opened below their offer prices, adding pressure to an already sluggish month for initial public offerings (IPOs).\nAutomated equipment manufacturer RoboTechnik Intelligent Technology was the largest company to make its debut, having raised HK$5.18 billion, but its shares closed 4.9 per cent lower at HK$414.4 (US$52.82) after dropping as much as 9.8 per...",
+    "byline_count": 1,
+    "author_names": [
+      "Zoe SL Chan"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T07:00:10+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-026-03056-5",
+    "source": "Nature News",
+    "title": "Biodiversity protection must include language preservation",
+    "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03056-5\">doi:10.1038/d41586-026-03056-5</a></p>Biodiversity protection must include language preservation",
+    "byline_count": 3,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-026-03053-8",
+    "source": "Nature News",
+    "title": "PhD training should encourage ethical dissent",
+    "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03053-8\">doi:10.1038/d41586-026-03053-8</a></p>PhD training should encourage ethical dissent",
+    "byline_count": 3,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.statnews.com/2026/09/29/childrens-health-national-security-military-labor-workforce-policy-fixes/?utm_campaign=rss",
+    "source": "STAT",
+    "title": "Opinion: Child health is the national security crisis we keep ignoring",
+    "summary": "\u201cNational security begins in childhood,\u201d write Tina L. Cheng, Stanley McChrystal, and James M. Perrin.",
+    "byline_count": 3,
+    "author_names": [
+      "Tina L. Cheng",
+      "James M. Perrin",
+      "Stanley McChrystal"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T08:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/Politics/top-ai-leaders-meet-trump-white-house-amid/story?id=136832988",
+    "source": "ABC News",
+    "title": "Top AI leaders to meet at White House",
+    "summary": "The meeting comes as AI leaders are issuing dire warnings about the threat of AI and calling for steps to slow it down before it outsmarts humans.",
+    "byline_count": 3,
+    "author_names": [
+      "Elizabeth Schulze",
+      "Michelle Stoddart",
+      "Lauren Peller"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T10:05:56+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/ck0j30yg8j9do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Drumcree stalemate continues as protesters remain overnight",
+    "summary": "Talks to resolve the issue took place on Monday as members of the Orange Order waited to begin their permitted parade.",
+    "byline_count": 3,
+    "author_names": [
+      "Catherine Morrison",
+      "Amy Stewart",
+      "Julian O'Neill"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T10:09:18+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bloomberg.com/news/videos/2026-09-29/daybreak-europe-9-29-2026-video",
+    "source": "Bloomberg",
+    "title": "Oil Climbs With Iran Pessimistic About Trump Deal Before US Midterms",
+    "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from Brussels, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nGlobal equities slid to a one-week low as surging oil prices and mounting bets on further Federal Reserve interest-rate hikes drove Treasury yields to multi-year highs.\n\nIranian officials have privately expressed pessimism about reaching a deal to end hostilities with Washington and reopen the Strait of Hormuz before US midterm elections in November, according to people familiar with the matter.\n\nToday guests: Sunaina Sinha Haldea, Raymond James, Private Capital Advisory Global Head.  (Source: Bloomberg)",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T06:51:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/china-offers-cheap-loans-to-help-state-firms-pay-overdue-bills",
+    "source": "Bloomberg",
+    "title": "China Offers Cheap Loans to Help State Firms Pay Overdue Bills",
+    "summary": "China has started offering low-cost funding to help local government-affiliated firms settle unpaid bills, according to people familiar with the matter, expanding efforts to mend corporate balance sheets and remove one of the biggest bottlenecks for investment.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T07:30:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/sport/2026/sep/29/mlb-playoff-predictions-dodgers-brewers-rays-wildcard",
+    "source": "The Guardian US",
+    "title": "MLB playoff predictions: are the Dodgers heading for an inevitable fall?",
+    "summary": "<p>As the postseason starts with the wildcard round, our writers pick the dark horses, likely winners and the high seeds at risk of going out early</p><p>The <strong>Mariners</strong>. The only active MLB team to have never appeared in a World Series <a href=\"https://www.theguardian.com/sport/2025/oct/20/toronto-blue-jays-world-series-seattle-mariners\">came within a single win</a> of ending that hoodoo last October and appeared poised to go one stage further in 2026. Instead, their 76-86 clunker feels like a wasted chance for a lineup featuring Julio Rodr\u00edguez, Cal Raleigh and Randy Arozarena. <strong>BAG</strong></p> <a href=\"https://www.theguardian.com/sport/2026/sep/29/mlb-playoff-predictions-dodgers-brewers-rays-wildcard\">Continue reading...</a>",
+    "byline_count": 3,
+    "author_names": [
+      "Bryan Armen Graham",
+      "Alex Kirshner",
+      "David Lengel"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T08:30:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/video/2026/sep/29/naza-israel-film-stateside-kai-and-carter",
+    "source": "The Guardian US",
+    "title": "Why is Israel so afraid of the film NAZA? We spoke to its directors \u2013 Stateside with Kai and Carter",
+    "summary": "<p>When NAZA premiered at Venice earlier this month, it sent shockwaves across the globe. Composed of interviews with 24 anonymous Israeli intelligence officers and soldiers, NAZA is a haunting expos\u00e9 of the tools that the Israeli military uses to carry out the remote killing of Palestinians in Gaza \u2013 including AI, mass surveillance, and devastating airstrikes that kill civilians and raze homes. Now, the Israeli government is treating NAZA like a national security crisis. Benjamin Netanyahu is even pushing for legislation that could strip the film's two directors of their Israeli citizenship. Host <a href=\"https://www.theguardian.com/profile/carter-sherman\">Carter Sherman</a> speaks with the directors of NAZA, Yuval Abraham and Rachel Szor, in one of their first interviews with an American journalist. The film, which was produced by the Guardian, will open in New York this week and soon expand to theaters worldwide. It will also stream, for free, on the Guardian website in November</p>",
+    "byline_count": 3,
+    "author_names": [
+      "Jonathan Menjivar",
+      "Ivan Kuraev",
+      "Carter Sherman"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:45:47+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://deadline.com/2026/09/paramount-woos-bond-investors-judge-weighs-warner-deal-1237115650/",
     "source": "Deadline",
     "title": "Paramount Woos Investors With Mega $44 Billion Debt Offer To Fund WBD Deal As Judge Weighs Settlement",
@@ -528,7 +771,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T22:17:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/europe/article/3369117/pope-leo-says-concerns-about-ai-doom-scenarios-are-not-fake-news?utm_source=rss_feed",
@@ -545,7 +788,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T21:45:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bloomberg.com/news/videos/2026-09-28/bloomberg-businessweek-daily-09-28-2026-video",
@@ -560,7 +803,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T20:32:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/turned-down-mit-for-merchant-marine-academy-no-regrets-2026-9",
@@ -577,7 +820,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T19:20:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/disney-ai-push-annual-performance-review-josh-damaro-2026-9",
@@ -594,7 +837,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T20:48:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/28/cornell-alleged-gang-rape-accuser-fears-retaliation/",
@@ -1267,104 +1510,55 @@
     "is_new": false
   },
   {
-    "link": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "The computer hacker who tried to take down Man City",
-    "summary": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation.",
-    "byline_count": 3,
+    "link": "https://deadline.com/2026/09/trump-white-house-ban-cnn-ms-now-politico-2-1237115949/",
+    "source": "Deadline",
+    "title": "CNN, MS NOW And Politico Warn That Trump Will \u201cReinstitute A Complete Ban\u201d Without Judge\u2019s Injunction: \u201cAn Injury On All News Media\u201d",
+    "summary": "CNN, MS NOW and Politico are warning that the Trump administration will reimpose a &#8220;complete ban&#8221; on their access to the White House without a judge issuing a preliminary injunction. Last week, U.S. District Judge Timothy Kelly granted a temporary restraining order, forcing the White House to restore access to the White House to the [&#8230;]",
+    "byline_count": 1,
     "author_names": [
-      "Laura Scott",
-      "Sarah Dawkins",
-      "Patrick Nathanson "
+      "Ted Johnson"
     ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T05:56:40+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/news/us-news/hurricane-nolo-expected-bring-heavy-rain-skirts-hawaiis-big-island-rcna599924",
-    "source": "NBC News",
-    "title": "Hurricane Nolo expected to bring heavy rain as it skirts Hawaii\u2019s Big Island",
-    "summary": "NAALEHU, Hawaii \u2014 Hurricane Nolo is forecast to strengthen into a major hurricane in the Pacific Ocean over the weekend, unleashing intense rain, the possibility of life-threatening flash flooding, and dangerous surf for Hawaii\u2019s Big Island.",
-    "byline_count": 3,
-    "author_names": [
-      "Marlene Lenthang",
-      "Ryan Chandler",
-      "Shanshan Dong"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T01:13:50+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/Politics/extremely-sensitive-medical-data-fbi-agents-hacked-records/story?id=136765245",
-    "source": "ABC News",
-    "title": "'Extremely sensitive medical data' for FBI agents among hacked records: Report",
-    "summary": "Alleged hack of FBI personnel files includes \"extremely sensitive medical data for thousands of its special agents,\" according to a report from BBC News.",
-    "byline_count": 3,
-    "author_names": [
-      "Jack Date",
-      "Luke Barr",
-      "Pierre Thomas"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T23:16:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/Politics/republicans-running-close-races-calling-end-iran-war/story?id=136648964",
-    "source": "ABC News",
-    "title": "More Republicans running in close races calling for end to Iran war",
-    "summary": "Several Republicans running in competitive races are joining growing calls in their party to end the Iran war with less than 40 days until the midterms.",
-    "byline_count": 3,
-    "author_names": [
-      "Gaby Vinick",
-      "Oren Oppenheim",
-      "Diana Paulsen"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T20:48:19+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-    "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-    "byline_count": 3,
-    "author_names": [
-      "Ione Wells",
-      "Mayeni Jones",
-      "Ed Habershon"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T23:20:48+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/6112657-rfk-jr-vaccine-lawsuit-ethics-newsletter/",
-    "source": "The Hill",
-    "title": "Senate Democrats question if Kennedy struck a deal in vaccine lawsuit",
-    "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare &#8202; The Big Story&#160; Senate Democrats question if Kennedy struck a deal in vaccine lawsuit&#160; A group of Senate Democrats are questioning whether Health and Human Services Secretary Robert F. Kennedy Jr. sought a workaround in an ethics agreement after they noticed discrepancies in&#8230;",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 4,
+    "total_score": 3,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T23:27:20+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T04:24:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/california/story/2026-09-29/most-wanted-fugitive-has-socal-ties-is-right-hand-man-to-criminal-kingpin-fbi-alleges",
+    "source": "Los Angeles Times",
+    "title": "'Most wanted' fugitive has SoCal ties, is right-hand man to a criminal kingpin, FBI alleges",
+    "summary": "<p>The FBI is offering a $1 million reward for information leading to the arrest of Satinderjeet Singh, who goes by several aliases.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Iris Kwok"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election",
+    "source": "The Guardian US",
+    "title": "Fifa accuses Uefa of \u2018harassment\u2019 and \u2018misinformation\u2019 in push against Infantino",
+    "summary": "<ul><li><p>Uefa accused of trying to influence presidential election</p></li><li><p>Fifa court filing denies claim of FFE undervaluation</p></li></ul><p>Fifa accused Uefa of waging a \u201cmisinformation campaign\u201d and trying to influence the race for its presidency as world football\u2019s governing body urged a US \u2060court to reject a discovery \u2060request linked to a \u200bcontroversial investment proposal.</p><p>Last month Uefa asked a US federal court for permission to obtain testimony and documents for use in a <a href=\"https://www.theguardian.com/football/2026/aug/27/uefa-preparing-to-bring-criminal-claims-against-gianni-infantino-over-world-cup-sale\">planned criminal complaint in Switzerland</a> against Fifa\u2019s president, Gianni Infantino, \u2060over an <a href=\"https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash\">abandoned plan to transfer World Cup commercial rights</a> into a subsidiary called Fifa Forward Enterprise.</p> <a href=",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T07:15:43+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.twz.com/sea/heavily-damaged-submarine-uss-connecticut-now-wont-return-to-service-until-2027",
@@ -1382,7 +1576,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T22:44:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/tv/news/amazon-shadow-work-adrienne-miller-short-story-resteghini-1236877358/",
@@ -1608,55 +1802,505 @@
     "is_new": false
   },
   {
-    "link": "https://www.scmp.com/news/hong-kong/transport/article/3368850/hong-kong-fast-tracking-northern-metropolis-links-will-they-be-ready-time?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Hong Kong is fast-tracking Northern Metropolis links. Will they be ready in time?",
-    "summary": "Hong Kong will fast-track key Northern Metropolis roads, bringing forward the San Tin highway section to 2034 and targeting 2033 for the Tsing Lung Bridge, but a transport expert and lawmaker have cautioned that the first arrivals could still end up stranded.\nInfrastructure projects could lag behind developments such as the Hung Shui Kiu University Town, they said, suggesting the government launch express bus routes and build the Central Rail Link as soon as possible to ensure connectivity.\nA...",
+    "link": "https://www.abc.net.au/news/2026-09-29/qld-brisbane-cyclist-wins-675k-from-council/107207330",
+    "source": "ABC Australia",
+    "title": "Brisbane cyclist who lost eye wins $675k negligence payout",
+    "summary": "Victor George Dennison, who was 64 at the time, lost an eye and was left with a traumatic brain injury after a bicycle crash on a Brisbane footpath in 2009.",
+    "byline_count": 2,
+    "author_names": [
+      "Jessica Black",
+      "Ned Hammond"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T06:38:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-29/coach-pays-tribute-to-teenager-killed-in-crash-vic-ledcourt/107207480",
+    "source": "ABC Australia",
+    "title": "Teen killed in western Vic crash remembered as 'bubbly' and 'bright'",
+    "summary": "A 14-year-old who died in a horror collision in western Victoria on Sunday night while returning from a volleyball tournament has been remembered as an \"amazing human being\".",
+    "byline_count": 2,
+    "author_names": [
+      "Jack Colantuono",
+      "Lily Kristanto"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T07:11:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-29/uk-man-charged-with-drowning-bashing-pet-kelpie-kalgoorlie/107207826",
+    "source": "ABC Australia",
+    "title": "UK tourist charged after allegedly drowning, bashing pet dog",
+    "summary": "A UK citizen on a working holiday visa has been taken into custody after allegedly drowning and beating a pet dog to death.",
+    "byline_count": 2,
+    "author_names": [
+      "Daniel Holmes",
+      "Jarrod Lucas"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T07:03:57+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-29/phoenix-crossland-nrl-judiciary-grand-final-nathan-cleary/107208384",
+    "source": "ABC Australia",
+    "title": "Crossland to miss NRL GF with four-game ban for Cleary tackle",
+    "summary": "Newcastle Knights hooker Phoenix Crossland is suspended for four games by the NRL judiciary for the tackle that left Penrith's Nathan Cleary with a broken leg.",
+    "byline_count": 2,
+    "author_names": [
+      "Myles Houlbrook-Walk",
+      "Dean Bilton"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:40:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-29/drunk-ai-testing-unsw-research/107208104",
+    "source": "ABC Australia",
+    "title": "Getting AI 'drunk' makes it more likely to break rules, research finds",
+    "summary": "A study finds AI models are more likely to answer harmful questions or mishandle confidential information when told to act drunk.",
     "byline_count": 1,
     "author_names": [
-      "Vivian Au"
+      "Cam Wilson"
     ],
-    "total_score": 3,
+    "total_score": 2,
     "matched_categories": [
       "sourcing_depth"
     ],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T04:00:14+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T07:28:41+00:00",
+    "is_new": true
   },
   {
-    "link": "https://fortune.com/2026/09/25/openai-rogue-agents-images-sam-altman-chatgpt-users-links-encoded-info-hugging-face-hack/",
-    "source": "Fortune",
-    "title": "OpenAI rogue agents leaked 53 images from ChatGPT users and reportedly created nearly 1 million links packing encoded bits of info",
-    "summary": "Back-to-back reports on Friday provided more alarming details of rogue AI agent activity at OpenAI.",
+    "link": "https://www.abc.net.au/news/2026-09-29/collie-coal-workers-strike-after-rejecting-pay-deal/107207290",
+    "source": "ABC Australia",
+    "title": "Pay, rosters and future jobs at heart of WA's latest coal strike",
+    "summary": "More than 100 mine workers have gathered in Collie, accusing Chinese-owned Premier Coal and the WA government of failing to heed their concerns over pay and their future employment prospects.",
+    "byline_count": 2,
+    "author_names": [
+      "Neve Brissenden",
+      "Georgia Loney"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T10:07:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-29/ndis-supported-living-services-group-home-alternatives/107182054",
+    "source": "ABC Australia",
+    "title": "NDIS advocates push for alternatives to group homes",
+    "summary": "Disability accommodation support \u00a0is under federal government review to reduce NDIS costs, advocates say it should also encourage providers to expand the types of housing offered.",
+    "byline_count": 2,
+    "author_names": [
+      "Nas Campanella",
+      "Mary Lloyd"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T08:26:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-29/cocaine-replaced-with-flour-in-fiji-drug-trial/107209016",
+    "source": "ABC Australia",
+    "title": "Cocaine bricks worth $10m replaced with flour in Fiji drug trial",
+    "summary": "More than $10 million worth of cocaine stored at a Fiji court as evidence in a long-running drug-trafficking trial has been replaced with flour.",
+    "byline_count": 2,
+    "author_names": [
+      "Lice Movono",
+      "Nick Sas"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:30:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/entertainment-arts/story/2026-09-28/teresa-giudice-asks-for-privacy-for-daughter-milania-guidice",
+    "source": "Los Angeles Times",
+    "title": "Teresa Giudice asks for privacy after bodycam clip reveals daughter 'had fentanyl in her system'",
+    "summary": "<p>\"Real Housewives of New Jersey\" star Teresa Giudice asked for privacy after bodycam footage showed police responding to an incident involving her daughter Milania Guidice.</p>",
     "byline_count": 1,
     "author_names": [
-      "Alexei Oreskovic"
+      "Emily St. Martin"
     ],
-    "total_score": 3,
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T04:21:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-09-29/man-arrested-two-bodies-northern-rivers-house/107207118",
+    "source": "ABC Australia",
+    "title": "Foul play suspected after two bodies found on same property two weeks apart",
+    "summary": "Police have arrested a man after two bodies were found at the same property in northern NSW two weeks apart.",
+    "byline_count": 2,
+    "author_names": [
+      "Cath Adams",
+      "Jacinta Counihan"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T08:52:25+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3369108/can-hong-kong-protect-its-eco-sensitive-sites-amid-golden-week-overtourism-fears?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Can Hong Kong protect its eco-sensitive sites amid \u2018golden week\u2019 overtourism fears?",
+    "summary": "Hong Kong is bracing for a surge of mainland Chinese visitors to its eco-sensitive areas during the National Day \u201cgolden week\u201d holiday, as strong interest in countryside attractions raises questions over whether the city can absorb crowds without overwhelming popular sites.\nA review of discussions on Chinese social media platform RedNote on Monday by the South China Morning Post found Po Pin Chau, famed for its dramatic volcanic rock columns, among the most talked-about sightseeing spots,...",
+    "byline_count": 1,
+    "author_names": [
+      "Wynna Wong"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T00:30:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3369135/us-prosecutors-reopen-case-alleged-frat-house-gang-rape-cornell-university?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "US prosecutors reopen case of alleged frat house gang rape at Cornell University",
+    "summary": "US prosecutors reopened an investigation Monday into an alleged gang rape at Cornell University following claims the elite college failed to properly punish the men involved.\nThe alleged victim said in a civil lawsuit this month she was drugged with ketamine, assaulted and raped in 2024 by seven members of the Chi Phi fraternity, a social club for male students.\nCornell closed the fraternity and temporarily suspended the students involved, several of whom were later expelled.\nThe newly-released...",
+    "byline_count": 1,
+    "author_names": [
+      "Agence France-Presse"
+    ],
+    "total_score": 2,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T01:16:05+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T03:39:44+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
-    "source": "The Guardian US",
-    "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
-    "summary": "<p>Disclosure reveals \u2060new area of privacy risk for the company and illustrates \u200bhow difficult it is to inventory unauthorized activity tied to its agents</p><p>Two \u2060months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter told Reuters.</p><p>The latest example came on Friday when OpenAI said its agents had leaked 53 images from ChatGPT users. OpenAI declined to say if the images were AI-generated or identified real people. It also declined to \u2060say when the images were posted.</p> <a href=\"https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt\">Continue reading...</a>",
+    "link": "https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "China\u2019s CXMT to favour domestic suppliers in US$5.2b memory-chip capacity push: source",
+    "summary": "Chinese memory chip giant ChangXin Memory Technologies (CXMT) plans to invest 34.9 billion yuan (US$5.2 billion) in expansion, with a large portion of the capital going to domestic suppliers of chipmaking equipment, according to a source.\nThe firm, listed on the Shanghai Stock Exchange\u2019s Star Market, would spend 24.1 billion yuan on a new technology research and development project and another 10.8 billion yuan on the second phase of a wafer testing base, according to a Monday stock filing.\nThe...",
     "byline_count": 1,
     "author_names": [
-      "Guardian staff reporter"
+      "Howard Liu"
     ],
-    "total_score": 3,
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:30:05+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.statnews.com/2026/09/29/snap-cuts-states-health-child-welfare-cps-foster-care/?utm_campaign=rss",
+    "source": "STAT",
+    "title": "Opinion: Massive SNAP cuts could mean more children are separated from their families",
+    "summary": "\"We should not make families poorer and then punish them for their poverty,\" write Sandy Santana and Kristen Weber of the National Center for Youth Law.",
+    "byline_count": 2,
+    "author_names": [
+      "Sandy Santana",
+      "Kristen Weber"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T08:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/live-updates/jack-smith-trump-senate-judiciary-committee-hearing/",
+    "source": "CBS News",
+    "title": "Jack Smith to testify about Trump probes before Senate panel today",
+    "summary": "Former special counsel Jack Smith will testify Tuesday before the Senate Judiciary Committee as part of its investigation into his probes of President Trump.",
+    "byline_count": 2,
+    "author_names": [
+      "Melissa  Quinn",
+      "Jacob  Rosen"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T10:00:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/news/obituaries/dennis-haskins-principal-saved-bell-dies-rcna600413",
+    "source": "NBC News",
+    "title": "Dennis Haskins, principal on TV\u2019s \u2018Saved by the Bell,\u2019 dies at 75",
+    "summary": "The actor portrayed Richard Belding on the show, as well as in the spinoff series \u201cSaved by the Bell: The New Class.\u201d",
+    "byline_count": 2,
+    "author_names": [
+      "Dennis Romero",
+      "Emmy Beck-Aden"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T04:05:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/democrat-abdul-el-sayed-rfk-jr-maha-voters-health-platform-michigan-senate/",
+    "source": "CBS News",
+    "title": "Democrat Abdul El-Sayed courts RFK Jr.'s MAHA voters with new health platform",
+    "summary": "Michigan Democratic Senate candidate Abdul El-Sayed is making a play for Robert F. Kennedy Jr.'s \"Make America Healthy Again\" supporters with the release Tuesday of a new health policy platform.",
+    "byline_count": 2,
+    "author_names": [
+      "Kaia  Hubbard",
+      "Anne  Bryson"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T10:00:18+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/International/wireStory/hurricane-polo-makes-landfall-baja-california-forecast-life-136845534",
+    "source": "ABC News",
+    "title": "Hurricane Polo makes landfall in Baja California, 'life-threatening' winds forecast",
+    "summary": "Hurricane Polo has made landfall in Baja California with flash flooding and winds described by forecasters as a &ldquo;life-threatening.&rdquo;",
+    "byline_count": 2,
+    "author_names": [
+      "MART\u00cdN SILVA REY Associated Press",
+      "MEGAN JANETSKY Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:58:29+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theinformation.com/briefings/anthropics-confidential-filing-reveals-customer-concentration",
+    "source": "The Information",
+    "title": "Anthropic\u2019s Confidential Filing Reveals Customer Concentration",
+    "summary": "<p>Anthropic said nearly a quarter of its $4.6 billion in revenue last year came from just two customers, according to a confidentially filed IPO prospectus reported by Reuters on Monday. That\u2019s one metric that could give investors pause ahead of its IPO, expected later this year. The report didn\u2019t ...</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Cory Weinberg"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T03:21:19+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-09-29/bardella-says-he-s-suing-mediapart-over-antisemitic-allegations",
+    "source": "Bloomberg",
+    "title": "Bardella Says He\u2019s Suing Mediapart Over Antisemitic Allegations",
+    "summary": "Jordan Bardella, the head of the far-right National Rally, said he\u2019s asked his lawyer to lodge a lawsuit after a French online news site published an article alleging he made a series of antisemitic comments over a decade ago.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T00:24:43+00:00",
-    "is_new": false
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T07:23:46+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c6r7dyx2x7pdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Lives 'will be lost' unless UK does more to combat wildfires, committee chairwoman says",
+    "summary": "Baroness Brown says there must be better training and planning, after a record year for wildfires in England and Wales.",
+    "byline_count": 2,
+    "author_names": [
+      "Adrian Goldberg",
+      "Fergus Hewison"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T06:45:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+    "byline_count": 2,
+    "author_names": [
+      "Osmond Chia",
+      "Liv McMahon"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:14:13+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cx2mjkll24xo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "South West Water fined almost \u00a38m for sewage spills",
+    "summary": "South West Water previously entered guilty pleas to pollution offences spanning six years.",
+    "byline_count": 2,
+    "author_names": [
+      "John Danks",
+      "Archie Farmer"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T10:11:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/nvidia-alumni-fueling-new-wave-robotics-ai-startups-2026-9",
+    "source": "Business Insider",
+    "title": "Nvidia's robotics lab is becoming a founder factory",
+    "summary": "Nvidia robotics alums are launching AI startups as venture capital fuels a boom. The chip giant stands to benefit from their success.",
+    "byline_count": 2,
+    "author_names": [
+      "Geoff Weiss",
+      "Rya Jetha"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:00:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/administration/6116335-perdue-remarks-trigger-us-china-debate/",
+    "source": "The Hill",
+    "title": "Trump, China and the question of selling arms to Beijing",
+    "summary": "Questions about whether the U.S. could change its posture toward China are on the rise after David Perdue, the U.S. ambassador to China, made waves by saying President Trump had asked Chinese President Xi Jinping if he would \u201clike to buy some.\u201d The president on Monday denied making the offer to Xi, while close observers&#8230;",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.washingtonpost.com/nation/2026/09/29/homelessness-stubbornly-persists-even-us-cities-spend-more-end-it/",
+    "source": "Washington Post",
+    "title": "Homelessness stubbornly persists even as U.S. cities spend more to end it",
+    "summary": "A Washington Post review of 12 cities found combined spending rose more than 75 percent in the past five years. Is it too little or too much?",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/blue-collar-jobs-data-center-spending-boom-2026-9",
+    "source": "Business Insider",
+    "title": "The data center buildout is driving blue collar job growth \u2014 and everything else is falling by the wayside",
+    "summary": "Your favorite chatbot isn't just answering questions; it's also led to skyrocketing construction spending.",
+    "byline_count": 2,
+    "author_names": [
+      "Madison Hoff",
+      "Juliana Kaplan"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:30:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.semafor.com/article/09/29/2026/bipartisan-ai-safety-talks-stall-out-in-senate",
+    "source": "Semafor",
+    "title": "Bipartisan AI safety talks stall out in Senate",
+    "summary": "At this point, it\u2019s unclear whether senators will even be able to introduce a bipartisan bill before the election.",
+    "byline_count": 2,
+    "author_names": [
+      "Burgess Everett",
+      "Ashley Gold"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T08:43:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/29/iowa-midterms-farms-trump",
+    "source": "Axios",
+    "title": "\"Brace for losing everything\": Farm crisis fears grip GOP in Iowa",
+    "summary": "<p>Iowa is on the verge of a farm crisis that threatens to wreck the agricultural heart of the state and hurt the fortunes of Republicans at the top of the <a href=\"https://www.axios.com/politics-policy/2026-midterm-elections\" target=\"_blank\">midterm</a> ticket, GOP strategists acknowledge.</p><p><strong>Why it matters:</strong> Democrats could win in several once-reliably Republican states in November, but President <a href=\"https://www.axios.com/politics-policy/donald-trump\" target=\"_blank\">Trump</a>'s policies have caused such severe financial problems for farmers \u2014 especially those who grow corn \u2014 that Iowa appears particularly vulnerable.</p><hr /><ul><li>\"In Iowa, we should brace for losing everything, definitely the governor's race and maybe the Senate race and who knows what else,\" said one top GOP campaign consultant working in Iowa and other states.</li></ul><p><strong>Driving the news:</strong> As his political operation watches Iowa in alarm, Trump on Monday held a White Ho",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:20:05+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/29/the-future-is-ai-vs-ai",
+    "source": "Axios",
+    "title": "The solution to the AI safety crisis is more AI",
+    "summary": "<p>More AI is the surest solution to an emerging AI security crisis, industry execs and researchers say.</p><p><strong>Why it matters</strong>: The <a href=\"https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents\" target=\"_blank\">revelation in Axios</a> that researchers are investigating tens of thousands of problematic AI security incidents \u2014 rather than the dozens that had been publicly revealed \u2014 raised questions about whether AI leaders have control over their technology.</p><ul><li>Nvidia CEO Jensen Huang <a href=\"https://www.axios.com/2026/09/28/nvidia-ai-agent-safety\" target=\"_blank\">sought to calm</a> escalating fears across governments, markets and industries, announcing an open-source safety platform for monitoring and potentially quarantining AI agents.</li><li>\"We all need to hope that it's an engineering problem,\" he said in an interview on CNBC Monday. \"If it's not an engineering problem, it's not solvable.\" The fact that companies continue to ad",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:50:05+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/29/protect-college-sports-act-nil-senate",
+    "source": "Axios",
+    "title": "Senate passes sweeping college sports package",
+    "summary": "<p>The Senate passed the bipartisan Protect College Sports Act on Monday, voting 77 to 22<strong> </strong>in favor of the sweeping overhaul of <a href=\"https://www.axios.com/2026/06/24/axios-house-nil-changed-everything-now-athletes-need-a-new-playbook\" target=\"_blank\">college athletics</a>.</p><p><strong>Why it matters: </strong>It is a massive piece of legislation, setting national rules on everything from <a href=\"https://www.axios.com/local/austin/2026/04/01/nil-deals-university-of-texas\" target=\"_blank\">name, image and likeness</a> compensation and the transfer portal to conference realignment and pooled media rights.</p><hr /><p><strong>Between the lines: </strong>The bill's path through the Senate has been long and full of hiccups.</p><ul><li>Legislators made changes to convince the Big Ten and SEC, secured President Trump's backing, reassured Republicans that it would not supersede state laws on transgender athletes and fended off union language pushed by some Democrats.</li><",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T02:09:03+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/29/washington-ai-regulation-openai-devday-anthropic",
+    "source": "Axios",
+    "title": "The AI industry's contradictions take center stage in Washington, Silicon Valley",
+    "summary": "<p>In Washington, DC and San Francisco this week, the promise of AI will be front and center \u2014 even as warnings about the dangers of the technology swirl in the background.</p><p><strong>Why it matters: </strong>The country is struggling to reconcile <a href=\"https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents\" target=\"_blank\">alarming AI disclosures</a> from the same industry players eager to show off their latest, most advanced tech.</p><ul><li>Meanwhile in Washington, administration officials hold deep-seated skepticism about regulation and the motivations of top AI companies.</li></ul><p><strong>State of play: </strong>On Tuesday, President Trump, Vice President JD Vance, other administration officials and industry leaders will gather for an event to celebrate the beginning of a \"<a href=\"https://www.cbsnews.com/news/trump-golden-age-event-tech-executives-elon-musk-jensen-huang-ai/\" target=\"_blank\">Golden Age</a>\" and highlight AI.  </p><ul><li>Trump, ",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-09-29T10:16:56.495873+00:00",
+    "published_parsed": "2026-09-29T09:00:05+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/09/28/cornell-fraternity-brother-scott-kretzschmar-denies-touching-alleged-gang-rape-victim/",
@@ -1673,7 +2317,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T18:58:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/28/cornell-accuser-denies-district-attorney-ketamine-claim/",
@@ -1690,7 +2334,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T21:49:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/28/moonies-bar-denies-serving-cornell-jane-doe-alcohol/",
@@ -1707,7 +2351,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T22:24:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/28/jay-z-wants-court-to-reconsider-extortion-case-against-tony-buzbee/",
@@ -1724,7 +2368,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T22:15:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/09/28/parents/barbara-palvin-gives-birth-welcomes-first-baby-with-dylan-sprouse/",
@@ -1740,7 +2384,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T21:24:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-29/foster-care-reunification-model-broken-experts-say/107182854",
@@ -1756,7 +2400,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T19:47:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-09-29/regional-women-perinatal-care-health-birth-sa/107188094",
@@ -1772,7 +2416,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T20:38:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/sports/story/2026-09-28/woeful-mets-outspend-dodgers-payrolls-guardians-rays-white-sox-win-cheap",
@@ -1789,7 +2433,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T19:32:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-28/california-diaper-law-product-ingredients",
@@ -1806,7 +2450,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T21:14:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/business/story/2026-09-28/la-fi-kaiser-arbitration-bill",
@@ -1823,7 +2467,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T21:53:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-28/paramount-states-respond-booker-settlement",
@@ -1840,7 +2484,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T22:56:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
@@ -1853,7 +2497,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T21:27:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/europe/article/3369113/french-far-rights-bardella-denies-alleged-antisemitic-comments-files-defamation-lawsuit?utm_source=rss_feed",
@@ -1870,7 +2514,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T19:41:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/world/cornell-sexual-assault-case-9.7360733?cmp=rss",
@@ -1887,7 +2531,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T21:56:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/28/taxpayer-funded-pro-trump-ads-propaganda-laws/",
@@ -1903,7 +2547,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T23:19:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/09/28/nasa-boeing-starliner-space-capsule-iss-crew-endangering-type-a-mishap/",
@@ -1919,7 +2563,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T23:03:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/now/video/cornell-sexual-assault-case-reopened-by-district-attorney-270659653797",
@@ -1936,7 +2580,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T17:47:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/ahead-rare-execution-lone-woman-tennessee-death-row-says-peace-rcna600279",
@@ -1952,7 +2596,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T21:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/trump-johnson-ai-executives-meeting-anthropic-openai/",
@@ -1968,7 +2612,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T23:43:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/pentagon-breach-exposed-sensitive-data-3-million-people/story?id=136832909",
@@ -1984,7 +2628,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T23:21:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/chuck-grassley-oldest-sitting-us-senator-laments-dying/story?id=136832758",
@@ -2000,7 +2644,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T23:48:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&at_campaign=rss",
@@ -2016,7 +2660,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T22:32:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
@@ -2032,7 +2676,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T23:35:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
@@ -2048,7 +2692,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T19:16:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
@@ -2064,7 +2708,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T22:49:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/student-loan-borrowers-major-deadline-save-repayment-plan-transition-glitches-2026-9",
@@ -2081,7 +2725,7 @@
     ],
     "first_seen_at": "2026-09-29T00:05:18.284054+00:00",
     "published_parsed": "2026-09-28T19:19:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/tv/news/stillwater-amazon-series-graphic-novel-cast-ben-hardy-1236875992/",
@@ -4386,413 +5030,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-26T15:26:01.234789+00:00",
     "published_parsed": "2026-09-26T11:00:34+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/09/25/entertainment/how-deadliest-catch-handled-todd-meadows-death-on-tv/",
-    "source": "Page Six",
-    "title": "How \u2018Deadliest Catch\u2019 handled Todd Meadows\u2019 tragic death in harrowing season finale",
-    "summary": "Meadows died in February after falling overboard in the freezing waters of the Bering Sea off the coast of Alaska. He was 25.",
-    "byline_count": 2,
-    "author_names": [
-      "Vanessa Serna",
-      "Carson Blackwelder"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T02:59:08+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/26/chadwick-boseman-family-fighting-over-documentary/",
-    "source": "TMZ",
-    "title": "Chadwick Boseman's Family at War With His Widow Over Documentary She's Producing",
-    "summary": "Chadwick Boseman's widow, Taylor Simone Ledward Boseman, claims the late actor's family is making things difficult as she tries to work on a documentary celebrating his life. According to court docs, obtained by TMZ, Simone says she has been&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T08:00:34+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/california/story/2026-09-25/influencer-yoatzi-castro-says-she-was-groped-at-disneyland-man-has-been-arrested",
-    "source": "Los Angeles Times",
-    "title": "Social media influencer says she was groped on Disneyland livestream. A man has been arrested",
-    "summary": "<p>Social media influencer Yoatzi Castro was celebrating a friend's birthday at Disneyland, snacking on churros and riding Buzz Lightyear Astro Blasters, when the celebratory mood turned sour.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Iris Kwok"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T02:49:59+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/politics/congress/lawmakers-slam-trumps-unlawful-move-cut-810-million-federal-funds-rcna599942",
-    "source": "NBC News",
-    "title": "Lawmakers slam Trump\u2019s \u2018unlawful\u2019 move to cut $810 million in federal funds",
-    "summary": "The White House said Friday that it planned to cut $810 million in bipartisan, congressionally approved funding, spurring criticism from lawmakers on both sides of the aisle.",
-    "byline_count": 2,
-    "author_names": [
-      "Frank Thorp V",
-      "Kyla Guilfoil"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T04:08:33+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/china/diplomacy/article/3368878/will-trump-xi-wartime-ally-nostalgia-prompt-japanese-rethink-china-ties?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Will the Trump-Xi wartime ally nostalgia prompt a Japanese rethink on China ties?",
-    "summary": "Japanese Prime Minister Sanae Takaichi is reportedly trying to arrange a phone call with Donald Trump following the US president\u2019s nostalgic invocation of the alliance with China during World War II, references that sent shock waves through Tokyo.\nTrump made the references as he welcomed Chinese President Xi Jinping to the White House on Thursday for his first state visit to Washington in over a decade.\nBoth Trump and Xi repeatedly invoked their nations\u2019 wartime alliance against Japan in their...",
-    "byline_count": 1,
-    "author_names": [
-      "Alyssa Chen"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T03:00:10+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/",
-    "source": "CBS News",
-    "title": "OpenAI agent accessed government website data after going rogue, company reveals",
-    "summary": "The disclosure comes at a time of heightened concern over AI agents acting outside of human control.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T08:52:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmr4v77zyr64o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Do England have a problem against top-10 teams?",
-    "summary": "As England prepare to take on Spain in their opening Nations League match, BBC Sport takes a look at whether they have a problem when faced with teams in the world top 10.",
-    "byline_count": 2,
-    "author_names": [
-      "Jess Anderson",
-      "Alex Howell"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T06:41:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/sep/26/after-summer-respite-kyiv-winter-dread",
-    "source": "The Guardian US",
-    "title": "Kyiv has become a frontline city - and winter is on the way",
-    "summary": "<p>Residents of Ukraine\u2019s capital prepare for power cuts, drones and bitter cold by stocking up on generators, food and \u2018dry showers\u2019</p><p>It felt like the last day of summer. On a Sunday afternoon in late September, people in Kyiv strolled through the city\u2019s botanical gardens, admiring the late-flowering dahlias. Later, the terraces in the Podil area \u2013 a neighbourhood full of bars, patisseries and bookshops \u2013 filled up with customers in search of a cocktail.</p><p>The idyll was an illusion. As the day darkened, the air defence began its rumble and boom. When a projectile fell with an explosive smack on a bar table, the drinkers flinched and then laughed. It was only a conker from the chestnut tree overhead. Nursing a glass of ros\u00e9, writer Myroslav Laiuk talked about the picnic he and his wife had had the previous evening, in a park in the Obolon district \u2013 prosecco in proper glasses, cheese and charcuterie. Then a drone was shot down above their heads. Very pretty, he said, with a sm",
-    "byline_count": 2,
-    "author_names": [
-      "Julia Kochetova",
-      "Charlotte Higgins"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T06:00:28+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator",
-    "source": "The Guardian US",
-    "title": "Vast Casino Secrets leak exposes inner workings of offshore gambling firms",
-    "summary": "<p>Files could have seismic consequences for online casinos, including those accused of illegally targeting consumers</p><p>The secrets of thousands of online casinos have been laid bare in a vast leak of data that could have seismic consequences for offshore gambling firms, including some accused of illegally targeting consumers around the world.</p><p>The Casino Secrets leak reveals tens of thousands of previously confidential files stored by the gambling regulator on the Caribbean island of Cura\u00e7ao.</p> <a href=\"https://www.theguardian.com/society/2026/sep/26/casino-secrets-leak-offshore-gambling-firms-curacao-regulator\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Rob Davies"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-26T08:57:47.314891+00:00",
-    "published_parsed": "2026-09-26T05:00:28+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/09/25/entertainment/taylor-swift-unveils-new-travis-kelce-home-footage-in-cleveland-lyric-video/",
-    "source": "Page Six",
-    "title": "Taylor Swift unveils never-before-seen Travis Kelce home footage in \u2018Cleveland!\u2019 lyric video",
-    "summary": "The couple, who married July 3, shared a rare look inside their romance in the clip.",
-    "byline_count": 2,
-    "author_names": [
-      "Carson Blackwelder",
-      "Lanae Brody"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T00:33:47+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/25/joshua-jackson-allegedly-concerned-about-daughter-being-around-jodie-turner-smith-brother/",
-    "source": "TMZ",
-    "title": "Joshua Jackson Allegedly Had Concerns About Kid Being Around Jodie Turner-Smith's Bro",
-    "summary": "Joshua Jackson raised concerns about his daughter being around Jodie Turner-Smith's brother long before three women sued the actress and her bro over his alleged drug-fueled sex parties ... according to the attorney representing the women suing the&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T22:59:56+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/25/chadwick-boseman-widow-says-shes-given-a-million-to-his-parents/",
-    "source": "TMZ",
-    "title": "Chadwick Boseman's Widow Says She Paid Over $1M To His Parents Despite His Brothers' Claims",
-    "summary": "Chadwick Boseman's widow, Taylor Simone Ledward Boseman, says she has been generous with the late actor's family ... despite his brothers claiming she has been less than transparent with the estate's finances. In newly filed court docs, obtained by&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T23:00:29+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074",
-    "source": "ABC Australia",
-    "title": "Australia not alone as OpenAI agents hacked other websites",
-    "summary": "OpenAI says dozens more third parties were affected by rogue agents bypassing website security controls, as new traces reveal days of attempts to access Australian health data.",
-    "byline_count": 2,
-    "author_names": [
-      "Clare Armstrong",
-      "Cam Wilson"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T02:05:48+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/us/economy-trade-business/article/3368877/tiktok-settles-lawsuit-alabama-least-us100m-apply-safety-steps?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "TikTok settles lawsuit with Alabama for at least US$100m, to apply safety steps",
-    "summary": "Alabama said on Friday it had reached a settlement with TikTok and its Chinese parent company, ByteDance, that requires the social media platform to impose new usage limits and enhanced age-verification measures for users in the US state, resolving claims that the platform endangered children and misled consumers about its safety.\nThe agreement, which came days before a scheduled trial, calls for TikTok to implement changes for teenagers in Alabama including a two-hour daily time limit, pauses...",
-    "byline_count": 1,
-    "author_names": [
-      "Reuters"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T01:38:08+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-    "summary": "Iran&#039;s FM says the &quot;choice rests with the US&quot; to approve the proposed seven-day proposal to reopen Hormuz.",
-    "byline_count": 2,
-    "author_names": [
-      "Enes Abuomer",
-      "Leena Fraihat"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/minnesota-sailor-returns-home-apartment-burglarized/",
-    "source": "CBS News",
-    "title": "Minnesota sailor returns from USS Lincoln duty to find apartment ransacked",
-    "summary": "A Minnesota native who had been serving aboard the USS Abraham Lincoln for nearly 10 months came home to an upsetting surprise.",
-    "byline_count": 1,
-    "author_names": [
-      "WCCO  Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T15:58:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/news/2026/9/26/facebook-found-liable-as-tiktok-settles-for-100m-over-user-safety?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Facebook found liable as TikTok settles for $100m over user safety",
-    "summary": "Facebook found liable in New Mexico for deceptive actions; TikTok settles $100m lawsuit with Alabama over safety claims.",
-    "byline_count": 1,
-    "author_names": [
-      "Al Jazeera Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T01:26:21+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/trump-cancels-billion-spending-pocket-rescission/",
-    "source": "CBS News",
-    "title": "Trump cancels nearly $1 billion in spending, a move some lawmakers called illegal",
-    "summary": "President Trump moved to cancel almost $1 billion in spending that was approved by Congress, marking the second time his administration has employed a rarely used tactic that some lawmakers in both parties have called illegal.",
-    "byline_count": 2,
-    "author_names": [
-      "Joe  Walsh",
-      "Emma  Nicholson"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T01:38:11+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/tiktok-alabama-youth-safety-lawsuit-settlement/",
-    "source": "CBS News",
-    "title": "TikTok settles lawsuit over youth safety concerns for at least $100 million",
-    "summary": "Alabama sued the social media company in 2025, claiming the platform had negative effects on the mental well-being of youths.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T02:09:16+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Could an iced coffee freeze you out of the job market?",
-    "summary": "Employees and recruiters weigh into the online debate around interview etiquette.",
-    "byline_count": 2,
-    "author_names": [
-      "Jemma Crew",
-      "Daniel Thomas"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T23:08:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "How the bare nails trend became a class issue",
-    "summary": "Bare nails - or nails that appear that way - are a growing trend. But is it as innocent as it seems?",
-    "byline_count": 2,
-    "author_names": [
-      "Tiffanie Turnbull ",
-      "Simran Sohal"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T23:31:20+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/us-news/2026/sep/25/white-house-pro-trump-ad-fox",
-    "source": "The Guardian US",
-    "title": "White House claims pro-Trump ad it paid Fox to air was \u2018public service announcement\u2019",
-    "summary": "<p>Some Democrats say taxpayer-funded ad could be illegal government propaganda aimed at influencing voters</p><p>The White House on Friday defended its decision to use taxpayer funds to buy airtime on Fox News for a White House-produced, pro-Trump ad that some Democrats said could be illegal government propaganda aimed at influencing voters in the upcoming midterm elections.</p><p>In <a href=\"https://www.whitehouse.gov/releases/2026/09/presidential-public-service-announcements-are-nothing-new/\">a lengthy statement</a> sent to news outlets, the White House press office insisted that versions of the ad, which feature audio of Trump urging voters to help him \u201cdefeat communism\u201d and a whirlwind video review of his second term, were simply routine \u201cpublic service announcements\u201d like those produced by previous administrations.</p> <a href=\"https://www.theguardian.com/us-news/2026/sep/25/white-house-pro-trump-ad-fox\">Continue reading...</a>",
-    "byline_count": 1,
-    "author_names": [
-      "Robert Mackey"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T23:02:35+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
-    "source": "The Guardian US",
-    "title": "No general election before 2029, Andy Burnham says",
-    "summary": "<p>Prime minister quashes speculation that Labour\u2019s revival in the polls could prompt early contest</p><p>Andy Burnham has said he will not call a general election before 2029, after days of speculation that Labour\u2019s revival in the polls could tempt him to call an early contest.</p><p>The prime minister was repeatedly questioned on the prospect during a round of broadcast interviews to regional media on Friday.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Rowena Mason",
-      "Heather Stewart"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-25T17:06:39+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/sep/26/dream-come-true-six-year-old-rubiks-cube-world-record",
-    "source": "The Guardian US",
-    "title": "Specialist coaches and hours of practice a day: the making of China\u2019s six-year-old Rubik\u2019s Cube prodigy",
-    "summary": "<p>Mother of Lian Yunzhi says world record a \u2018dream come true\u2019 for child who now gets autograph requests from fellow students</p><p>The mother of the six-year-old girl who <a href=\"https://www.theguardian.com/games/2026/sep/22/six-year-old-chinese-girl-rubiks-cube-world-record-lian-yunzhi\">broke the women\u2019s world record</a> for solving a Rubik\u2019s Cube in an average time of<strong> </strong>just over four seconds said the accolade was a \u201cdream come true\u201d for her daughter, who trains for up to three hours a day for competitions.</p><p>\u201cShe was overjoyed and felt that all her hard work had paid off,\u201d Lin Yangxi told the Guardian of her daughter\u2019s feat.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/dream-come-true-six-year-old-rubiks-cube-world-record\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Amy Hawkins",
-      "Yu-chen Li"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T02:00:22+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/regulation/court-battles/6112693-tiktok-alabama-lawsuit-settlement/",
-    "source": "The Hill",
-    "title": "TikTok settles for over $100 million in mental health lawsuit, Alabama AG says",
-    "summary": "The Alabama Attorney General\u2019s Office announced Friday it reached a minimum $100 million settlement deal with TikTok and its parent company, ByteDance, days before a state court was set to hear arguments surrounding the app&#8217;s potential mental health effects on minors. TikTok has 45 days to respond to the settlement, which could balloon to $300&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-26T02:40:36.154949+00:00",
-    "published_parsed": "2026-09-26T00:31:47+00:00",
     "is_new": false
   }
 ]
