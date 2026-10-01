@@ -34,7 +34,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:06:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/inside-zuckerberg-huang-push-for-white-house-ai-pact-2026-9",
@@ -51,7 +51,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:51:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-30/ucla-mary-osako-lawsuit-investigation-release",
@@ -87,7 +87,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:21:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/30/gleb-savchenko-ex-wife-elena-discloses-salary-custody-battle/",
@@ -105,7 +105,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:30:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/briefings/exclusive-metas-muse-tops-3-million-weekly-users",
@@ -124,7 +124,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:48:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/29/kim-zolciak-boyfriend-wants-kroy-biermann-away-from-his-children/",
@@ -230,6 +230,21 @@
     "is_new": false
   },
   {
+    "link": "https://www.cbsnews.com/video/republican-senate-candidate-ken-paxton-says-trumps-midterm-convention-hurt-him-in-leaked-audio/",
+    "source": "CBS News",
+    "title": "GOP Senate candidate Ken Paxton says Trump's midterm convention hurt him in leaked audio",
+    "summary": "Republican Senate candidate Ken Paxton can be heard in a leaked audio recording observing that President Trump's GOP midterms convention was politically harmful for the GOP. CBS News' Zak Hudak has more.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 7,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T00:12:00+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.cbsnews.com/news/ken-paxton-leaked-audio-trump-midterm-convention-texas-senate-talarico/",
     "source": "CBS News",
     "title": "Trump deflects on audio of Paxton calling GOP convention a drag on polls",
@@ -244,7 +259,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:15:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/regulation/court-battles/6121740-markwayne-mullin-voter-registration-american-oversight/",
@@ -259,7 +274,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:50:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/30/deontay-wilder-denies-assault-claims-ex-fiancee-son/",
@@ -1188,24 +1203,6 @@
     "is_new": false
   },
   {
-    "link": "https://abcnews.com/US/district-attorney-reopens-case-alleged-cornell-university-gang/story?id=136806149",
-    "source": "ABC News",
-    "title": "District attorney reopens case of alleged Cornell University 'gang rape'",
-    "summary": "Prosecutors in central New York say they are reopening the case of alleged gang rape at a Cornell University fraternity.",
-    "byline_count": 4,
-    "author_names": [
-      "Peter Charalambous",
-      "Olivia Rubin",
-      "Courtney Wilson",
-      "Aaron Katersky"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-28T00:08:15+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.tmz.com/2026/09/30/chi-phi-fraternity-dismissed-cornell-members-accused-of-sexual-assault/",
     "source": "TMZ",
     "title": "Cornell's Chi Phi Fraternity Ousted Members Accused of Sexual Assault",
@@ -1221,7 +1218,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:43:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/story/2026-09-30/chris-brown-dog-attack-case-court-grants-new-trial-13-payment",
@@ -1238,7 +1235,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:57:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/former-dhs-secretary-kristi-noem-files-divorce/story?id=136868297",
@@ -1402,6 +1399,90 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/09/30/timothy-busfield-witness-list-child-actor-sex-abuse-case/",
+    "source": "TMZ",
+    "title": "Timothy Busfield Seeks Support From Child Actors' Parents in Sex Abuse Case",
+    "summary": "Timothy Busfield is trying to line up some unlikely support in his child sex abuse case ... parents of other child actors who worked on the show \"The Cleaning Lady\" ... TMZ has learned. According to new court docs, obtained by TMZ, Busfield wants&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-09-30T23:30:02+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-01/tissue-mill-millicent-job-cuts-toilet-paper-manufacturing/107215418",
+    "source": "ABC Australia",
+    "title": "Job cut fears at one of Australia's largest toilet roll manufacturers",
+    "summary": "Dozens of jobs could be lost at one of Australia's largest paper mills as new owner Arbex flags a \"transformation project\" aimed at keeping the business sustainable.",
+    "byline_count": 3,
+    "author_names": [
+      "Josh Brine",
+      "Becc Bird",
+      "Aiden McNamara"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T01:26:44+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3369397/woman-told-cornell-police-2-years-ago-she-was-100-sure-she-was-raped-transcript-shows?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Woman told Cornell police 2 years ago she was 100% sure she was raped, transcript shows",
+    "summary": "A woman who filed a lawsuit saying she was sexually assaulted by seven men at a Cornell University fraternity house told police weeks after the incident that she could \u201csay with 100 per cent confidence I was raped\u201d, according to a report by CBS New York, which said it obtained a transcript of her interview with investigators.\nThe transcript, which has not been publicly released, raises new questions surrounding the local district attorney\u2019s decision not to prosecute anyone at the time.\nIn recent...",
+    "byline_count": 1,
+    "author_names": [
+      "Associated Press"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-09-30T23:34:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/09/30/hhs-clinical-trials-redesign",
+    "source": "Axios",
+    "title": "Exclusive: HHS launches project to speed up clinical trials",
+    "summary": "<p>The Trump administration on Wednesday is launching an effort to reimagine the way clinical trials are designed, with a goal of drastically reducing the time and money it takes to develop new drugs.</p><p><strong>Why it matters: </strong>The program, shared first with Axios, could provide a template for reconfiguring the drug development process and boosting U.S. competitiveness in the global biotech race.  </p><hr /><p><strong>Driving the news: </strong>Health Secretary Robert F. Kennedy, Jr. and Advanced Research Projects Agency for Health Director Alicia Jackson are unveiling the new effort in Austin, Texas. </p><ul><li>CMS Administrator Mehmet Oz and FDA Acting Commissioner Kyle Diamantas will also attend the announcement.</li><li>The effort \u2014 dubbed the Simulation-augmented, Real-time Platform Adaptive Seamless Trials (SURPASS) program \u2014 features teams selected through a bidding process that will bring drug candidates through experimental clinical trial processes.</li></ul><p><s",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity",
+      "headline_label"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-09-30T19:00:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
+    "source": "Axios",
+    "title": "Scoop: Rubio ordered Iranian delegation to leave the country, U.S. official says",
+    "summary": "<p>Secretary of State Marco Rubio demanded on Monday that the Iranian delegation to the United Nations General Assembly immediately leave the country after negotiations stalled, according to a U.S. official and a second source with knowledge of the matter.</p><p><strong>Why it matters:</strong> Though the Iranians were likely to depart soon anyway,<strong> </strong>Rubio's move was a highly unusual diplomatic rebuke and laid bare the deep distrust between the two countries amid fruitless efforts to broker an end to the war.  </p><hr /><ul><li>Qatari mediators tried to secure a diplomatic breakthrough between the U.S. and <a href=\"https://www.axios.com/world/iran\" target=\"_self\">Iran</a> but made little progress, with neither side willing to budge.</li><li>Among those ordered to leave New York was Rubio's Iranian counterpart, Foreign Minister Abbas Araghchi.</li></ul><p><strong>What they're saying:</strong> \"Secretary Rubio kicked out the Iranian delegation who had overstayed their welc",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity",
+      "headline_label"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T00:08:59+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/09/30/sara-gilson-autopsy-shows-bruising-before-shooting/",
     "source": "TMZ",
     "title": "Influencer Sara Gilson Autopsy Reveals Extensive Bruising Before Fatal Shooting",
@@ -1416,7 +1497,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:45:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/30/sia-sells-part-of-music-catalogue-for-millions/",
@@ -1433,7 +1514,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:29:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-30/judge-allows-paramount-warner-merger-to-move-forward",
@@ -1451,7 +1532,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:08:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/world/united-kingdom/uk-andy-burnham-raf-fairford-air-base-terror-explosives-iran-involved-rcna600713",
@@ -1468,7 +1549,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T17:21:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/asu-hockey-coach-put-leave-hospitalized-player-unlikely-recover-family-rcna600720",
@@ -1485,7 +1566,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:49:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/hegseth-20-cut-generals-and-admirals-military-pentagon/",
@@ -1502,7 +1583,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:40:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/International/man-helped-subdue-knife-wielding-suspect-aboard-flight/story?id=136895802",
@@ -1519,7 +1600,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T23:15:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theinformation.com/briefings/sydney-sweeney-backed-novig-raised-2-billion-valuation",
@@ -1536,7 +1617,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T19:29:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cmwyz0ryz701o?at_medium=RSS&at_campaign=rss",
@@ -1553,7 +1634,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T15:22:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/what-we-know-flydubai-flight-tel-aviv-dropped-17-000-feet-2026-9",
@@ -1570,7 +1651,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:24:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/09/30/entertainment/martha-stewart-dined-and-dashed-at-swanky-nyc-restaurant-polo-bar-rhony-newbie-hailey-glassman-claims/",
@@ -2718,72 +2799,21 @@
     "is_new": false
   },
   {
-    "link": "https://pagesix.com/2026/09/27/entertainment/watch-taylor-swift-dakota-johnson-react-to-patient-zero-music-video-as-it-debuts-at-mtv-vmas/",
-    "source": "Page Six",
-    "title": "Watch Taylor Swift, Dakota Johnson react to \u2018Patient Zero\u2019 music video as it debuts at MTV VMAs",
-    "summary": "The singer, who debuted the music video at the show, was nominated in several categories this year and honored with the inaugural Artist Director award.",
-    "byline_count": 3,
+    "link": "https://www.tmz.com/2026/09/30/christa-pike-still-alive-after-attempted-executions/",
+    "source": "TMZ",
+    "title": "Christa Pike Still Alive After 2 Lethal Injections",
+    "summary": "Christa Pike is still alive after 2 attempted lethal injections in Tennessee. Around 8:26 p.m. local time, witnesses said \u201cexecutioners had injected both syringes of lethal injection chemicals and Pike is still alive and snoring\u201d ... her&hellip;",
+    "byline_count": 1,
     "author_names": [
-      "Riley Cardoza",
-      "Leah Bitsky",
-      "Desiree Murphy"
+      "TMZ Staff"
     ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-28T02:19:02+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-28/darwin-hip-hop-artist-yung-milla-wins-the-voice-australia/107197086",
-    "source": "ABC Australia",
-    "title": "Darwin hip hop artist Yung Milla wins The Voice Australia",
-    "summary": "Northern Territory hip hop artist Yung Milla is crowned the winner of The Voice Australia, with many fans resonating with the artist's candid telling of his difficult upbringing and his pride for his Aboriginal culture.",
-    "byline_count": 3,
-    "author_names": [
-      "Grace Atta",
-      "Liz Trevaskis",
-      "Tilda Colling"
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
     ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-27T23:57:17+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Protesters disperse after blocking contentious Orange Order parade",
-    "summary": "Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to \"double down on compromise\".",
-    "byline_count": 3,
-    "author_names": [
-      "Mark Simpson",
-      "Darran Marshall",
-      "Michael Fitzpatrick"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-28T02:04:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route",
-    "source": "The Guardian US",
-    "title": "Protesters disperse after blocking route for loyalist march in Portadown",
-    "summary": "<p>Talks expected on Monday after Sinn F\u00e9in leaders join those on streets opposing decision to allow Orange Order parade for first time since 1998</p><p>Hundreds of protesters spent the day blocking the route of a hugely contentious parade in Northern Ireland after a court gave late-night clearance for the Orange Order to march on a historically significant road for the first time in nearly 30 years.</p><p>The loyalist Drumcree parade along the mainly nationalist Garvaghy Road in Portadown was given the <a href=\"https://www.paradescommission.org/viewparade.aspx?id=96413\">go-ahead by the Parades Commission</a> for the <a href=\"https://www.theguardian.com/uk-news/2026/aug/28/drumcree-dispute-court-ruling-garvaghy-road-marching-season?CMP=Share_iOSApp_Other\">first time since 1998</a>, a decision denounced by Sinn F\u00e9in as \u201cmadness\u201d.</p> <a href=\"https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route\">Continue reading...</a>",
-    "byline_count": 3,
-    "author_names": [
-      "Lisa O\u2019Carroll",
-      "Shane Harrison",
-      "Mark Brown"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-28T00:46:58+00:00",
-    "is_new": false
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T02:26:06+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-30/shallow-graves-2-bodies-in-remote-california-desert-digging-continues",
@@ -2800,7 +2830,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:56:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
@@ -2817,7 +2847,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T17:21:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
@@ -2834,7 +2864,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:41:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/09/30/entertainment/rhony-star-sai-de-silva-reveals-breaking-point-in-marriage-before-split/",
@@ -3378,6 +3408,329 @@
     "is_new": false
   },
   {
+    "link": "https://deadline.com/2026/09/starz-verizon-fios-carriage-dispute-1237143864/",
+    "source": "Deadline",
+    "title": "Starz Warns It Might Go Dark On Verizon FiOS Amid Carriage Dispute",
+    "summary": "Starz just issued a statement on the status of its negotiations with Verizon on a distribution agreement, warning of the potential loss of all of its channels, Starz on Demand and the Starz app through Verizon FiOs. \u201cStarz has been negotiating in good faith with Verizon on a distribution agreement that would ensure our shared [&#8230;]",
+    "byline_count": 2,
+    "author_names": [
+      "Denise Petski",
+      "Dade Hayes"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-09-30T23:36:04+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://pagesix.com/2026/09/30/celebrity-news/the-deb-producers-claim-rebel-wilson-lied-during-bitter-defamation-lawsuit/",
+    "source": "Page Six",
+    "title": "The \u2018Deb\u2019 producers claim Rebel Wilson lied during bitter defamation lawsuit",
+    "summary": "The lawsuit could pose serious trouble for the \"Pitch Perfect\" star.",
+    "byline_count": 1,
+    "author_names": [
+      "Carlos Greer"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T00:32:55+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-01/richmond-qld-creataceous-bird-fossil/107212466",
+    "source": "ABC Australia",
+    "title": "100-million-year-old fossil reveals ancient outback bird",
+    "summary": "A chance and \"extremely rare\" discovery in an outback fossil pit has uncovered an unknown bird species from more than a hundred million years ago.",
+    "byline_count": 2,
+    "author_names": [
+      "Tim Little",
+      "Susan Graham-Ryan"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-09-30T23:43:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-01/moonyoonooka-geraldton-shooting-charges-laid/107211356",
+    "source": "ABC Australia",
+    "title": "Man charged, faces court over shooting near Geraldton",
+    "summary": "Police have charged a 30-year-old man for wilfully destroying evidence in relation to the shooting near Moonyoonooka in WA's Midwest.",
+    "byline_count": 2,
+    "author_names": [
+      "Chloe Henville",
+      "Brianna Melville"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-09-30T23:55:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/30/ben-shapiro-movie-features-renee-good-ice-shooting-scene/",
+    "source": "TMZ",
+    "title": "Ben Shapiro Produced Movie Reimagines Renee Good ICE Shooting Scene, Watch Video",
+    "summary": "A new movie being produced by Ben Shapiro's The Daily Wire appears to be recreating the fatal ICE shooting of Renee Good ... and TMZ has obtained video from the set as protesters sound off nearby. The footage, shot during filming in Livingston,&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T01:00:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/30/presley-gerber-rehab-owner-reza-nabavi-avoids-questions/",
+    "source": "TMZ",
+    "title": "Rehab Owner Where Presley Gerber Died Mum on Lapses",
+    "summary": "Presley Gerber showed up high when he was admitted to the Resolutions Living sober house -- and he died just hours later -- but the doctor who owns Resolutions was in no mood to talk about it when we asked. We got Dr. Reza Nabavi in Malibu late&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T02:02:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/09/30/jim-carrey-married/",
+    "source": "TMZ",
+    "title": "Jim Carrey Marries Girlfriend in Small L.A. Ceremony",
+    "summary": "Jim Carrey is a married man again... TMZ has learned. Sources familiar tell TMZ... Jim Carrey recently married his girlfriend Min Ah in a small private ceremony in Los Angeles. Jim and Min Ah publicly debuted as a couple at the C\u00e9sar Awards in&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T02:15:10+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-01/jake-and-callum-robinson-murder-trial-mothers-plea/107211178",
+    "source": "ABC Australia",
+    "title": "Mother of men killed on Mexico surf trip asks for timely verdict at murder trial",
+    "summary": "The mother of Jake and Callum Robinson makes a heartfelt plea at the Mexican murder trial for a\u00a0timely verdict on her sons' deaths.",
+    "byline_count": 2,
+    "author_names": [
+      "Kamin Gock",
+      "Lucia Stein"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T00:38:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-01/buzzard-iron-ore-mine-dispute-leaves-workers-in-limbo/107215102",
+    "source": "ABC Australia",
+    "title": "Buzzard iron ore mine dispute leaves workers in limbo",
+    "summary": "About 200 workers at an iron ore mine in SA's far north are facing uncertain futures amid a financial dispute between the project's owner and a major on-site contractor, the ABC understands.",
+    "byline_count": 2,
+    "author_names": [
+      "James Wakelin",
+      "Daniel Keane"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T01:59:27+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-01/kimberley-businesses-working-holiday-visas-backpackers/107210764",
+    "source": "ABC Australia",
+    "title": "Businesses fear visa changes to backpacker visas will make staffing harder",
+    "summary": "Businesses in remote Western Australia's north are nervous about their future workforce after changes to backpacker entitlements.",
+    "byline_count": 2,
+    "author_names": [
+      "Giulia Bertoglio",
+      "Ruby Littler"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T02:06:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-01/humpback-whale-carcass-at-city-beach-heading-to-landfill/107215324",
+    "source": "ABC Australia",
+    "title": "Dead whale finally being removed from Perth beach, four days after washing up",
+    "summary": "The beach remains closed as a $100,000 operation to bury the 13-metre long whale is underway, with sharks still circling the area.",
+    "byline_count": 2,
+    "author_names": [
+      "Kenith Png",
+      "Callum Liddelow"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T02:59:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-01/verify-flight-misinformation-fz1073-tel-aviv-dubai/107215774",
+    "source": "ABC Australia",
+    "title": "Fake news and deepfakes about flydubai flight spreading online",
+    "summary": "ABC NEWS Verify examines and attempts to debunk some of the fake news that's spreading online following the flydubai flight.",
+    "byline_count": 2,
+    "author_names": [
+      "Lucy Carter",
+      "Michael Workman"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T02:22:56+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+    "summary": "Trump says the US may \u201cblow up\u201d Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
+    "byline_count": 2,
+    "author_names": [
+      "Faisal Aziz Khan",
+      "Noor Kareem"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/nightly-news/video/cornell-agrees-to-independent-investigation-into-handling-of-rape-allegations-270817349984",
+    "source": "NBC News",
+    "title": "Cornell agrees to independent investigation into handling of rape allegations",
+    "summary": "New York Governor Kathy Hochul says she spoke with Cornell University\u2019s president, who agreed to bring in outside counsel. It comes as NBC News has obtained the six-page statement the female student gave to Cornell police in 2024. NBC News\u2019 Maggie Vespa reports.",
+    "byline_count": 1,
+    "author_names": [
+      "NBC News"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-09-30T23:13:34+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/kansas-senate-adam-hamilton-roger-marshall-campaign-iran-gas-prices/",
+    "source": "CBS News",
+    "title": "Republican-turned-Democrat aims to flip Kansas Senate seat blue",
+    "summary": "Kansas has not sent a Democrat to the U.S. Senate since 1932 \u2014 but this year, the party hopes Adam Hamilton, former Republican who serves as pastor of a massive church, could flip the seat.",
+    "byline_count": 2,
+    "author_names": [
+      "Katrina  Kaufman",
+      "Riley  Callanan"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T02:11:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.courthousenews.com/oregon-city-wins-dismissal-of-stabbin-wagon-nonprofits-conspiracy-lawsuit/",
+    "source": "Courthouse News",
+    "title": "Oregon city wins dismissal of Stabbin\u2019 Wagon nonprofit\u2019s conspiracy lawsuit",
+    "summary": "The court found the nonprofit failed to adequately state the majority of its claims.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T02:19:55+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/US/man-custody-tip-violent-attack-texas-capitol-authorities/story?id=136905129",
+    "source": "ABC News",
+    "title": "Man in custody following tip about 'violent attack' on Texas capitol: Authorities",
+    "summary": "According to an official briefed on the investigation, the suspect had allegedly been threatening to conduct a mass shooting at the Texas Capitol on Thursday.",
+    "byline_count": 2,
+    "author_names": [
+      "Luke Barr",
+      "Josh Margolin"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T02:08:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Japan raises residency fee for foreign nationals by twenty-fold",
+    "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+    "byline_count": 2,
+    "author_names": [
+      "Kelly Ng",
+      "Kurumi Mori"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T02:57:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "China has cracked down on AI relationships. Is it ahead of the game?",
+    "summary": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do.",
+    "byline_count": 2,
+    "author_names": [
+      "Stephanie Hegarty",
+      "Wanqing Zhang"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-09-30T23:25:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/senate/6122049-slotkin-criticizes-cornell-gang-rape-lawsuit/",
+    "source": "The Hill",
+    "title": "Slotkin on alleged rape at her alma mater, Cornell: \u2018We\u2019ve lost our way\u2019",
+    "summary": "Sen. Elissa Slotkin (D-Mich.) criticized Cornell University, where she earned her undergraduate degree, for its handling of 2024 gang rape allegations against seven fraternity members. A lawsuit filed earlier this month against Cornell brought the case into the national spotlight, prompting several lawmakers to denounce the school. The plaintiff,\u00a0identified as Jane Doe, accused the men&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-10-01T03:14:25.156243+00:00",
+    "published_parsed": "2026-10-01T01:58:32+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://deadline.com/2026/09/paramount-warner-merger-a-go-a-approves-legal-setttlement-1237143611/",
     "source": "Deadline",
     "title": "Paramount-WBD Merger Is A Go As Judge Approves Legal Settlement, Last Hurdle To Close",
@@ -3391,7 +3744,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T19:47:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/09/ynon-kriez-paramount-co-ceo-1237143658/",
@@ -3407,7 +3760,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:19:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/30/kyrsten-sinema-ex-boyfriend-admits-throwing-paintings-in-pool/",
@@ -3424,7 +3777,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T18:45:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/30/christa-pike-federal-prosecutors-want-execution-to-proceed-after-delay/",
@@ -3441,7 +3794,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:16:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/30/phil-mickelson-went-to-treatment-center-for-addiction/",
@@ -3458,7 +3811,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T19:13:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/30/diddy-returns-to-solitary-confinement/",
@@ -3475,7 +3828,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:24:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/30/bill-cosby-accused-of-skipping-another-deposition/",
@@ -3492,7 +3845,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T23:11:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/30/tyreek-hill-asks-judge-to-bar-recordings-taken-by-mother-in-law-in-court/",
@@ -3509,7 +3862,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:30:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-01/fight-for-climate-justice-after-another-wave-of-floods-in-nepal/107213838",
@@ -3525,7 +3878,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:02:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-betriebsrat-eskalation-li.3556335",
@@ -3541,7 +3894,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T12:55:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-09-30/newsom-signs-bill-aimed-at-giving-lifeline-to-struggling-california-newsrooms",
@@ -3557,7 +3910,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T18:45:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
@@ -3570,7 +3923,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:51:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss",
@@ -3587,7 +3940,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:40:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://therecord.media/cyber-command-suicide-deaths-pentagon-memo",
@@ -3604,7 +3957,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T19:35:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/business/consumer/different-prices-ticket-found-stubhub-rcna600254",
@@ -3620,7 +3973,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T17:30:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/world/middle-east/us-pulls-last-troops-iraq-kurdish-concerns-fears-iran-influence-rcna600639",
@@ -3636,7 +3989,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T17:39:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/flocks-ceo-claims-its-tech-solved-1-million-crimes-data-shows-otherwise/",
@@ -3652,7 +4005,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T18:07:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/business/media/judge-allows-paramount-close-110-billion-takeover-warner-bros-discover-rcna600780",
@@ -3669,7 +4022,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T19:42:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/gop-doubts-grow-senate-wins-georgia-north-carolina/story?id=136834817",
@@ -3685,7 +4038,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T19:49:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/cornell-agrees-independent-review-handled-fraternity-sexual-assault/story?id=136901598",
@@ -3702,7 +4055,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:48:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/30/permitting-deal-congress-election.html",
@@ -3718,7 +4071,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T19:35:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
@@ -3734,7 +4087,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T17:11:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html",
@@ -3750,7 +4103,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:27:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
@@ -3766,7 +4119,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:59:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.npr.org/2026/09/30/nx-s1-5983868/cornell-rape-police-interview-investigation-victim-trauma-informed",
@@ -3783,7 +4136,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T17:19:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/regulation/court-battles/6121107-federal-appeals-court-donald-trump-irs-treasury-collusion/",
@@ -3798,7 +4151,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T18:53:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
@@ -3815,7 +4168,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T23:08:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/state-watch/6121294-attorneys-general-file-supreme-court-lawsuit/",
@@ -3830,7 +4183,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T19:50:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/senate/6121358-schumer-calls-cornell-assault-review/",
@@ -3845,7 +4198,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:22:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/6121735-senate-blocks-data-center-bill-newsletter/",
@@ -3858,7 +4211,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:50:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/policy/defense/6121765-pete-hegseth-takeaways-command-warfare-base/",
@@ -3871,7 +4224,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:27:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/ai-coding-rivals-factory-and-cognition-feud-over-top-hire-2026-9",
@@ -3888,7 +4241,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:09:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/david-ellison-ynon-kreiz-paramount-wbd-co-ceo-read-memo-2026-9",
@@ -3905,7 +4258,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:35:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.vox.com/podcasts/504562/diesel-prices-iran-war-crude-oil-farmers-groceries",
@@ -3921,7 +4274,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.vox.com/america-actually/504619/sarah-longwell-tribune-festival-book-average-voter",
@@ -3937,7 +4290,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:10:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/film/2026/sep/30/gaza-documentary-naza-beats-avengers-endgame-encore-to-top-italian-box-office",
@@ -3953,7 +4306,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T17:11:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/09/30/us/hegseth-troops-address.html",
@@ -3969,7 +4322,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:43:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/sep/30/hegseth-military-personnel-cuts",
@@ -3985,7 +4338,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:20:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/sep/30/ohio-woman-sues-hospital-amputating-wrong-leg",
@@ -4002,7 +4355,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:47:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.semafor.com/article/09/30/2026/ftc-probes-openai-anthropic-and-metr",
@@ -4018,7 +4371,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T18:51:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/09/30/jack-smith-arctic-frost-phone-records-lawsuit-blackburn",
@@ -4033,7 +4386,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T18:43:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/09/30/nyregion/cornell-university-students-jane-doe-case.html",
@@ -4048,7 +4401,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T23:14:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/09/30/us/cornell-university-7-chi-phi.html",
@@ -4063,7 +4416,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T20:30:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/09/30/us/politics/jack-smith-lawsuit-trump-blackburn.html",
@@ -4078,7 +4431,7 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:27:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/09/30/cornell-fraternity-brother-attorney-says-he-didnt-rape-jane-doe/",
@@ -8395,119 +8748,6 @@
     "matched_categories": [],
     "first_seen_at": "2026-09-28T10:21:02.796994+00:00",
     "published_parsed": "2026-09-28T08:34:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/09/27/entertainment/taylor-swift-surpasses-beyonce-as-most-awarded-artist-in-mtv-vmas-history/",
-    "source": "Page Six",
-    "title": "Taylor Swift surpasses Beyonc\u00e9 as most-awarded artist in MTV VMAs history",
-    "summary": "The pop star was nominated in 11 categories at this year's awards ceremony.",
-    "byline_count": 2,
-    "author_names": [
-      "Jolie Zenna",
-      "Leah Bitsky"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-28T01:25:10+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://pagesix.com/2026/09/27/entertainment/taylor-swift-celebrated-with-inaugural-mtv-vma-artist-director-honors-at-2026-ceremony/",
-    "source": "Page Six",
-    "title": "Taylor Swift celebrated with inaugural MTV VMA Artist Director Honors at 2026 ceremony",
-    "summary": "The honor recognizes Swift's work behind the camera and her contributions to music videos and visual storytelling.",
-    "byline_count": 2,
-    "author_names": [
-      "Chris Rogers",
-      "Bernie Zilio"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-28T01:37:20+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/27/district-attorney-reopens-alleged-cornell-gang-rape-case/",
-    "source": "TMZ",
-    "title": "Cornell Fraternity Bros' Alleged Gang Rape Case Reopened by Prosecutors",
-    "summary": "The Cornell frat brothers accused of drugging and gang-raping a student aren't in the clear yet ... prosecutors are reopening the case. Tompkins County D.A. Matthew Van Houten tells ABC News he plans to put the 2024 case before a grand jury with&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-28T02:00:25+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-28/50th-anniversary-of-the-eyre-highway-being-fully-sealed/107192448",
-    "source": "ABC Australia",
-    "title": "Eyre Highway marks 50 years since final section was sealed",
-    "summary": "Some travellers still remember crossing the Nullarbor on the unsealed road with bumps, breakdowns, and floods all part of the journey.",
-    "byline_count": 2,
-    "author_names": [
-      "Daniel Holmes",
-      "Claire Moodie"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-28T00:06:08+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-28/shark-warnings-issued-after-whale-carcass-washed-up-city-beach/107203362",
-    "source": "ABC Australia",
-    "title": "Breaking: Multiple shark warnings issued as whale carcass washes up on City Beach",
-    "summary": "Several sharks are spotted circling in the area after local surf lifesavers found the whale carcass this morning.",
-    "byline_count": 2,
-    "author_names": [
-      "Nicolas Perpitch",
-      "Lucy Murray"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-28T02:03:05+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
-    "source": "Al Jazeera English",
-    "title": "Iran war live: Tehran says it\u2019s fully prepared for war amid Hormuz tensions",
-    "summary": "Abbas Araghchi&#039;s warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.",
-    "byline_count": 2,
-    "author_names": [
-      "Adam Hancock",
-      "Mohammed R Mhawish"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-28T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-    "summary": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
-    "byline_count": 2,
-    "author_names": [
-      "Brian Wheeler",
-      "Iain Watson"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-28T02:42:40.898597+00:00",
-    "published_parsed": "2026-09-27T23:01:47+00:00",
     "is_new": false
   }
 ]
