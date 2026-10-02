@@ -105,7 +105,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:23:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-01/cnn-chief-mark-thompson-in-talks-to-remain-in-role-after-paramount-takes-over-network",
@@ -157,7 +157,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:42:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-10-01/uc-asks-judge-dismiss-doj-ucla-antisemitism-lawsuit",
@@ -303,6 +303,43 @@
     "is_new": false
   },
   {
+    "link": "https://www.propublica.org/article/propublica-private-schools-arkansas-west-virginia-north-carolina",
+    "source": "ProPublica",
+    "title": "We\u2019re Reporters, Not Teachers. We Were Able to Start Private Schools Anyway.",
+    "summary": "<p>The post <a href=\"https://www.propublica.org/article/propublica-private-schools-arkansas-west-virginia-north-carolina\">We\u2019re Reporters, Not Teachers. We Were Able to Start Private Schools Anyway.</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
+    "byline_count": 6,
+    "author_names": [
+      "Jennifer Smith Richards",
+      "Jodi S. Cohen",
+      "Jennifer Berry Hawes",
+      "Milo Strain",
+      "Henry Culvyhouse",
+      "Carli Brosseau"
+    ],
+    "total_score": 7,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T10:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://projects.propublica.org/private-school-requirements-quiz/",
+    "source": "ProPublica",
+    "title": "It\u2019s Easy to Start a Private School. Take Our Quiz to Find Out Where You Can Open Yours.",
+    "summary": "<p>The post <a href=\"https://projects.propublica.org/private-school-requirements-quiz/\">It\u2019s Easy to Start a Private School. Take Our Quiz to Find Out Where You Can Open Yours.</a> appeared first on <a href=\"https://www.propublica.org\">ProPublica</a>.</p>",
+    "byline_count": 5,
+    "author_names": [],
+    "total_score": 7,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T09:55:00+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
     "source": "404 Media",
     "title": "Cops Can Bypass iPhone\u2019s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims",
@@ -386,6 +423,60 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-10-02/wet-weather-flash-flooding-victoria-spring-rain/107219510",
+    "source": "ABC Australia",
+    "title": "Dairy farm flooded, but grain growers rejoice as Victoria settles in for wet weekend",
+    "summary": "Soaking rain continues to fall across parts of Victoria, after storms caused tree falls, power outages, building damage and six rescues.",
+    "byline_count": 4,
+    "author_names": [
+      "Jack Colantuono",
+      "Angus Verley",
+      "Bec Symons",
+      "Nic Healey"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T04:34:38+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/news/audio/2026/oct/02/the-end-times-fascists-are-plotting-their-escape-from-our-world-our-mission-is-clear-podcast",
+    "source": "The Guardian US",
+    "title": "The end times fascists are plotting their escape from our world. Our mission is clear \u2013 podcast",
+    "summary": "<p>An unholy alliance is working toward an apocalyptic future from which only a chosen few will emerge unscathed. It\u2019s becoming clear how we stop them</p><p>By Naomi Klein and Astra Taylor</p><p><strong><a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/sep/13/end-times-fascists-essay\">Read the text version here</a></strong></p><p><strong>Support the Guardian today: <a href=\"https://theguardian.com/longreadpod\">theguardian.com/longreadpod</a></strong></p> <a href=\"https://www.theguardian.com/news/audio/2026/oct/02/the-end-times-fascists-are-plotting-their-escape-from-our-world-our-mission-is-clear-podcast\">Continue reading...</a>",
+    "byline_count": 4,
+    "author_names": [
+      "Naomi Klein",
+      "Astra Taylor",
+      "Nicola Alexandrou",
+      "Ellie Bury"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T04:00:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/politics/audio/2026/oct/02/can-the-democrats-take-texas-podcast",
+    "source": "The Guardian US",
+    "title": "Can the Democrats take Texas? \u2013 podcast",
+    "summary": "<p>Democratic Senate candidate James Talarico is surprising everyone, as polls have him leading his Republican opponent, Ken Paxton, in the Republican-led state of Texas.</p><p>Jonathan Freedland speaks to James Henson, founder and executive director of the Texas Politics Project, about why a blue wave in the Lone Star State would be seismic</p><p>Watch Jonathan Freedland on our new <a href=\"https://www.youtube.com/@politicsweekly\">Politics Weekly YouTube channel</a></p><p>Send your questions and feedback to <a href=\"mailto:podcasts@theguardian.com\">politicsweeklyamerica@theguardian.com</a></p><p>Watch <a href=\"https://www.youtube.com/watch?v=vm8g9SLF5ak\">Stateside\u2019s interview</a> with Mahmoud Khalil and his wife, Noor Abdalla</p> <a href=\"https://www.theguardian.com/politics/audio/2026/oct/02/can-the-democrats-take-texas-podcast\">Continue reading...</a>",
+    "byline_count": 4,
+    "author_names": [
+      "Jonathan Freedland",
+      "Danielle Stephens",
+      "Nada Smiljanic",
+      "Nicola Alexandrou"
+    ],
+    "total_score": 6,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T04:00:10+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/10/01/the-game-record-label-lawsuit/",
     "source": "TMZ",
     "title": "The Game Claims Label Left Six Figures in Album Marketing Money Unspent And It Hurt Sales",
@@ -401,7 +492,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:45:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/jane-doe-cornell-university-rape-allegations-text-messages-transcripts/",
@@ -420,7 +511,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T02:12:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/ynon-kreiz-paramount-warner-bros-discovery-merger-compensation-1237144872/",
@@ -1558,7 +1649,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:41:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/texas-capitol-attack-threat-9-30-2026/",
@@ -1576,7 +1667,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T00:32:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/01/celebrity-news/halle-berry-accused-of-choking-12-year-old-son-as-ex-pleads-for-sole-custody-in-restraining-order-filing/",
@@ -1757,6 +1848,107 @@
     "is_new": false
   },
   {
+    "link": "https://www.tmz.com/2026/10/02/robert-citrone-not-granted-gag-order-against-baby-mama/",
+    "source": "TMZ",
+    "title": "Steelers Co-Owner Robert Citrone\u2019s Gag Order Bid Against Baby Mama Denied",
+    "summary": "Pittsburgh Steelers co-owner Robert Citrone\u2019s attempt to stop his alleged baby mama from publicly discussing their contentious child support case has been denied by a Pennsylvania judge ... TMZ has learned. According to a court order, obtained by&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T07:00:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/marketplace/e-bikes-e-scooters-9.7363992?cmp=rss",
+    "source": "CBC News",
+    "title": "Hidden cameras show some stores unlocking speed limits on e-bikes, selling e-scooters that go up to 120 km/h",
+    "summary": "<img alt=\"Two people standing.\" height=\"349\" src=\"https://i.cbc.ca/ais/9bee5731-634b-44a3-8df9-3c08be137166,1790892282350/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C0%2C1504%2C846%29%3B\" title=\"ebikes\" width=\"620\" /><p></p>",
+    "byline_count": 3,
+    "author_names": [
+      "Bobby Hristova",
+      "Madeline McNair",
+      "Asha Tomlinson"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T08:02:29+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss",
+    "source": "STAT",
+    "title": "STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers",
+    "summary": "The NIH continued reducing grants involving health disparities, race, and ethnicity but made little progress toward other administration priorities in the 2026 fiscal year.",
+    "byline_count": 3,
+    "author_names": [
+      "Anil Oza",
+      "Jonathan Wosen",
+      "J. Emory Parker"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T08:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/cornell-title-ix-investigation-docs-reveal-new-details-rape-investigation/",
+    "source": "CBS News",
+    "title": "Cornell Title IX investigation docs reveal new details on rape investigation",
+    "summary": "CBS News has examined hundreds of pages of transcripts obtained by CBS News New York of the Title IX investigation conducted by Cornell University into the allegations made by a former student who claims she was drugged and gang-raped at a fraternity house.",
+    "byline_count": 1,
+    "author_names": [
+      "Faris  Tanyos"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "exclusivity",
+      "primary_source"
+    ],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T04:23:32+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bloomberg.com/news/videos/2026-10-02/daybreak-europe-10-2-2026-video",
+    "source": "Bloomberg",
+    "title": "France Budget Crisis Deepens\u00a0as Investors Head for the Exit",
+    "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from Brussels, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nRisks spanning credit markets, elevated commodity prices and French political turmoil boosted demand for safer government bonds, snapping a prolonged decline fueled by persistent inflation concerns.\n\nThe Pentagon is deploying an additional aircraft carrier and 10,000 sailors and Marines to the Persian Gulf, according to a US official, a move that gives American commanders more options if President Donald Trump chooses to escalate attacks on Iran.\n\nAnd Anthropic is seeking to go public as soon as the middle of November, according to people familiar with the matter.\n\nToday guest: Anne-Laure Kiechel, Global Sovereign Advisory, CEO (Source: Bloomberg)",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T06:41:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/frequent-fliers-united-loyalty-status-delta-convert-2026-10",
+    "source": "Business Insider",
+    "title": "United is going hard for Delta customers over Starlink. And some United customers don't like it.",
+    "summary": "United is using Starlink Wi-Fi and a limited-time status match to lure elite frequent fliers from rival airlines.",
+    "byline_count": 3,
+    "author_names": [
+      "Kelsey Vlamis",
+      "Huileng Tan",
+      "Cheryl Teh"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T09:29:48+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://deadline.com/2026/10/aaron-sorkin-was-never-asked-omit-trump-the-social-reckoning-1237145100/",
     "source": "Deadline",
     "title": "Aaron Sorkin Clarifies He \u201cWas Never Asked\u201d To Omit Trump From \u2018The Social Reckoning\u2019 But Film Is \u201cNot A Red-Blue Thing\u201d",
@@ -1771,7 +1963,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T01:41:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/01/celebrity-news/halle-berrys-ex-granted-primary-custody-of-son-maceo-after-choking-accusations/",
@@ -1788,7 +1980,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:56:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/hochul-replaces-da-ag-letitia-james-special-prosecutor-cornell-rcna601054",
@@ -1806,7 +1998,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T00:56:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c699d93j22r5o?at_medium=RSS&at_campaign=rss",
@@ -1823,7 +2015,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T18:08:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/timeline-alleged-cornell-university-fraternity-house-rape-investigation/story?id=136884431",
@@ -1840,7 +2032,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T01:25:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/10/02/patriot-missiles-iran-war-saudi-arabia-qatar",
@@ -1856,7 +2048,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T00:35:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/01/celebrity-news/chad-lowes-daughter-fiona-died-by-suicide/",
@@ -3362,6 +3554,42 @@
     "is_new": false
   },
   {
+    "link": "https://www.abc.net.au/news/2026-10-02/woman-who-intervened-in-adelaide-beach-fight-speaks-out/107220794",
+    "source": "ABC Australia",
+    "title": "Woman who stopped Adelaide beach brawl speaks out",
+    "summary": "In an exclusive interview with the ABC, a woman who tried to stop a brawl on an Adelaide beach before being pelted with bottles has spoken publicly for the first time.",
+    "byline_count": 2,
+    "author_names": [
+      "Will Hunter",
+      "Sophie Landau"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T08:24:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham",
+    "source": "The Guardian US",
+    "title": "Recent lobbyist for Palantir had key role in helping Andy Burnham become PM",
+    "summary": "<p>Exclusive: Martha Dalton worked closely with Burnham\u2019s team on byelection that secured his return to parliament</p><p>A recent lobbyist for the controversial $450bn US tech company Palantir played a senior role in helping Andy Burnham become prime minister, it has emerged.</p><p>Martha Dalton, whose company Lodestone worked for Palantir in 2024 and 2025, campaigned for Burnham in the Makerfield byelection that secured his return to parliament. She worked closely with his team on strategic communications and rebuttals, and was among supporters who clapped him into Downing Street in July.</p> <a href=\"https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham\">Continue reading...</a>",
+    "byline_count": 2,
+    "author_names": [
+      "Robert Booth",
+      "Henry Dyer"
+    ],
+    "total_score": 3,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T08:47:47+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.tmz.com/2026/10/01/halle-berry-responds-to-olivier-martinez-allegations/",
     "source": "TMZ",
     "title": "Halle Berry Fires Back at Olivier Martinez's Child Abuse Claims, Citing His Violent Past",
@@ -3376,7 +3604,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:41:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/news/halle-berry-accused-child-abuse-restraining-order-1236897135/",
@@ -4142,6 +4370,267 @@
     "is_new": false
   },
   {
+    "link": "https://www.sueddeutsche.de/politik/frauen-bundeswehr-nicole-schilling-soldaten-personal-li.3556854",
+    "source": "Sueddeutsche Zeitung",
+    "title": "Sexuelle \u00dcbergriffe in der Bundeswehr: \u201eJeder Fall ist einer zu viel. Wir haben Anspruch darauf, dass das nicht passiert\u201c",
+    "summary": "<img src=\"https://www.sueddeutsche.de/2026/10/02/560dadb0-f262-45c3-8850-9092942ec85f.jpg?rect=194%2C0%2C3023%2C2267&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Nicole Schilling, rangh\u00f6chste Bundeswehrsoldatin, will ein dringendes Problem l\u00f6sen: Die Truppe muss mehr Personal f\u00fcr sich gewinnen, vor allem Frauen. Aber wie, da immer \u00f6fter \u00dcbergriffe gemeldet werden?</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Lina Verschwele",
+      "Sina-Maria Schweikle"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T09:00:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-02/permanent-injunction-filed-against-proposed-adelaide-motogp/107220312",
+    "source": "ABC Australia",
+    "title": "Details behind legal bid to stop Adelaide MotoGP plans revealed",
+    "summary": "More details about a legal action to halt the South Australian government's plans for a MotoGP circuit have been revealed as works recommenced at the North Adelaide golf course.",
+    "byline_count": 2,
+    "author_names": [
+      "Eva Blandis",
+      "Daniel Keane"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T06:28:42+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/california/story/2026-10-01/fatal-shooting-aboard-culver-citybus-witness-says-suspect-at-large",
+    "source": "Los Angeles Times",
+    "title": "Fatal shooting aboard Culver CityBus, witness says; suspect at large",
+    "summary": "<p>Multiple bullets were fired in the incident and a man in his 40s was killed, according to police, who said the suspected gunman was at large.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Iris Kwok",
+      "Genaro Molina"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T05:05:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/california/story/2026-10-01/bodies-in-remote-california-desert-site-identified-as-2-missing-men",
+    "source": "Los Angeles Times",
+    "title": "Mystery surrounds case of 2 men who disappeared, then were found in shallow desert graves",
+    "summary": "<p>Two sets of human remains found in a remote area of Lancaster earlier this week have been linked to two missing persons reports.</p>",
+    "byline_count": 2,
+    "author_names": [
+      "Iris Kwok",
+      "Richard Winton"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T04:33:50+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/asia/east-asia/article/3369514/seoul-ups-ante-ukraine-feud-over-north-korean-pow-transfer-disclosure?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Seoul ups the ante in Ukraine feud over North Korean POW transfer disclosure",
+    "summary": "South \u200cKorean President Lee Jae Myung on Friday threatened unspecified measures against Ukraine unless Kyiv acknowledged what Seoul says was a confidentiality agreement covering the transfer of two captured North Korean soldiers and apologised.\n\u201cIf the refusal to acknowledge the facts and issue a public apology continues, we will take additional measures,\u201d Lee said in a social media post.\nLee also expressed \u201cgrave regret\u201d over what he described as Ukrainian remarks about an imminent \u2060military...",
+    "byline_count": 1,
+    "author_names": [
+      "Reuters"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T04:06:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/plus/tech/policy/article/3369537/chinas-ai-compute-ambitions-demand-innovation?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "China\u2019s AI compute ambitions demand innovation",
+    "summary": "China has set a five-year goal for the expansion of intelligent computing capacity to drive artificial intelligence (AI) that calls for a more than fourfold increase on what was in place at the end of June this year.\nTo reach the 2030 target while being blocked by the United States from importing the most advanced Western-made AI chips will require innovation, adaptation and the application and coordination of vast resources. Judging by the 177 per cent increase in capacity achieved in the year...",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T07:05:21+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3369546/zheng-yongnian-what-expect-future-xi-trump-meetings?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Zheng Yongnian on what to expect from future Xi-Trump meetings",
+    "summary": "Zheng Yongnian is a political scientist in China and a government adviser. His academic work is mainly about contemporary China, particularly politics, the country\u2019s transformation and its external relations.\nSCMP Plus readers get early access to articles in the Open Questions series.\nMany have offered a lukewarm assessment of the Xi-Trump summit in Washington, citing the lack of a breakthrough. What is your take?\nThere are two primary views right now. One is nihilism, which holds that China and...",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T08:02:11+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/plus/business/banking-finance/article/3369567/hong-kong-ipos-falter-china-aids-homebuyers-eu-trade-talks?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hong Kong IPOs falter, China aids homebuyers, EU trade talks",
+    "summary": "Hong Kong stock debuts are losing steam as a deluge of initial public offerings (IPOs) overwhelms investor appetite.\nSeven of September\u2019s 12 IPOs fell on the first day of trading, raising the third-quarter total to 15 flops out of 31, based on Bloomberg data. By contrast, there were only 14 declines among 77 debuts in the first half of the year.\nMedcaptain Medical Technology led September\u2019s first-day flops, plunging 43 per cent. Fast-fashion giant Shein tumbled as much as 10 per cent on its...",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T09:05:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/2026-election/democrats-regain-ground-voter-registration-key-states-rcna599599",
+    "source": "NBC News",
+    "title": "Democrats regain ground on voter registration in key states after steep post-2024 drops",
+    "summary": "An NBC News Decision Desk analysis of voter file data in seven states found that Democrats managed to reverse or slow their registration decline over the past year.",
+    "byline_count": 2,
+    "author_names": [
+      "Marc Trussler",
+      "Jane C. Timm "
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T09:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://abcnews.com/Politics/wireStory/trump-administration-plans-ice-officers-polls-activists-preparing-136939860",
+    "source": "ABC News",
+    "title": "Trump admin says it has no plans for ICE at polls. Activists are preparing, anyway",
+    "summary": "As midterm elections approach, some voters are worried about immigration enforcement officers at polling places",
+    "byline_count": 2,
+    "author_names": [
+      "REBECCA SANTANA Associated Press",
+      "ALI SWENSON Associated Press"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T04:48:57+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+    "source": "CNBC",
+    "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+    "summary": "Brazil will hold a knife-edge vote as its presidential race kicks off \u2014 but the election's outcome is likely to be felt far beyond the country's borders.",
+    "byline_count": 2,
+    "author_names": [
+      "Chloe Taylor",
+      "Thomas Da Graca Barlow"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T09:24:33+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cq74e4jg9leno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Zack Polanski to call for three-year 'emergency brake' on private rent rises",
+    "summary": "In his speech to his party's conference, the Green leader will frame housing as a key issue of generational fairness.",
+    "byline_count": 2,
+    "author_names": [
+      "Paul Seddon",
+      "Ewan Somerville"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T08:26:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/crz6zqgpl86eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "'Potential crime' probe into death of Scots wingsuit flyer dropped",
+    "summary": "British champion Liam Byrne, 24, was fatally injured on the Gitschen mountain in June last year.",
+    "byline_count": 2,
+    "author_names": [
+      "Ben Philip",
+      "Ken Banks"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T05:51:50+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "What does Man City guilty verdict mean for their squad?",
+    "summary": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market.",
+    "byline_count": 2,
+    "author_names": [
+      "Sami Mokbel",
+      "Laura Scott"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T09:00:51+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "source": "Wired",
+    "title": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "summary": "While the focus has been on AI agents\u2019 hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting\u2014and vulnerable\u2014target.",
+    "byline_count": 2,
+    "author_names": [
+      "Lily Hay Newman",
+      "Matt Burgess"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T09:45:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/tech-ceos-declare-agi-is-here-2026-10",
+    "source": "Business Insider",
+    "title": "CEOs keep crying AGI. What does that even mean?",
+    "summary": "Tech CEOs and laypeople alike are fond of saying that AGI is here, but AI researchers and engineers told Business Insider the term is overblown.",
+    "byline_count": 2,
+    "author_names": [
+      "Truman Dickerson",
+      "Brent D. Griffiths"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T09:19:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.axios.com/2026/10/02/artificial-intelligence-ai-legal-liability",
+    "source": "Axios",
+    "title": "Behind the Curtain: AI's existential legal crisis",
+    "summary": "<p><strong>No industry</strong> has ever documented its own foreseeable risks as loudly as AI.</p><ul><li>Imagine a plaintiff's lawyer reading the public warnings of Sam Altman and Dario Amodei: <em>They told the world it was dangerous. They told the world it was moving too fast. Then they unleashed it and sold it to your kid.</em></li></ul><p><strong>No industry</strong> has ever taken so much copyrighted work and left behind so much proof.</p><ul><li>Imagine a plaintiff's lawyer reading OpenAI's own files to a jury: <em>They trained on a pirated library. They renamed it to something blander. Then they deleted it when the headlines got hot.</em></li></ul><p><strong>Why it matters:\u00a0</strong>AI's origins, use and future will be picked apart in countless epic court fights, with a historic paper and public statement trail to tap.</p><hr /><p><strong>Every significant invention</strong> \u2014 be it social media, automobiles, electricity or capitalism itself \u2014 gets disrupted and eventually shap",
+    "byline_count": 2,
+    "author_names": [],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-02T10:11:22.804011+00:00",
+    "published_parsed": "2026-10-02T09:46:38+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://pagesix.com/2026/10/01/celebrity-news/gypsy-rose-blanchards-fiance-ken-urker-dead-at-33/",
     "source": "Page Six",
     "title": "Gypsy Rose Blanchard\u2019s fianc\u00e9 Ken Urker dead at 33",
@@ -4155,7 +4644,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T01:50:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/01/fox-nation-response-bachelor-producers-cease-and-desist-over-chris-harrison-the-vow/",
@@ -4172,7 +4661,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:39:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/01/representative-yassamin-ansari-is-dating-youtuber-jack-cocchiarella/",
@@ -4189,7 +4678,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T00:00:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/01/cornell-jane-doe-chi-phi-alleged-snapchat-mentions-nudity/",
@@ -4206,7 +4695,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T01:05:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/01/ken-urker-dead/",
@@ -4223,7 +4712,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T01:29:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-10-01/la-mother-charged-with-murder-in-death-of-infant-found-in-dumpster",
@@ -4239,7 +4728,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:45:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-02/denys-kostev-how-russia-turned-a-stolen-teen-into-poster-child/107192742",
@@ -4255,7 +4744,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T02:05:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
@@ -4271,7 +4760,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T00:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/nightly-news/video/text-messages-shed-light-on-jane-doe-s-alleged-sexual-assault-270880325687",
@@ -4288,7 +4777,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:13:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/homan-ice-crackdown-gop-criticism-salazar-trump/",
@@ -4304,7 +4793,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T00:50:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/losangeles/news/bee-and-co-skincare-store-westfield-topanga-closed-coercive-sales-tactics/",
@@ -4320,7 +4809,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T02:17:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/",
@@ -4336,7 +4825,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-02T01:07:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cqn747k6pem0o?at_medium=RSS&at_campaign=rss",
@@ -4352,7 +4841,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:59:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/newsletters/healthcare/6124862-medicare-globe-drug-pricing-scaled-back/",
@@ -4365,7 +4854,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:51:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/10/01/maga-inc-trump-house-democrats-midterms-dccc-dues",
@@ -4380,7 +4869,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:43:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html",
@@ -4395,7 +4884,7 @@
     ],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T23:09:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/10/01/federal-reserves-long-term-interest-rate-problem",
@@ -4408,7 +4897,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-02T03:15:50.968853+00:00",
     "published_parsed": "2026-10-01T16:48:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/tv/news/bachelor-producers-legal-threat-chris-harrison-dating-show-1236896854/",
