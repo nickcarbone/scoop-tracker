@@ -54,7 +54,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T12:26:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/da-not-review-additional-evidence-cornell-police-collected-alleged-gan-rcna601252",
@@ -109,23 +109,6 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T22:51:12+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/california/story/2026-09-30/ucla-mary-osako-lawsuit-investigation-release",
-    "source": "Los Angeles Times",
-    "title": "UCLA vice chancellor sues to block release of probe into allegations of bullying and misspending",
-    "summary": "<p>UCLA Vice Chancellor Mary Osako, head of strategic communications, is suing to block release of a workplace investigation report after staff accused her of bullying and misusing funds.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Jaweed Kaleem"
-    ],
-    "total_score": 10,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T10:00:00+00:00",
     "is_new": false
   },
   {
@@ -597,6 +580,24 @@
     "is_new": false
   },
   {
+    "link": "https://abcnews.com/US/tompkins-county-das-office-declined-review-additional-material/story?id=136973934",
+    "source": "ABC News",
+    "title": "DA's office declined to review additional material on Cornell 'gang rape' probe: Docs",
+    "summary": "The Tompkins County DA's office declined to additional review material gathered by Cornell University police, documents reviewed by ABC News show.",
+    "byline_count": 2,
+    "author_names": [
+      "Aaron Katersky",
+      "Josh Margolin"
+    ],
+    "total_score": 6,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-10-03T18:55:38.901316+00:00",
+    "published_parsed": "2026-10-03T18:09:20+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.nbcnews.com/news/us-news/coast-guard-searching-nantucket-missing-jet-bermuda-boston-rcna601265",
     "source": "NBC News",
     "title": "Coast Guard searching off Nantucket for missing medical evacuation jet",
@@ -612,7 +613,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T11:51:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/03/flydubai-copilot-cockpit-crash-axe-israel-flight-oman-extremist-views/",
@@ -630,7 +631,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T15:02:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/US/medical-transport-airplane-missing-off-massachusetts-coast-coast/story?id=136969608",
@@ -648,7 +649,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T15:17:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/politics/video/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty",
@@ -1226,389 +1227,6 @@
     "is_new": false
   },
   {
-    "link": "https://www.tmz.com/2026/09/30/deontay-wilder-denies-assault-claims-ex-fiancee-son/",
-    "source": "TMZ",
-    "title": "Deontay Wilder Denies Assault Claims From Ex-Fiancee's Son",
-    "summary": "Deontay Wilder says his ex-fianc\u00e9e Telli Swift's son's allegations that the boxer brutally beat him up are totally bogus. Deontay makes a vehement denial in new legal docs obtained by TMZ ... and his legal team goes even further ... claiming,&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "exclusivity",
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T15:45:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.latimes.com/california/story/2026-09-30/lapd-diversity-racism-daniel-flores-recordings-scandal",
-    "source": "Los Angeles Times",
-    "title": "LAPD is no longer majority white \u2014 but a recent scandal shows racism remains an issue",
-    "summary": "<p>An LAPD recruitment officer recorded his colleagues making derogatory statements about people of color. Unlike in years past, the LAPD is no longer a majority white department.</p>",
-    "byline_count": 1,
-    "author_names": [
-      "Libor Jany"
-    ],
-    "total_score": 6,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T10:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11078-2",
-    "source": "Nature News",
-    "title": "Population-scale immune multiome atlas reveals regulatory disease mechanisms",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11078-2\">doi:10.1038/s41586-026-11078-2</a></p>Population-scale simultaneous profiling of chromatin accessibility and gene expression across immune cells reveals regulatory architectures that connect genetic variants to disease.",
-    "byline_count": 467,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11092-4",
-    "source": "Nature News",
-    "title": "Transcription pause and elongation regulators mediate somatic hypermutation",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11092-4\">doi:10.1038/s41586-026-11092-4</a></p>The molecular factors and mechanisms that mediate the chromatin recruitment of activation-induced deaminase and the generation of its stalled polymerase\u2009II substrate during somatic hypermutation are identified.",
-    "byline_count": 9,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11113-2",
-    "source": "Nature News",
-    "title": "Human genetics implicates a BACH2\u2013NRF2 axis in fetal haemoglobin activation",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11113-2\">doi:10.1038/s41586-026-11113-2</a></p>BACH2 restrains activation of the fetal-haemoglobin-encoding \u03b3-globin genes, while loss of BACH2 enhances NRF2 chromatin occupancy and promotes the formation of activation foci at the \u03b3-globin genes.",
-    "byline_count": 54,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10965-y",
-    "source": "Nature News",
-    "title": "Function-preserving watermarking of AI-generated proteins",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10965-y\">doi:10.1038/s41586-026-10965-y</a></p>SynthIDBio watermarks AI-generated protein sequences and structures while preserving function, enabling provenance detection and offering a proof-of-concept tool for biosecurity and information integrity.",
-    "byline_count": 21,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11076-4",
-    "source": "Nature News",
-    "title": "\u03b3\u03b4 T cell receptor dependencies define a unique immunosurveillance modality",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11076-4\">doi:10.1038/s41586-026-11076-4</a></p>Tissue-resident \u03b3\u03b4 T cells mount rapid, innate-like stress responses that require \u03b3\u03b4 T cell receptor signalling, revealing lineage-specific receptor dependence that underpins their conserved roles in immunosurveillance and informs therapeutic deployment.",
-    "byline_count": 16,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11093-3",
-    "source": "Nature News",
-    "title": "A TBK1/ULK1 signalling axis couples lysosomal stress to TFEB activation",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11093-3\">doi:10.1038/s41586-026-11093-3</a></p>Proteomic and phosphoproteomic analyses of lysosomes identify a nutrient-independent regulatory arm of mTORC1 signalling that mediates lysosomal adaptation to stress and whose deregulation underlies tumorigenesis in follicular lymphoma.",
-    "byline_count": 24,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11098-y",
-    "source": "Nature News",
-    "title": "A two-hit mechanism triggers autoimmune hair loss",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11098-y\">doi:10.1038/s41586-026-11098-y</a></p>Immune dysregulation and physiological neural activation converge to trigger autoimmune alopecia.",
-    "byline_count": 10,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11062-w",
-    "source": "Nature News",
-    "title": "Butterfly wing patterns in flight create powerful illusory motion cues",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11062-w\">doi:10.1038/s41586-026-11062-w</a></p>Butterfly wing patterns and flight dynamics work in tandem to create powerful visual illusions that confuse predators, potentially representing one of the most successful visual defence strategies in moving animals.",
-    "byline_count": 5,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11088-0",
-    "source": "Nature News",
-    "title": "GPCR antagonism via rewiring of receptor trafficking and degradation",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11088-0\">doi:10.1038/s41586-026-11088-0</a></p>A strategy for functional G-protein-coupled receptor (GPCR) antagonism through bispecific antibody-mediated endocytosis and lysosomal degradation is reported.",
-    "byline_count": 17,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11068-4",
-    "source": "Nature News",
-    "title": "X-ray liquidography decodes complex motions in azobenzene isomerization",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11068-4\">doi:10.1038/s41586-026-11068-4</a></p>Time-resolved X-ray liquidography films the structural changes of azobenzene during trans-to-cis isomerization in solution with atomic-level precision.",
-    "byline_count": 6,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11090-6",
-    "source": "Nature News",
-    "title": "Evolution of terrestrial anatomy revealed by a derived stem tetrapod",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11090-6\">doi:10.1038/s41586-026-11090-6</a></p>New anatomical evidence reclassifies Westlothiana as an aquatic stem tetrapod, showing that terrestrial limb adaptations evolved mosaically in transitional amphibious environments before crown tetrapods emerged.",
-    "byline_count": 7,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11086-2",
-    "source": "Nature News",
-    "title": "Self-aligned optical microcomb emerging between octave-separated lasers",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11086-2\">doi:10.1038/s41586-026-11086-2</a></p>An architectural inversion shifts integrated optical frequency comb generation from outward broadening around a central pump to filling the spectrum between two octave-separated pumps through a self-aligned parametrically driven cavity soliton, enabling robust self-referencing for future deployable on-chip frequency and time metrology.",
-    "byline_count": 14,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11075-5",
-    "source": "Nature News",
-    "title": "An amygdala to anterior hypothalamic circuit gates stress sensitivity",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11075-5\">doi:10.1038/s41586-026-11075-5</a></p>The anterior hypothalamic nucleus regulates negative valence in the brain, highlighting a new pathway that controls sensitivity to stressful events and signposting approaches to identify new circuit interactions relevant to mental health.",
-    "byline_count": 15,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11060-y",
-    "source": "Nature News",
-    "title": "Type 2 immune history trains lung macrophages for viral disease tolerance",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11060-y\">doi:10.1038/s41586-026-11060-y</a></p>Type 2 inflammation trains nerve- and airway-associated macrophages to confer disease tolerance against lethal influenza by limiting immunopathology and promoting tissue repair without enhancing viral clearance.",
-    "byline_count": 19,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11064-8",
-    "source": "Nature News",
-    "title": "Spatiotemporal clonal architecture of the newborn mouse forebrain",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11064-8\">doi:10.1038/s41586-026-11064-8</a></p>Clonal barcoding across the newborn mouse forebrain reveals developmental principles whereby glutamatergic neurons and astrocytes remain locally derived, whereas widely dispersed GABAergic (\u03b3-aminobutyric acid-producing) lineages link neurons with oligodendrocyte precursor cells.",
-    "byline_count": 13,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11036-y",
-    "source": "Nature News",
-    "title": "Scalable decision-making for games of imperfect information",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11036-y\">doi:10.1038/s41586-026-11036-y</a></p>Ataraxos, an AI for the board wargame Stratego, establishes a design pattern for reinforcement learning and search that is effective under large amounts of hidden information, a longstanding desideratum of the field of strategic decision-making.",
-    "byline_count": 6,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11063-9",
-    "source": "Nature News",
-    "title": "Dynamic protrusions mediate crawling motility in Asgard archaea",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11063-9\">doi:10.1038/s41586-026-11063-9</a></p>Anoxic live-cell imaging shows actin-dependent crawling motility and dynamic protrusions in Asgard archaea, providing insights into cellular innovations that may have contributed to eukaryotic evolution.",
-    "byline_count": 13,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11077-3",
-    "source": "Nature News",
-    "title": "Sugar-rich foods exacerbate antibiotic-induced microbiome disruption",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11077-3\">doi:10.1038/s41586-026-11077-3</a></p>Avoiding a diet rich in simple sugars during treatment with antibiotics may mitigate microbiota disruption.",
-    "byline_count": 44,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11087-1",
-    "source": "Nature News",
-    "title": "Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11087-1\">doi:10.1038/s41586-026-11087-1</a></p>By being restricted to target regions by MLLT1\u2013MLLT3 occupancy, activation-induced deaminase activity is able to avoid most off-target mutagenesis during B cell somatic hypermutation.",
-    "byline_count": 17,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11061-x",
-    "source": "Nature News",
-    "title": "Prion-like transmission of human tau strains in the mouse brain",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11061-x\">doi:10.1038/s41586-026-11061-x</a></p>Mouse experiments show that Alzheimer\u2019s disease and corticobasal degeneration tau filaments retain their distinct structures during templated seeding, supporting strain-specific tau propagation and disease modelling.",
-    "byline_count": 15,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11082-6",
-    "source": "Nature News",
-    "title": "Osteoclasts intercept meningeal lymphatic paths for dural metastasis",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11082-6\">doi:10.1038/s41586-026-11082-6</a></p>Osteoclast-derived angiopoietin-2 in the dura mater impairs lymphatic vessel function and weakens anti-tumour immunity against dural metastases, which offers new therapeutic approaches to restore meningeal lymphatic function through selective osteoclast targeting.",
-    "byline_count": 15,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11089-z",
-    "source": "Nature News",
-    "title": "Global mangrove distribution on the open coast is controlled by waves",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11089-z\">doi:10.1038/s41586-026-11089-z</a></p>A process-driven mangrove presence or absence model using 20\u2009years of open-source wave data shows that wave conditions are critical in determining where mangroves grow worldwide.",
-    "byline_count": 6,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11047-9",
-    "source": "Nature News",
-    "title": "Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11047-9\">doi:10.1038/s41586-026-11047-9</a></p>A dual-precursor chemical system is used to achieve wafer-scale epitaxy growth of boron carbon nitride, a high-performance p-type semiconductor, for potential integration in efficient 2D materials for electronics.",
-    "byline_count": 23,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-11108-z",
-    "source": "Nature News",
-    "title": "Carbene transfer from thianthrenium ylides for cyclopropanation",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11108-z\">doi:10.1038/s41586-026-11108-z</a></p>Thianthrenium ylides can be used as a general platform for metal\u2013carbene generation and transfer, including cyclopropanation, \u03c3-bond insertion and sigmatropic rearrangements.",
-    "byline_count": 7,
-    "author_names": [],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Met hands Grenfell fire investigation file to CPS",
-    "summary": "The force is seeking charges against 54 individuals and 20 companies over the 2017 tower block fire.",
-    "byline_count": 4,
-    "author_names": [
-      "Amy Clarke",
-      "Tom Symonds",
-      "Ayshea Buksh",
-      "Barry Caffrey"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T17:11:40+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/world/video/2026/sep/30/how-trump-is-meddling-in-brazils-upcoming-election-explainer",
-    "source": "The Guardian US",
-    "title": "How Trump is meddling in Brazil's election \u2013 explainer",
-    "summary": "<p>Brazil will head to the polls on 4 October for the first vote in its presidential race. The incumbent, Luiz In\u00e1cio Lula da Silva, is neck-and-neck with Fl\u00e1vio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup. There are fears and accusations that the US is interfering in the election, and these follow similar allegations in a string of elections across Latin America won by Donald Trump-backed candidates in what is being called 'the orange wave'.</p><p>The Guardian's Latin America correspondent, Tom Phillips, explains the tactics Trump and his administration have been using in recent months and what impact another Bolsonaro government could have on the region, and the world</p> <a href=\"https://www.theguardian.com/world/video/2026/sep/30/how-trump-is-meddling-in-brazils-upcoming-election-explainer\">Continue reading...</a>",
-    "byline_count": 4,
-    "author_names": [
-      "Boglarka Kosztolanyi",
-      "Karif Wat",
-      "Bryony Moore",
-      "Tom Phillips"
-    ],
-    "total_score": 6,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T13:24:37+00:00",
-    "is_new": false
-  },
-  {
     "link": "https://www.theguardian.com/us-news/2026/oct/03/convenience-store-overcharges-us-congress",
     "source": "The Guardian US",
     "title": "\u2018It\u2019s enraging\u2019: lawmakers call for action after Guardian investigation into convenience store overcharges",
@@ -1624,7 +1242,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T10:00:56+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/american-airlines-pilots-union-opposes-spirits-data-sale-to-google-2026-10",
@@ -1782,7 +1400,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/03/chatgpt-oracle-ai-opacity-user-trust/",
@@ -1799,7 +1417,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T14:18:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/03/air-traffic-controller-commute-powered-paragliding-control-tower/",
@@ -1816,7 +1434,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T14:47:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.vox.com/podcasts/504946/cornell-rape-case-district-attorney-investigation-special-prosecutor",
@@ -1834,7 +1452,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/video/2026/oct/03/how-an-87-year-old-spanish-woman-became-the-face-of-the-fight-for-affordable-housing-explainer",
@@ -1851,7 +1469,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T13:05:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/politics/alberta-separation-economic-impact-documents-9.7367260?cmp=rss",
@@ -3157,117 +2775,55 @@
     "is_new": false
   },
   {
-    "link": "https://pagesix.com/2026/09/30/entertainment/martha-stewart-dined-and-dashed-at-swanky-nyc-restaurant-polo-bar-rhony-newbie-hailey-glassman-claims/",
-    "source": "Page Six",
-    "title": "Martha Stewart \u2018dined and dashed\u2019 at swanky NYC restaurant Polo Bar, \u2018RHONY\u2019 newbie Hailey Glassman claims",
-    "summary": "Glassman exclusively spoke to Page Six's \"Virtual Reali-Tea\" about the first time Stewart met up with the \"RHONY\" cast.",
-    "byline_count": 3,
-    "author_names": [
-      "Samantha Nungesser",
-      "Danny Murphy",
-      "Evan Real"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:57:33+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/s41586-026-10955-0",
-    "source": "Nature News",
-    "title": "Written in development and lost in ageing: the grammar of cellular identity",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10955-0\">doi:10.1038/s41586-026-10955-0</a></p>Ageing reflects progressive decanalization of mammalian cell identity, driven by erosion of a regulatory grammar written during development.",
-    "byline_count": 3,
-    "author_names": [],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/US/new-york-gov-hochul-calls-transparent-independent-review/story?id=136855936",
-    "source": "ABC News",
-    "title": "Gov. Hochul calls for 'independent review' of Cornell response to alleged group rape",
-    "summary": "New York Gov. Hochul called for a 'transparent, independent review' of Cornell University's response to an unidentified student's allegations of gang rape.",
-    "byline_count": 3,
-    "author_names": [
-      "Peter Charalambous",
-      "Aaron Katersky",
-      "Christopher Watson"
-    ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:48:36+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theinformation.com/briefings/exclusive-gpu-cloud-provider-gmi-raises-668-million-nvidia-others",
-    "source": "The Information",
-    "title": "Exclusive: GPU Cloud Provider GMI Raises $668 Million From Nvidia and Others",
-    "summary": "<p>GMI Cloud, a five-year-old provider of Nvidia chip servers to enterprises, said Wednesday it raised $668 million in equity and debt financing. The new fundraise indicates Nvidia is continuing to help smaller, upstart cloud providers, especially those that plan to boost Nvidia in more ways than ...</p>",
+    "link": "https://www.tmz.com/2026/10/03/trump-leaks-senator-tom-cotton-cell-phone-number/",
+    "source": "TMZ",
+    "title": "Donald Trump Leaks Sen. Tom Cotton's Cell Phone Number On Truth Social",
+    "summary": "11:22 AM PT -- Senator Tom Cotton has since responded to the prez writing ... \"No one likes changing the clock, me included, but Congress has enacted permanent Daylight Savings Time multiple times before and repealed it each time once Americans&hellip;",
     "byline_count": 1,
     "author_names": [
-      "Phoebe Liu"
+      "TMZ Staff"
     ],
-    "total_score": 4,
+    "total_score": 3,
     "matched_categories": [
-      "exclusivity",
-      "headline_label"
+      "primary_source"
     ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T10:55:47+00:00",
-    "is_new": false
+    "first_seen_at": "2026-10-03T18:55:38.901316+00:00",
+    "published_parsed": "2026-10-03T16:30:40+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.bloomberg.com/news/articles/2026-09-30/denmark-seen-likely-to-delay-frigate-vendor-decision-to-2027",
-    "source": "Bloomberg",
-    "title": "Denmark Seen Likely to Delay Frigate Vendor Decision to 2027",
-    "summary": "Denmark\u2019s long-awaited decision on a supplier of new frigates for its navy is likely to be delayed until next year after a snap election disrupted the process, according to people familiar with the matter.",
+    "link": "https://www.scmp.com/news/world/united-states-canada/article/3369673/tennessee-prisons-chief-resigning-after-botched-execution-christa-pike?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Tennessee prisons chief resigning after botched execution of Christa Pike",
+    "summary": "The head of Tennessee\u2019s prison system is resigning, Governor Bill Lee announced on Saturday, the first major staff shake-up since Christa Pike\u2019s stunning failed execution left her unconscious and on a ventilator at a hospital.\nFrank Strada, commissioner of the Department of Correction, will step down this month, Lee said. Some of the governor\u2019s fellow Republicans and other elected officials had been urging a change in leadership.\nIt was the second time since May that Tennessee has not been able...",
     "byline_count": 1,
-    "author_names": [],
-    "total_score": 4,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T11:29:38+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
-    "summary": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.",
-    "byline_count": 3,
     "author_names": [
-      "Sima Kotecha",
-      "Jade Thompson",
-      "Claire Ellison"
+      "Associated Press"
     ],
-    "total_score": 4,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:11:32+00:00",
-    "is_new": false
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-10-03T18:55:38.901316+00:00",
+    "published_parsed": "2026-10-03T16:53:29+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.axios.com/2026/09/30/cornell-rape-allegations-house-democratic-women-title-ix",
-    "source": "Axios",
-    "title": "Exclusive: Cornell rape allegations fuel House Democratic women's Title IX push",
-    "summary": "<p>A criminal investigation into allegations that a <a href=\"https://www.axios.com/2026/09/29/cornell-scandal-student-newspaper-daily-sun\" target=\"_blank\">Cornell University student </a>was gang raped by seven fraternity members in 2024 is fueling a new push by House Democratic women to strengthen federal protections against sexual violence on college campuses.</p><p><strong>Why it matters:</strong> The <a href=\"https://www.axios.com/2026/08/04/chuck-edwards-democratic-women-caucus-resign-ethics\" target=\"_blank\">Democratic Women's Caucus</a> is calling on congressional Republicans and the Trump administration to strengthen Title IX protections, arguing that the administration's changes to the civil rights law could leave students more vulnerable.</p><hr /><ul><li>The push comes just two days after the Trump administration rescinded Biden-era <a href=\"https://www.nytimes.com/2026/09/28/us/politics/trump-administration-revises-sex-discrimination-rules.html\" target=\"_blank\">sex discrimina",
+    "link": "https://www.cbsnews.com/news/christa-pike-failed-execution-tennessee-official-resigns/",
+    "source": "CBS News",
+    "title": "Tennessee prison system head to resign after failed Christa Pike execution",
+    "summary": "Christa Pike remains alive but unconscious and intubated after her failed execution on Wednesday, her lawyers said.",
     "byline_count": 1,
-    "author_names": [],
-    "total_score": 4,
-    "matched_categories": [
-      "exclusivity",
-      "headline_label"
+    "author_names": [
+      "Kerry  Breen"
     ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:47:37+00:00",
-    "is_new": false
+    "total_score": 3,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-10-03T18:55:38.901316+00:00",
+    "published_parsed": "2026-10-03T16:10:13+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/story/2026-10-02/sean-combs-solitary-confinement-prison-lifestyle",
@@ -3284,7 +2840,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-02T18:32:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/10/03/us-vistra-loan-nuclear-power.html",
@@ -3299,7 +2855,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T15:00:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/trump-white-house-ban-cnn-ms-now-politico-3-1237145951/",
@@ -4003,55 +3559,101 @@
     "is_new": false
   },
   {
-    "link": "https://pagesix.com/2026/09/30/entertainment/rhony-star-sai-de-silva-reveals-breaking-point-in-marriage-before-split/",
-    "source": "Page Six",
-    "title": "\u2018RHONY\u2019 star Sai De Silva reveals shocking breaking point in her marriage before divorce filing",
-    "summary": "De Silva dropped a bombshell about her and David Craig's marital issues on the latest episode of \"RHONY.\"",
-    "byline_count": 1,
+    "link": "https://www.abc.net.au/news/2026-10-04/bushfire-telecommunications-fail-black-summer-phone-reception/107210562",
+    "source": "ABC Australia",
+    "title": "When a bushfire comes, what happens if the phones go dead?",
+    "summary": "The Black Summer bushfires cut people off from warnings, rescue and each other when mobile phones failed. How can we stay safe when telecommunications goes dark?",
+    "byline_count": 2,
     "author_names": [
-      "Eric Todisco"
+      "Rhiannon Stevens",
+      "Kylie Silvester"
     ],
-    "total_score": 3,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:13:40+00:00",
-    "is_new": false
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-03T18:55:38.901316+00:00",
+    "published_parsed": "2026-10-03T18:30:00+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.latimes.com/sports/usc/story/2026-09-30/fallout-from-oregon-loss-puts-lincoln-riley-on-hot-seat",
-    "source": "Los Angeles Times",
-    "title": "'All options are on the table': Fallout from Oregon loss puts Lincoln Riley on hot seat",
-    "summary": "<p>The days since Saturday's ugly loss to Oregon have prompted questions across the country about Lincoln Riley's future at USC, where he's midway through his fifth season as coach.</p>",
+    "link": "https://www.abc.net.au/news/2026-10-04/future-home-life-australia-ev-electric-vehicles-solar-power-wfh/107220092",
+    "source": "ABC Australia",
+    "title": "The key features Australian homes may have in the future",
+    "summary": "Researchers at Monash University release a report exploring what Australians want from our homes in the future.",
+    "byline_count": 2,
+    "author_names": [
+      "Ahmed Yussuf",
+      "Dannielle Maguire"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-03T18:55:38.901316+00:00",
+    "published_parsed": "2026-10-03T18:39:56+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/10/03/jaime-king-officially-divorced/",
+    "source": "TMZ",
+    "title": "Jaime King Is Officially Single As Judge Signs Off On Divorce",
+    "summary": "Jaime King is officially back on the market ... after a judge signed off on her divorce from her now-former husband, Austin Sosa. According to court docs, obtained by TMZ ... a Los Angeles County Superior Court judge entered the final judgment on&hellip;",
     "byline_count": 1,
     "author_names": [
-      "Ryan Kartje"
+      "TMZ Staff"
     ],
-    "total_score": 3,
+    "total_score": 2,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-03T18:55:38.901316+00:00",
+    "published_parsed": "2026-10-03T18:31:38+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/10/03/tennessee-prison-chief-resigns-after-botched-christa-pike-execution/",
+    "source": "TMZ",
+    "title": "Tennessee Prison Chief Resigning After Botched Christa Pike Execution",
+    "summary": "Tennessee's prison chief is stepping down just days after the failed execution of Christa Pike left her on a ventilator. Tennessee Department of Correction Commissioner Frank Strada said that his resignation \"is in the best interests\" of the state&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 2,
     "matched_categories": [
       "sourcing_depth"
     ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T14:08:38+00:00",
-    "is_new": false
+    "first_seen_at": "2026-10-03T18:55:38.901316+00:00",
+    "published_parsed": "2026-10-03T15:55:44+00:00",
+    "is_new": true
   },
   {
-    "link": "https://www.latimes.com/business/story/2026-09-30/anthropic-warns-of-ais-existential-risk-to-humans-in-its-ipo-filing",
-    "source": "Los Angeles Times",
-    "title": "Anthropic warns of AI's 'existential risk' to humans in its IPO filing",
-    "summary": "<p>Nearly a third of Anthropic's IPO prospectus spotlighted AI 'risk factors.' Less than 50 pages were dedicated to business metrics, while 80 of 261 pages were about potential risks of AI.</p>",
-    "byline_count": 1,
+    "link": "https://abcnews.com/US/tennessee-corrections-commissioner-resign-days-after-failed-execution/story?id=136973939",
+    "source": "ABC News",
+    "title": "Tennessee Corrections commissioner resigns days after failed Christa Pike execution",
+    "summary": "Tennessee Department of Correction Commissioner Frank Strada he will resign days after the execution of Christa Pike was botched, the governor said.",
+    "byline_count": 2,
     "author_names": [
-      "Nilesh Christopher"
+      "Victoria Arancio",
+      "Ivan Pereira"
     ],
-    "total_score": 3,
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-03T18:55:38.901316+00:00",
+    "published_parsed": "2026-10-03T17:05:29+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/10/03/opinion/cornell-rape-lawsuit-politics-morality.html",
+    "source": "NYT",
+    "title": "What the Cornell Lawsuit Reveals About Sexual Violence in America",
+    "summary": "The columnist David French argues that \u201cwe have privileged getting wasted over taking care of people.\u201d",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 2,
     "matched_categories": [
       "primary_source"
     ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T10:00:00+00:00",
-    "is_new": false
+    "first_seen_at": "2026-10-03T18:55:38.901316+00:00",
+    "published_parsed": "2026-10-03T16:04:49+00:00",
+    "is_new": true
   },
   {
     "link": "https://www.tmz.com/2026/10/03/new-video-shows-cornell-frat-room-of-alleged-gang-rape/",
@@ -4068,7 +3670,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T12:52:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-03/teen-charged-for-alleged-crashing-into-crowd/107225432",
@@ -4084,7 +3686,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T11:42:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/politics/story/2026-10-03/trump-is-campaigning-in-reliably-red-states-sign-of-midterm-concerns",
@@ -4101,7 +3703,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/03/district-attorney-in-cornell-rape-case-declined-more-evidence/",
@@ -4118,7 +3720,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T12:13:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369663/police-smash-burglary-ring-recruited-illegal-immigrants-25-break-ins?utm_source=rss_feed",
@@ -4135,7 +3737,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T11:25:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/03/judge-temporary-injunction-trump-border-wal-big-bend-region-texas-irreparable-harm-public-interest/",
@@ -4151,7 +3753,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T14:23:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/03/florida-hoa-dues-home-prices-residents/",
@@ -4167,7 +3769,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T14:24:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/03/private-equity-sports-teams-journalism-oversight/",
@@ -4183,7 +3785,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T14:42:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/03/ohio-truck-factory-layoffs-trump-rally-former-supporter-democrats-midterm-elections/",
@@ -4199,7 +3801,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T14:37:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/03/flock-cameras-cbp-access-data-sharing/",
@@ -4215,7 +3817,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T14:34:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/03/dolly-parton-books-for-kids-imagination-library/",
@@ -4231,7 +3833,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T15:00:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/select/what-is-the-average-credit-card-limit/",
@@ -4247,7 +3849,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-01T16:38:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/top-democrats-battle-californias-proposed-billionaire-tax/story?id=136951176",
@@ -4263,7 +3865,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T10:34:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
@@ -4279,7 +3881,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T12:51:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
@@ -4295,7 +3897,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T15:06:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
@@ -4311,7 +3913,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T12:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/campaign/6126619-gop-trump-immigration-enforcement-midterms/",
@@ -4324,7 +3926,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T10:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/inside-americas-66-billion-bet-to-beat-chinas-shipbuilding-empire-2026-10",
@@ -4340,7 +3942,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T13:00:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/commentisfree/2026/oct/03/cornell-rape-case-male-supremacy",
@@ -4357,7 +3959,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T10:00:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/03/us/cornell-rape-campus-sexual-assault.html",
@@ -4372,7 +3974,7 @@
     ],
     "first_seen_at": "2026-10-03T15:27:52.785104+00:00",
     "published_parsed": "2026-10-03T09:02:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-03/sharks-set-to-linger-off-perth-beaches-after-whale-removed/107223760",
@@ -8922,740 +8524,6 @@
     ],
     "first_seen_at": "2026-09-30T23:21:34.558138+00:00",
     "published_parsed": "2026-09-30T21:27:04+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/30/cornell-fraternity-brother-attorney-says-he-didnt-rape-jane-doe/",
-    "source": "TMZ",
-    "title": "Accused Cornell Frat Bro's Lawyer Says Client Was Curious About 'Free P***y' Message, Denies Rape",
-    "summary": "The lawyer defending 1 of the 7 frat brothers accused of gang raping a Cornell student in 2024 is claiming that while his client did react to the infamous \"free p***y\" Snapchat group message, he did not rape her. Attorney Jeremy Saland, who&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T14:13:13+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/30/united-airlines-passenger-suffers-medical-emergency-aboard-plane/",
-    "source": "TMZ",
-    "title": "United Airlines Passenger Turns 'Deep Purple,' Plane Makes Emergency Landing",
-    "summary": "10:00 AM PT -- TMZ has learned that the passenger has unfortunately died ... their body has been turned over to the King County Medical Examiner. A United Airlines passenger suffered a medical emergency Tuesday after he turned \"deep purple\" during&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T15:48:32+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.tmz.com/2026/09/30/christa-pike-execution-paused/",
-    "source": "TMZ",
-    "title": "Christa Pike's Execution Paused an Hour Before Her Lethal Injection was Scheduled",
-    "summary": "Tennessee death row inmate Christa Pike was supposed to be executed this morning ... but her execution was paused just an hour before her scheduled lethal injection. According to a court notice obtained by PEOPLE, Pike was granted a stay \"until&hellip;",
-    "byline_count": 1,
-    "author_names": [
-      "TMZ Staff"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "exclusivity"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:25:36+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/politik/bundesregierung-gesetzentwurf-pflegereform-einigung-koalition-li.3556280",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Reformpolitik: Koalition vertagt Streitpunkte zur Pflege",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/30/ba378480-f985-4ce5-97d1-44b347560522.jpg?rect=223%2C0%2C3553%2C2665&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die Regierung beschlie\u00dft eine Pflegereform, die Konflikte zwischen Union und SPD ausklammert. Mit den Streitpunkten wird sich eine Kommission besch\u00e4ftigen. Die Pflegebeitr\u00e4ge f\u00fcr Kinderlose sollen steigen, die Vorsorge besser werden.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Roland Preu\u00df",
-      "Rainer Stadler"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T12:39:16+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/politik/pflegereform-bundesregierung-streit-einigung-ueberblick-versicherte-li.3556245",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Gesundheitswesen: Das steckt im Pflege-Sparpaket",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/30/e821e296-abe3-43dd-9396-4fb1739c5b99.jpg?rect=222%2C0%2C3556%2C2667&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Nach l\u00e4ngeren Verhandlungen steht der Regierungsentwurf f\u00fcr eine Pflegereform. Wor\u00fcber bis zuletzt gestritten wurde und was nun auf die Versicherten zukommt \u2013 ein \u00dcberblick.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Bastian Brinkmann",
-      "Rainer Stadler"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T13:14:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/sport/olympia-dosb-kandidat-mronz-widerstand-li.3556333",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Deutscher Olympischer Sportbund: Streit ums Schattenkabinett",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2026/09/30/87432854-e94c-4aff-993c-5e654e5039d5.jpg?rect=92%2C0%2C2987%2C2240&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Nach der Wahl des Olympiakandidaten steht f\u00fcr den Sport die n\u00e4chste zentrale Frage an: Wer wird neuer DOSB-Pr\u00e4sident? Der K\u00f6lner Sportmanager Michael Mronz gilt als Favorit \u2013 doch es formiert sich Widerstand.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Johannes Aum\u00fcller",
-      "Johannes Knuth"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T14:31:27+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-gesundheit-pflege-plegereform-li.3556367",
-    "source": "Sueddeutsche Zeitung",
-    "title": "Podcast \u201eAuf den Punkt\u201c: Was die Pflege braucht, ist l\u00e4ngst klar\u00a0\u2013 nur umgesetzt wird es nicht",
-    "summary": "<img src=\"https://www.sueddeutsche.de/2025/03/12/4d031366-ad93-4b81-89dc-aa57357f2531.png?rect=400%2C0%2C2400%2C1800&amp;width=1000&amp;fm=jpg&amp;q=60\" /><p>Die Bundesregierung hat sich auf Ma\u00dfnahmen zur Finanzierung der Pflegeversicherung geeinigt. Doch es braucht viel mehr als das.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Ann-Marlen Hoolt",
-      "Rainer Stadler"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:00:59+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-30/jai-arrow-told-nothing-about-nrl-grand-final-tribute/107214322",
-    "source": "ABC Australia",
-    "title": "Jai Arrow told 'nothing' about pre-grand final tribute",
-    "summary": "As Jai Arrow is honoured with the Provan-Summons Medal at the Dally M Awards in Sydney, he says he knows \"nothing\" about a tribute reportedly planned ahead of the NRL grand final on Sunday.",
-    "byline_count": 2,
-    "author_names": [
-      "Henry Hanson",
-      "Myles Houlbrook-Walk"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T11:06:38+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.abc.net.au/news/2026-09-30/grenfell-tower-police-recommend-dozens-of-charges/107198342",
-    "source": "ABC Australia",
-    "title": "After 10-year probe, police want 54 people charged over Grenfell Tower blaze",
-    "summary": "Almost a decade since London's Grenfell Tower fire disaster, police have asked prosecutors to consider charging 54 people and 20 organisations over the blaze, which killed 72 people.",
-    "byline_count": 2,
-    "author_names": [
-      "Mazoe Ford",
-      "Syan Vallance"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T11:10:54+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "title": "Gold is supposed to be a safe haven when inflation surges. So why isn\u2019t it working that way now?",
-    "summary": "Every investor knows the drill: When markets buckle, buy gold. But in September, that playbook hasn\u2019t worked as expected.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:51:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3369365/hong-kongs-pansy-ho-wins-permanent-injunction-against-woman-who-harassed-her?utm_source=rss_feed",
-    "source": "South China Morning Post",
-    "title": "Hong Kong\u2019s Pansy Ho wins permanent injunction against woman who harassed her",
-    "summary": "Pansy Ho Chiu-king, daughter of the late Macau casino magnate Stanley Ho Hung-sun, has won a lawsuit to permanently bar a woman from contacting her after the defendant repeatedly harassed her and her companies with emails and hand-delivered letters containing false allegations.\nThe defendant was also ordered to pay Ho HK$1.8 million (US$229,000) in compensation for damages.\nA judgment handed down by the High Court on Wednesday revealed that Ho, chairwoman and executive director of MGM China...",
-    "byline_count": 1,
-    "author_names": [
-      "Fiona Chow"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T12:49:19+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.scotusblog.com/2026/09/justices-add-deportation-case-to-december-argument-session/",
-    "source": "SCOTUSblog",
-    "title": "Justices add deportation case to December argument session",
-    "summary": "Plus, President Trump\u2019s second birthright citizenship order faces a new challenge.",
-    "byline_count": 2,
-    "author_names": [
-      "Kelsey Dallas",
-      "Nora Collins"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T13:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.statnews.com/2026/09/30/biotech-news-updates-accusations-of-theft-new-phrma-guy/?utm_campaign=rss",
-    "source": "STAT",
-    "title": "STAT+: Three biotech updates, including accusations of theft and and a new lobbying leader",
-    "summary": "Beam Therapeutics has filed a lawsuit alleging one of its former\u00a0scientists stole intellectual property and used it to co-found a Chinese company that recently made a deal with prominent VC&#8230;",
-    "byline_count": 1,
-    "author_names": [
-      "Elaine Chen"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T13:39:27+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-02782-0",
-    "source": "Nature News",
-    "title": "Sugar amplifies antibiotic disruption of gut microbes",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02782-0\">doi:10.1038/d41586-026-02782-0</a></p>People who underwent stem-cell transplantation and ate sugar-rich food had disrupted communities of gut microorganisms during antibiotic treatment.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-02778-w",
-    "source": "Nature News",
-    "title": "Harmful tau spreads like self-propagating prion proteins",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02778-w\">doi:10.1038/d41586-026-02778-w</a></p>Structural studies support the idea that fibrillized tau protein, a feature of neurodegenerative disorders, acts as a prion-like template to induce misfolding in healthy tau.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-02783-z",
-    "source": "Nature News",
-    "title": "Pipework problems when cancer spreads to an area bordering the brain",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02783-z\">doi:10.1038/d41586-026-02783-z</a></p>Analysis of cancer growing adjacent to the brain reveals that bone-eroding cells interfere with lymphatic drainage vessels and hinder anti-tumour immune responses.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-026-02777-x",
-    "source": "Nature News",
-    "title": "2D semiconductor aims to turbocharge development of high-performance electronics",
-    "summary": "<p>Nature, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02777-x\">doi:10.1038/d41586-026-02777-x</a></p>An ultrathin semiconductor that conducts electricity using positively charged \u2018holes\u2019 might clear the way for next-generation electronic devices.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T00:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/select/shopping/best-vacuum-storage-bags-organization-rcna248636",
-    "source": "NBC News",
-    "title": "The 7 best vacuum storage bags for maximizing space and organizing your stuff",
-    "summary": "We found the best vacuum storage bags, which you can use to save room in your closet when storing clothes, bedding and more.",
-    "byline_count": 2,
-    "author_names": [
-      "Bethany Heitman",
-      "Cory Fernandez"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2025-12-11T16:57:54+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/news/us-news/army-vet-sues-hospital-surgeons-amputate-wrong-leg-rcna600645",
-    "source": "NBC News",
-    "title": "74-year-old Army vet sues hospital after surgeons amputate wrong leg",
-    "summary": "An Ohio woman is suing a hospital, accusing its doctors of amputating the wrong leg. Sharon Jacks, 74, filed a lawsuit this month in Washington County Common Pleas Court in Marietta, Ohio, claiming that her left leg was amputated at Selby General Hospital in September 2025.",
-    "byline_count": 1,
-    "author_names": [
-      "Matt Lavietes"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T15:53:49+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://fortune.com/2026/09/30/us-gdp-2-2-reversal-optimism-ai-tech/",
-    "source": "Fortune",
-    "title": "\u2018The economy is increasingly reliant on AI gains\u2019: U.S. GDP grew 2.2% amid \u2018sudden reversal of optimism\u2019 on AI tech",
-    "summary": "The U.S. economy has proven surprisingly resilient in the face of fighting with Iran and the energy price spike it caused.",
-    "byline_count": 2,
-    "author_names": [
-      "The Associated Press",
-      "Paul Wiseman"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:06:24+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nbcnews.com/news/us-news/federal-reserve-renovation-watchdog-report-rcna600656",
-    "source": "NBC News",
-    "title": "Watchdog finds no criminality in Fed renovation that drew Trump\u2019s scrutiny",
-    "summary": "The Federal Reserve\u2019s watchdog said it found no grounds to believe federal law was violated in a project that drew criticism from President Donald Trump.",
-    "byline_count": 2,
-    "author_names": [
-      "Ryan J. Reilly",
-      "Steve Kopack"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T17:00:07+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/uk-fairford-air-base-iran-played-part-incident-pm-burnham-says/",
-    "source": "CBS News",
-    "title": "U.K. leader says Iran believed to have \"played a part\" in air base incident",
-    "summary": "Prime Minister Andy Burnham says U.K. authorities believe Iran \"played a part\" in the incident over the weekend at an air base used by the U.S. to launch strikes on Iran.",
-    "byline_count": 2,
-    "author_names": [
-      "Tucker  Reals",
-      "Frank  Andrews"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:07:30+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/flydubai-flight-israel-passengers-recount-alleged-terror-attack-hijack/",
-    "source": "CBS News",
-    "title": "Passengers recount terrifying attempted hijack of Dubai to Israel flight",
-    "summary": "Passenger Ron Levi tells CBS News the attempted hijack of a Dubai to Israel flight was \"the scariest thing possible.\"",
-    "byline_count": 2,
-    "author_names": [
-      "Steve  Frank",
-      "Dov  Lieber"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T17:08:31+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/snap-benefits-millions-lost-obbba-work-requirements/",
-    "source": "CBS News",
-    "title": "New SNAP rules take effect Oct. 1, raising fears of more benefit cuts",
-    "summary": "More than 5 million Americans have lost food-stamp benefits since 2025. \"I have to prove that I'm sick,\" one SNAP recipient said.",
-    "byline_count": 2,
-    "author_names": [
-      "Aimee  Picchi",
-      "Mary  Cunningham"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:38:38+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cbsnews.com/news/justice-department-files-judicial-misconduct-complaint-against-federal-judges-in-minnesota/",
-    "source": "CBS News",
-    "title": "DOJ files judicial misconduct complaint against federal judges in Minnesota",
-    "summary": "Attorney General Todd Blanche announced the Justice Department had filed a judicial misconduct complaint against federal judges in Minnesota after they spoke with the New York Times.",
-    "byline_count": 2,
-    "author_names": [
-      "Sarah N. Lynch",
-      "Melissa  Quinn"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:51:38+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/09/30/tennis-star-jessica-pegula-on-buffalo-bills-sabres-family-ownership.html",
-    "source": "CNBC",
-    "title": "Tennis star Jessica Pegula says helping her family run the Buffalo Bills could be in her future",
-    "summary": "Tennis star Jessica Pegula says she's open to helping her family run the Buffalo Bills after her playing career is over.",
-    "byline_count": 2,
-    "author_names": [
-      "Jessica Golden",
-      "Alex Sherman"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T12:00:01+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://abcnews.com/US/wireStory/trumps-shift-housing-causing-upheaval-homelessness-programs-serve-136882014",
-    "source": "ABC News",
-    "title": "Trump\u2019s shift from 'Housing First' causing upheaval for homelessness programs",
-    "summary": "The Trump administration is shifting federal policy and dollars away from the &ldquo;Housing First&rdquo; approach that has been at the heart of federal homelessness policy",
-    "byline_count": 2,
-    "author_names": [
-      "LAURA UNGAR Associated Press",
-      "GEOFF MULVIHILL Associated Press"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T11:25:44+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theinformation.com/articles/openais-devday-looked-like-catch-up",
-    "source": "The Information",
-    "title": "Why OpenAI\u2019s DevDay Looked Like Catch-Up",
-    "summary": "<p>While the rest of us were distracted by details within <b>Anthropic\u2019s</b>&nbsp;<a href=\"https://www.theinformation.com/briefings/anthropics-confidential-filing-reveals-customer-concentration\">IPO filing</a> and <b>OpenAI\u2019s</b> <a href=\"https://www.theinformation.com/briefings/openai-early-talks-raise-30-billion-ipo\">plans to raise $30 billion</a> in a new round that could value it around $1.4 trillion, app developers on Tuesday flooded to San Francisco\u2019s Fort Mason for OpenAI\u2019s annual developer conference, where it made a flurry of new product and feature announcements.</p><p>All in all, <b>OpenAI\u2019s DevDay</b> felt a bit reactionary. Take<b> \u201cDots,\u201d</b> an always-on or persistent agent product\u2014which we <a href=\"https://www.theinformation.com/newsletters/ai-agenda/openai-develops-features-counter-grok-bot-mulls-response-metas-muse\">broke</a> news about earlier this month\u2014that promises to automate complex processes like turning customer feedback into improvements for an app or filling",
-    "byline_count": 1,
-    "author_names": [
-      "Stephanie Palazzolo"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T14:00:52+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theinformation.com/articles/wall-street-silicon-valley-split-ais-price-tag",
-    "source": "The Information",
-    "title": "Wall Street and Silicon Valley Split Over AI\u2019s Price Tag",
-    "summary": "<p>Shifting economic forces are driving a widening divide between the financial views of Silicon Valley and Wall Street, clouding the outlook for trillions of dollars invested in AI.</p>\n\n<p>Stock market angst has already caused delays for several medium-sized initial public offerings, and it is starting to cool once-red hot sentiment about <a href=\"https://www.theinformation.com/org-charts/anthropic\">Anthropic</a>\u2019s giant IPO, which is coming later in the year than investors expected. Two large public investors said Tuesday that they thought bankers should value Anthropic closer to $1.5 trillion, rather than the $2 trillion that some bankers have floated in early conversations. The AI firm is still likely weeks away from an official IPO roadshow.</p>",
-    "byline_count": 2,
-    "author_names": [
-      "Cory Weinberg",
-      "Valida Pau"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T13:00:50+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-    "source": "CNBC",
-    "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
-    "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
-    "byline_count": 2,
-    "author_names": [
-      "Davis Giangiulio",
-      "Ananya Chetia"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T14:31:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cmx2zr39l716o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Grooming gangs inquiry expanded to Birmingham and Wales",
-    "summary": "Targeted investigations will be carried out as part of a national inquiry into child sexual abuse.",
-    "byline_count": 2,
-    "author_names": [
-      "Amy Walker",
-      "Ruth Green"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T17:15:54+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
-    "summary": "The prime minister compares the allegations against Man City to the plight of his own club Everton.",
-    "byline_count": 2,
-    "author_names": [
-      "Ewan Somerville",
-      "Henry Zeffman"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:01:16+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c6j9xmd0730mo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Timeline of RAF Fairford incident and the investigation so far",
-    "summary": "From a late-night call about suspicious vehicles, to five men being arrested and then bailed - here is how the incident has unfolded.",
-    "byline_count": 2,
-    "author_names": [
-      "Florence Freeman",
-      "Tiffany Wertheimer"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:08:02+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-    "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
-    "byline_count": 2,
-    "author_names": [
-      "Jonathan Beale",
-      "David Gritten"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T11:36:23+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-    "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
-    "byline_count": 2,
-    "author_names": [
-      "Stephanie Hegarty",
-      "Grace Eliza Goodwin"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T15:29:11+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC News",
-    "title": "Sussexes condemn 'reckless intrusion' after photographer spotted near Archie and Lilibet's school",
-    "summary": "One of two men seen outside the UK school attended by the children is understood to be an international press photographer.",
-    "byline_count": 2,
-    "author_names": [
-      "Noor Nanji",
-      "Ella Kipling"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T12:50:51+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
-    "source": "CNBC",
-    "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
-    "summary": "These are the stocks posting the largest moves midday.",
-    "byline_count": 2,
-    "author_names": [
-      "Davis Giangiulio",
-      "Fred Imbert"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T17:04:42+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/campaign/6118768-gop-trump-gas-prices-data-centers-iran-war-immigration-enforcement/",
-    "source": "The Hill",
-    "title": "GOP breaks with Trump on multiple issues",
-    "summary": "Republicans in both chambers are increasingly breaking ranks with President Trump across a host of sensitive issues, hoping some separation from the GOP\u2019s unpopular standard-bearer will help avert a blue wave in the midterm elections.\u00a0\u00a0 The divisions are highly unusual for a party that\u2019s walked virtually in lockstep with Trump for more than a decade.&#8230;",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T10:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/homenews/education/6120525-cornell-university-frat-house-rape-investigation/",
-    "source": "The Hill",
-    "title": "Cornell University frat house rape investigation reopened: What we know",
-    "summary": "Cornell University is facing a firestorm of controversy after a lawsuit filed this month alleges a student there was gang raped at a fraternity house in 2024. The individual, identified as Jane Doe in the lawsuit, accuses seven men of raping her over several hours at Chi Phi fraternity house. The lawsuit also includes an&#8230;",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:50:43+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://thehill.com/newsletters/1230-report/6120698-senate-votes-on-data-center-insider-trading-bills/",
-    "source": "The Hill",
-    "title": "Senate votes on data center, insider trading bills",
-    "summary": "Plus: \ud83d\udd26Schmitt stays in the spotlight {beacon} &#8202; It\u2019s Wednesday, and the Senate is busy.&#160; &#8202; In today&#8217;s issue: Latest on Ratepayer Protection Act Schmitt stays in the limelight Iran targets U.S. midterms Ken Griffin&#8217;s $3 billion donation Programming note: We&#8217;re Joshua Feldstein and Abigail Walker, filling in for Cate today. Please send us your&#8230;",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T16:58:03+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/conde-nast-ceo-roger-lynch-steps-down-read-the-memo-2026-9",
-    "source": "Business Insider",
-    "title": "Cond\u00e9 Nast CEO Roger Lynch is leaving to run toy giant Mattel. Read his memo to staffers.",
-    "summary": "Cond\u00e9 Nast CEO Roger Lynch is stepping down after more than seven years at the home of Vogue and Vanity Fair. Read his memo to employees.",
-    "byline_count": 2,
-    "author_names": [
-      "James Faris",
-      "Lucia Moses"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T13:03:26+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.businessinsider.com/uber-wait-times-rise-19-as-prices-climb-53-study-2026-9",
-    "source": "Business Insider",
-    "title": "Yes, you are waiting longer for Uber rides, a new study says",
-    "summary": "Uber wait times and costs increase as study by Columbia Business School shows a 19% rise in delays and 53% hike in per-mile charges.",
-    "byline_count": 1,
-    "author_names": [
-      "Alex Bitter"
-    ],
-    "total_score": 2,
-    "matched_categories": [
-      "sourcing_depth"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T14:30:50+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
-    "source": "The Guardian US",
-    "title": "MI5 issues spy alert to UK universities over Chinese front company stealing research",
-    "summary": "<p>Security service says academics should stop taking grants from and working with firm backed by China\u2019s intelligence service</p><ul><li><p><a href=\"https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing\">MI5 China alert will send chill through UK\u2019s cash-strapped universities</a></p></li></ul><p>China\u2019s intelligence service used a front company to pay grants to British universities and steal crucial research about technology projects, MI5 said on Wednesday in a rare public espionage warning.</p><p>Britain\u2019s domestic security service said researchers and academics should cease work with the China General Technology Research Institute (CGTRI), sometimes also known as the China Academy of General Technology (CAGT). MI5 believes it poses a \u201csignificant threat\u201d.</p> <a href=\"https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Vikram Dodd",
-      "Sally Weale"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T13:00:41+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/world/2026/sep/30/rapes-triggers-mass-protests-indian-universities",
-    "source": "The Guardian US",
-    "title": "\u2018We want justice\u2019: series of rapes trigger mass protests at Indian universities",
-    "summary": "<p>Women say nothing has changed since Delhi\u2019s infamous Nirbhaya bus rape case 14 years ago</p><p>The posters, just like the women holding them, were taking no prisoners. \u201cGirls don\u2019t need curfews, rapists need consequences,\u201d read one. \u201cLock your dicks rather than your women at home,\u201d read another.</p><p>As hundreds of women walked from the gates of their university campus into the streets of Delhi \u2013 where sexual harassment, assault, catcalling and molestation are a constant, daily threat \u2013 they shouted together in a chorus of rage and defiance: \u201cWe want justice.\u201d</p> <a href=\"https://www.theguardian.com/world/2026/sep/30/rapes-triggers-mass-protests-indian-universities\">Continue reading...</a>",
-    "byline_count": 2,
-    "author_names": [
-      "Hannah Ellis-Petersen",
-      "Aakash Hassan"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T15:56:09+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theguardian.com/football/2026/sep/30/guardiola-backs-manchester-city-owners-over-guilty-verdicts",
-    "source": "The Guardian US",
-    "title": "\u2018I am here more than ever\u2019: Guardiola backs Manchester City owners over guilty verdicts",
-    "summary": "<ul><li><p>\u2018I am, always have been, always will, be behind my club\u2019</p></li><li><p>Former City chair Bernstein calls for directors to quit</p></li></ul><p>Pep Guardiola has thrown his support behind Manchester City after the club <a href=\"https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches\">were found guilty</a> of all charges of breaching Premier League financial rules over a nine-year period, telling fans: \u201cWe will get through this together.\u201d</p><p>Guardiola left City in the summer after a trophy-laden decade in charge, with his first two seasons falling within the period investigated by the independent commission. The Spaniard remains a close ally of the chief executive, Ferran Soriano, who brought him to England, the pair having previously worked together at Barcelona. City maintain their innocence and are set to appeal against the decision before Friday\u2019s deadline.</p> <a href=\"https://www.theguardian.com/football/",
-    "byline_count": 2,
-    "author_names": [
-      "Will Unwin",
-      "Tom Garry"
-    ],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T13:39:43+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.theatlantic.com/politics/2026/09/fetterman-gop-senate-fundraising/688824/?utm_source=feed",
-    "source": "The Atlantic",
-    "title": "Right-Wing Groups Are Making Money Off John Fetterman",
-    "summary": "After losing his Democratic fundraisers, the Pennsylvania senator found a new firm with MAGA-world ties.",
-    "byline_count": 2,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T10:00:00+00:00",
-    "is_new": false
-  },
-  {
-    "link": "https://www.nytimes.com/2026/09/30/business/economy/harvard-eeoc-diversity-hiring.html",
-    "source": "NYT",
-    "title": "E.E.O.C. Sues Harvard for Data on Diversity in Hiring Practices",
-    "summary": "The Equal Employment Opportunity Commission filed a lawsuit asking a judge to compel the university to provide information on hiring practices that it said discriminated against white men.",
-    "byline_count": 1,
-    "author_names": [],
-    "total_score": 2,
-    "matched_categories": [
-      "primary_source"
-    ],
-    "first_seen_at": "2026-09-30T17:18:42.422131+00:00",
-    "published_parsed": "2026-09-30T17:01:01+00:00",
     "is_new": false
   }
 ]
