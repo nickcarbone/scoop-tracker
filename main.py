@@ -291,7 +291,9 @@ def esc(s):
     return html_lib.escape(s or "")
 
 def write_json(conn, path="scoop_tracker_output.json", window_hours=72, new_urls=frozenset()):
-    articles = db.recent_articles(conn, hours=window_hours, limit=2000)
+    # The JSON is meant to be the full, uncollapsed window (see write_html), and a
+    # 72h window holds ~3,000 articles, so the old limit=2000 truncated it.
+    articles = db.recent_articles(conn, hours=window_hours, limit=100000)
     for a in articles:
         a["is_new"] = a["link"] in new_urls
     with open(path, "w") as f:

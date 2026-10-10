@@ -5,3 +5,9 @@ scoop_tracker.db-shm
 __pycache__/
 *.pyc
 .DS_Store
+
+# The database lives on the "db-store" GitHub Release, not in git (it passed
+# git's 100 MiB file limit on 2026-10-06). See scripts/db_store.sh.
+scoop_tracker.db
+scoop_tracker-*.db.gz
+.db_rowcount_at_pull

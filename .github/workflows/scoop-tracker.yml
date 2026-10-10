@@ -15,39 +15,51 @@ concurrency:
   cancel-in-progress: false   # let a running job finish rather than corrupting the db mid-write
 
 permissions:
-  contents: write   # needed to commit the updated db/report back to the repo
+  contents: write   # commit the report back, and read/write the db-store release
 
 jobs:
   run:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ github.token }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 1
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # The database lives on the "db-store" GitHub Release, not in git: it
+      # passed git's 100 MiB per-file limit on 2026-10-06. See scripts/db_store.sh.
+      - name: Download database
+        run: bash scripts/db_store.sh pull
+
       - name: Run pipeline
         run: python3 main.py --window-hours 72 --per-source-cap 8
 
+      # Upload before committing the report, so a failed upload fails the run
+      # and the published report never runs ahead of the stored database.
+      - name: Upload database
+        run: bash scripts/db_store.sh push
+
       - name: Copy report for GitHub Pages
         run: cp scoop_report.html index.html
-        # If you enable Pages on this repo (Settings -> Pages -> Deploy from branch ->
-        # main / root), this makes the report viewable at your repo's Pages URL with
-        # zero extra config. Harmless if Pages isn't enabled — it's just a file.
+
+      - name: Timestamp for commit message
+        run: echo "RUN_TS=$(date -u +'%Y-%m-%d %H:%M UTC')" >> "$GITHUB_ENV"
 
       - name: Commit results
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "Scoop tracker run: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          file_pattern: "scoop_tracker.db scoop_report.html scoop_tracker_output.json index.html"
+          commit_message: "Scoop tracker run: ${{ env.RUN_TS }}"
+          file_pattern: "scoop_report.html scoop_tracker_output.json index.html"
           commit_user_name: "scoop-tracker-bot"
           commit_user_email: "actions@users.noreply.github.com"

@@ -92,12 +92,32 @@ piping into whatever comes next).
    manually from the Actions tab (`workflow_dispatch`).
 4. Each run: ingests all feeds, skips enrichment for any URL already in
    `scoop_tracker.db` (see below), scores only genuinely new articles, regenerates
-   `scoop_report.html` from a rolling 72-hour window of the accumulated DB, and
-   commits the updated db + report + JSON back to the repo.
+   `scoop_report.html` from a rolling 72-hour window of the accumulated DB, uploads
+   the updated DB to the `db-store` release, and commits the report + JSON back to
+   the repo.
 5. **Optional — view the report as a webpage:** enable GitHub Pages on the repo
    (Settings -> Pages -> Deploy from branch -> main / root). The workflow already
    copies `scoop_report.html` to `index.html` each run, so Pages picks it up with
    no extra config.
+
+### Database storage
+
+`scripts/db_store.sh` handles this; both workflows call it.
+
+- **pull** (start of each job) downloads the newest snapshot from the `db-store`
+  release, unzips it to `scoop_tracker.db` and runs an integrity check.
+- **push** (main pipeline only, after the run) uploads a new gzipped snapshot named
+  `scoop_tracker-<UTC timestamp>.db.gz`, confirms it landed, then deletes all but
+  the newest 8. It refuses to upload if the article count went down, since articles
+  are insert-only and a shrinking count means something broke.
+- Release assets can be up to 2 GiB each. At ~34 MB compressed (Oct 2026), that's
+  decades of headroom, and replacing assets doesn't build up history.
+- **To analyse the data yourself:** open the repo's Releases page, download the
+  newest `.db.gz` under "Database storage (automated)", unzip it, and open it with
+  any SQLite tool (e.g. DB Browser for SQLite).
+- The first run after the migration seeds the release from the last DB committed to
+  git (`SEED_COMMIT` in the script). The daily-log job can't seed it, so it fails
+  loudly if no snapshot exists.
 
 ### Why DB-backed instead of the one-off JSON from the first version
 
@@ -114,12 +134,12 @@ good the heuristics are.
 
 ### Known limitations of the scheduled version
 
-- **The SQLite file is committed to git on every run.** That's fine at this scale
-  (~1.2MB for ~1,360 articles) but git isn't really a database — if this grows into
-  tens of thousands of articles, committing the whole file on every run will make
-  the repo's history bloat fast. Worth revisiting (e.g. a proper hosted DB, or only
-  committing a pruned/summarized export) well before that becomes painful, not
-  after.
+- **The database is stored on a GitHub Release, not in git (since 2026-10-10).**
+  It used to be committed on every run, until it passed git's 100 MiB per-file
+  limit on 2026-10-06 (117k articles, growing ~1.3 MB/day) and every push from
+  then on was rejected. That outage lost any articles that cycled out of feeds
+  between about 11:00 UTC on 6 Oct and the first working run on 10 Oct; the
+  committed history up to commit `bd2ac15` is intact. See "Database storage" below.
 - **A scheduled job hitting ~75 outlets' full article pages every 4 hours is a
   bigger footprint than the one-off runs from before.** Caching keeps the marginal
   cost of a re-run low, but the underlying ToS question from the first round

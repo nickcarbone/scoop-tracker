@@ -239,10 +239,31 @@ def main():
     parser.add_argument("--top-n-per-bucket", type=int, default=20, help="Match main.py's --top-n-per-bucket in production.")
     parser.add_argument("--output-dir", default="daily_logs")
     parser.add_argument("--date-label", default=None, help="Defaults to today's UTC date.")
+    parser.add_argument("--max-staleness-hours", type=float, default=12,
+                         help="Fail if the newest pipeline run in the DB is older than this. "
+                              "Runs are scheduled every 4h but GitHub often delays or skips "
+                              "scheduled runs (about 4/day in practice), so 12h allows for that.")
     args = parser.parse_args()
 
     date_label = args.date_label or datetime.now(timezone.utc).strftime("%Y-%m-%d")
     conn = db.connect(args.db)
+
+    # Staleness guard (added 2026-10-10). From 7-10 Oct the main pipeline's
+    # pushes were rejected, this job kept reading the last committed DB (frozen
+    # at 6 Oct), and it wrote four logs reporting "0 flagged" as though nothing
+    # had happened. Failing the job instead makes GitHub send its usual
+    # failed-workflow email.
+    last_run = conn.execute("SELECT MAX(run_at) FROM feed_runs").fetchone()[0]
+    age_h = None
+    if last_run:
+        age_h = (datetime.now(timezone.utc) - datetime.fromisoformat(last_run)).total_seconds() / 3600
+    if age_h is None or age_h > args.max_staleness_hours:
+        conn.close()
+        shown_age = "never" if age_h is None else f"{age_h:.1f}h ago"
+        print(f"ERROR: newest pipeline run in {args.db} was {shown_age} "
+              f"(limit {args.max_staleness_hours}h). The main Scoop Tracker workflow is "
+              f"probably failing; not writing a misleading empty log.", file=sys.stderr)
+        sys.exit(1)
     all_flagged, story_reps, shown, total_in_window = get_daily_selection(
         conn, args.window_hours, args.per_source_cap, args.top_n_per_bucket
     )

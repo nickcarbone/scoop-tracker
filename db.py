@@ -129,12 +129,24 @@ def recent_articles(conn, hours=72, limit=1000):
     Now also returns `summary` (added 2026-07-16): story-clustering in main.py
     was missing genuine duplicates because title-only token overlap falls apart
     when two outlets frame the same event around different specific facts.
-    Clustering needs the summary text to catch those; title alone wasn't enough."""
+    Clustering needs the summary text to catch those; title alone wasn't enough.
+
+    Fixed 2026-10-10: the time window is now applied in SQL. Previously this took
+    the top `limit * 3` articles by score across ALL history and only then
+    filtered by time, so once history outgrew that overfetch, recent low-scoring
+    articles silently fell out. Measured against the 2026-10-06 DB, the JSON
+    output (limit=2000, top 6,000 all-time) was already missing 72 of 374 scored
+    articles in its 72h window, and the HTML report (top 15,000) was about a day
+    away from the same failure. first_seen_at is always written as UTC
+    isoformat(), so string comparison orders correctly; the 1-hour margin only
+    guards against format edge cases (e.g. a timestamp with no microseconds), and
+    the exact cutoff is still enforced in Python below."""
     cutoff = datetime.now(timezone.utc).timestamp() - hours * 3600
+    sql_cutoff = datetime.fromtimestamp(cutoff - 3600, tz=timezone.utc).isoformat()
     rows = conn.execute(
         "SELECT url, source, title, summary, byline_count, author_names, total_score, "
         "matched_categories, first_seen_at, published_parsed FROM articles "
-        "ORDER BY total_score DESC LIMIT ?", (limit * 3,)  # overfetch, filter by time below
+        "WHERE first_seen_at >= ? ORDER BY total_score DESC", (sql_cutoff,)
     ).fetchall()
     out = []
     for r in rows:

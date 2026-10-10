@@ -13,20 +13,19 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
-  contents: write   # needed to commit the daily .docx back to the repo
+  contents: write   # commit the daily .docx back, and read the db-store release
 
 jobs:
   build-log:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
         with:
           fetch-depth: 1
-          # picks up whatever scoop_tracker.db the last scoop-tracker.yml run
-          # already committed -- this job never re-fetches feeds, it only
-          # reads the accumulated DB, which is what keeps it cheap.
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -36,6 +35,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Reads the newest snapshot scoop-tracker.yml uploaded to the "db-store"
+      # release. This job never re-fetches feeds, which keeps it cheap. Bootstrap
+      # is disabled: only the main pipeline may seed the store, so this fails
+      # loudly instead if no snapshot exists.
+      - name: Download database
+        run: bash scripts/db_store.sh pull
+        env:
+          DB_STORE_NO_BOOTSTRAP: "1"
+
+      # daily_log.py exits non-zero if the newest pipeline run is >12h old,
+      # rather than writing an empty log (see the 7-10 Oct 2026 outage).
       - name: Build daily log
         run: >
           python3 daily_log.py
@@ -44,10 +54,13 @@ jobs:
           --per-source-cap 8
           --top-n-per-bucket 20
 
+      - name: Timestamp for commit message
+        run: echo "RUN_DATE=$(date -u +'%Y-%m-%d')" >> "$GITHUB_ENV"
+
       - name: Commit daily log
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "Daily scoop log: $(date -u +'%Y-%m-%d')"
+          commit_message: "Daily scoop log: ${{ env.RUN_DATE }}"
           file_pattern: "daily_logs/*.docx"
           commit_user_name: "scoop-tracker-bot"
           commit_user_email: "actions@users.noreply.github.com"
