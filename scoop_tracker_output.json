@@ -722,7 +722,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-07T20:18:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3370456/christa-pike-out-hospital-and-back-prison-after-surviving-us-execution-attempt?utm_source=rss_feed",
@@ -740,7 +740,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:43:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.twz.com/air/could-nasas-sr-71-blackbird-be-modified-to-reach-mach-4",
@@ -835,6 +835,41 @@
     "is_new": false
   },
   {
+    "link": "https://www.nbcnews.com/politics/politics-news/justice-department-investigating-major-tv-networks-suspending-pool-cov-rcna602717",
+    "source": "NBC News",
+    "title": "Justice Department investigating major TV networks over suspending pool coverage of Trump",
+    "summary": "The Justice Department said it is investigating five major TV broadcast networks for potentially violating federal antitrust laws after the networks temporarily declined to provide pool coverage of President Donald Trump, a department spokesperson said.",
+    "byline_count": 2,
+    "author_names": [
+      "Kelly O'Donnell",
+      "Marlene Lenthang"
+    ],
+    "total_score": 4,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:39:03+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://fortune.com/2026/10/10/attack-riyadh-airport-saudi-arabia-iran-war-yemen-houthis/",
+    "source": "Fortune",
+    "title": "Attack on Saudi airport kills 12 people and wounds more than 300\u2014the deadliest strike in any Gulf Arab country since the start of the Iran war",
+    "summary": "The dead included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian, a Syrian and a Sudanese.",
+    "byline_count": 3,
+    "author_names": [
+      "Samy Magdy",
+      "Cara Anna",
+      "The Associated Press"
+    ],
+    "total_score": 4,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:13:43+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.latimes.com/business/story/2026-10-08/white-house-cracks-down-on-student-visas-at-stanford-caltech-as-well-as-tech-work-visas",
     "source": "Los Angeles Times",
     "title": "White House targets Stanford, Caltech and tech giants in visa crackdown",
@@ -849,7 +884,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-08T22:36:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-long-beach-evacuation-newport-beach-closures",
@@ -866,7 +901,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:59:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/bernadette-greene-placentia-house-candidate-campaign-trail-rape-allegation/",
@@ -883,7 +918,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:30:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/10/trump-us-forces-saudi-arabia-war-iran-houthi-rebels-yemen/",
@@ -900,7 +935,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:53:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/politics/donald-trump/trump-execution-fort-hood-livestream-rcna602672",
@@ -917,7 +952,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:15:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/Politics/katie-zacharia-offered-white-house-press-secretary-job/story?id=137140926",
@@ -934,7 +969,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-09T23:06:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/kevin-hart-wants-to-block-sex-tape-partner-from-testifying/",
@@ -1250,7 +1285,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:50:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/09/danny-trejo-speaks-out-on-ben-shapiro-movie-backlash/",
@@ -1446,6 +1481,168 @@
     "is_new": false
   },
   {
+    "link": "https://variety.com/2026/tv/news/bill-maher-slams-cornell-sexual-assault-lawsuit-1236907856/",
+    "source": "Variety",
+    "title": "Bill Maher Slams Cornell and the \u2018Depravity\u2019 of Fraternities Amid Sexual Assault Lawsuit: \u2018I\u2019m Glad to See Them Eating a S\u2014 Sandwich\u2019",
+    "summary": "During Friday night\u2019s episode of \u201cReal Time,\u201d Bill Maher slammed his alma mater, Cornell University, and the \u201cdepravity\u201d of fraternities while speaking about the ongoing Cornell 7 lawsuit. Maher, who graduated from the university in 1978, began by noting that the \u201calleged gang rape at the Cornell frat house is deeply disturbing. But since it\u2019s [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Payton Turkeltaub"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "primary_source"
+    ],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:48:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://pagesix.com/2026/10/10/celebrity-news/rob-lowes-son-matthew-marries-emily-markus-star-studded-wedding/",
+    "source": "Page Six",
+    "title": "Rob Lowe\u2019s son Matthew ties the knot in star-studded wedding amid family heartbreak over actor\u2019s niece Fiona\u2019s death",
+    "summary": "The star-studded nuptials, officiated by Gwyneth Paltrow, were attended by Katy Perry, Chris Pratt and Zoe Salda\u00f1a, to name a few.",
+    "byline_count": 2,
+    "author_names": [
+      "Lanae Brody",
+      "Audrey Rock"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:47:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/solomon-islands-ferry-70-passengers-stranded-at-sea/107252742",
+    "source": "ABC Australia",
+    "title": "More than 70 stranded as Solomon Islands ferry drifts for days",
+    "summary": "Passengers aboard a drifting ferry in Solomon Islands waters have been stranded since Friday, as an international operation scrambles to get supplies to the vessel.",
+    "byline_count": 2,
+    "author_names": [
+      "Chrisnrita Aumanu-Leong",
+      "Evan Wasuka"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:45:59+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/surfer-caio-ibelli-moves-to-outback-queensland/107242836",
+    "source": "ABC Australia",
+    "title": "Pro surfer swaps California waves for life in the outback",
+    "summary": "Professional surfer Caio Ibelli moved his family to outback Queensland, and while he's almost 2,000 kilometres from the nearest surf break, he's happy in the red dirt.",
+    "byline_count": 2,
+    "author_names": [
+      "Abbey Halter",
+      "Zara Margolis"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:30:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/australians-served-afghanistan-25th-anniversary-service/107252770",
+    "source": "ABC Australia",
+    "title": "Commemoration marks 25 years since Australia joined Afghanistan conflict",
+    "summary": "At a ceremony in Canberra, Prime Minister Anthony Albanese quotes John Howard as he speaks of what motivated Australia to join the Afghanistan conflict after the September 11 terrorist attacks in 2001.",
+    "byline_count": 2,
+    "author_names": [
+      "Penny Travers",
+      "Niki Burnside"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:34:06+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/nannup-uci-gravel-world-championship-cycling/107238790",
+    "source": "ABC Australia",
+    "title": "Gravel cycling championship brings global audience to tiny town",
+    "summary": "Thousands of cyclists and spectators have flooded into Nannup, in southern WA, for the town's first effort to host the 2026 UCI Gravel World Championships.",
+    "byline_count": 2,
+    "author_names": [
+      "Gabrielle Becerra Mellet",
+      "Georgia Loney"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:49:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3370457/bar-association-urges-proxy-cap-electronic-voting-curb-building-bid-rigging?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Bar Association urges proxy cap, electronic voting to curb building bid-rigging",
+    "summary": "The Hong Kong Bar Association has suggested capping the number of proxies a person can hold at homeowners\u2019 meetings, without restricting who may act as a proxy, stressing that improving transparency and introducing an electronic voting system could help to deter abuse in large-scale maintenance procurement.\nSpeaking to the South China Morning Post, association chairman Jose-Antonio Maurellet expressed reservations about a government proposal to restrict an owner\u2019s representative to a relative or...",
+    "byline_count": 1,
+    "author_names": [
+      "Edith Lin"
+    ],
+    "total_score": 2,
+    "matched_categories": [
+      "sourcing_depth"
+    ],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:00:18+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Iran war live: 12 killed in Riyadh, Trump to speak with Saudi Arabia\u2019s MBS",
+    "summary": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
+    "byline_count": 2,
+    "author_names": [
+      "Mahmoud Sayed",
+      "Kristina Harazim"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:00:13+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/mike-ditka-former-head-coach-chicago-bears-obit/",
+    "source": "CBS News",
+    "title": "Mike Ditka, former Chicago Bears head coach, dies at 86",
+    "summary": "Raised in a blue-collar Pennsylvania town, Mike Ditka earned a scholarship to Pitt and became \"Da Coach\" in Chicago. His family called him \"the heart of our family\" in announcing his death at 86.",
+    "byline_count": 2,
+    "author_names": [
+      "Matt  Zahn",
+      "Adam  Harrington"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-09T18:41:38+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/katie-zacharia-white-house-press-secretary-trump/",
+    "source": "CBS News",
+    "title": "Trump picks \"loyal\" Katie Zacharia as next White House press secretary",
+    "summary": "\"I am confident that Katie will deliver strong results for our Country as the next White House Press Secretary,\" President Trump said.",
+    "byline_count": 2,
+    "author_names": [
+      "Kathryn  Watson",
+      "Sara  Cook"
+    ],
+    "total_score": 2,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-09T22:31:46+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://www.abc.net.au/news/2026-10-11/sport-aus-sa-test-quick-hits-day-two-renshaw-lyon/107251794",
     "source": "ABC Australia",
     "title": "Quick hits: AFL star in the sheds as Aussies go better than Bradman",
@@ -1459,7 +1656,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:20:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/10/celebrity-news/gypsy-rose-blanchard-shares-texts-with-late-ex-ken-urker-amid-custody-rumors-over-daughter-aurora/",
@@ -1475,7 +1672,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:29:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/bob-mackie-cause-of-death/",
@@ -1492,7 +1689,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:58:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/letitia-james-gets-ethics-complaint-over-cornell-rape-case/",
@@ -1509,7 +1706,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:46:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/tim-kennedy-shot-in-congo/",
@@ -1526,7 +1723,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:37:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/ses-emergency-services-funding-mildura-government-election/107228820",
@@ -1542,7 +1739,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:26:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/news/us-news/erie-pennsylvania-mass-shooting-rcna602669",
@@ -1558,7 +1755,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:39:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.wired.com/story/best-cheap-phones/",
@@ -1574,7 +1771,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-08T09:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/10/anthropic-claude-ai-false-tip-philadelphia-unsolved-homicide-case/",
@@ -1590,7 +1787,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:01:11+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/10/national-park-service-500-trees-historic-landscape-golf-course-trump-redesign/",
@@ -1606,7 +1803,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:55:41+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/football/articles/cq1j427zze5xo?at_medium=RSS&at_campaign=rss",
@@ -1622,7 +1819,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:07:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/International/live-updates/iran-live-updates-trump-us-attack-iran-ahead/?id=137063637",
@@ -1638,7 +1835,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:35:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
@@ -1654,7 +1851,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:09:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
@@ -1671,7 +1868,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:52:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
@@ -1687,7 +1884,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:57:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/10/celebrity-news/michael-douglas-rejects-unfortunate-nepo-baby-label-why-dad-kirk-was-worried-about-him/",
@@ -3313,6 +3510,57 @@
     "is_new": false
   },
   {
+    "link": "https://variety.com/2026/film/markets-festivals/her-last-laugh-australian-dramedy-busan-market-1236907854/",
+    "source": "Variety",
+    "title": "Australian Dramedy \u2018Her Last Laugh,\u2019 With \u2018XO, Kitty\u2019 and \u2018Mortal Kombat II\u2019 Actors, Heads to Busan Buyers (EXCLUSIVE)",
+    "summary": "Hong Kong-based Cappu Films has taken on sales beyond Australia and New Zealand for \u201cHer Last Laugh,\u201d Joy Hopwood\u2019s Australian dramedy featuring Peter Thurnwald (\u201cXO, Kitty\u201d) and Ana Thu Nguyen (\u201cMortal Kombat II\u201d). The finished film is being introduced to buyers at the Busan International Film Festival&#8217;s Asian Contents &#38; Film Market. Hopwood wrote, directed [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Naman Ramachandran"
+    ],
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:37:34+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://deadline.com/2026/10/sakha-filmmakers-association-producers-guild-of-korea-busan-1237154165/",
+    "source": "Deadline",
+    "title": "Sakha Filmmakers Association & Producers Guild of Korea Pact For Co-Productions",
+    "summary": "EXCLUSIVE: The Producers Guild of Korea (PGK) and the Sakha Filmmakers Association (SFA) have signed a memorandum of understanding (MOU) aimed at creating a direct route to international co-productions and professional exchange between the Korean and Sakha screen production sectors. The Sakha Republic (Yakutia), in Russia\u2019s Far East, has built one of the country\u2019s most [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Liz Shackleton"
+    ],
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:18:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://variety.com/2026/film/markets-festivals/tribeca-queer-romance-ephemera-sales-cappu-films-1236907861/",
+    "source": "Variety",
+    "title": "Tribeca Queer Romance \u2018Ephemera\u2019 Lands Worldwide Sales Deal With Cappu Films (EXCLUSIVE)",
+    "summary": "Hong Kong\u2019s Cappu Films has taken on worldwide sales for \u201cEphemera,\u201d Shan Jiang\u2019s queer romance, which had its world premiere in Tribeca\u2019s U.S. narrative competition this year. Cappu is shopping the film at the Busan International Film Festival&#8217;s Asian Contents &#38; Film Market. Yvonne Shuyu Zhang and Shu-Yi play two young women whose lives are [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Naman Ramachandran"
+    ],
+    "total_score": 1,
+    "matched_categories": [
+      "exclusivity"
+    ],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:36:23+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://variety.com/2026/film/markets-festivals/the-furious-xie-miao-martial-arts-crime-thriller-1236907398/",
     "source": "Variety",
     "title": "\u2018The Furious\u2019 Star Xie Miao to Headline U.S.-Set Martial Arts Crime Thriller for Stars Collective (EXCLUSIVE)",
@@ -3327,7 +3575,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/bobs-burgers-hulu-holiday-short-premiere-trailer-1237154047/",
@@ -3344,7 +3592,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:09:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-10-10/postal-worker-charged-with-beating-sugar-pasadena-white-peacock",
@@ -3361,7 +3609,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:07:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.axios.com/2026/10/10/trump-ukraine-zelensky-replace-putin-diesel",
@@ -3376,7 +3624,7 @@
     ],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:27:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/",
@@ -4216,6 +4464,1317 @@
     "is_new": false
   },
   {
+    "link": "https://variety.com/2026/legit/news/candle-house-pineapple-immersive-theater-claws-1236907899/",
+    "source": "Variety",
+    "title": "How Candle House\u2019s Immersive Theater Show \u2018The Pineapple\u2019 Became a Spooky L.A. Hit, Playing 76 Shows With Just One Ticket for Each Performance",
+    "summary": "Part of the thrill of theater is that you&#8217;re taking part in a one-time experience, never to be recorded or repeated, in which anyone who wasn&#8217;t part of that live audience with you will simply have to take your word for how it was. Still, you may seek out clues about whether your experience of [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Chris Willman"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:08:50+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://variety.com/2026/shopping/news/lego-marvel-star-wars-lego-ideas-set-nycc-1236906728/",
+    "source": "Variety",
+    "title": "Lego Is Bringing Marvel and \u2018Star Wars\u2019 Together for First-Ever Fan-Designed Crossover Set",
+    "summary": "Ever wondered what would happen if Darth Vader joined the Avengers? Or if the Millennium Falcon got a Tony Stark-approved upgrade? Lego is giving fans the chance to find out. The toy company announced a first-of-its-kind Lego Ideas challenge at New York Comic Con on Saturday, inviting builders to combine the worlds of Marvel and [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Anna Tingley"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:48:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://variety.com/2026/awards/awards/the-pitt-all-her-fault-darcys-winners-1236907770/",
+    "source": "Variety",
+    "title": "\u2018The Pitt\u2019 And \u2018All Her Fault\u2019 Among the Winners of Inaugural Easterseals Disability Arts & Culture Awards",
+    "summary": "The inaugural Easterseals Disability Arts &#38; Culture Awards (The Darcys) crowned its first winners on Saturday, celebrating outstanding achievement in authentic disability representation across film, television and media. Among the winners were \u201cThe Pitt\u201d for Best Scripted Series and Best Achievement in Casting Ensemble; &#8220;Horsegirls&#8221; for Best Feature; and Daniel Monks for Best Performance in [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Tanya Fedak"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://variety.com/2026/film/markets-festivals/school-bullying-drama-family-table-busan-asian-project-market-1236907836/",
+    "source": "Variety",
+    "title": "School Bullying Case Upends a Peaceable Father\u2019s Life in Busan Asian Project Market Drama \u2018The Family Table\u2019",
+    "summary": "A mild-mannered father who has always kept the peace takes on the system after his young daughter is bullied at school in \u201cThe Family Table,\u201d a Korean drama from director Lee Hanju. The project is part of the Asian Project Market, which runs within the Busan International Film Festival\u2019s Asian Contents &#38; Film Market (ACFM). [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Naman Ramachandran"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:03:54+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://variety.com/2026/film/markets-festivals/journalist-massacre-drama-once-upon-a-time-in-the-philippines-busan-asian-project-market-1236907843/",
+    "source": "Variety",
+    "title": "Journalist Massacre Drama \u2018Once Upon a Time in the Philippines\u2019 Turns a Bystander Into an Accomplice at Busan Asian Project Market",
+    "summary": "A young woman pulled into the run-up to a political massacre slides from unwilling witness to accomplice in \u201cOnce Upon a Time in the Philippines,\u201d the debut feature from E del Mundo inspired by the 2009 Maguindanao massacre. The project is part of the Asian Project Market, which runs within the Busan International Film Festival\u2019s [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Naman Ramachandran"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:16:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://deadline.com/2026/10/blade-runner-2099-trailer-hunter-schafer-michelle-yeoh-nycc-1237154128/",
+    "source": "Deadline",
+    "title": "\u2018Blade Runner 2099\u2019 Trailer: Hunter Schafer Teams Up With Michelle Yeoh To Find \u201cCure For All Replicants\u201d \u2014 NYCC",
+    "summary": "Nearly 45 years later, a new Blade Runner is back to make the Ridley Scott franchise &#8220;more human than human&#8221; once again. On Saturday at New York Comic-Con, Prime Video released key art and a new trailer for the eight-episode limited series created by Silka Luisa with Amazon MGM Studios and Alcon Television Group, premiering [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Glenn Garner"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:33:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://deadline.com/2026/10/in-a-violent-nature-part-2-2027-premiere-date-1237154118/",
+    "source": "Deadline",
+    "title": "\u2018In a Violent Nature: Part 2\u2019 Gets 2027 Premiere Date With IFC & Shudder \u2014\u00a0NYCC",
+    "summary": "Johnny is back for more first-person POV blood and carnage as Chris Nash&#8217;s In a Violent Nature: Part 2 heads to theaters on Valentine&#8217;s Day weekend. On Saturday at New York Comic-Con, actor Ry Barrett, who reprises his role as the undead firefighter mask-clad killer, announced that the Independent Film Company/Shudder slasher sequel will premiere [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Glenn Garner"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:52:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://variety.com/2026/film/news/philippines-revamps-coproduction-fund-minority-majority-tracks-1236907874/",
+    "source": "Variety",
+    "title": "Philippines Revamps International Co-Production Fund With Minority and Majority Tracks, Unveiled at Busan Market",
+    "summary": "The Philippines has revamped its International Co-Production Fund (ICOF) around two tracks, with the amount of cash on offer tied to the size of the Filipino stake in a project. The Film Philippines Office (FPO) unveiled the new framework at the Busan International Film Festival&#8217;s Asian Contents &#38; Film Market. The Majority Track covers projects [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Naman Ramachandran"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:55:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://variety.com/2026/film/reviews/the-first-taste-of-loneliness-review-1236907801/",
+    "source": "Variety",
+    "title": "\u2018The First Taste of Loneliness\u2019 Review: A Sentimental but Affecting Study of Family Life After Bereavement",
+    "summary": "The most moving scene in &#8220;The First Taste of Loneliness&#8221; is not, in fact, its most tear-streaked. Gu You&#8217;s heartfelt family portrait opens on an extended, anguished scene of three women \u2014 a mother, her daughter and her granddaughter \u2014 keeping vigil at the bedside of their beloved husband, father and grandfather as his longtime [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Guy Lodge"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:58:25+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://deadline.com/2026/10/trump-doj-antitrust-investigation-network-tv-pool-1237154137/",
+    "source": "Deadline",
+    "title": "DOJ Launches Investigation Of Networks For Suspending TV Pool Amid Trump\u2019s Ban On CNN",
+    "summary": "The Justice Department has launched an investigation into whether the five major networks violated antitrust laws when they suspended participation in the White House TV pool in protest of Donald Trump&#8217;s ban on CNN. Emily Covington, a spokesperson for the Justice Department, said in a statement, &#8220;Members of the television press pool have boycotted covering [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Ted Johnson"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:05:49+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://deadline.com/2026/10/rohan-campbell-teases-directorial-debut-plans-1237154173/",
+    "source": "Deadline",
+    "title": "Rohan Campbell Teases Directorial Debut Plans: \u201cA Very Personal Story\u201d",
+    "summary": "After steadily growing his onscreen career in recent years, Rohan Campbell is ready to step behind the camera. The Below star recently revealed that he&#8217;s planning to make his directorial debut next summer with &#8220;a very personal story,&#8221; for which he&#8217;s currently awaiting a greenlight. &#8220;I&#8217;ve got a couple of things on the go right [&#8230;]",
+    "byline_count": 1,
+    "author_names": [
+      "Glenn Garner"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:56:16+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://pagesix.com/2026/10/10/parents/ben-affleck-jokes-ex-wife-jennifer-garner-makes-him-feel-inadequate-as-a-dad/",
+    "source": "Page Six",
+    "title": "Ben Affleck jokes \u2018spectacular\u2019 ex-wife Jennifer Garner makes him feel inadequate as a dad",
+    "summary": "Garner and Affleck finalized their divorce in 2018.",
+    "byline_count": 1,
+    "author_names": [
+      "Audrey Rock"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:24:02+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://pagesix.com/2026/10/10/entertainment/shane-gillis-hosts-snl-tonight-heres-how-to-watch-for-free/",
+    "source": "Page Six",
+    "title": "Shane Gillis hosts \u2018SNL\u2019 tonight \u2014 Here\u2019s how to watch for free",
+    "summary": "Shane Gillis will say \"live from New York\" for a third time tonight.",
+    "byline_count": 1,
+    "author_names": [
+      "Angela Tricarico"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://pagesix.com/2026/10/10/celebrity-news/cindy-crawford-husband-rande-gerber-hold-hands-on-beach-stroll/",
+    "source": "Page Six",
+    "title": "Cindy Crawford, husband Rande Gerber hold hands in first public outing since son Presley\u2019s death",
+    "summary": "Presley died Sept. 20 of an apparent overdose.",
+    "byline_count": 1,
+    "author_names": [
+      "Audrey Rock"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:58:03+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/odpp-wont-appeal-billings-sentence-for-molly-ticehurst-murder/107169404",
+    "source": "ABC Australia",
+    "title": "Prosecutors will not appeal sentencing of DV murderer Daniel Billings",
+    "summary": "The Office of the Director of Public Prosecutions will not appeal the 28-year sentence handed down to murderer Daniel Billings. The 31-year-old stabbed his former partner Molly Ticehurst to death in 2024.",
+    "byline_count": 1,
+    "author_names": [
+      "Hamish Cole"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:12:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/big-carnaby-cockatoo-sculpture-moora/107230254",
+    "source": "ABC Australia",
+    "title": "Sense of pride for group who unveils WA's next big thing",
+    "summary": "A WA town unveils an 11.5-metre sculpture designed to inspire the next generation of conservationists and tourists.",
+    "byline_count": 1,
+    "author_names": [
+      "Eliza Bidstrup"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:08:25+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/angus-taylor-would-welcome-return-of-josh-frydenberg-to-politics/107252724",
+    "source": "ABC Australia",
+    "title": "Taylor says he would welcome return of Frydenberg to politics",
+    "summary": "Opposition Leader Angus Taylor says former Liberal treasurer Josh Frydenberg has a \"role to play\" and should be mobilised at the next election.",
+    "byline_count": 1,
+    "author_names": [
+      "Ewa Staszewska"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:28:59+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/attempted-murder-charge-after-barossa-stabbing/107252852",
+    "source": "ABC Australia",
+    "title": "Man charged with attempted murder after Barossa Valley hinterland stabbing",
+    "summary": "SA Police are investigating an incident in the Barossa Valley hinterland after a 30-year-old man sustained multiple stab wounds yesterday evening.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:22:25+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/10/10/bre-tiesi-will-leave-nick-cannon-if-another-baby/",
+    "source": "TMZ",
+    "title": "Bre Tiesi Says She'll Leave Nick Cannon if He Has Another Kid",
+    "summary": "Bre Tiesi says she doesn't have many rules in her relationship with Nick Cannon ... but she's drawn one line in the sand -- no more babies! The reality star and social media personality made the assertion on Angela Yee's \"Lip Service\" podcast ...&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:30:32+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/children-and-pregnant-woman-killed-pennsylvania-shooting/107252788",
+    "source": "ABC Australia",
+    "title": "Pregnant woman among eight killed in Pennsylvania shooting",
+    "summary": "Police arrived at the home within minutes of receiving an alert via ShotSpotter, a controversial gunshot detection system that relies on artificial intelligence and a network of microphones, to discover the crime scene.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:07:52+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/california/story/2026-10-10/tropical-storm-rachel-kelvin-wave-high-tides-combined-to-batter-socal-coast",
+    "source": "Los Angeles Times",
+    "title": "Triple threat: Tropical Storm Rachel, Kelvin wave, high tides combined to batter SoCal coast",
+    "summary": "<p>The coastal flooding that damaged homes and flooded roads this week from Newport Beach to Long Beach came from a highly unusual combination of events that underscores the challenges California is facing amid predictions of a \"super\" El Nino winter.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Rong-Gong Lin II"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:21:58+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/running-legend-kipchoge-sets-race-record-at-melbourne-marathon/107252768",
+    "source": "ABC Australia",
+    "title": "Running legend Kipchoge sets race record at Melbourne Marathon",
+    "summary": "Marathon legend Eliud Kipchoge has time to slow down and wave at the crowds at the MCG and still break the race record at the Melbourne Marathon.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:41:39+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/call-to-protect-nesting-birds-from-cars-on-goolwa-beach/107238624",
+    "source": "ABC Australia",
+    "title": "Call to protect nesting birds from the cars on SA's Goolwa Beach",
+    "summary": "A Ngarrindjeri elder says he would love to see vehicles removed from a South Australian beach as endangered breeding birds and global wanderers are welcomed back to the Coorong.",
+    "byline_count": 1,
+    "author_names": [
+      "Caroline Horn"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:33:30+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/business/story/2026-10-08/la-county-investigates-fair-plans-claims-practices-amid-complaints",
+    "source": "Los Angeles Times",
+    "title": "L.A. County investigates FAIR Plan's claims practices after widespread complaints",
+    "summary": "<p>Los Angeles County looks into the claims practices of the California FAIR Plan, the state's insurer of last resort, after January 2025 wildfire victims' complaints.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Laurence Darmiento"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-08T20:20:55+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/10/10/lance-bass-made-no-money-nsync/",
+    "source": "TMZ",
+    "title": "Lance Bass Says He Was Paid $35 A Day As A Member of *NSYNC",
+    "summary": "Lance Bass says he's not rich from his *NSYNC days ... revealing the group members made basically no money despite sold-out tours and hit records. The singer-songwriter appeared on \"The Zach Sang Show\" earlier this week ... during which he got into&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:07:50+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/entertainment-arts/story/2026-10-09/chad-lowe-message-following-daughter-13-death",
+    "source": "Los Angeles Times",
+    "title": "Chad Lowe shares message of hope following the death of his 13-year-old daughter",
+    "summary": "<p>Chad Lowe posted a message about hope and spirituality on Instagram, following his 13-year-old daughter Fiona's death.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Deborah Day"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-09T18:32:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/10/10/kelly-clarkson-says-nyc-store-treated-her-like-julia-roberts-in-pretty-woman/",
+    "source": "TMZ",
+    "title": "Kelly Clarkson Says NYC Store Treated Her Like Julia Roberts in 'Pretty Woman'",
+    "summary": "Kelly Clarkson says she had her very own \"Pretty Woman\" moment while shopping in New York City ... claiming a store employee treated her like she couldn't afford the merchandise, and she wasn't having it! The singer took to X Saturday to blast Art&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:39:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.tmz.com/2026/10/10/braedon-peltier-dead/",
+    "source": "TMZ",
+    "title": "TikTok Star Braedon Peltier Dead at 31",
+    "summary": "Braedon Peltier -- a social media star whose Christmas countdown videos went viral online -- has died ... his sister announced in a heartbreaking TikTok video Friday. Brenna Peltier shared videos of her late bro ... sharing that Braedon actually&hellip;",
+    "byline_count": 1,
+    "author_names": [
+      "TMZ Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:45:12+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/cocos-keeling-islands-delegation-refused-funding-cop31/107244064",
+    "source": "ABC Australia",
+    "title": "Pre-COP push leaves Australia's remotest territory feeling forgotten",
+    "summary": "Faced with the same challenges as their Pacific counterparts, Cocos (Keeling) Islands residents have been denied an opportunity to participate in a forum at COP31.",
+    "byline_count": 1,
+    "author_names": [
+      "Kimberley Putland"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:00:27+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/justice-department-probes-tv-networks-over-trump-pool-coverage/107252930",
+    "source": "ABC Australia",
+    "title": "Major US news networks face probe over White House coverage boycott",
+    "summary": "The investigation into the \"group boycott\" of White House events comes after a series of clashes between the Trump administration and major news organisations.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:24:23+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+    "source": "Los Angeles Times",
+    "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+    "summary": "<p>Nicolas Cage, who recently starred in \"Spider-Noir,\" said he won't work with Amazon again after a disagreement over an AI waiver.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Cerys Davies"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:21:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/police-melbourne-cbd-incident-emergency/107252918",
+    "source": "ABC Australia",
+    "title": "Police responding to CBD incident near Flinders Street Station",
+    "summary": "Emergency services are responding to an incident in Melbourne's city centre, with witnesses telling the ABC a car was driving erratically on Flinders and Elizabeth streets.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:32:30+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.latimes.com/sports/dodgers/story/2026-10-10/dodgers-confident-shohei-ohtani-will-break-out-of-his-slump",
+    "source": "Los Angeles Times",
+    "title": "Dodgers confident Shohei Ohtani will break out of his slump against Brewers",
+    "summary": "<p>Shohei Ohtani took batting practice ahead of Game 1 of the NLCS, but will he find success at the plate against Jacob Misiorowski? Dave Roberts thinks so.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Maddie Lee"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:35:43+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/",
+    "source": "CBS News",
+    "title": "Trump promises not to resume Iran strikes before midterm elections",
+    "summary": "Crude oil prices had shot up on Thursday after reports President Trump was considering more strikes. They immediately dropped again after his new announcement.",
+    "byline_count": 1,
+    "author_names": [
+      "Frank  Andrews"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-09T05:21:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.abc.net.au/news/2026-10-11/penguin-colony-game-explores-colonialism-and-cosmic-horror/107243792",
+    "source": "ABC Australia",
+    "title": "Game developer explores colonialism through the eyes of a penguin",
+    "summary": "Following an award-winning debut, Ng\u0101i Te Rangi developer Naphtali Faulkner turns one of HP Lovecraft's best-known works into an interrogation of colonial myth-making.",
+    "byline_count": 1,
+    "author_names": [
+      "Francisco Dominguez"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:00:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/",
+    "source": "Washington Post Politics",
+    "title": "DOJ investigating five TV networks over White House pool coverage",
+    "summary": "The agency said the probe seeks to determine whether Fox News, CNN, ABC, CBS and NBC violated antitrust laws. It marks a sharp escalation in the Trump administration\u2019s use of its powers against perceived enemies in the press.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:56:14+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/week-asia/politics/article/3370365/who-rules-negeri-sembilan-royal-row-tests-malaysias-constitutional-order?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Who rules Negeri Sembilan? Royal row tests Malaysia\u2019s constitutional order",
+    "summary": "The dust has yet to settle in Malaysia\u2019s Negeri Sembilan, where a royal row has led to the fall of a state government and left the public wondering who, exactly, is in charge.\nObservers warn that the months-long constitutional crisis could create ripple effects well beyond the state\u2019s borders, testing the entire nation\u2019s systems of monarchy and government.\nThe dispute centres on which of two men: the incumbent, Tuanku Muhriz Tuanku Munawir, or his intended replacement, Tunku Nadzaruddin Tuanku...",
+    "byline_count": 1,
+    "author_names": [
+      "Joseph Sipalan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:00:10+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/world/europe/article/3370465/tiger-kills-man-who-entered-big-cat-enclosure-uk-wildlife-park?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Tiger kills man who entered big cat enclosure at UK wildlife park",
+    "summary": "A man died on Saturday after he entered the tiger enclosure at a wildlife park in northern England and was attacked by one of the animals, police said.\nEmergency medical personnel responded to the Yorkshire Wildlife Park near the city of Doncaster after the incident was reported at about 1.35pm, but the victim died at the scene, South Yorkshire Police said in a statement.\nThe tiger was not injured and remained inside the enclosure during the incident, the force said.\nThe wildlife park was...",
+    "byline_count": 1,
+    "author_names": [
+      "Associated Press"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:20:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/canada/british-columbia/anti-islam-posts-katy-merrifield-9.7377353?cmp=rss",
+    "source": "CBC News",
+    "title": "B.C. Conservative campaign director under fire for anti-Islam posts",
+    "summary": "<img alt=\"a woman takes a selfie\" height=\"349\" src=\"https://i.cbc.ca/ais/06c2975b-9555-486c-bbdd-012ef26e6e92,1791681306937/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C58%2C400%2C225%29%3B\" title=\"Katy Merrifield, campaign director of the B.C. Conservative party, is facing criticism for anti-Islamic posts on social media.\" width=\"620\" /><p>The campaign director for the B.C. Conservatives is facing criticism over anti-Islam posts she shared on social media earlier this year, just days after the party fired another candidate over his own offensive posts.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "Arden McLeod"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:43:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/trump-administration/trump-announces-katie-bailey-lead-white-house-outreach-congress-rcna602727",
+    "source": "NBC News",
+    "title": "Trump announces Katie Bailey to lead White House outreach to Congress",
+    "summary": "President Donald Trump on Saturday named Katie Bailey to lead the White House\u2019s Office of Legislative Affairs, appointing her to be the liaison between the administration and Congress.",
+    "byline_count": 1,
+    "author_names": [
+      "Raquel Coronell Uribe"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:15:48+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3370460/new-hk122-million-lifeguard-outsourcing-contract-sparks-public-spending-concerns?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "New HK$122 million lifeguard outsourcing contract sparks public spending concerns",
+    "summary": "A controversial decision by Hong Kong authorities to award a lifeguard and first aid services contract worth more than HK$122 million (US$15.6 million) to a company previously found to have failed to provide the required staffing at swimming pools has sparked concerns over whether public funds are being used prudently.\nThe Leisure and Cultural Services Department on Saturday defended the decision, saying it was satisfied with Spotlight Enterprises\u2019 performance over the past two years and that it...",
+    "byline_count": 1,
+    "author_names": [
+      "Emily Hung"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:30:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/opinion/china-opinion/article/3370174/hangzhou-doubling-down-tech-minus-viral-hype?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Hangzhou is doubling down on tech \u2013 minus the viral hype",
+    "summary": "A year ago, a Unitree robot kickboxing could light up social media. When DeepSeek released its latest open-source artificial intelligence (AI) model, developers around the world rushed to test it.\nThis year, however, Hangzhou\u2019s latest technology bets have barely made a ripple. The city\u2019s \u201cNew Eight Steeds\u201d \u2013 eight deep-tech companies in fields ranging from smart glasses and inference graphic processing units (GPUs) to compute-in-memory chips and space computing \u2013 are a very different proposition...",
+    "byline_count": 1,
+    "author_names": [
+      "Ni Tao"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:30:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/education/article/3370458/more-support-needed-ethnic-minority-children-special-needs-charity-says?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "More support needed for ethnic minority children with special needs, charity says",
+    "summary": "A non-profit children\u2019s education organisation in Hong Kong has urged the government to expand support services for preschool-aged ethnic minority children with special needs to more districts, after a pilot project found that 95 per cent of participants showed improvement.\nHeep Hong Society said on Sunday that many ethnic minority families faced multiple barriers when seeking support for children with special educational needs (SEN), including language difficulties, financial constraints and...",
+    "byline_count": 1,
+    "author_names": [
+      "Connor Mycroft"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:00:18+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbc.ca/news/world/pennsylvania-shooting-dead-9.7377285?cmp=rss",
+    "source": "CBC News",
+    "title": "Children, pregnant woman among 9 dead in Pennsylvania shooting",
+    "summary": "<img alt=\"Armed police in tactical gear are seen in a cordonned off area.\" height=\"349\" src=\"https://i.cbc.ca/ais/0bac4062-9673-49bf-8d41-4dadfcf87f73,1791665607334/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B\" title=\"In this image from video provided by WJET, police gather outside the scene of a shooting in Erie, Pa., on Friday evening, Oct. 9, 2026. (Matt Barnum/WJET via AP)\" width=\"620\" /><p>A shooting in a residential area of Erie, Pa., left nine people dead, including the suspected shooter, and rocked the city. Police said two children and a pregnant woman were among the dead.</p>",
+    "byline_count": 1,
+    "author_names": [
+      "CBC"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T21:16:30+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/news/hong-kong/society/article/3370459/spirit-hong-kong-awards-biotech-firm-eyes-cervical-cancer-test-breakthrough?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Spirit of Hong Kong Awards: biotech firm eyes cervical cancer test breakthrough",
+    "summary": "Hong Kong biotech entrepreneur Ricky Chiu Yin-to is seeking to make cervical cancer screening easier through urine-based HPV testing, using sample-concentration technology developed by his company.\nHis company, Phase Scientific, made its name during the Covid-19 pandemic through its rapid antigen test, Indicaid. The product received US emergency-use authorisation in July 2021, was used in Hong Kong community testing and sold in more than 30 countries.\nAt the start of the pandemic, the firm...",
+    "byline_count": 1,
+    "author_names": [
+      "Jimmy Chow"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:15:05+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/economy/global-economy/article/3370355/could-thai-durian-export-duty-mean-higher-prices-higher-quality-china?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Could Thai durian export duty mean higher prices, higher quality in China?",
+    "summary": "A Thai government proposal to charge export duties on durians, a major cash crop, could raise prices for the fruit in China \u2013 its primary market \u2013 along with the quality, analysts said.\nThailand\u2019s draft bill to establish a fund for research and \u201csustainable\u201d development of the durian sector would include the collection of fees, the government\u2019s public relations department said last month.\nSoutheast Asian media outlets and agricultural publications have tipped the export duty to be as high as 2...",
+    "byline_count": 1,
+    "author_names": [
+      "Ralph Jennings"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T03:00:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scmp.com/week-asia/people/article/3370432/why-warm-welcomes-cant-stop-malaysias-doctor-exodus-borneo?utm_source=rss_feed",
+    "source": "South China Morning Post",
+    "title": "Why warm welcomes can\u2019t stop Malaysia\u2019s doctor exodus from Borneo",
+    "summary": "On Facebook, public hospitals in Malaysia\u2019s Bornean states have been rolling out \u201cSelamat Datang\u201d [welcome] banner posts to embrace medical staff reporting for duty.\nTawau Hospital on Sabah\u2019s east coast recently published a group photograph welcoming newly arrived medical officers. Kinabatangan Hospital posted similar banners hailing arrivals across various departments, while in neighbouring Sarawak, Kapit Hospital accompanied its greeting with a portrait of a newly arrived doctor.\nBut behind...",
+    "byline_count": 1,
+    "author_names": [
+      "Vincent Tan"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:00:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+    "summary": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL&#039;s dominant teams in recent times.",
+    "byline_count": 1,
+    "author_names": [
+      "Manasi Pathak"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T22:43:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
+    "summary": "The ship tried to break through America\u2019s naval blockade of Iranian ports, Central Command says of its first attack in a month",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:45:26+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/news/2026/10/11/ebola-spreads-in-eastern-drc-as-kenya-confirms-imported-case?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Ebola spreads in eastern DRC as Kenya confirms imported case",
+    "summary": "New cases in eastern DRC and a fatal imported infection in Kenya highlight the challenges of containing Ebola.",
+    "byline_count": 1,
+    "author_names": [
+      "Prosper Heri Ngorora"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:23:50+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/nobel-peace-prize-2026-navanethem-navi-pillay-south-africa/",
+    "source": "CBS News",
+    "title": "Nobel Peace Prize awarded to former ICC judge Navi Pillay",
+    "summary": "Nobel Peace Prize 2026 was awarded to Navanethem \"Navi\" Pillay, a former judge on the International Criminal Court, drawing a quick, angry rebuke from Israel.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-09T18:08:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/news/doj-investigating-tv-networks-suspension-press-pool-trump-media-ban/",
+    "source": "CBS News",
+    "title": "DOJ investigating TV networks over suspension of press pool after Trump media ban",
+    "summary": "The Justice Department is investigating whether the major TV networks violated antitrust laws after they briefly suspended the TV press pool system in response to President Trump's decision to ban three news organizations from the White House.",
+    "byline_count": 1,
+    "author_names": [
+      "Faris  Tanyos"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:21:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-reported-latest-attack-on-riyadh-king-khalid-airport-houthis?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Twelve killed, more than 300 injured in Riyadh airport attack",
+    "summary": "Saudi Arabia has confirmed at least 12 people were killed and more than 300 injured after Houthi fighters struck Riyadh.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:02:07+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Global pro-Palestinian protests one year after Gaza \u2018ceasefire\u2019",
+    "summary": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza \u2018ceasefire&#039;.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:11:10+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Man dies after entering tiger enclosure at England wildlife park",
+    "summary": "Emergency services called to the scene after reports of a man entering the tiger enclosure at a UK wildlife park.",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:16:18+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "Trump \u2018may\u2019 join Saudi strikes on Houthis after Riyadh airport attack",
+    "summary": "President Donald Trump says the US \u2018may\u2019 join Saudi strikes against Yemen\u2019s Houthis.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:59:02+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/politics/donald-trump/bracing-midterms-trump-says-will-blamed-republicans-lose-rcna602512",
+    "source": "NBC News",
+    "title": "Bracing for the midterms, Trump says he will be blamed if Republicans lose",
+    "summary": "CLARKSVILLE, Tenn. \u2014 Even as he makes a case that Republicans should win the midterm congressional elections, President Donald Trump is bracing for the fallout should they lose.",
+    "byline_count": 1,
+    "author_names": [
+      "Peter Nicholas"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:31:24+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
+    "source": "Al Jazeera English",
+    "title": "World condemns deadly Houthi attack on Saudi Arabia\u2019s Riyadh airport",
+    "summary": "Trump condemns &#039;terrible&#039; attack and says the US is evaluating whether to join Saudi Arabia&#039;s attacks on the Houthis.",
+    "byline_count": 1,
+    "author_names": [
+      "Al Jazeera Staff"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:12:07+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/video/hundreds-of-thousands-without-power-as-isaias-makes-landfall-kills-at-least-4/",
+    "source": "CBS News",
+    "title": "Hundreds of thousands without power as Isaias makes landfall, kills at least 4",
+    "summary": "Hundreds of thousands of people are without power and dealing with debris cleanup after Isaias made landfall as a Category 2 Hurricane on Friday night. Jason Allen reports, and Grant Gilmore has the forecast.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:05:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nbcnews.com/video/hurricane-isaias-kills-at-least-four-people-as-millions-are-still-under-threat-271395909614",
+    "source": "NBC News",
+    "title": "Hurricane Isaias kills at least four people as millions are still under threat",
+    "summary": "Hurricane Isaias leaves at least four people dead, with millions still facing threats of torrential rains, flooding and tornadoes. The storm left a trail of destruction as it made landfall, with residents picking up the pieces in the aftermath.",
+    "byline_count": 1,
+    "author_names": [
+      "NBC News"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T22:10:40+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.scotusblog.com/2026/10/democratic-candidates-ask-supreme-court-to-leave-in-place-appeals-court-ruling-in-political-ad-r/",
+    "source": "SCOTUSblog",
+    "title": "Democratic candidates ask Supreme Court to leave in place appeals court ruling in political ad rate dispute",
+    "summary": "",
+    "byline_count": 1,
+    "author_names": [
+      "Amy Howe"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:05:04+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/video/watch-shocking-videos-show-the-moment-hurricane-isaias-hit-the-gulf-coast/",
+    "source": "CBS News",
+    "title": "Watch: Shocking videos show the moment Hurricane Isaias hit the Gulf Coast",
+    "summary": "Isaias hit the Gulf Coast as a Category 2 storm on Friday night, leaving behind debris, cutting off power to hundreds of thousands, and killing at least 4 across Florida and Alabama. Videos show the moment it made landfall.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:44:47+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.businessinsider.com/hair-transplant-turkey-woman-hair-loss-wigs-2026-10",
+    "source": "Business Insider",
+    "title": "I couldn't afford a $13,000 hair transplant in the US. So I flew to Turkey and I love the results.",
+    "summary": "Nicole Ethridge was self-conscious about her alopecia. She traveled from the US to Turkey to have a hair transplant. A bride-to-be, she is delighted.",
+    "byline_count": 1,
+    "author_names": [
+      "Jane Ridley"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:39:01+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/video/at-least-12-killed-over-300-injured-after-strike-on-riyadh-airport-saudi-officials-say/",
+    "source": "CBS News",
+    "title": "At least 12 killed, over 300 injured after strike on Riyadh airport, Saudi officials say",
+    "summary": "At least 12 people were killed, and over 300 were injured after a strike at Riyadh's international airport in Saudi Arabia, officials said.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:30:29+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c5x2vnp4jrkdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Why are so many four-year-olds not potty-trained before school?",
+    "summary": "A third of school starters in the West Midlands last year were not toilet-trained, a survey suggests.",
+    "byline_count": 1,
+    "author_names": [
+      "Bridie Adams"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:33:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/video/ukraine-says-it-wont-stop-attacking-russian-oil-resources-amid-diesel-fuel-deal-with-us/",
+    "source": "CBS News",
+    "title": "Ukraine says it won't stop attacking Russian oil resources amid diesel fuel deal with U.S.",
+    "summary": "President Trump is arguing that Ukraine needs a new president as Volodymyr Zelenskyy refuses to halt strikes on Russian oil refineries despite the country's commitment to provide diesel fuel to the U.S. Kamal Afzali has the story.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:14:20+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+    "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+    "byline_count": 1,
+    "author_names": [
+      "Mark Savage"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:31:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/video/101026-cbs-weekend-news/",
+    "source": "CBS News",
+    "title": "10/10: CBS Weekend News",
+    "summary": "Isaias kills at least 4 in Florida, Alabama; Trump hits Tennessee midterms campaign trail.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T22:30:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/video/federal-judge-halts-government-from-deporting-man-shot-by-ice-in-nyc/",
+    "source": "CBS News",
+    "title": "Federal judge halts government from deporting man shot by ICE in NYC",
+    "summary": "A federal judge in New York has ruled to stop the government from deporting a man shot by ICE agents amid widespread protests. Ali Bauman reports.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:19:32+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
+    "summary": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
+    "byline_count": 1,
+    "author_names": [
+      "Hazel Shearing"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:17:03+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/video/chicago-white-sox-fan-pope-leo-on-his-favorite-team-making-the-playoffs/",
+    "source": "CBS News",
+    "title": "Chicago White Sox fan Pope Leo on his favorite team making the playoffs",
+    "summary": "Chicago White Sox superfan Pope Leo was asked if he had anything to do with their playoff \"miracle\" as the team prepares to face Cleveland on Saturday night. Chris Livesay has the story from Rome.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:32:35+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "US justice department investigates TV networks over Trump pool coverage",
+    "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
+    "byline_count": 1,
+    "author_names": [
+      "Madeline Halpert"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:49:17+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/ck3rer7e4rngo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "I was told I had depression for 14 years until I got sectioned - it was bipolar",
+    "summary": "Kimberley Atkinson assumed her symptoms were depression until her behaviour started to change dramatically.",
+    "byline_count": 1,
+    "author_names": [
+      "Georgina Hayes"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:40:25+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Bid to overturn ruling which stops police being sued for failings",
+    "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
+    "byline_count": 1,
+    "author_names": [
+      "Daniel De Simone"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:04:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/cw5yn710m8d7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "'Tiger attack horror' and Trump tells Zelensky 'time to go'",
+    "summary": "The majority of the papers on Sunday are dominated by a man who was attacked by a tiger at a wildlife park near Doncaster.",
+    "byline_count": 1,
+    "author_names": [
+      "BBC News"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:45:45+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+    "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+    "byline_count": 1,
+    "author_names": [
+      "Gavin Butler and BBC Burmese "
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T22:13:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "UK launch flood taskforce to prepare for extreme winter weather",
+    "summary": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding.",
+    "byline_count": 1,
+    "author_names": [
+      "Tabby Wilson"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:44:37+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC News",
+    "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
+    "summary": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
+    "byline_count": 1,
+    "author_names": [
+      "Ros Atkins"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:18:16+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+    "source": "NPR",
+    "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+    "summary": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian, a Syrian and a Sudanese. It said some of those injured were in critical condition. The attack \u2014 the latest of several in the past week on King Khalid International Airport \u2014 is expected to increase Saudi pressure on allies including the United States to provide military support for the kingdom.",
+    "byline_count": 1,
+    "author_names": [
+      "The Associated Press"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:44:15+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
+    "source": "The Guardian US",
+    "title": "Five people shot and killed in apparent murder-suicide, Georgia police say",
+    "summary": "<p>Deceased were all members of the same family, officials say, and one of victims placed the initial emergency call</p><p>Five people were shot and killed in an apparent murder-suicide at a residence in <a href=\"https://www.theguardian.com/us-news/state-of-georgia\">Georgia</a> on Friday, authorities say.</p><p>The deceased were family members who lived at the home in Douglas, a city in south Georgia.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Uwa Ede-Osifo"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:01:55+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/sport/2026/oct/10/oklahoma-texas-red-river-rivalry-arch-manning-upset",
+    "source": "The Guardian US",
+    "title": "Oklahoma stun No 1 Texas as Sandell\u2019s last-second kick seals Red River upset",
+    "summary": "<ul><li><p>Sandell\u2019s 47-yard kick seals 27-24 upset in Dallas</p></li><li><p>Sooners overcome offensive struggles to stun Texas</p></li><li><p>Manning throws three TDs but two costly picks</p></li></ul><p>Tate Sandell kicked a 47-yard field goal on the final play and Oklahoma overcame their continued offensive ineptness with touchdowns on special teams and defense in a 27-24 win over No 1 Texas in the Red River rivalry game on Saturday.</p><p>The Sooners (3-2, 1-1 Southeastern Conference) beat a No 1 team for the first time since a 38-17 win over Missouri in 2007. They had been 0-4-1 when facing a top-ranked Texas team.</p> <a href=\"https://www.theguardian.com/sport/2026/oct/10/oklahoma-texas-red-river-rivalry-arch-manning-upset\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Guardian staff reporter"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:52:22+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+    "source": "The Guardian US",
+    "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+    "summary": "<p>Newly established commission identifies 17 catastrophic threats to human health but says \u2018realistic route to act\u2019 on each exists</p><p>Humans could become extinct by the year 2100 due to malicious use of AI or nuclear conflict, according to a new global risk assessment.</p><p>They top a list of 17 major threats to human health over the next 75 years, which also includes cuts to aid spending by wealthy countries, the climate crisis and childhood malnutrition.</p> <a href=\"https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment\">Continue reading...</a>",
+    "byline_count": 1,
+    "author_names": [
+      "Kat Lay"
+    ],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:01:09+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/video/hollywood-economy-suffering-as-film-jobs-lost-production-money-moved-out-of-state/",
+    "source": "CBS News",
+    "title": "Hollywood economy suffering as film jobs lost, production money moved out of state",
+    "summary": "The entertainment economy in Hollywood is struggling as studios lose jobs to industry consolidation and film producers look outside California. Akiko Fujita has more.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:25:08+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.cbsnews.com/video/trump-hits-campaign-trail-in-tennessee-with-midterms-voting-less-than-3-weeks-away/",
+    "source": "CBS News",
+    "title": "Trump hits campaign trail in Tennessee with midterms voting less than 3 weeks away",
+    "summary": "President Trump campaigned for Republican candidates in Tennessee on Saturday as the GOP faces a rough forecast with midterms less than three weeks away. Taurean Small has more.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T01:08:00+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-rally-tennessee-public-execution.html",
+    "source": "NYT",
+    "title": "\u2018Not Pleasant\u2019 but \u2018Necessary\u2019: Support at Trump Rally for Public Execution",
+    "summary": "A sample of people at the president\u2019s midterm stump speech in Tennessee defended the Pentagon\u2019s announcement that it would livestream the execution of a mass shooter.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:11:51+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/10/10/opinion/abolish-fraternity-cornell-american.html",
+    "source": "NYT",
+    "title": "Abolish Frats",
+    "summary": "As undergraduates, we led a movement to abolish fraternities and sororities. Our story shows how challenging it is.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T15:07:53+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/doj-probes-tv-networks-over-white-house-coverage-decisions",
+    "source": "Bloomberg",
+    "title": "DOJ Probes TV Networks Over White House Coverage Decisions",
+    "summary": "The Justice Department said it is investigating five television networks that stopped providing pooled coverage of President Donald Trump\u2019s appearances after the White House barred several news organizations from access.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T00:38:21+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
+    "source": "The Hill",
+    "title": "GOP lawmakers reject U.S.-Russia diesel deal, Trump\u2019s Zelensky comments",
+    "summary": "Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump&#8217;s suggestion\u00a0that Ukraine needed a new leader. When asked about the deal, Sen. John Kennedy (R-La.) said on Friday he supported the president\u2019s decision but he doesn\u2019t \u201csupport his decision to import it from Putin. Vladimir Putin is a butcher. He&#8217;s a&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:09:54+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/campaign/6140976-trump-rallies-montana-arizona/",
+    "source": "The Hill",
+    "title": "Trump continues red state campaign swing with Montana, Arizona rallies next week",
+    "summary": "President Trump will continue his red state campaign swing with recently announced\u00a0rallies in Montana and Arizona slated for this week with important races in each state just under a month away. The Arizona rally is tentatively planned to be hosted at Laughlin Bullhead International Airport in Bullhead City \u2013 a town near the Nevada border&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:42:36+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://thehill.com/homenews/administration/6140915-trump-reviews-hasan-execution-plan/",
+    "source": "The Hill",
+    "title": "Trump says he will \u2018ultimately make decision\u2019 on Fort Hood shooter execution livestream",
+    "summary": "President Trump said he will \u201cmake a decision ultimately\u201d on whether to livestream the execution by firing squad of convicted Fort Hood shooter Nidal Hasan following GOP backlash. \u201cHe\u2019s a vicious killer, killed 13 people in cold blood, wounded over 20. Some of those people will never have their lives back in a true sense,\u201d&#8230;",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-10T23:59:18+00:00",
+    "is_new": true
+  },
+  {
+    "link": "https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html",
+    "source": "NYT",
+    "title": "A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later",
+    "summary": "Senator Roger Marshall, a Kansas Republican in a difficult race, paid an old campaign debt for cookies, muffins and brownies after a baker\u2019s story went viral online.",
+    "byline_count": 1,
+    "author_names": [],
+    "total_score": 0,
+    "matched_categories": [],
+    "first_seen_at": "2026-10-11T03:02:40.797057+00:00",
+    "published_parsed": "2026-10-11T02:33:35+00:00",
+    "is_new": true
+  },
+  {
     "link": "https://variety.com/2026/film/reviews/tenzing-review-tom-hiddelston-mount-everest-1236907307/",
     "source": "Variety",
     "title": "\u2018Tenzing\u2019 Review: A Remarkable Adventure That Puts the Audience Right Up on Mount Everest, Along with the First Two Men \u2014 One a Sherpa, Overlooked by History \u2014 to Scale It",
@@ -4228,7 +5787,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:52:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/awards/project-hail-mary-daniel-pemberton-kpop-demon-hunters-ejae-1236907618/",
@@ -4243,7 +5802,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:40:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/news/matthew-lillard-thought-scream-was-lame-nobody-would-see-it-1236907741/",
@@ -4258,7 +5817,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:54:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/box-office-other-mommy-social-reckoning-1237151001/",
@@ -4273,7 +5832,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/news/other-mommy-arabella-olivia-jessica-chastain-mckenna-grace-1236907732/",
@@ -4288,7 +5847,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:32:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/news/joseph-gordon-levitt-a-i-worries-decline-of-democracy-1236907684/",
@@ -4303,7 +5862,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:53:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/tv/news/starfleet-academy-season-2-bill-nighy-rosemarie-dewitt-1236907534/",
@@ -4318,7 +5877,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:15:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
@@ -4333,7 +5892,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:46:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/mayfair-witches-coven-season-3-premiere-date-1237154033/",
@@ -4348,7 +5907,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:29:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/barry-manilow-vegas-cancellation-1237154059/",
@@ -4363,7 +5922,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:48:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/andy-allo-cast-the-rookie-north-1237154029/",
@@ -4378,7 +5937,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:15:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/star-trek-starfleet-academy-season-2-release-date-photos-1237153757/",
@@ -4393,7 +5952,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:15:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/tv/news/naruto-new-anime-series-shadow-rising-manga-1236907767/",
@@ -4408,7 +5967,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:08:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/reviews/ibuku-review-1236907736/",
@@ -4423,7 +5982,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:02:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/jimmy-kimmel-mourns-costume-designer-rodney-munoz-death-60-1237154094/",
@@ -4438,7 +5997,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:56:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/snl-uk-cold-open-prince-william-prince-harry-1237154086/",
@@ -4453,7 +6012,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:35:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://deadline.com/2026/10/catherine-zeta-jones-comments-ai-prefers-real-people-1237154109/",
@@ -4468,7 +6027,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:45:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/shopping/news/how-to-watch-floyd-schofield-vs-lucas-bahdi-boxing-live-online-1236904664/",
@@ -4483,7 +6042,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/first-test-south-africa-australia-day-two-analysis/107251990",
@@ -4498,7 +6057,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:44:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/10/celebrity-news/pretty-little-liars-star-keegan-allen-reveals-stitches-following-armed-robbery-in-la/",
@@ -4513,7 +6072,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:56:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/10/entertainment/9-1-1-star-oliver-stark-and-3-others-injured-on-set/",
@@ -4528,7 +6087,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:41:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/10/celebrity-news/kelly-clarkson-slams-brooklyn-store-for-treating-her-like-julia-roberts-pretty-woman-character/",
@@ -4543,7 +6102,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:38:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/10/parents/bre-tiesi-threatens-to-leave-nick-cannon-if-he-fathers-another-child/",
@@ -4558,7 +6117,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:42:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/10/celebrity-news/heidi-klum-ditches-top-shows-off-black-thong-while-sunbathing-poolside-in-la/",
@@ -4573,7 +6132,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:12:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://pagesix.com/2026/10/10/parents/olivia-culpo-gives-birth-to-second-baby-with-husband-christian-mccaffrey/",
@@ -4588,7 +6147,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:50:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-trump-selenskij-neuer-anfuehrer-saporischschja-li.3549696",
@@ -4601,7 +6160,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:26:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/donald-trump-blames-volodymyr-zelensky-for-high-diesel-prices/",
@@ -4616,7 +6175,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:22:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/ole-miss-students-causes-of-death-revealed/",
@@ -4631,7 +6190,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:27:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/politik/trump-selenskij-usa-ukraine-russland-diesel-li.3561607",
@@ -4646,7 +6205,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:31:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/bayern/gruene-bayern-parteitag-landshut-katharina-schulze-afd-li.3558711",
@@ -4661,7 +6220,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:58:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/victorian-election-mineral-royalties-technical-colleges/107251274",
@@ -4676,7 +6235,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:19:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/south-melbourne-stun-victory-to-claim-australia-cup/107251996",
@@ -4689,7 +6248,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:41:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/woah-vicky-says-her-mom-carla-has-been-found/",
@@ -4704,7 +6263,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:07:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.sueddeutsche.de/sport/dfb-frauen-australien-koessler-zicai-wueck-laenderspiel-fussball-wm-li.3561365",
@@ -4719,7 +6278,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T13:13:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/man-mauled-to-death-by-tiger-after-jumping-into-zoo-enclosure/",
@@ -4734,7 +6293,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:40:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/barbie-fans-upset-over-alleged-nazi-salute-packaging/",
@@ -4749,7 +6308,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:32:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/keegan-allen-shows-stitches-after-robbery-attack/",
@@ -4764,7 +6323,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:18:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/cindy-crawford-and-rande-gerber-hold-hands/",
@@ -4779,7 +6338,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:50:16+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/celebs-dressed-in-disney-costumes/",
@@ -4794,7 +6353,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:00:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/hurricane-isaias-kills-four/107252334",
@@ -4809,7 +6368,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:30:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/oliver-stark-suffers-broken-ankle-on-9-1-1-set/",
@@ -4824,7 +6383,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:00:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/man-killed-by-tiger-at-uk-zoo/107252578",
@@ -4839,7 +6398,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:06:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/kim-kardashian-supports-lewis-hamilton-at-singapore-grand-prix/",
@@ -4854,7 +6413,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:09:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/2-angry-men-podcast-cornell-jane-doe/",
@@ -4869,7 +6428,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:00:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.tmz.com/2026/10/10/olivia-culpo-gives-birth-to-second-baby-with-christian-mccaffrey/",
@@ -4884,7 +6443,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:49:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/kgari-fraser-island-horses-featured-in-short-wartime-film-qld/107244022",
@@ -4899,7 +6458,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:26:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/suns-stamp-aflw-top-four-credentials-as-crows-rebound/107252690",
@@ -4912,7 +6471,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:33:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/nsw-small-businesses-look-at-how-to-cover-merchant-fees/107248710",
@@ -4927,7 +6486,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:27:24+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/calls-for-government-to-help-foster-children-for-independence/107248498",
@@ -4942,7 +6501,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:40:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/trump-blames-zelenskyy-for-rising-diesel-prices-in-the-us/107252632",
@@ -4955,7 +6514,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:09:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/cockroach-party-india-protesters-against-modi-vow-to-return/107252114",
@@ -4970,7 +6529,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:11:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/entertainment-arts/business/story/2026-10-06/family-behind-the-bold-beautiful-is-trying-out-microdramas",
@@ -4985,7 +6544,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-06T15:19:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/angus-taylor-came-to-cpac-but-it-was-pauline-hansons-crowd/107251940",
@@ -5000,7 +6559,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:48:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/tasmanians-expressed-doubts-firmus-now-investors-have-too/107247550",
@@ -5015,7 +6574,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:21:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/christa-pike-back-in-prison-after-botched-execution/107252594",
@@ -5028,7 +6587,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:31:57+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/yissa-closure-darwin-women-and-children-safety-concerns/107245024",
@@ -5043,7 +6602,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:28:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/brolga-study-genetic-differences-victoria-climate-change/107207286",
@@ -5058,7 +6617,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:54:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/love-story-chanelle-jed-meet-cute-golf-vision-impairment/107233342",
@@ -5071,7 +6630,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T23:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/sports/lakers/story/2026-10-10/lakers-still-waiting-for-preseason-debuts-walker-kessler-collin-sexton",
@@ -5086,7 +6645,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:11:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/lifestyle/image/story/2026-10-10/what-is-luxury-to-fashion-buyers",
@@ -5101,7 +6660,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:44:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/qld-urban-heat-hazard-planning-health-risks/107175790",
@@ -5116,7 +6675,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:20:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/sports/rams/story/2026-10-10/rams-myles-garrett-not-return-practice-injured-reserve",
@@ -5131,7 +6690,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:47:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/jenny-woodward-clarions-outstanding-contribution-award/107229930",
@@ -5146,7 +6705,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:16:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/california/story/2026-10-10/la-homeless-agency-meeting-canceled-after-voter-turnout-surge",
@@ -5161,7 +6720,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:43:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/machete-bin-cost-freedom-of-information-victoria/107239334",
@@ -5176,7 +6735,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:49:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.latimes.com/sports/dodgers/story/2026-10-10/dodgers-brewers-nlcs-might-have-been-decided-in-august",
@@ -5191,7 +6750,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:53:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/tiny-fijian-bee-discovered-on-brink-of-extinction/107243478",
@@ -5206,7 +6765,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T23:02:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/teen-hospitalised-burns-springvale-restaurant-fire/107252668",
@@ -5219,7 +6778,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:31:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.abc.net.au/news/2026-10-11/bathurst-1000-live-supercars-mount-panorama/107232640",
@@ -5232,7 +6791,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T23:01:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/the-legacy-of-mike-ditka-chicago-bears-icon/",
@@ -5245,7 +6804,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:46:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/101026-cbs-saturday-morning/",
@@ -5258,7 +6817,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T13:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/world/ai-agents-false-homicide-tip-anthropic-claude-9.7377169?cmp=rss",
@@ -5273,7 +6832,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:33:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/entertainment/social-reckoning-review-9.7375073?cmp=rss",
@@ -5288,7 +6847,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-09T08:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/politics/stelco-says-layoffs-still-happening-9.7377220?cmp=rss",
@@ -5303,7 +6862,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2025-12-01T23:01:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/world/outlaw-ocean-fishmeal-9.7312543?cmp=rss",
@@ -5318,7 +6877,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:31:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/russia-central-asia/article/3370462/trump-demands-ukraine-get-new-president-lashes-out-zelensky?utm_source=rss_feed",
@@ -5333,7 +6892,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:31:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/tulsa-king-star-garrett-hedlund-talks-season-4/",
@@ -5346,7 +6905,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:50:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/world/hurricane-simon-mexico-9.7377259?cmp=rss",
@@ -5361,7 +6920,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:54:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3370463/isaias-kills-4-us-leaves-670000-without-power?utm_source=rss_feed",
@@ -5376,7 +6935,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:29:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/video/secret-service-director-warns-of-unprecedented-threats/",
@@ -5389,7 +6948,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:01:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/opinion/asia-opinion/article/3369950/ai-indias-choice-neednt-be-between-us-leash-or-chinese-hook?utm_source=rss_feed",
@@ -5404,7 +6963,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:30:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/world/riyadh-airport-blast-9.7377189?cmp=rss",
@@ -5419,7 +6978,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:13:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbc.ca/news/canada/calgary/separatists-react-danielle-smith-interview-cbc-news-second-referendum-9.7377277?cmp=rss",
@@ -5434,7 +6993,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-09T14:23:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/china/politics/article/3370434/how-museum-masterpieces-life-size-replica-sparked-rare-us-china-collaboration?utm_source=rss_feed",
@@ -5449,7 +7008,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:00:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
@@ -5462,7 +7021,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:50:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.scmp.com/news/world/united-states-canada/article/3370464/9-dead-including-children-and-pregnant-woman-shooting-erie-pennsylvania?utm_source=rss_feed",
@@ -5477,7 +7036,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:25:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
@@ -5490,7 +7049,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:44:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
@@ -5503,7 +7062,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:44:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
@@ -5516,7 +7075,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:44:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
@@ -5529,7 +7088,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:44:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
@@ -5542,7 +7101,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:44:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
@@ -5555,7 +7114,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:44:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
@@ -5568,7 +7127,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:18:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
@@ -5581,7 +7140,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:44:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
@@ -5596,7 +7155,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:38:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
@@ -5609,7 +7168,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:48:45+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
@@ -5622,7 +7181,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:14:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
@@ -5635,7 +7194,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:37:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
@@ -5650,7 +7209,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:08:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
@@ -5663,7 +7222,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:50:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
@@ -5676,7 +7235,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:38:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
@@ -5689,7 +7248,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:26:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
@@ -5702,7 +7261,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:49:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
@@ -5715,7 +7274,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:47:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
@@ -5728,7 +7287,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:23:26+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
@@ -5743,7 +7302,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:32:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal?traffic_source=rss",
@@ -5756,7 +7315,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:26:22+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
@@ -5769,7 +7328,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:59:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nbcnews.com/now/video/hurricane-isaias-leaves-at-least-two-people-dead-271390277531",
@@ -5784,7 +7343,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:20:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
@@ -5797,7 +7356,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:02:49+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
@@ -5810,7 +7369,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:14:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-oct-11-2026/",
@@ -5825,7 +7384,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:04:52+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
@@ -5840,7 +7399,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:59:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
@@ -5853,7 +7412,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:30:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
@@ -5866,7 +7425,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:37:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
@@ -5879,7 +7438,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:10:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
@@ -5892,7 +7451,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:43:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/riyadh-saudi-airport-attack-deaths-injuries/",
@@ -5905,7 +7464,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:58:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
@@ -5918,7 +7477,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:40:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
@@ -5933,7 +7492,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:12:25+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
@@ -5948,7 +7507,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:12:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
@@ -5961,7 +7520,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:10:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cbsnews.com/news/yorkshire-wildlife-park-tiger-enclosure-attack/",
@@ -5974,7 +7533,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:35:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/10/ship-captains-crews-strait-of-hormuz-danger-mercenaries-tankers-freight-rates/",
@@ -5989,7 +7548,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:41:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/rio-court-confirms-flavio-bolsonaro-allys-first-round-victory/",
@@ -6002,7 +7561,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:20:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
@@ -6017,7 +7576,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:34:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/simon-strengthens-into-a-category-4-hurricane-as-it-approaches-mexicos-coast/",
@@ -6030,7 +7589,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:52:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/10/christa-pike-discharge-hospital-prison-lethal-injection-execution/",
@@ -6045,7 +7604,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:06:59+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/10/baby-boomer-vs-gen-z-france-debt-crisis-bond-yields-pension-costs-education-cuts-student-protests/",
@@ -6060,7 +7619,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:32:43+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://fortune.com/2026/10/10/us-debt-gdp-growth-cbo-scott-bessent-deficit-bond-yields-interest-rates/",
@@ -6075,7 +7634,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:54:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
@@ -6090,7 +7649,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T23:01:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/mahmoud-abbas-postpones-palestinian-legislative-elections-another-year/",
@@ -6103,7 +7662,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:56:47+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/trumps-medicaid-cuts-strip-refugees-and-other-legal-immigrants-of-their-health-coverage/",
@@ -6116,7 +7675,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:21:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.courthousenews.com/un-human-rights-office-slams-racist-abuse-of-coco-gauff-and-calls-for-solidarity-to-help-fight-it/",
@@ -6129,7 +7688,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:32:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.washingtonpost.com/politics/2026/10/10/trump-suggests-ocean-americas-new-name-atlantic-or-pacific/",
@@ -6142,7 +7701,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:49:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.washingtonpost.com/nation/2026/10/10/8-dead-mass-shooting-erie-pennsylvania-authorities-say/",
@@ -6155,7 +7714,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:29:21+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.washingtonpost.com/politics/2026/10/10/trump-says-ukraine-should-get-new-president-after-us-russia-diesel-deal/",
@@ -6168,7 +7727,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:22:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.washingtonpost.com/politics/2026/10/10/trump-make-decision-hegseth-plan-live-streamed-public-execution/",
@@ -6181,7 +7740,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:39:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/10/10/de-extincting-dire-wolves-woolly-mammoths-help-humans.html",
@@ -6196,7 +7755,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T14:00:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://abcnews.com/International/wireStory/man-attacked-tiger-after-entering-enclosure-wildlife-park-137161794",
@@ -6211,7 +7770,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:42:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/formula1/articles/cmn4ezn5ep3jo?at_medium=RSS&at_campaign=rss",
@@ -6226,7 +7785,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:46:36+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
@@ -6241,7 +7800,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:28:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
@@ -6256,7 +7815,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:22:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
@@ -6269,7 +7828,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:19:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/c5rmy790nd00o?at_medium=RSS&at_campaign=rss",
@@ -6284,7 +7843,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:37:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/articles/cw3dj5yx4ej2o?at_medium=RSS&at_campaign=rss",
@@ -6299,7 +7858,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:09:37+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
@@ -6314,7 +7873,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:59:28+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/football/articles/c62e9g09e781o?at_medium=RSS&at_campaign=rss",
@@ -6329,7 +7888,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:54:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cmn4ev4llwpno?at_medium=RSS&at_campaign=rss",
@@ -6344,7 +7903,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:51:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
@@ -6359,7 +7918,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:02:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm237zey5rgo?at_medium=RSS&at_campaign=rss",
@@ -6374,7 +7933,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:07:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo?at_medium=RSS&at_campaign=rss",
@@ -6389,7 +7948,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:58:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
@@ -6404,7 +7963,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:17:12+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
@@ -6419,7 +7978,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:36:44+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
@@ -6434,7 +7993,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:10:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
@@ -6449,7 +8008,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:40:58+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
@@ -6464,7 +8023,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:14:03+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
@@ -6479,7 +8038,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:15:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/trump-suggests-ukraine-needs-a-new-president-blasting-zelenskyy",
@@ -6492,7 +8051,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:43:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
@@ -6507,7 +8066,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:32:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/saudi-arabia-suspends-operations-at-riyadh-airport-after-attack",
@@ -6520,7 +8079,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T16:47:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/moved-family-to-new-york-city-from-australia-regrets-benefits-2026-10",
@@ -6535,7 +8094,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:13:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/returned-hometown-raising-children-family-support-2026-10",
@@ -6550,7 +8109,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:14:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
@@ -6565,7 +8124,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
@@ -6580,7 +8139,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:50:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
@@ -6595,7 +8154,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:05:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures",
@@ -6610,7 +8169,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T23:00:10+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/opinion/technology/6139168-ai-risks-high-tech-feudalism/",
@@ -6623,7 +8182,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/policy/international/6140669-pope-decries-death-penalty/",
@@ -6636,7 +8195,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:37:50+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/tv-and-radio/2026/oct/11/parents-fear-youtubers-are-bringing-brain-rot-to-netflix-but-are-kids-wising-up-to-slop",
@@ -6651,7 +8210,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:00:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/opinion/congress-blog/labor/6139141-epa-union-contract-lawsuit/",
@@ -6664,7 +8223,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego",
@@ -6679,7 +8238,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-08T22:25:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/administration/6140694-trump-defends-russian-diesel-deal/",
@@ -6692,7 +8251,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:26:04+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/opinion/criminal-justice/6139594-congress-clean-slate-act/",
@@ -6705,7 +8264,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
@@ -6720,7 +8279,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-08T17:04:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/australia-news/2026/oct/11/out-of-the-rubble-and-on-to-the-beach-gazas-junior-surf-lifesavers-return-to-the-waves-after-three-years-of-war",
@@ -6735,7 +8294,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:00:06+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/policy/technology/6140747-anthropic-ai-false-homicide-tip/",
@@ -6748,7 +8307,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:31:19+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/sunday-talk-shows/6140761-trump-russian-deal-executions-sunday-shows/",
@@ -6761,7 +8320,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:50:27+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/thefilter-us/2026/oct/10/venta-humidifier-review",
@@ -6776,7 +8335,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:15:02+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights",
@@ -6791,7 +8350,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:30:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/house/6140039-mike-johnson-political-future-midterms/",
@@ -6804,7 +8363,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:00:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/sport/2026/oct/10/giro-di-lombardia-cycling-safety-protest-evenepoel",
@@ -6819,7 +8378,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T15:33:14+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/football/2026/oct/10/uswnt-spain-match-report-washington-dc",
@@ -6834,7 +8393,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:53:53+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/policy/defense/6140821-pentagon-updates-iran-death-tally/",
@@ -6847,7 +8406,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:59:35+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/policy/healthcare/6140802-us-measles-cases-surpass-4000-pennsylvania/",
@@ -6860,7 +8419,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:41:01+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://thehill.com/homenews/house/6140830-fitzpatrick-bill-block-russian-oil/",
@@ -6873,7 +8432,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:02:33+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
@@ -6888,7 +8447,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:47:51+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
@@ -6903,7 +8462,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:08:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/lifeandstyle/2026/oct/11/the-moment-i-knew-he-wore-a-tutu-to-make-my-siblings-laugh",
@@ -6918,7 +8477,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:00:08+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/world/2026/oct/10/man-suffers-serious-injury-after-jumping-into-zoo-tiger-enclosure",
@@ -6933,7 +8492,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:13:31+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/football/2026/oct/10/why-premier-league-in-clutches-of-global-mega-rich",
@@ -6948,7 +8507,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:00:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/oct/10/cottonwood-tree-toppling-trump-mexico-border-wall-arizona",
@@ -6963,7 +8522,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:57:32+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/culture/2026/oct/11/juliet-stevenson-interview-10-chaotic-questions",
@@ -6978,7 +8537,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:00:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty",
@@ -6993,7 +8552,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:03:30+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/oct/08/california-prop-39-voter-id-law-billionaires",
@@ -7008,7 +8567,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-08T18:39:55+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/environment/2026/oct/08/how-california-is-bracing-for-a-winter-of-floods-fires-and-extreme-storms-all-at-once",
@@ -7023,7 +8582,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-09T06:00:40+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/oct/10/philadelphia-police-officer-killed",
@@ -7038,7 +8597,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:12:34+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theguardian.com/us-news/2026/oct/10/christa-pike-discharged-back-in-prison",
@@ -7053,7 +8612,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:10:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.semafor.com/article/10/11/2026/attacks-on-riyadh-threaten-saudi-confidence",
@@ -7068,7 +8627,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T21:42:46+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.theatlantic.com/ideas/2026/10/trumps-diesel-deal-sells-out-ukraine/688964/?utm_source=feed",
@@ -7081,7 +8640,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T18:14:00+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
@@ -7094,7 +8653,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:44:05+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/style/conor-kennedy-and-giulia-be-married-rio-brazil.html",
@@ -7107,7 +8666,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:40:42+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/09/weather/hurricane-simon-rachel-california.html",
@@ -7120,7 +8679,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:17:48+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-nobel-peace-prize-norway-navi-pillay.html",
@@ -7133,7 +8692,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:11:09+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/opinion/joseph-gordon-levitt-united-nations-ai.html",
@@ -7146,7 +8705,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T15:06:07+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html",
@@ -7159,7 +8718,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:28:54+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html",
@@ -7172,7 +8731,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:48:20+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/opinion/child-marriage-legal-us.html",
@@ -7185,7 +8744,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T11:04:29+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/us/politics/trump-trees-golf-national-park.html",
@@ -7198,7 +8757,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T17:38:39+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/nyregion/at-cornell-a-sorority-finds-itself-sued-by-one-of-its-own.html",
@@ -7211,7 +8770,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T07:00:13+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/nyregion/cornell-rape-lawsuit-fraternity-brothers.html",
@@ -7224,7 +8783,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T19:37:38+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/us/hurricane-isaias-florida-damage-four-killed.html",
@@ -7237,7 +8796,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:32:17+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html",
@@ -7250,7 +8809,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T22:33:15+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
@@ -7263,7 +8822,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T23:03:23+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://www.nytimes.com/2026/10/10/science/ketamine-cornell-anesthesia.html",
@@ -7276,7 +8835,7 @@
     "matched_categories": [],
     "first_seen_at": "2026-10-10T23:07:30.642541+00:00",
     "published_parsed": "2026-10-10T20:38:18+00:00",
-    "is_new": true
+    "is_new": false
   },
   {
     "link": "https://variety.com/2026/film/festivals/scarlett-johansson-ray-gunn-world-premiere-london-1236907447/",
