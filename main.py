@@ -299,47 +299,188 @@ def write_json(conn, path="scoop_tracker_output.json", window_hours=72, new_urls
     with open(path, "w") as f:
         json.dump(articles, f, indent=2)
 
-def render_rows(selected, new_urls=frozenset()):
-    """Mobile layout note (2026-07-29): rank + score used to be two separate
-    fixed-width <td> columns (34px + 44px), which on an iPhone-width viewport
-    ate roughly 20% of horizontal space before the headline even started.
-    Both now live in a single .story-head strip above the headline, inside
-    the one content cell, so the full row width goes to the story text."""
-    rows = []
-    for i, a in enumerate(selected, 1):
-        cats = a.get("matched_categories", [])
-        cat_tags = "".join(f'<span class="tag tag-{c}">{c.replace("_"," ")}</span>' for c in cats)
-        byline_note = f'{a["byline_count"]} bylines' if a["byline_count"] > 1 else "1 byline"
-        others = a.get("_cluster_others", [])
-        # "New" if the representative OR any collapsed duplicate was newly
-        # scored this run — a story is new-to-you even if the specific
-        # outlet showing as the representative happened to be seen earlier.
-        is_new = a["link"] in new_urls or any(o["link"] in new_urls for o in others)
-        new_badge = '<span class="badge-new">NEW</span>' if is_new else ''
+def _plain_summary(value, limit=900):
+    """Turn feed-provided HTML into a short, safe plain-text excerpt."""
+    text = _HTML_TAG_RE.sub(" ", str(value or ""))
+    text = html_lib.unescape(text)
+    return re.sub(r"\s+", " ", text).strip()[:limit]
 
-        also_covered_html = ""
-        if others:
-            other_links = ", ".join(
-                f'<a href="{esc(o["link"])}" target="_blank">{esc(o["source"])}</a>'
-                for o in others[:8]
+def _safe_http_url(value):
+    """Only render navigable http(s) links from feed data."""
+    url = str(value or "").strip()
+    return url if url.startswith(("https://", "http://")) else ""
+
+def _display_time(article):
+    ts = _effective_timestamp(article)
+    if ts is None:
+        return "Time not supplied"
+    if ts.tzinfo is None:
+        ts = ts.replace(tzinfo=timezone.utc)
+    return ts.strftime("%b %d · %H:%M UTC")
+
+def _story_is_new(article, new_urls):
+    return article.get("link") in new_urls or any(
+        other.get("link") in new_urls for other in article.get("_cluster_others", [])
+    )
+
+_SIGNAL_EXPLANATIONS = {
+    "headline_label": (
+        "A headline-position label such as “Scoop:”, “Exclusive:” or “First on” "
+        "appears at the start of the headline. This is the outlet's own claim, "
+        "not independent confirmation."
+    ),
+    "exclusivity": (
+        "Exclusivity language appears in the headline, RSS summary or extracted "
+        "article text—for example “exclusive”, “can reveal” or “has obtained”. "
+        "The wording can be self-asserted."
+    ),
+    "sourcing_depth": (
+        "The text contains language associated with deeper sourcing, such as "
+        "people familiar with a matter, anonymous sourcing, documents obtained "
+        "or reviewed, or a declined request for comment. The match does not "
+        "establish the source's quality."
+    ),
+    "primary_source": (
+        "The text references documentary or first-hand material such as court "
+        "filings, FOIA, leaked material, whistleblowers or regulatory filings. "
+        "A mention does not mean the underlying record was independently checked."
+    ),
+    "institutional_record": (
+        "The text references a named institutional record or report, such as "
+        "SEC, DOJ, NTSB, FDA, PACER or an inspector-general report. The match "
+        "does not verify the record."
+    ),
+}
+
+def render_rows(selected, new_urls=frozenset()):
+    """Render one article card per clustered story, with transparent context and local actions."""
+    rows = []
+    for i, article in enumerate(selected, 1):
+        others = article.get("_cluster_others", [])
+        cluster = [article, *others]
+        categories = sorted(set(article.get("matched_categories", [])))
+        tags = " ".join(categories)
+        tag_html = "".join(
+            f'<span class="tag tag-{esc(category)}">{esc(category.replace("_", " "))}</span>'
+            for category in categories
+        )
+
+        is_new = _story_is_new(article, new_urls)
+        new_badge = '<span class="badge-new">NEW</span>' if is_new else ""
+        byline_count = max(int(article.get("byline_count") or 1), 1)
+        byline_bonus = min((byline_count - 1) * 2, 6)
+        byline_label = f"{byline_count} bylines" if byline_count > 1 else "1 byline"
+        authors = article.get("author_names") or []
+        author_label = ", ".join(str(name) for name in authors[:3] if name)
+
+        signal_items = "".join(
+            f'<li><strong>{esc(category.replace("_", " ").title())}.</strong> '
+            f'{esc(_SIGNAL_EXPLANATIONS.get(category, "A scoring marker in this category matched."))}</li>'
+            for category in categories
+        )
+        if byline_bonus:
+            signal_items += (
+                f'<li><strong>Byline credit: +{byline_bonus}.</strong> '
+                f'{byline_label}; the bonus is two points per additional byline, capped at six.</li>'
             )
-            overflow = f" +{len(others) - 8} more" if len(others) > 8 else ""
-            also_covered_html = f'<div class="also-covered">Also covered by: {other_links}{overflow}</div>'
+        elif not categories:
+            signal_items = '<li>No phrase category was recorded; the score reflects the available byline credit.</li>'
+        else:
+            signal_items += '<li><strong>Byline credit: +0.</strong> No additional-byline bonus was applied.</li>'
+
+        summary = _plain_summary(article.get("summary", ""))
+        summary_html = (
+            f'<p class="summary-text">{esc(summary)}</p>'
+            if summary else '<p class="summary-empty">No RSS summary was supplied by this outlet.</p>'
+        )
+
+        story_urls = sorted({
+            url for item in cluster
+            if (url := _safe_http_url(item.get("link")))
+        })
+        sources = sorted({
+            str(item.get("source") or "").strip()
+            for item in cluster if str(item.get("source") or "").strip()
+        })
+        source_json = esc(json.dumps(sources, ensure_ascii=False))
+        urls_json = esc(json.dumps(story_urls, ensure_ascii=False))
+        source_names = " · ".join(sources)
+        coverage_items = []
+        for item in cluster:
+            url = _safe_http_url(item.get("link"))
+            name = esc(item.get("source", "Unknown outlet"))
+            title = esc(item.get("title", "Untitled coverage"))
+            if url:
+                coverage_items.append(
+                    f'<li><a href="{esc(url)}" target="_blank" rel="noopener noreferrer">{name}</a>'
+                    f'<span>{title}</span></li>'
+                )
+            else:
+                coverage_items.append(f'<li><strong>{name}</strong><span>{title}</span></li>')
+        coverage_html = ""
+        if len(cluster) > 1:
+            coverage_html = f"""
+          <details class="coverage-details">
+            <summary>Coverage cluster · {len(cluster)} tracked write-ups</summary>
+            <p class="cluster-caveat">Grouped automatically by similarity between headlines and RSS summaries. This is a research aid, not confirmation that these outlets independently verified the story.</p>
+            <ul class="coverage-list">{''.join(coverage_items)}</ul>
+          </details>"""
+
+        url = _safe_http_url(article.get("link"))
+        title = esc(article.get("title", "Untitled story"))
+        title_html = (
+            f'<a class="story-title" href="{esc(url)}" target="_blank" rel="noopener noreferrer">{title}</a>'
+            if url else f'<span class="story-title">{title}</span>'
+        )
+        score = int(article.get("total_score") or 0)
+        time_epoch = 0
+        ts = _effective_timestamp(article)
+        if ts is not None:
+            if ts.tzinfo is None:
+                ts = ts.replace(tzinfo=timezone.utc)
+            time_epoch = int(ts.timestamp())
+        source = str(article.get("source") or "")
+        meta_parts = [source, _display_time(article), byline_label]
+        if author_label:
+            meta_parts.append(author_label)
+        meta = " · ".join(part for part in meta_parts if part)
 
         rows.append(f"""
-        <tr class="{'is-new' if is_new else ''}">
-          <td class="story">
-            <div class="story-head">
+        <article class="story-card{' is-new' if is_new else ''}" data-story-card
+          data-source="{esc(source)}" data-sources="{source_json}"
+          data-tags="{esc(tags)}" data-new="{str(is_new).lower()}"
+          data-score="{score}" data-time="{time_epoch}" data-story-urls="{urls_json}">
+          <div class="story-topline">
+            <div class="story-rankline">
               <span class="rank">#{i:02d}</span>
-              <span class="score-badge">SCORE {a['total_score']}</span>
+              <span class="score-badge">SCORE {score}</span>
               {new_badge}
+              <span class="cluster-count">{len(cluster)} outlet{'s' if len(cluster) != 1 else ''}</span>
             </div>
-            <a href="{esc(a['link'])}" target="_blank">{esc(a['title'])}</a>
-            <div class="meta">{esc(a['source'])} &middot; {byline_note}{(' &middot; ' + esc(', '.join(a['author_names'][:3]))) if a.get('author_names') else ''}</div>
-            <div class="tags">{cat_tags}</div>
-            {also_covered_html}
-          </td>
-        </tr>""")
+            <div class="story-actions">
+              <button type="button" class="action-button save-button" data-action="save" aria-pressed="false">Save</button>
+              <button type="button" class="action-button dismiss-button" data-action="dismiss">Dismiss</button>
+            </div>
+          </div>
+          {title_html}
+          <div class="meta">{esc(meta)}</div>
+          <div class="tags">{tag_html}</div>
+          <details class="story-context">
+            <summary>Why it surfaced <span>View matched signals and RSS context</span></summary>
+            <div class="context-body">
+              <div class="context-section">
+                <h3>Matched scoring signals</h3>
+                <ul class="signal-explanations">{signal_items}</ul>
+                <p class="score-caution">The displayed score is the sum of matched keyword markers and any byline bonus. Individual marker weights are not stored in the report database, so this explains the category-level matches rather than claiming an exact phrase-by-phrase breakdown.</p>
+              </div>
+              <div class="context-section">
+                <h3>RSS summary</h3>
+                {summary_html}
+              </div>
+            </div>
+          </details>
+          {coverage_html}
+        </article>""")
     return "".join(rows)
 
 def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
@@ -373,12 +514,15 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
         bucket_articles = buckets[key]
         selected = select_for_bucket(bucket_articles, per_source_cap, top_n_per_bucket)
         total_shown += len(selected)
-        total_new_shown += sum(1 for a in selected if a["link"] in new_urls)
+        total_new_shown += sum(1 for a in selected if _story_is_new(a, new_urls))
         rows_html = render_rows(selected, new_urls)
         bucket_sections.append(f"""
-  <section class="bucket">
-    <h2 class="bucket-title">{esc(label)} <span class="bucket-count">({len(selected)} of {len(bucket_articles)} flagged)</span></h2>
-    <table><tbody>{rows_html if rows_html else '<tr><td class="empty">Nothing flagged in this window.</td></tr>'}</tbody></table>
+  <section class="bucket" data-bucket>
+    <div class="bucket-heading">
+      <h2 class="bucket-title">{esc(label)}</h2>
+      <span class="bucket-count" data-bucket-count>{len(selected)} shown · {len(bucket_articles)} available</span>
+    </div>
+    <div class="story-list">{rows_html if rows_html else '<p class="empty">Nothing flagged in this window.</p>'}</div>
   </section>""")
 
     total_in_window = len(db.recent_articles(conn, hours=window_hours, limit=100000))
@@ -392,85 +536,97 @@ def write_html(conn, feed_status, path="scoop_report.html", window_hours=72,
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SCOOP TRACKER — Tier 1 Wire</title>
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime:wght@400;700&display=swap');
-  :root {{
-    --bg: #0f0e0d; --panel: #171513; --line: #332e29; --paper: #e8e2d4;
-    --ink: #cfc8b8; --red: #b6432c; --dim: #7a7368; --gold: #d4a13d;
-  }}
-  * {{ box-sizing: border-box; }}
-  body {{ background: var(--bg); color: var(--paper); font-family: 'Courier Prime', monospace; margin: 0; padding: 24px 16px 60px; }}
-  .wrap {{ max-width: 880px; margin: 0 auto; }}
-  header {{ border-bottom: 3px double var(--red); padding-bottom: 14px; margin-bottom: 18px; }}
-  h1 {{ font-family: 'Bebas Neue', sans-serif; font-size: 44px; letter-spacing: 2px; color: var(--paper); margin: 0; line-height: 0.95; }}
-  h1 span {{ color: var(--red); }}
-  .subhead {{ font-size: 12px; color: var(--dim); letter-spacing: 1px; text-transform: uppercase; margin-top: 6px; }}
-  .stats {{ display: flex; gap: 18px; flex-wrap: wrap; font-size: 12px; color: var(--dim); margin-top: 10px; border-top: 1px solid var(--line); padding-top: 10px; }}
-  .stats b {{ color: var(--paper); }}
-  .score-legend {{ font-size: 11.5px; color: var(--dim); line-height: 1.5; margin-top: 10px; border-top: 1px solid var(--line); padding-top: 10px; }}
-  .score-legend b {{ color: var(--paper); }}
-  table {{ width: 100%; border-collapse: collapse; }}
-  td {{ padding: 12px 8px; vertical-align: top; border-bottom: 1px solid var(--line); }}
-  .story-head {{ display: flex; align-items: center; gap: 8px; margin-bottom: 5px; flex-wrap: wrap; }}
-  .rank {{ font-family: 'Bebas Neue', sans-serif; font-size: 13px; color: var(--dim); }}
-  .score-badge {{ font-size: 10px; letter-spacing: 0.5px; text-transform: uppercase; background: var(--panel); border: 1px solid var(--red); color: var(--red); padding: 2px 7px; border-radius: 2px; }}
-  .story a {{ color: var(--paper); text-decoration: none; font-weight: 700; font-size: 15px; }}
-  .story a:hover {{ color: var(--red); text-decoration: underline; }}
-  .meta {{ color: var(--dim); font-size: 11px; margin-top: 4px; }}
-  .tags {{ margin-top: 6px; }}
-  .tag {{ display: inline-block; font-size: 10px; letter-spacing: 0.5px; text-transform: uppercase; padding: 2px 7px; border-radius: 2px; margin-right: 5px; border: 1px solid var(--line); color: var(--ink); }}
-  .tag-exclusivity {{ border-color: var(--red); color: var(--red); }}
-  .also-covered {{ color: var(--dim); font-size: 11px; margin-top: 6px; }}
-  .also-covered a {{ color: var(--ink); }}
-  tr.is-new {{ background: rgba(212, 161, 61, 0.07); }}
-  .badge-new {{ display: inline-block; background: var(--gold); color: #171513; font-family: 'Bebas Neue', sans-serif; font-size: 11px; letter-spacing: 1px; padding: 2px 6px; border-radius: 2px; vertical-align: middle; }}
-  .bucket {{ margin-top: 26px; }}
-  .bucket-title {{ font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 1px; color: var(--paper); border-bottom: 1px solid var(--line); padding-bottom: 6px; margin: 0 0 4px; }}
-  .bucket-count {{ font-family: 'Courier Prime', monospace; font-size: 11px; color: var(--dim); letter-spacing: 0; text-transform: none; }}
-  .empty {{ color: var(--dim); font-size: 12px; padding: 12px 8px; border-bottom: none; }}
-  details {{ margin-top: 30px; border-top: 1px solid var(--line); padding-top: 14px; }}
-  summary {{ cursor: pointer; color: var(--dim); font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }}
-  .fail {{ color: #6b5a52; }}
-  .ok {{ color: #7a9a7e; }}
-  footer {{ margin-top: 30px; color: var(--dim); font-size: 11px; border-top: 1px solid var(--line); padding-top: 12px; }}
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#12110f">
+<title>Scoop Tracker — Investigative Lead Queue</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courier+Prime:wght@400;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/report.css">
+<script src="assets/report.js" defer></script>
 </head>
 <body>
 <div class="wrap">
-  <header>
+  <header class="masthead">
+    <div class="masthead-top">
+      <span class="eyebrow">Editorial intelligence · Tier 1</span>
+      <span class="generated">Generated {now}</span>
+    </div>
     <h1>SCOOP <span>TRACKER</span></h1>
-    <div class="subhead">Tier 1 Wire &middot; DB-backed, {window_hours}h rolling window &middot; No convergence/citation checks yet</div>
+    <p class="dek">A rolling queue of reporting leads, documentary signals and emerging stories. Built to help you decide what deserves a closer look.</p>
     <div class="stats">
-      <div>Generated <b>{now}</b></div>
-      <div><b>{total_in_window}</b> articles in window</div>
-      <div><b>{total_flagged}</b> flagged (score &gt; 0)</div>
-      <div><b>{total_stories}</b> distinct stories ({total_collapsed} duplicate write-ups collapsed)</div>
-      <div><b>{total_shown}</b> shown (capped at {per_source_cap}/source per time window)</div>
-      <div><b>{total_new_shown}</b> new this run</div>
+      <div class="stat"><b>{total_in_window}</b><span>articles scanned</span></div>
+      <div class="stat"><b>{total_flagged}</b><span>scoring matches</span></div>
+      <div class="stat"><b>{total_stories}</b><span>story clusters</span></div>
+      <div class="stat"><b>{total_collapsed}</b><span>related write-ups grouped</span></div>
+      <div class="stat"><b>{total_shown}</b><span>leads displayed</span></div>
+      <div class="stat"><b>{total_new_shown}</b><span>new this run</span></div>
     </div>
     <div class="score-legend">
-      <b>What the score means:</b> sum of matched structural signals — sourcing-depth
-      language ("people familiar with," "docs obtained by," "a source tells [outlet]"),
-      primary-source language (FOIA, leaked memos, court/custody/divorce filings),
-      institutional-record mentions (SEC/DOJ/PACER, name-change petitions), and
-      headline exclusivity labels ("Scoop:"/"Exclusive:") — plus a capped bonus for
-      extra bylines. It flags candidates worth a human's attention, not verified
-      importance. A high score can still be a fast wire-pickup of someone else's
-      scoop, not the original exclusive — check the tags below each story for which
-      signals matched, and "Also covered by" for other outlets on the same story.
+      <strong>How to read this queue:</strong> scores combine keyword-based structural signals and a capped byline bonus.
+      A high score means “worth a human's attention,” not “verified scoop.” Story clusters use headline and RSS-summary
+      similarity; they are not confirmation of independent reporting. Use the matched-signal notes on each lead to inspect
+      why it appeared.
     </div>
   </header>
-  {''.join(bucket_sections)}
-  <details>
-    <summary>Feed status, this run ({sum(1 for _,s in feed_status if s.startswith('OK'))}/{len(feed_status)} working)</summary>
-    <table style="margin-top:10px;">{feed_rows}</table>
+
+  <section class="triage" aria-label="Story triage controls">
+    <div class="triage-primary">
+      <label class="search-box" for="story-search">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input id="story-search" type="search" placeholder="Search headlines, outlets, authors and summaries…" autocomplete="off">
+        <kbd>/</kbd>
+      </label>
+      <div class="view-switch" role="group" aria-label="Story view">
+        <button type="button" class="view-button is-active" data-view="all" aria-pressed="true">All <span data-view-count="all">{total_shown}</span></button>
+        <button type="button" class="view-button" data-view="new" aria-pressed="false">New <span data-view-count="new">{total_new_shown}</span></button>
+        <button type="button" class="view-button" data-view="saved" aria-pressed="false">Saved <span data-view-count="saved">0</span></button>
+        <button type="button" class="view-button" data-view="dismissed" aria-pressed="false">Dismissed <span data-view-count="dismissed">0</span></button>
+      </div>
+    </div>
+    <div class="triage-secondary">
+      <label class="select-label">Representative outlet
+        <select id="source-filter"><option value="">All outlets</option></select>
+      </label>
+      <label class="select-label">Order
+        <select id="sort-by">
+          <option value="score">Highest score</option>
+          <option value="newest">Newest first</option>
+          <option value="source">Outlet A–Z</option>
+        </select>
+      </label>
+      <button type="button" class="reset-button" id="reset-filters">Reset filters</button>
+    </div>
+    <div class="signal-filter-row">
+      <span class="filter-label">Signal</span>
+      <div class="signal-filters" id="signal-filters" role="group" aria-label="Filter by signal">
+        <button type="button" class="signal-button is-active" data-signal="all" aria-pressed="true">All signals</button>
+        <button type="button" class="signal-button" data-signal="headline_label" aria-pressed="false">Headline label</button>
+        <button type="button" class="signal-button" data-signal="exclusivity" aria-pressed="false">Exclusivity</button>
+        <button type="button" class="signal-button" data-signal="sourcing_depth" aria-pressed="false">Sourcing depth</button>
+        <button type="button" class="signal-button" data-signal="primary_source" aria-pressed="false">Primary source</button>
+        <button type="button" class="signal-button" data-signal="institutional_record" aria-pressed="false">Institutional record</button>
+      </div>
+    </div>
+    <div class="results-line">
+      <span id="results-summary" role="status" aria-live="polite">Showing {total_shown} of {total_shown} leads</span>
+      <span class="local-note">Saved and dismissed choices stay in this browser only.</span>
+    </div>
+  </section>
+
+  <main id="story-results">
+    {''.join(bucket_sections)}
+  </main>
+
+  <details class="feed-status">
+    <summary>Feed status this run · {sum(1 for _,s in feed_status if s.startswith('OK'))}/{len(feed_status)} working</summary>
+    <table><tbody>{feed_rows}</tbody></table>
   </details>
+
   <footer>
-    Tier 1 heuristics only. Rolling {window_hours}-hour window shown; full history accumulates in scoop_tracker.db
-    for future reporter-authority scoring and publishing-pattern baselines. High score = worth a human's attention,
-    not a verified scoop.
+    <div><strong>Scoop Tracker · Tier 1 heuristics</strong></div>
+    <p>Rolling {window_hours}-hour window. The full article-level history remains in the database for future analysis.
+    The ranking and similarity groups are navigation aids, not editorial conclusions or verification.</p>
   </footer>
 </div>
 </body>
